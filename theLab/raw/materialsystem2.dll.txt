@@ -1,0 +1,3523 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@_RDATA
+@.reloc
+|$ ATAVAWH
+ A_A^A\
+L$ SVWH
+SUVWATAUAVAWH
+A_A^A]A\_^][
+|$ ATAVAWH
+UATAUAVAWI
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAWH
+@UATAUAVAWH
+e0A_A^A]A\]
+@USVWAUAWH
+A_A]_^[]
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+@USVWATAVAWH
+9\$0t3L
+A_A^A\_^[]
+@USVWATAUAVH
+A^A]A\_^[]
+@UVAVAWH
+SUVWAVAWH
+Hc^$Lc~
+xA_A^_^][
+\$ UVWH
+@UATAUAVAWH
+e0A_A^A]A\]
+H9^`t*H
+-VUUUDk
+H9~`t4H
+nH-VUUUk
+p WATAUAVAWH
+A_A^A]A\_
+t$0L;t$@
+UVWATAUAVAWH
+L9m@t	H
+pA_A^A]A\_^]
+t$ WAUAVH
+UVWATAUAVAWH
+d$ Lct$$
+~@Lc\$$E3
+A_A^A]A\_^]
+@UAVAWH
+L$ USVWATAUAVAWH
+A_A^A]A\_^[]
+L$ VAUAWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+SUWATAUH
+0A]A\_][
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWAVH
+UVWATAUAVAWH
+PA_A^A]A\_^]
+@USVWAVH
+UWATAUAWH
+A_A]A\_]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@USVWATAUAVAWH
+D$XHcT$@3
+A_A^A]A\_^[]
+@SUWAVH
+H=vmatu6H
+|$0HcL$<I
+|$8-VUUUL
+@UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+ A_A^A]A\_
+\$ UWAVH
+0L9t$Ht
+@UATAUAVH
+A^A]A\]
+@USVWAVH
+@UATAUAVAWH
+A_A^A]A\]
+@UVWATAUAVAWH
+CmdLinkAL
+CmdLinkA
+CmdLinkAH
+CmdLinkAL
+A_A^A]A\_^]
+H9D$@uFI;
+UATAUAVI
+CmdLinkAH
+A^A]A\]
+@USWAVH
+ATAVAWH
+0A_A^A\
+H=vmatuQH
+CmdLinkA
+@UVWAVH
+|$ UATAUAVAWH
+ImageFmtH
+CmdLinkAH
+A_A^A]A\]
+VWATAVAWH
+0A_A^A\_^
+\$PJ9|1
+@UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+D$h;sXu
+A_A^A]A\_^]
+D9{Dv/f
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+USWATAVAWH
+A_A^A\_[]
+t.@87t)
+@USVWATAUAVH
+A^A]A\_^[]
+@UATAUAVAWH
+e0A_A^A]A\]
+t$ WAVAWH
+@SUVWAVAWH
+A_A^_^][
+@SUVWATAVAWH
+A_A^A\_^][
+t$ WATAWH
+@UVWAVAWH
+PA_A^_^]
+@SUVWAVH
+@SUVWAUAVAWH
+A_A^A]_^][
+@SUVWATAUAVAWH
+D$zE;u(u
+A_A^A]A\_^][
+ Hcy E3
+L$ UATAUAVAWH
+A_A^A]A\]
+l$ VWATAVAWH
+A_A^A\_^
+l$ WATAVH
+@SVATAUAVAWH
+d$xIc?H
+A_A^A]A\^[
+@UATAUAVAWH
+e A_A^A]A\]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWAVAWH
+|$0L99u
+@A_A^_^]
+WATAUAVAWH
+ A_A^A]A\_
+@SUVWATAVAWH
+PA_A^A\_^][
+\$ WAVAWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+x0A;EP}*fA;}^w#fA;
+$A*E,A*E4
+A*E,A*E4A*E0
+x)A;EP}#fA;}^w
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+}$@8s8t
+A_A^A]A\_^[]
++C4+C0;
+@SUVWAVH
+X UVAVH
+l$ VWAVH
+Icv8A;vHu
+\$(D9xXu1E3
++F0;F<v
+H9SptTH
+L$ USVATH
+fA9>tfL
+@SVWAVH
+G%9G!u)
+|$ UAVAWH
+@USVWAVAWH
+A_A^_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+@SUWAWH
+@USVWAVAWH
+A_A^_^[]
+WATAUAVAWH
+A_A^A]A\_
+\$ UVWAVAWH
+D9y8~?A
+PA_A^_^]
+A ;A8|!H
+A@D;AX|
+DkD$@4I
+t$ WAVAWH
+t$XHcw8;wHu
+@USVWAVAWH
+A_A^_^[]
+Hcs8;sHu
+\$ WAVAWH
+L9|$xt;
+D9C ~GA
+[ UVWAVAWI
+\$@Hc|$pE
+A_A^_^]
+[ UVWAVAWI
+\$@Hc|$pE
+A_A^_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USWATAWH
+A_A\_[]
+@SUVAVH
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWAVAWH
+NHc|$pE
+A_A^_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWAVH
+@UVATAUH
+D$PE9|$
+\$XE;|$
+@SUVWATAVAWH
+A_A^A\_^][
+x UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+T$hHc\(
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+@USATAVAWH
+A_A^A\[]
+UVAUAVH
+@SVWAWH
+USVWATAVH
+A^A\_^[]
+VWATAVAWH
+ A_A^A\_^
+WATAUAVAWH
+@A_A^A]A\_
+H9w0u%H
+vpcft	H
+@USVWATAWH
+A_A\_^[]
+L$ SWAVH
+VWATAVAWH
+ A_A^A\_^
+WATAUAVAWH
+@A_A^A]A\_
+S @8n(t L
+L$p;k8|
+Hc~8;~H
+9\$(~>A
+H9k t	H
+|$ UAVAWH
+|$8H9|$@t
+@SUVWAWH
+t$X9o@~n
+ A__^][
+@SUVAVH
+}"f;Q"w
+@UATAUAVAWH
+e A_A^A]A\]
+H=vmatteH=vtext
+t$ WATAUAVAWH
+H9{ t	H
+/H9{ t	H
+ A_A^A]A\_
+L9{ t	H
+HcC$LcC
+HcC$HcK
+</t?<\t;H
+WATAUAVAWH
+ A_A^A]A\_
+L$ SVWH
+<\t.</t*
+<\t4</t0<:
+t$@HcwH$
+D$(;wXu
+A0t#H9I8u
+@UAVAWH
+e A_A^]
+@SAVAWH
+l$@HckxH
+WATAUAVAWH
+ A_A^A]A\_
+D$<9T$0wR9T$4wL9T$8wF;
+)t$PH9[8t
+)|$PH9[8t
+uCHcD$`
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+t+HcC$LcC
+@SATAUAWH
+t+HcC$LcC
+uC<"t?< ~;B
+(A_A]A\[
+t(HcC$HcK
+HcC$HcK
+D$0;D$8t
+T$8+G$Hc
+HcG$LcO
+T$8+G$A
+|$ ATAVAWH
+ A_A^A\
+WATAUAVAWH
+ A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+YPD;ZPu
+@A9D:@u@A
+DA9D:Du4A
+HA9D:Hu(A
+LA9D:Lu
+Mct$pHc
+L$ UVWATAUAVAWH
+ A_A^A]A\_^]
+@USVWATH
+@USVWAVH
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAWH
+XA_A]A\_
+T$8+G$A
+AH;BHu+D
+ADD;BDu!HcIL
+APH+BPu
+AXH+BXH
+@USWAVAWH
+A_A^_[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+UATAUAVAWH
+@A_A^A]A\]
+\$ ATAVAWH
+UVWATAUAVAWH
+0A_A^A]A\_^]
+SVWAUAVAWH
+HA_A^A]_^[
+@USVAVH
+t HcT$pHcE
+@SUVWAVH
+\$ UVWH
+D9egtKHc^
+|$ UATAUAVAWH
+A_A^A]A\]
+@SUVATAUAVAWH
+A_A^A]A\^][
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAWH
+A_A]A\_^]
+t7HcC$HcS
+t$ UWAVH
+L9u0t	H
+PHL9u t	H
+L$ SVATAUH
+HA]A\^[
+@SATAWH
+@SAVAWH
+SUVWATAUAVAWH
+\$(uCM;
+HA_A^A]A\_^][
+@SUVWATAVAWH
+A_A^A\_^][
+@UVWATAUAVAWH
+A_A^A]A\_^]
+t1HcC$HcK
+@VAUAVAWH
+(A_A^A]^
+t6HcC$HcS
+ATAVAWH
+ A_A^A\
+fffffff
+@UATAVH
+l$ VAVAWH
+fffffff
+x ATAUAWH
+@A_A]A\
+fffffff
+.ffffff
+0ffffff
+fffffff
+p WATAUAVAWH
+A_A^A]A\_
+L$ USWH
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+VWATAVAWH
+A_A^A\_^
+@SUVWATAVAWH
+zu|D!t$ E3
+A_A^A\_^][
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+USVWAVH
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+SVWATAUAVAWUH
+]A_A^A]A\_^[
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+;Cu1f9K
+f93t$M;
+L$ SUVWH
+|$ ATAVAWH
+0A_A^A\
+WATAUAVAWH
+0A_A^A]A\_
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+fD9|$bu
+H9L$Ht8H
+x ATAVAWH
+ATAVAWH
+@A_A^A\
+\$ UVWATAUAVAWH
+fD9 t	H
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+@ffffff
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+UVWATAUAVAWH
+ A_A^A]A\_^]
+t$ WATAUAVAWH
+0A_A^A]A\_
+@UATAUAVAWH
+A_A^A]A\]
+t$ WAVAWH
+UVWATAUAVAWH
+$tPH9\$@t>
+A_A^A]A\_^]
+UWATAVAWH
+uMM9'tHH
+uQM91tLH
+A_A^A\_]
+<1~-<3~ <4t5<5t
+UATAUAVAWH
+A_A^A]A\]
+D8t$HuD
+(D$@L9t$ t0H
+D$(D8t$(u\H
+x UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+,0<	w!A
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+s WATAUAVAWH
+9t$P~.8\$vt(H
+9t$P~98\$vt3H
+A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+tVf91tQH
+x ATAVAWH
+ A_A^A\
+@SUVWATAVAWH
+A_A^A\_^][
+tSf91tNH
+D;|$0t9
+x ATAVAWH
+ A_A^A\
+@USVWATAVAWH
+tyfD9 tsH
+tHfD9 tB
+@A_A^A\_^[]
+@UATAUAVAWH
+A_A^A]A\]
+SATAUAWUH
+]A_A]A\[
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@SUVWATAVAWH
+PA_A^A\_^][
+AUAVAWH
+0A_A^A]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+\$ UATAVH
+t$8;Upr4I
+|$ ATAVAWH
+0A_A^A\
+@SUVAVH
+WATAUAVAWH
+ A_A^A]A\_
+@UAVAWH
+ A_A^]H
+\$ UVWATAWH
+ A_A\_^]
+\$ UWAVAWL
+SUVWATAUAVAWH
+(A_A^A]A\_^][
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+|$ ATAVAWH
+t1HcC$HcK
+ A_A^A\
+t7HcG,HcO
+t1HcC$HcK
+t7HcC$HcS
+WATAUAVAWH
+@A_A^A]A\_
+3IcF,IcN
+@UAVAWH
+H SVWAVH
+H(H9J(u
+Release
+materialsystem2
+alias_materialsystem
+__SET_BY_FEATURE__
+S_TOOLS_ENABLED
+S_SHADER_QUALITY
+__FROM_ATTRIBUTE__
+__FROM_ATTRIBUTE_OR_FEATURE__
+D_FADE_COLOR
+Unknown
+Texture
+VectorText
+CheckBox
+sampler1D
+sampler2D
+sampler3D
+samplerCUBE
+float3x3
+float4x3
+float4x4
+cbuffer
+samplerCUBEARRAY
+sampler2DARRAY
+__SetByArtist__
+__Attribute__
+__FeatureToInt__
+__FeatureToBool__
+__FeatureToFloat__
+__RenderStateLiteral__
+__Expression__
+__SetByArtistAndExpression__
+Viewport
+InvViewportSize
+TextureDim
+InvTextureDim
+TextureDimLog2
+TextureSheetData
+features
+VFX_PROGRAM_MAX
+Version
+DevShader
+CompileTargets
+Description
+Features
+Vertex Shader
+Pixel Shader
+Geometry Shader
+Hull Shader
+Domain Shader
+Dev Shader
+Compile Targets
+<invalid>
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\threadtools.h
+OwnedByCurrentThread()
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\tslist.h
+<unknown>
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\stronghandle.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\irenderdevice.h
+CUtlRenderShaderBuffer::Release
+IRenderDevice::CreateShader
+pShaderVersion
+c:\buildslave\vrgdc2015_staging_win64\build\src\common\vfx\vfx_common.h
+CVfxStaticComboData::Release
+m_refCount >= 0
+CVfx::Release
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\fmtstr.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\common\vfx\vfx_param.h
+mat_no_renderable_passes
+mat_shader_cache
+mat_warn_bad_modes
+mat_assert_on_error_shader_use
+Assert on shader used based on substring of shader name
+mat_assert_on_shader_use
+mat_assert_on_shader_use disabled
+Usage: mat_assert_on_shader_use [shader_substring]
+       (no arguments disables the assert)
+Example: mat_assert_on_shader_use error.vfx - Assert when the error shader is used
+         mat_assert_on_shader_use sky       - Assert when sky.vfx or sky_cheap.vfx is used
+VFileSystem017
+-vulkan
+vfx_dx9
+vfx_dx11
+VFX_DLL_001
+InitDynamicShaderCompileDLL(101): ERROR! Can't load vfx_dx dll, dynamic shader compile unavailable!
+//-----------------------------------
+// Dynamic Shader Compile Enabled
+//-----------------------------------
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\material2.cpp
+IsConstantBufferForStaticComboStatic
+pStaticComboData->m_variablesUsedInStaticCombo.m_nFirstRenderStateElement == 0
+Constant %s.
+Constant %s is marked dynamic in the .vmat file.
+Shader expression for constant %s is dynamic.
+CMaterial2::OverrideTextureParam
+OverrideTextureParam cannot be called from outside of a CMaterialOverrideScopeGuard
+CMaterial2::GetMode
+Material not ready
+CMaterial2::GetMode(391): Material "%s" is requesting a bad mode "%s"!
+CMaterial2::GetAttributes
+m_bIsLoaded
+CMaterial2::GetVertexShaderInputSignature(434): Error! Material "%s" doesn't have any valid layers to get the CVsInputSignatureVector from!
+CMaterial2::GetVertexShaderInputSignature(458): Error! Material "%s" doesn't have a CVsInputSignatureVector!
+Material Creation
+CMaterial2::CreateMaterialFromResourceData
+!m_bIsLoaded
+GAMEROOT
+CMaterial2::AddShaderAttributesToMaterialAttributes
+bSuccess
+Attribute expression evaluation failed
+Invalid shader attribute type
+attributes[i].GetType() == VFX_VARIABLE_TYPE_TEXTURE2D
+Material Shader Setup
+CMaterial2::LoadShadersAndSetupModes
+CMaterial2::LoadShadersAndSetupModes(781): Error! Material "%s" is already loaded!
+*** CMaterial2::LoadShadersAndSetupModes(786): Error! Trying to load material "%s" without any params!
+error.vfx
+CMaterial2::LoadShadersAndSetupModes(811): Cannot find shader entry in material "%s"! Using error.vfx!
+CMaterial2::LoadShadersAndSetupModes(854): Error creating shader %s for material %s!
+CMaterial2::LoadShadersAndSetupModes(859): Error creating shader %s and cannot load error.vfx instead!
+CMaterial2::LoadShadersAndSetupModes(899): Error creating fallback shader %s for %s for material %s! A fallback shader cannot fallback to a different shader!
+CMaterial2::LoadShadersAndSetupModes(912): Error creating fallback shader %s for %s for material %s!
+CMaterial2::LoadShadersAndSetupModes(916): Error creating fallback shader %s for %s and cannot load error.vfx instead!
+CMaterial2::LoadShadersAndSetupModes(946): Error creating shader %s for material %s!
+CMaterial2::LoadShadersAndSetupModes(951): Error creating shader %s and cannot load error.vfx instead!
+CMaterial2::LoadShadersAndSetupModes(959): Error creating static combos for shader %s and error.vfx instead!
+Material %s nonbatchable in mode "%s" because of dynamic CB for %s. These constants are responsible:
+-vulkan_use_vcs
+CVfxConstructor::Construct(1252): DxSupportLevel %d not supported!
+CVfxConstructor::Construct
+GetDefaultValueFromVariableDescription
+Error reading default value from variable description
+CMaterialLayer::UpdateVariableToParamLookupTable
+nNumToAdd >= 0
+CompileComboAndGetVariables_DynamicShaderCompile
+g_pVfxDll != NULL
+CompileComboAndGetVariables_DynamicShaderCompile(1563): Dynamic Combos should be assumed to be unique for dynamic shader compile! %d != %d
+nShaderIndex == nDynamicComboId
+Dynamic Combos should be assumed to be unique for dynamic shader compile!
+CompileComboAndGetVariables_DynamicShaderCompile(1597): Dynamic shader compile failed for %s in material "%s"!
+CompileComboAndGetVariables_DynamicShaderCompile(1620): Dynamic shader compile failed for %s in material "%s"!
+pStaticComboData->m_shaderHandleArray[ nShaderIndex ] != RENDER_SHADER_HANDLE_INVALID
+CMaterialLayer::SetupStaticCombosForMode(1844): Failed call to FindOrLoadStaticComboData()!
+CMaterialMode::ComputeRenderablePassesForContext(1965): Too many passes for caller! Ignoring layer %d pass %d
+CMaterialMode::ComputeRenderablePassesForContext
+error.vfx shader used while mat_assert_on_error_shader_use convar is enabled!
+%s shader used while mat_assert_on_shader_use convar is enabled with substring "%s"!
+All bad! The error material failed in dynamic shader compile!
+CMaterialMode::ComputeRenderablePassesForContext(2045): All bad! The error material failed in dynamic shader compile!
+nNumDynamicCombos <= 64
+UNKNOWN
+CMaterialLayer::SetRenderStateForRenderablePassWithCommandBuffers
+( renderablePass.nFrameCount == g_pMaterialSystem2Imp->GetFrameCount() )
+ERROR! Renderable pass data is being used across frame boundaries! Renderable pass has frame count %u. Current frame count is %u.
+!m_commandBufferIdx[ nProgramType ].IsEmpty()
+CMaterialLayer::SetRenderStateForRenderablePass
+Find a graphics programmer! Trying to bind a "%s" shader that doesn't exist!
+CMaterialLayer::SetRenderStateForRenderablePass(2299): Find a graphics programmer! Trying to bind a "%s" shader that doesn't exist!
+dynamicRenderState.m_nMaxSamplerIndex < VFX_MAX_SAMPLERS
+CMaterialLayer::CollectRenderStateForRenderablePass
+pVariableIndexArray->m_nFirstRenderStateElement == 0
+CMaterialLayer::RecreateCommandBuffers
+nDynamicComboCount > 0
+nMaxIdx < 65535
+CMaterialLayer::CreateCommandBuffer
+CMaterialLayer::CreateCommandBuffer(2646): Find a graphics programmer! Trying to bind a "%s" shader that doesn't exist!
+nDynamicComboId <= UINT32_MAX
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CFmtStrN<256,0>::CFmtStrN
+FmtStrVSNPrintf truncated without QUIET_TRUNCATION specified!
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+CUtlSymbolLarge::AddString
+Unaccounted
+CUtlSymbolTableLargeBase<class CThreadsafeTree<0>,0,2048>::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+materialsystem2
+g_pResourceHandleUtils
+Encountered too many releases for resource "%s"
+MemAllocClassName
+CStrongHandle<struct InfoForResourceTypeCTextureBase>::Shutdown
+CUtlSymbolLarge::Find
+Unaccounted
+CUtlSymbolTableLargeBase<class CThreadsafeTree<0>,0,2048>::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+materialsystem2
+CUtlMemory::Grow
+Unaccounted
+CUtlMemory<class CMaterialLayer,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class CUtlVector<class CMaterialParam,class CUtlMemory<class CMaterialParam,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class CMaterialParam,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct CMaterialLayer::CommandBufferInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct CUtlSymbolTableLargeBase<class CThreadsafeTree<0>,0,2048>::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<int,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class CBoolInitFalse,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<unsigned char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<unsigned char *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class CMaterialMode,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+m_pBuffer
+CVfxParam::GetDynamicTextureHandle
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\material_command_buffer.cpp
+ExecuteMaterialCommandBuffers
+pTextureBoundToVars
+Attribute-based texture %s not bound for material "%s"! Missing render attribute "%s"
+^^^ Attribute-based texture warning is now disabled after outputting 50 warnings.
+Attribute-based texture %s not bound for material "%s"!
+Error Calling VfxEvalTextureExpression() for %s in material "%s"
+Error Calling VfxEvalExpression() for %s in material "%s"
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\mathlib\vector4d.h
+Vector4D::Vector4D
+CVfxParam::GetDynamicIntValue
+CVfxParam::GetDynamicFloatValue
+CVfxParam::GetDynamicVector4DValue
+setting.shaderquality
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\material_shader_params.cpp
+GetStaticComboValueFromSource
+GetStaticComboValueFromSource(37): Error! Unknown static combo source %d!
+GetDynamicComboValueFromSource
+Out of range dynamic combo id %d in material "%s"
+GetVariableTextureValue
+Bad VFX_VARIABLE type for %s in material "%s"!
+Texture %s doesn't exist in %s!
+Unknown texture variable source type for %s in material "%s"!
+GetDefaultValueFromVariableDescription(263): Trying to set VFX_VARIABLE_TYPE_MATRIX_* but this isn't supported yet! In material "%s"
+GetDefaultValueFromVariableDescription(268): Bad VFX_VARIABlE type for VFX_VARIABLE_SOURCE_SET_BY_ARTIST %s in material "%s"!
+GetValueFromMaterialParam
+GetValueFromMaterialParam(323): Trying to set VFX_VARIABLE_TYPE_MATRIX_* but this isn't supported yet! In material "%s"
+GetValueFromMaterialParam(328): Bad VFX_VARIABlE type for VFX_VARIABLE_SOURCE_SET_BY_ARTIST %s in material "%s"!
+GetValueFromDynamicMaterialParam
+GetValueFromDynamicMaterialParam(405): Trying to set VFX_VARIABLE_TYPE_MATRIX_* but this isn't supported yet! In material "%s"
+GetValueFromDynamicMaterialParam(410): Bad VFX_VARIABlE type for VFX_VARIABLE_SOURCE_SET_BY_ARTIST %s in material "%s"!
+SetVariableValue
+Bad VFX_VARIABLE type for VFX_VARIABLE_SOURCE_ATTRIBUTE %s Source( %s )! In material "%s"
+SetVariableValue(706): Unknown variable type for %s in material "%s"!
+GetRenderStateValue(746): Invalid data type for render state variable %s in material "%s"!
+GetRenderStateValue(786): Invalid data type for render state variable %s in material "%s"!
+GetRenderStateValue(793): Error evaluating expression for render state variable %s in material "%s"!
+GetRenderStateValue(799): Invalid variable source type for render state variable %s in material "%s"!
+SetRenderStateValueFromVariable(861): Unsupported render state type in material "%s"!
+SetRenderStateValueFromVariable
+SetSamplerStateValueFromVariable(873): Sampler index %d out of bounds for "%s" in material "%s"!
+SetSamplerStateValueFromVariable(942): Unsupported sampler state type for "%s" in material "%s"!
+SetSamplerStateValueFromVariable
+SetVariable(1006): Could not bind constant buffer "%s" because the constant buffer handle was invalid in material "%s"!
+^^^ Constant buffer warning is now disabled after outputting 50 warnings.
+SetVariable(1021): Error setting constant for REGISTER_FLOAT4 for "%s" in material "%s"! Talk to a programmer!
+GetValueFromMaterialParamAsVector4D(1083): Trying to set VFX_VARIABLE_TYPE_MATRIX_* but this isn't supported yet! In material "%s"
+GetValueFromMaterialParamAsVector4D(1088): Bad VFX_VARIABlE type for VFX_VARIABLE_SOURCE_SET_BY_ARTIST %s in material "%s"!
+AddTextureVariableToCommandBuffer
+Uv scale variable %s referenced by texture %s doesn't evaluate to a constant value at material load time (%s).
+AddRenderStateValueLoadToCommandBuffer(1263): Invalid data type for render state variable %s in material "%s"!
+AddRenderStateValueLoadToCommandBuffer(1303): Invalid data type for render state variable %s in material "%s"!
+AddRenderStateValueLoadToCommandBuffer(1387): Invalid data type for render state variable %s in material "%s"!
+AddRenderStateValueLoadToCommandBuffer(1395): Invalid variable source type for render state variable %s in material "%s"!
+AddRenderStateVariableToCommandBuffer(1490): Unsupported render state type in material "%s"!
+AddRenderStateVariableToCommandBuffer
+AddRenderStateVariableToCommandBuffer(1572): Unsupported render state in material "%s"!
+AddSamplerStateVariableToCommandBuffer(1645): Unsupported sampler state type for "%s" in material "%s"!
+AddSamplerStateVariableToCommandBuffer
+AddSamplerStateVariableToCommandBuffer(1667): Unsupported sampler state type for "%s" in material "%s"!
+method( void )
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\functors.h
+HMaterial
+RESOURCE_TYPE_MATERIAL
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\iresourcesystem.h
+IResourceTypeManager::GetNonStreamingDataLoadSize
+IResourceTypeManager::LoadStreamingData
+EMaterialReloaded
+VMatError
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\material_type_manager.cpp
+materials/error.vmat
+CMaterialTypeManager::GetErrorResource(50): GetErrorMaterial() called before error material exists!
+CBaseIntrospectedTypeManager:  Missing TYPEMETA MDiskDataForResourceType
+CDefaultIntrospectedTypeManager<1952542070,struct MaterialResourceData_t>::Init
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcefile\introspectedtypemanager.h
+CBaseIntrospectedTypeManager:  Bindings don't match.
+CStrongHandle<struct InfoForResourceTypeIMaterial2>::Shutdown
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+EShadersUnloaded
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier2\tier2_loggingmetahelpers.h
+MaterialSystem
+VMaterialSystem2_001
+mat_use_commandbuffers
+Maximum time in ms to spend initializing shaders for materials each frame.
+mat_material_frameupdate_limit
+VNewAsyncFileSystem001
+filesystem_stdio
+RenderDeviceMgr001
+rendersystemdx9
+ResourceSystem009
+resourcesystem
+SchemaSystem_001
+schemasystem
+MaterialSystem2
+RenderModes
+CMaterialSystem2::Init(125): ERROR! Empty shader mode string found! Use "Default" instead!
+CMaterialSystem2::Init(137): ERROR! Shader mode "%s" has unsupported type "%s" specified gameinfo.gi!
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\materialsystem2.cpp
+Default
+-shaderdebugging
+-batchwarnings
+-materialsystem2_strict
+-noshaderopts
+-shaders
++mat_clearshadercache
+CMaterialSystem2::Shutdown(245): ERROR!!! Materials not released by other systems on shutdown! (See spew above)
+CMaterialSystem2::Shutdown(250): ERROR!!! Shaders not freed on shutdown, likely due to unreleased materials! (See spew above)
+CMaterialSystem2::GetErrorMaterial(264): GetErrorMaterial() called when m_pMaterialTypeManager == NULL!
+*** UNKNOWN ***
+// Reloading all shaders -----------------------------------------------------
+CMaterialSystem2::DynamicShaderCompile_UnloadAllMaterials(585): ERROR!!! Shaders not freed before shader reload! (See spew above)
+[Dynamic shader compile] Reloading %d material(s)
+Compiling 
+CMaterialSystem2::DynamicShaderCompile_FlushShaderCompileTaskList
+pProgramData->m_staticComboArray.Count() <= 64
+	Static:
+ No static combos for this shader
+ All zero
+	Dynamic:
+pProgramData->m_dynamicComboArray.Count() <= 64
+All bad! The error shader failed in dynamic shader compile!
+CMaterialSystem2::FrameUpdate
+CMaterialSystem2::LoadPendingShaders
+ThreadInMainThread()
+CMaterialSystem2::AddMaterialToLoadQueue
+!pMaterial->IsLoaded()
+CMaterialSystem2::OnMaterialLoaded
+All Bad! Talk to Brian and Alex. g_pRenderHardwareConfig is NULL which means we won't load this material correctly: %s
+CMaterialSystem2::CreateProceduralMaterialCopy
+_copy%u
+%f %f %f %f
+CMaterialSystem2::AddFrameUpdateFunc
+m_FrameUpdateFuncs.Find( func ) == m_FrameUpdateFuncs.InvalidIndex()
+Reloads all materials. Takes an optional substring as an argument.
+mat_reloadmaterials
+Sorry! mat_reloadmaterials is currently disabled due to bugs in other systems. Talk to Alex.
+Reinitializes all loaded materials, reloading their shaders.
+mat_reinitmaterials
+Reloads all shaders. Takes an optional substring as an argument.
+mat_reloadshaders
+Reloads all shaders from vcs files until the next time mat_reloadshaders is called
+mat_disable_dynamic_shader_compile
+Clears the shader cache used for dynamic shader compile.
+mat_clearshadercache
+   Ref File
+   --- --------------------------------
+mat_print_material_info %s
+   Found %d materials ( %d references )
+ using substring "%s"
+-show_none
+   Found 0 materials
+ [Fallback Resource]
+ [Not Loaded]
+\error.vmat
+/error.vmat
+ [Error Resource]
+ [error.vfx]
+ [No Valid Layers]
+<<unknown_mod>>\
+Print loaded materials. Takes an optional substring as an argument.
+mat_print_materials
+Print loaded materials that have no valid layers due to not supporting any of the modes in gameinfo.gi.
+mat_print_dead_materials
+mat_print_materials "[No Valid Layers]"
+Print loaded materials that are using the error shader or material.
+mat_print_error_materials
+mat_print_materials "[Error"
+Print materials used last frame
+mat_print_materials_last_frame
+Print materials that have never been used
+mat_print_materials_unused
+Print info about a specific material
+mat_print_material_info
+   Usage:
+ mat_print_material_info <mod\path\file.vmat>
+   NOTE: Use mat_print_materials instead, and then click on the hyperlink for a given material. That will call this concommand with the correctly formatted argument.
+   Material not loaded!
+   Mode "%s", Layer %d: 
+mat_print_shader_info %s -show_used_combos
+ (Fallback Shader)
+NULL shader pointer!
+[ mat_print_material_info ] Error! Cannot find material '%s'!
+Print loaded textures. Takes an optional substring as an argument.
+mat_print_textures
+   NOTE: Currently showing on disk format without accounting for picmip level or streaming state!
+   Ref   Dimensions  MSAA     Format                  Memory             File
+   --- ------------- ---- --------------- ------------------------------ --------------------------------
+mat_print_materials %s -show_none
+ %15.15s 
+%7sK (mem) %7sK (disk) 
+procedural
+   Found %d textures ( %d references ) %s MB (mem) %s MB (disk)
+Print loaded shaders. Takes a substring as an argument.
+mat_print_shaders
+MatPrintShaders(2115): pVfx == NULL!
+sortedHandleArray.Count() = %d
+pArgs->Arg( 1 ) = "%s"
+%6s %-50s %5s %5s %5s %5s %5s %10s
+----------
+--------------------------------------------------
+%6s %-50s %5s %5s %5s %5s %5s %10s
+MatPrintShaders(2166): pVfx == NULL!
+mat_print_materials %s
+mat_print_shader_info %s -show_used_combos -%s
+%6d %-50s
+   * Dynamic Shader Compile
+   Found %d unique vfx files, %s unique shader handles
+Print detailed info about a single shader. Takes a shader name (hero.vfx) as an argument.
+mat_print_shader_info
+ mat_print_shader_info <file.vfx> [options]
+   Options:
+      -XX: Shader program -vs -ps -gs -hs -ds
+      -show_used_combos: Verbosely spew a line for each program and the list of combos enabled
+   mat_print_shader_info: Error! Shader "%s" not loaded!
+//---------------------------------------------------------------------------//
+// %s - %s
+-show_used_combos
+All static combo permutations currently loaded:
+MatPrintShaderInfo
+All static combos set to zero
+MatPrintShaderInfo(2431): Error reading index!
+ (NumShaderHandles 
+ All %d static combos set to zero
+NOTE: Each static combo creates multiple shader programs based on the dynamic combos available.
+Print supported rendering modes.
+mat_print_modes
+    %2d = "%s"
+CTSQueue: Misaligned queue
+CTSQueue<struct DynamicShaderCompileTask_t,0>::CTSQueue
+CTSQueue<struct DynamicShaderCompileTask_t,0>::~CTSQueue
+m_Count == 0
+m_Head.value.pNode == m_Tail.value.pNode
+m_Head.value.pNode->pNext == End()
+CTSQueue<struct DynamicShaderCompileTask_t,0>::Purge
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlqueue.h
+CUtlQueue<class CWeakHandle<struct InfoForResourceTypeIMaterial2>,class CUtlMemory<class CWeakHandle<struct InfoForResourceTypeIMaterial2>,int> >::RemoveAtHead
+m_head != QUEUE_ITERATOR_INVALID
+CUtlQueue<class CWeakHandle<struct InfoForResourceTypeIMaterial2>,class CUtlMemory<class CWeakHandle<struct InfoForResourceTypeIMaterial2>,int> >::Next
+IsValid( it )
+CUtlQueue<class CWeakHandle<struct InfoForResourceTypeIMaterial2>,class CUtlMemory<class CWeakHandle<struct InfoForResourceTypeIMaterial2>,int> >::Element
+it != QUEUE_ITERATOR_INVALID
+CUtlQueue<class CWeakHandle<struct InfoForResourceTypeIMaterial2>,class CUtlMemory<class CWeakHandle<struct InfoForResourceTypeIMaterial2>,int> >::Count
+m_tail == QUEUE_ITERATOR_INVALID
+m_tail != QUEUE_ITERATOR_INVALID
+Unaccounted
+CUtlMemory<class CWeakHandle<struct InfoForResourceTypeIMaterial2>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<char *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class CUtlString,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct RenderShaderHandle_t__ *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<void (__cdecl*)(void),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class CMaterial2 *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class CWeakHandle<struct InfoForResourceTypeCTextureBase>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<__int64,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+materialsystem2.dll
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+decalScale
+decalDepth
+decalScaleVariation
+decalStartFadeTime
+decalFadeDuration
+decalSpecularExp
+animationScale
+animationLifeSpan
+decalModulate
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\fontmanager\bitmapfont.cpp
+CBitmapFont::Create
+CBitmapFont::GetCharABCWidths
+IsValid() && ch >= 0 && ch <= 255
+CBitmapFont::GetCharCoords
+CBitmapFont::GetTexturePage
+IsValid()
+CDefaultIntrospectedTypeManager<500069000822,struct VBitmapFontDiskData_t>::Init
+CStrongHandle<struct InfoForResourceTypeVBitmapFontRuntimeData_t>::Shutdown
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\fontmanager\fontamalgam.cpp
+CFontAmalgam::GetFontForChar
+m_Fonts[i].font->IsValid()
+<Unknown font>
+Unaccounted
+CUtlMemory<struct CFontAmalgam::SFontRange,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+@Times New Roman
+Courier New
+Courier
+Verdana
+Trebuchet MS
+HBitmapFont
+RESOURCE_TYPE_BITMAP_FONT
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\fontmanager\fontmanager.cpp
+GetMungedFontName
+pFontName
+pTagname
+%s%s-%s
+FontManager_001
+DefaultFontAliasGroup
+CFontManager::ClearAllFonts
+CFontManager::CreateOrFindFontAliasList
+CFontManager::GetFontAliases
+pFontAliasList
+CFontManager::RemoveFontAliasList
+pTagName
+CFontManager::CreateFontAlias
+CFontManager::LoadFont
+CFontManager::LoadBitmapFont
+Use FindOrLoadBitmapFont for loading a bitmap font
+Use FindOrLoadFont for loading a non-bitmap font
+CFontManager::SetFontRange
+Tag: %s 
+  %2d: FontHandle:0x%8.8llx, %s, %s, font:%s, tall:%f.0
+CFontManager::CreateFont
+CFontManager::SetFontGlyphSet
+font < (FontHandle_t)m_FontAmalgams.Count()
+Font ranges used but not supported
+descs.Count() >= 1
+CFontManager::SetBitmapFontGlyphSet
+CFontManager::CreateOrFindPlatformFont
+( fontInfo.m_font->GetFlags() & FONTFLAG_BITMAP ) == 0
+CFontManager::CreateOrFindBitmapFont
+CFontManager::GetFontName
+CFontManager::GetFontForChar
+CFontManager::GetCharABCwide
+CFontManager::GetFontTall
+CFontManager::GetFontAscent
+CFontManager::IsFontAdditive
+CFontManager::GetFontUnderlined
+CFontManager::GetKernedCharWidth
+font != INVALID_FONT_HANDLE
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlrbtree.h
+CUtlRBTree<struct CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::Node_t,int,class CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::Node_t,int>,int> >::Find
+!!m_LessFunc
+CUtlRBTree<struct CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::Node_t,int,class CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::Node_t,int>,int> >::RemoveAll
+m_Root == InvalidIndex()
+m_FirstFree == InvalidIndex()
+m_NumElements == 0
+CUtlRBTree<struct CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::Node_t,int,class CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::Node_t,int>,int> >::Find
+CUtlRBTree<struct CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::Node_t,int,class CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::Node_t,int>,int> >::RemoveAll
+Unaccounted
+CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+materialsystem2
+CUtlRBTree<struct CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::Node_t,int,class CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::Node_t,int>,int> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::Node_t,int,class CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::Node_t,int>,int> >::FindInsertionPosition
+Unaccounted
+CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct FontAlias_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class CFontAmalgam,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+CUtlRBTree<struct CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::Node_t,int,class CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::Node_t,int>,int> >::NewNode
+m_Elements.IsValidIterator( m_LastAlloc ) || m_NumElements == 0
+m_Elements.IsValidIterator( it )
+m_Elements.IsValidIterator( m_LastAlloc )
+CUtlRBTree<struct CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::Node_t,int,class CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::Node_t,int>,int> >::NewNode
+Unaccounted
+CUtlMemory<struct FontAliasList_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CFontManager::CFontAttributes,class CFontManager::CFontInfo,int,bool (__cdecl*)(class CFontManager::CFontAttributes const &,class CFontManager::CFontAttributes const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned short,class CFontManager::CFontDataFile,int,bool (__cdecl*)(unsigned short const &,unsigned short const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+CUtlRBTree<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64,class CTreeEntryLess<class CNonThreadsafeTree<0>,0>,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64> >::NewNode
+CUtlRBTree<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64,class CTreeEntryLess<class CNonThreadsafeTree<0>,0>,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64> >::RemoveAll
+Unaccounted
+CUtlMemory<struct CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct SFontDescription,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+font_show_glyph_miss
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\fontmanager\fonttexturecache.cpp
+CFontTextureCache::IsCharCached
+!m_pFontManagerImp->IsBitmapFont( hFont )
+textureID && texCoords
+wideChar == L'\n' || m_pFontManagerImp->GetFontForChar( hFont, wideChar )
+CFontTextureCache::GetTextureForChars
+wch && textureID && texCoords
+numChars >= 1
+m_CharCache.IsValidIndex( cacheHandle )
+Glyph Miss: FontHandle_t:0x%8.8llx (%s), %s
+CFontTextureCache::AllocatePageForChar
+nodeIndex != -1
+%s__font_page_%d
+CUtlRBTree<struct CFontTextureCache::CacheEntry_t,unsigned short,bool (__cdecl*)(struct CFontTextureCache::CacheEntry_t const &,struct CFontTextureCache::CacheEntry_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CFontTextureCache::CacheEntry_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CFontTextureCache::CacheEntry_t,unsigned short,bool (__cdecl*)(struct CFontTextureCache::CacheEntry_t const &,struct CFontTextureCache::CacheEntry_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CFontTextureCache::CacheEntry_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short,class CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short>,unsigned short> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short,class CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short,class CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CFontTextureCache::CacheEntry_t,unsigned short,bool (__cdecl*)(struct CFontTextureCache::CacheEntry_t const &,struct CFontTextureCache::CacheEntry_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CFontTextureCache::CacheEntry_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short,class CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CFontTextureCache::CacheEntry_t,unsigned short,bool (__cdecl*)(struct CFontTextureCache::CacheEntry_t const &,struct CFontTextureCache::CacheEntry_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CFontTextureCache::CacheEntry_t,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct CFontTextureCache::Page_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+CUtlRBTree<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short,class CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CFontTextureCache::CacheEntry_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned __int64,struct CFontTextureCache::Page_t,unsigned short,bool (__cdecl*)(unsigned __int64 const &,unsigned __int64 const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+CThreadFastMutex::AssertOwnedByCurrentThread::<lambda_e5c384c5c5818c76335b07badf3de8b7>::operator ()
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\fontmanager\win32font.cpp
+CPlatformFont_SharedResources::AddRef
+m_hDC == NULL
+m_hDC != NULL
+win98japanese
+Couldn't create windows font '%s'
+CPlatformFont::Create
+Marlett
+CPlatformFont::GetCharABCWidths
+m_ExtendedABCWidthsCache.IsValidIndex(cacheIndex)
+CUtlRBTree<struct CPlatformFont::abc_cache_t,unsigned short,bool (__cdecl*)(struct CPlatformFont::abc_cache_t const &,struct CPlatformFont::abc_cache_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CPlatformFont::abc_cache_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CPlatformFont::abc_cache_t,unsigned short,bool (__cdecl*)(struct CPlatformFont::abc_cache_t const &,struct CPlatformFont::abc_cache_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CPlatformFont::abc_cache_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CPlatformFont::abc_cache_t,unsigned short,bool (__cdecl*)(struct CPlatformFont::abc_cache_t const &,struct CPlatformFont::abc_cache_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CPlatformFont::abc_cache_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CPlatformFont::abc_cache_t,unsigned short,bool (__cdecl*)(struct CPlatformFont::abc_cache_t const &,struct CPlatformFont::abc_cache_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CPlatformFont::abc_cache_t,unsigned short>,unsigned short> >::RemoveAll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CPlatformFont::abc_cache_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+WARNING: Trying to create a CRenderContextPtr without a valid context.
+PostProcessing
+PostProcessingSystem_001
+mat_colorcorrection
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\postprocessingsystem.cpp
+CPostProcessingSystem::AddColorCorrectionLookup
+FindLookup( pName ) == NULL
+colorcorrection_%p.vtex
+CPostProcessingSystem::CreatePostProcessingSettings
+pResource->m_hTexture != RENDER_TEXTURE_HANDLE_INVALID
+CPostProcessingSystem::DestroyPostProcessingSettings
+nIdx >= 0
+CPostProcessingSystem::SetPostProcessingWeight
+pResource
+CPostProcessingSystem::LerpToPostProcessing
+CStrongHandle<struct InfoForResourceTypeCPostProcessingResource>::Shutdown
+Unaccounted
+CUtlMemory<struct CPostProcessingSystem::Lookup_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class CPostProcessingResource *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct CPostProcessingSystem::LerpRecord_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class CPostProcessingResource const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+?HPostProcessing
+RESOURCE_TYPE_POST_PROCESSING
+CDefaultIntrospectedTypeManager<500152889462,struct PostProcessingResource_t>::Init
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\materialsystem2\itextlayout.h
+TextLayout_001
+texcoord
+Localize_001
+localize
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\textlayout\textlayout.cpp
+CTextLayout::GetRawSize
+pViewport
+pTextLayoutInfo
+pUnicodeTextSet != NULL
+CTextLayout::GetWSize
+CTextLayout::ViewportAnchorPosition
+pTextLayoutInfo->m_PositionType == LAYOUTPOSITIONTYPE_FRACTIONAL
+CTextLayout::ViewportUnAnchorPosition
+CTextLayout::SetupTextLayoutRenderGeometry
+pUnicodeText != NULL
+CTextLayout::SetupTextLayoutRenderData
+proportionalBaseHeight != 0.0
+info.valid
+pRenderGeometry != NULL
+CTextLayout::GetStartingOffset
+CTextLayout::CacheFontTextures
+Unaccounted
+CUtlMemory<class CUtlVector<struct CCharRenderGeometry,class CUtlMemory<struct CCharRenderGeometry,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct CCharRenderGeometry,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\vertexdata.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\indexdata.h
+CIndexDataBase<unsigned short>::Index2
+m_pMemory
+( m_nIndexIncrement == 0 ) || ( m_nIndexCount < m_nMaxIndexCount - 1 )
+VertexColorUVPos_t
+tangent
+VertexUVPosColorNormalAndTangent_t
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\utils\materialsystem2utils.cpp
+CBaseQueuedRenderable::GetCopy
+MaterialUtils_001
+MaterialUtilsInit
+GameStartup
+dev/vgui/materials/renderui.vmat
+dev/materialsystem2utils/pixel.vtex
+materials/dev/debug_wireframe.vmat
+materials/dev/debug_solid.vmat
+MaterialSystem2UtilsRenderingLayout
+MaterialSystem2DefaultDebugFontOutline
+CMaterialSystem2Utils::Init
+m_DebugFontOutline != INVALID_FONT_HANDLE
+MaterialSystem2DefaultDebugFont
+m_DebugFont != INVALID_FONT_HANDLE
+CMaterialSystem2Utils
+RenderUtils
+CMaterialSystem2Utils::RenderWireframeSphere GetMode == NULL? Can't Render
+CMaterialSystem2Utils::RenderSphereInternal GetMode == NULL? Can't Render
+CMaterialSystem2Utils::RenderWireframeBox GetMode == NULL? Can't Render
+CMaterialSystem2Utils::RenderWireframeSweptBox GetMode == NULL? Can't Render
+CMaterialSystem2Utils::RenderBoxInternal GetMode == NULL? Can't Render
+CMaterialSystem2Utils::RenderAxes GetMode == NULL? Can't Render
+CMaterialSystem2Utils::RenderLine GetMode == NULL? Can't Render
+CMaterialSystem2Utils::RenderTriangleInternal GetMode == NULL? Can't Render
+CMaterialSystem2Utils::RenderQuad GetMode == NULL? Can't Render
+CMaterialSystem2Utils::DrawScreenSpaceRectangle GetMode == NULL? Can't Render
+CMaterialSystem2Utils::DrawNDCSpaceUntexturedPolygon GetMode == NULL? Can't Render
+CMaterialSystem2Utils::Render2DLine
+nNumPasses <= 1
+game_controls
+gamelayer
+CMaterialSystem2Utils::RenderLineBatch
+CMaterialSystem2Utils::RenderFontTexture
+CMaterialSystem2Utils::GetRawSize
+CMaterialSystem2Utils::RenderText2D
+CMaterialSystem2Utils::RenderConvexGeometry
+CMaterialSystem2Utils::GetLayoutList
+index != m_LayoutListMap.InvalidIndex()
+CUtlRBTree<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short,class CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short>,unsigned short> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short,class CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short,class CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CVertexDataBase<struct VertexColorUVPos_t>::AdvanceVertex
+CVertexDataBase - No storage!
+CVertexDataBase - Tried to advance past the last vertex (%d)
+CVertexDataBase<struct VertexUVPosColorNormalAndTangent_t>::AdvanceVertex
+CVertexDataBase<struct MaterialSystem2UtilsVertex_t>::AdvanceVertex
+CUtlRBTree<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short,class CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+!m_pMemory
+CDynamicVertexData<struct VertexColorUVPos_t>::Lock
+this->m_bOkToLock
+CDynamicVertexData<struct VertexUVPosColorNormalAndTangent_t>::Lock
+CVertexDataBase<struct MaterialSystem2UtilsVertex_t>::~CVertexDataBase
+CDynamicVertexData<struct MaterialSystem2UtilsVertex_t>::Lock
+Unaccounted
+CUtlMemory<class CUtlVector<class IQueuedRenderable *,class CUtlMemory<class IQueuedRenderable *,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+CUtlRBTree<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short,class CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<class IQueuedRenderable *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CUtlStringToken,int,unsigned short,bool (__cdecl*)(class CUtlStringToken const &,class CUtlStringToken const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+Unaccounted
+CUtlMemory<class Vector2D,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+materialsystem2
+?CResourceArray
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\schema.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemaclassinfo.h
+CSchemaClassInfo::CompleteInitialization
+m_pOuterTypeScope != NULL
+CSchemaClassInfo::CompleteInitializationInternal
+!m_bInitialized
+m_pTypeOf != NULL
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcefile\resourcestream.h
+MDiskDataForResourceType
+InfoForResourceTypeCTextureBase
+VBitmapFontDiskData_t
+m_TextureSheet
+m_Glyphs
+From Class Binding
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\materialsystem2\release\win64\bitmapfontschema_h_schema.gen_cpp
+VBitmapFontDiskData_t::Schema_VerifyBindingIsRegistered
+( g_pSchemaSystem == NULL ) || (s_pSchemaBinding != NULL)
+WARNING: Trying to access schema binding '%s' before bindings were registered in this module!
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\baseschema.h
+CResourceExtReference
+CWeakHandle
+ERROR: CAtomicManipulator::Allocate() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<unsigned char> >::Allocate
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<unsigned char> >::AllocateAndCopy
+ERROR: CAtomicManipulator::Copy() Cannot copy CResourceArray(FIXME: maybe you can?)
+CAtomicManipulator<class CResourceArray<unsigned char> >::Copy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate CResourceArray
+CAtomicManipulator<class CResourceArray<unsigned char> >::Deallocate
+CSchemaClassBindingBase::RegBase
+m_pSchemaType != NULL
+MNoScatter
+PostProcessingTonemapParameters_t
+PostProcessingBloomParameters_t
+PostProcessingResource_t
+m_flExposureBias
+m_flShoulderStrength
+m_flLinearStrength
+m_flLinearAngle
+m_flToeStrength
+m_flToeNum
+m_flToeDenom
+m_flWhitePoint
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\materialsystem2\release\win64\colorcorrectionparams_h_schema.gen_cpp
+PostProcessingTonemapParameters_t::Schema_VerifyBindingIsRegistered
+m_flBloomStrength
+m_flBloomThreshold
+m_flBloomThresholdWidth
+m_flSkyboxBloomStrength
+m_flBlurWeight
+m_vBlurTint
+PostProcessingBloomParameters_t::Schema_VerifyBindingIsRegistered
+m_bHasTonemapParams
+m_toneMapParams
+m_bHasBloomParams
+m_bloomParams
+m_nColorCorrectionVolumeDim
+m_colorCorrectionVolumeData
+PostProcessingResource_t::Schema_VerifyBindingIsRegistered
+CAtomicManipulator<class CResourceArray<class Color> >::Allocate
+CAtomicManipulator<class CResourceArray<class Color> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class Color> >::Copy
+CAtomicManipulator<class CResourceArray<class Color> >::Deallocate
+HorizJustification_e
+VertJustification_e
+LayoutPositionType_e
+HORIZ_JUSTIFICATION_LEFT
+HORIZ_JUSTIFICATION_CENTER
+HORIZ_JUSTIFICATION_RIGHT
+HORIZ_JUSTIFICATION_NONE
+From Enum Binding
+VERT_JUSTIFICATION_TOP
+VERT_JUSTIFICATION_CENTER
+VERT_JUSTIFICATION_BOTTOM
+VERT_JUSTIFICATION_NONE
+LAYOUTPOSITIONTYPE_VIEWPORT_RELATIVE
+LAYOUTPOSITIONTYPE_FRACTIONAL
+LAYOUTPOSITIONTYPE_NONE
+CSchemaEnumBinding<enum HorizJustification_e>::Get
+(s_pThisModuleBindingPointer != NULL)
+WARNING: Trying to access schema enum binding before bindings were registered in this module! - %s()
+CSchemaEnumBinding<enum VertJustification_e>::Get
+CSchemaEnumBinding<enum LayoutPositionType_e>::Get
+Vector4D
+CResourceString
+MaterialParam_t
+MaterialParamInt_t
+MaterialParamFloat_t
+MaterialParamVector_t
+MaterialParamTexture_t
+MaterialParamString_t
+MaterialParamBuffer_t
+MaterialResourceData_t
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\materialsystem2\release\win64\material_resource_data_h_schema.gen_cpp
+MaterialParam_t::Schema_VerifyBindingIsRegistered
+m_nValue
+MaterialParamInt_t::Schema_VerifyBindingIsRegistered
+m_flValue
+MaterialParamFloat_t::Schema_VerifyBindingIsRegistered
+m_value
+MaterialParamVector_t::Schema_VerifyBindingIsRegistered
+m_pValue
+MaterialParamTexture_t::Schema_VerifyBindingIsRegistered
+MaterialParamString_t::Schema_VerifyBindingIsRegistered
+MaterialParamBuffer_t::Schema_VerifyBindingIsRegistered
+m_materialName
+m_shaderName
+m_intParams
+m_floatParams
+m_vectorParams
+m_textureParams
+m_dynamicParams
+m_dynamicTextureParams
+m_intAttributes
+m_floatAttributes
+m_vectorAttributes
+m_textureAttributes
+m_stringAttributes
+m_renderAttributesUsed
+MaterialResourceData_t::Schema_VerifyBindingIsRegistered
+CAtomicManipulator<class CResourceArray<struct MaterialParamInt_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamInt_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MaterialParamInt_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MaterialParamInt_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamFloat_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamFloat_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MaterialParamFloat_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MaterialParamFloat_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamVector_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamVector_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MaterialParamVector_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MaterialParamVector_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamTexture_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamTexture_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MaterialParamTexture_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MaterialParamTexture_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamBuffer_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamBuffer_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MaterialParamBuffer_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MaterialParamBuffer_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamString_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MaterialParamString_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MaterialParamString_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MaterialParamString_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceString> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Deallocate
+ATI_DST16
+ATI_DST24
+X360_DST16
+X360_DST24
+X360_DST24F
+LINEAR_BGRX8888
+LINEAR_RGBA8888
+LINEAR_ABGR8888
+LINEAR_ARGB8888
+LINEAR_BGRA8888
+LINEAR_RGB888
+LINEAR_BGR888
+LINEAR_BGRX5551
+LINEAR_I8
+LINEAR_RGBA16161616
+LE_BGRX8888
+LE_BGRA8888
+RG1616F
+RG3232F
+RGBX8888
+NV_NULL
+RGBA1010102
+BGRA1010102
+LINEAR_D24S8
+D24X4S4
+D16_SHADOW
+D24X8_SHADOW
+RGBA16161616_EDRAM
+RGBA1010102F_EDRAM
+R16F_EXPAND
+RG1616F_EXPAND
+RGBA16161616F_EXPAND
+RGBA16161616F_EDRAM_RGBA1010102F
+RGBA16161616F_EXPAND_EDRAM_RGBA1010102F
+RGBA16161616_EDRAM_RGBA16161616
+DXT5_NM
+RGBA8888_LINEAR
+BGRA8888_LINEAR
+BGRX8888_LINEAR
+RGBX555
+RGBA8888
+ABGR8888
+RGB888_BLUESCREEN
+BGR888_BLUESCREEN
+ARGB8888
+BGRA8888
+BGRX8888
+BGRX5551
+BGRA4444
+DXT1_ONEBITALPHA
+BGRA5551
+UVWQ8888
+RGBA16161616F
+RGBA16161616
+UVLX8888
+RGB323232F
+RGBA32323232F
+NV_DST16
+NV_DST24
+NV_INTZ
+NV_RAWZ
+c:\buildslave\vrgdc2015_staging_win64\build\src\bitmap\imageformat.cpp
+ImageLoader::ImageFormatInfo
+fmt >= IMAGE_FORMAT_UNKNOWN && fmt < NUM_IMAGE_FORMATS
+c:\buildslave\vrgdc2015_staging_win64\build\src\bitmap\texturepacker.cpp
+CTexturePacker::InsertRect
+nodeIndex != m_Tree.InvalidIndex()
+IsLeftChild( nodeIndex, leftChildIndex )
+IsRightChild( nodeIndex, rightChildIndex )
+m_Tree.Parent( leftChildIndex ) == m_Tree.Parent( rightChildIndex )
+m_Tree.Parent( leftChildIndex ) == nodeIndex
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlntree.h
+CUtlNTree<struct CTexturePacker::TreeEntry_t,int>::FirstChild
+IsInTree(i)
+CUtlNTree<struct CTexturePacker::TreeEntry_t,int>::NextSibling
+CUtlNTree<struct CTexturePacker::TreeEntry_t,int>::Parent
+CUtlNTree<struct CTexturePacker::TreeEntry_t,int>::LinkChildAfter
+IsInTree(elem)
+CUtlNTree<struct CTexturePacker::TreeEntry_t,int>::Unlink
+CUtlNTree<struct CTexturePacker::TreeEntry_t,int>::AllocInternal
+m_MaxElementIndex != INVALID_NTREE_IDX
+CUtlNTree overflow!
+Unaccounted
+CUtlMemory<struct CUtlNTree<struct CTexturePacker::TreeEntry_t,int>::Node_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+ResourceCompilerSystem001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderUtils_001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+@fff>fff>fff>fff>
+c:\buildslave\vrgdc2015_staging_win64\build\src\mathlib\mathlib_base.cpp
+_VectorNormalizeFast
+fabs( vec.LengthSqr() - 1.0f ) < 1e-3
+VectorTransform
+in1 != out
+MathLib_Init
+SSE and SSE2 are required.
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\resourcefile.cpp
+pHeader->m_nHeaderVersion == RESOURCE_FILE_HEADER_VERSION
+Resource_GetBlock
+Resource_GetBlockEntry
+ERROR: Could not find schema data for helper class for resource type %lld '%s'. (Missing MDiskDataForResourceType metadata or schema data isn't loaded?)
+FindDiskDataClassForResourceType
+[Disk class %d/%d] Name = '%s'; Project = '%s'; Binary = '%s'
+ERROR: Multiple classes registered as disk data for resource type %lld '%s'. (Should only have one class MDiskDataForResourceType - %d listed above.)
+MResourceVersion
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\resourcesystemhelpers.h
+CResourceAllocatorUtils::AssumeControl
+pData == m_pData
+Resource %s
+TypeManager
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\introspectedtypemanager.cpp
+CBaseIntrospectedTypeManager::SetDiskDataBinding
+pDiskDataClassBinding != NULL
+Failed to call CBaseIntrospectedTypeManager::SetDiskDataBinding
+CBaseIntrospectedTypeManager::Init
+Failed to call CBaseIntrospectedTypeManager::Init
+CBaseIntrospectedTypeManager::AllocateResource
+Error loading resource "%s" (Invalid resource version: %d != %d)
+WARNING: Missing introspection manifest for file: %s
+WARNING: Missing data block for file: %s
+ERROR: Problem allocating permanent data for resource in file '%s'. See above for reason(s)
+WARNING: Problems encounted with external references in resource '%s'. See above for reason(s)
+FixupResourceName: Illegal full path passed in ("%s")!
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
+FixupResourceName: Illegal path, missing extension passed in ("%s")!
+CResourceStream::EnsureAvailable
+nAddCapacity < 0x40000000
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\resourcestream.cpp
+CResourceStreamFixed: trying to write past the end of allocated memory (new commit %u, allocated %u)
+CResourceStreamFixed::Commit
+Wrong alignment %d
+CResourceStream::Align
+MResourceTypeForInfoType
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\resourcehandle.h
+ResourceRelease
+g_pResourceSystem
+hResource->m_nDeferredCount <= hResource->m_nRefCount
+hResource->m_nDeferredCount > 0
+hResource->m_nRefCount > 0
+hResource->m_nDeferredCount < hResource->m_nRefCount
+hResource->m_nDeferredCount >= 0
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\weakhandle.h
+GetResourceTypeOfWeakHandle
+pAtomicType
+pParamClass && pParamClass->GetClass()
+Cannot determine resource type for handle '%s' - schema data not loaded for the referred-to type?
+%s : %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\externalreferences.cpp
+CExtrefTraversal::VisitRelevantField
+IsRelevantFieldType( pFieldType )
+IsResourceWeakHandle( pHandleType )
+!IsRelevantFieldType( pFieldType )
+UpdateResourceIdForUGC
+pReferencedResourceName == NULL
+pReferencedResourceName != NULL
+Deferred
+Schema Field
+CResourceReferenceFixupTraversal::HandleExtref
+nResourceType != RESOURCE_TYPE_NONE
+(size_t)hResource % 4 == 0
+Failed to fix resource reference '%s' (%s)- ID = %016llX, Expected in: '%s'
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlhash.h
+CUtlScalarHash<void const *,class CDefaultHash32>::Init
+m_dataCount==0
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemadatatraversal.h
+SchemaRecurseData
+Unhandled field type for field '%s': '%s' (Why did it pass SchemaRecurseType?)
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemadatatraversal.cpp
+CSchemaVisitorInfoMapBase::LookupClass
+pResult->State() == VISIT_INFO_STATE_COMPLETE
+CUtlScalarHash<void const *,class CDefaultHash32>::Insert
+uiKey != (uint)InvalidHandle()
+Unaccounted
+CUtlMemory<struct CClassVisitInfo::FieldInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemaiterator.cpp
+CSchemaInheritanceIterator::PopulateTraversal_R
+nTraversalOffset == 0
+CSchemaFieldIterator::Reset
+!IsSingleFieldRestricted()
+CSchemaFieldIterator::Advance
+CSchemaFieldIterator::GetFieldMemoryOffset
+CSchemaFieldIterator::GetRawFieldHandle
+Unaccounted
+CUtlMemory<struct CSchemaInheritanceIterator::ClassToTraverse_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+c:\buildslave\vrgdc2015_staging_win64\build\src\texturedictionary\texturedictionary.cpp
+matsystemtexture_%s_%lld.vtex
+CMatSystemTexture::SetSubTextureRGBA
+m_hTexture != RENDER_TEXTURE_HANDLE_INVALID
+CMatSystemTexture::SetSubTextureRGBA(249): 
+CMatSystemTexture::SetFromUnknownHandle
+hResource != RESOURCE_HANDLE_INVALID
+Texture dictionary loading texture "%s" directly
+CMatSystemTexture::SetMaterial
+SetTextureRGBA: Invalid texture id %i
+SetSubTextureRGBA: Invalid texture id %i
+CTextureDictionary::ProcessDeferredResourceLoading()
+CTextureDictionary::ProcessDeferredResourceLoading
+CTextureDictionary::ProcessDeferredResourceLoading() must be run from the main thread
+CTextureDictionary::LoadDeferredIdNOW() blocking load of "%s"
+CTextureDictionary::LoadDeferredIdNOW()
+CTextureDictionary::LoadDeferredIdNOW
+CTextureDictionary::LoadDeferredIdNOW() needs a pass to make it work outside the main thread.
+BindTextureToFile: Invalid texture id for file %s
+CTextureDictionary::BindTextureToFile
+BindTextureToFile: Invalid texture id %d
+BindTextureToTextureHandle: Invalid texture id %d
+CTextureDictionary::GetTextureSize()
+CTextureDictionary::GetTextureSize() blocking load
+CTextureDictionary::GetTextureSize() texture "%s" has no handles to load. And therefore no size
+CTextureDictionary::GetTextureSize::<lambda_6e9c4c8151e484afe712f112dd69d8bf>::operator ()
+texEntry.TestForStreamingFinish( true )
+CTextureDictionary::GetTextureSize() failed to finish streaming "%s" for size information. %s %s %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utllinkedlist.h
+CUtlLinkedList<class CMatSystemTexture,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<class CMatSystemTexture,unsigned short>,unsigned short> >::RemoveAll
+m_Head == InvalidIndex()
+m_Tail == InvalidIndex()
+m_ElementCount == 0
+CUtlLinkedList<class CMatSystemTexture,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<class CMatSystemTexture,unsigned short>,unsigned short> >::Free
+IsValidIndex(elem) && IndexInRange( elem )
+CUtlLinkedList<class CMatSystemTexture,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<class CMatSystemTexture,unsigned short>,unsigned short> >::LinkBefore
+IsValidIndex(elem)
+IsInList(before)
+CUtlLinkedList<class CMatSystemTexture,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<class CMatSystemTexture,unsigned short>,unsigned short> >::Unlink
+CUtlLinkedList<class CMatSystemTexture,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<class CMatSystemTexture,unsigned short>,unsigned short> >::AllocInternal
+!multilist || ML
+m_Memory.IsValidIterator( m_LastAlloc ) || m_ElementCount == 0
+m_Memory.IsValidIterator( it )
+CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)
+Unaccounted
+CUtlMemory<struct CTextureDictionary::DeferredResourceLoads_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+texturedictionary
+Unaccounted
+CUtlMemory<struct CTextureDictionary::PendingManifest_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+texturedictionary
+Unaccounted
+CUtlMemory<struct HResourceManifest__ *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+texturedictionary
+Unaccounted
+CUtlMemory<struct UtlLinkedListElem_t<class CMatSystemTexture,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+texturedictionary
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strncmp
+count >= 0
+Unaccounted
+_V_strncmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_strcmp
+V_strncasecmp
+Unaccounted
+V_strncasecmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strnicmp
+V_atoi64
+V_stristr
+pSearch
+_V_strncpy
+maxLen >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+V_vsnprintf
+V_vsnprintfRet
+_V_strncat
+destBufferSize >= 0
+_V_FileBase
+maxlen >= 1
+V_StripTrailingSlash
+_V_StripLastDir
+len < maxlen
+_V_AppendSlash
+V_AppendSlash: ran out of space on %s.
+V_SplitString2
+outStrings.Count() == 0
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\byteswap.h
+CByteswap::SwapBufferToTargetEndian
+outputBuffer
+@X@.dll
+VALVE-MODULE-DEBUG-%08X
+%s/bin/%s
+BuiltDebug
+-allowdebug
+Module %s is a debug build
+Sys_LoadModule
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\interface.cpp
+CreateInterface
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\mempool.cpp
+CUtlMemoryPoolBase::CUtlMemoryPoolBase
+IsPowerOfTwo( m_nAlignment )
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase::AddNewBlob
+!"CUtlMemoryPoolBase::AddNewBlob: mode == UTLMEMORYPOOL_GROW_NONE"
+Failed to allocate CUtlMemoryPoolBase blob of size %d ('%s' blob count = %d)
+m_pHeadOfFreeList
+CUtlMemoryPoolBase::Alloc
+!"CUtlMemoryPoolBase::Alloc: ran out of memory"
+()$^.*+?[]|\-{},:=!
+generic
+unknown error
+iostream
+iostream stream error
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+string too long
+invalid string position
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+CCommand::Tokenize: Encountered command which overflows the tokenizer buffer.. Skipping!
+CCommand::Tokenize
+m_nArgv0Size != 0
+CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clamped!
+nArgvBufferSize <= COMMAND_MAX_LENGTH
+*** ConCommand "%s" (%p) was not unregistered! Shutdown crash imminent!
+ConCommand::Dispatch
+Encountered ConCommand '%s' without a callback!
+ConCommand::AutoCompleteSuggest
+m_pParent->m_fnCompletionCallback
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+Unaccounted
+CUtlMemory<struct ConCommand::CallbackInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::Find
+Unaccounted
+CUtlSymbolTable::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::AddString
+Unaccounted
+CUtlSymbolTable::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbolTable::AddString
+pPool->m_SpaceUsed < 0xFFFF
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::Insert
+!"Allowing insert of dupe without explicit dupe insertion. Fix code callpoint to allow dupes."
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct CUtlSymbolTable::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+CUtlBuffer::CUtlBuffer
+nSize != 0
+CUtlBuffer::Get
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + size - 1 )
+CUtlBuffer::GetString
+nMaxChars > 0
+(GetChar()) == (0)
+CUtlBuffer::PeekGet
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + nMaxSize - 1 )
+CUtlBuffer::ParseToken
+nMaxLen > 0
+CUtlBuffer::Put
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf
+CUtlBuffer::AddNullTermination
+m_Memory.IsIdxValid( Index )
+UPDATE_STRING_TOKEN_DATABASE
+unknown
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\keyvalues.cpp
+CKeyValues_Data::Internal_SetSubKey::<lambda_dfee2f515a6a5adff42b5f68583e88d3>::operator ()
+m_iDataType == TYPE_NONE
+CKeyValues_Data::Internal_ClearData
+!m_bStoredSubKey
+KeyValues::GetName
+Member function called on NULL KeyValues
+KeyValues::FindKey
+KeyValues::FindKey called on NULL pointer!
+!bCreate
+size >= 0
+size < 1024 * 1024
+KeyValues::GetFirstValue
+KeyValues::GetNextValue
+CKeyValues_Data::Internal_GetInt
+CKeyValues_Data::Internal_GetString
+#include
+Unaccounted
+CUtlMemory<char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+D"A/oyu
+	6RtcZO"
+z`%1Is}
+VScript
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\schemabindings.cpp
+InstallSchemaBindings
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+_feature
+c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\vfx_common.cpp
+VfxInit
+*** VfxInit(80): Don't call VfxInit() more than once!
+*** VfxInit(81): Don't call VfxInit() more than once!
+*** VfxInit(90): g_pFullFileSystem must be set up before calling VfxInit!
+*** VfxInit(91): g_pFullFileSystem must be set up before calling VfxInit!
+shaders\vfx\
+=	 ();,
+*** Error masking unused parts! Equal sign not found after token "%s"! (line %d)
+FEATURES
+struct VS_INPUT
+struct PS_INPUT
+struct GS_INPUT
+struct HS_INPUT
+struct DS_INPUT
+struct HS_OUTPUT
+struct DS_PATCH_CONSTANT_INPUT
+struct HS_PATCH_CONSTANTS
+*** Error masking unused parts! Unknown text found. This is usually caused by a '{' or '}' not tabbed properly or an invalid declaration at the global scope. (line %d):
+SHADER_SOURCE
+*** VfxReadAndPrepForCrc(1081): Error opening file "%s"!
+*** VfxReadAndPrepForCrc(1091): Error masking unused parts for "%s"!
+Unknown DX level
+SHADER_SOURCE_ROOT
+*** VfxGetCompileTargetsFromVfxFile(1240): Error opening file "%s"!
+*** Error masking unused parts for "%s"!
+%s: Warning: No compile targets specified! Shader will not be compiled!
+*** VfxGetUsedShaderProgramsFromVfxFile(1317): Error opening file "%s"!
+______<INVALID>______
+PC_SM_3_0
+PC SM 3.0
+PC_SM_4_0
+PC SM 4.0 (D3D10)
+PC_SM_4_1
+PC SM 4.1 (D3D10.1)
+PC_SM_5_0
+PC SM 5.0 (D3D11)
+PC_SM_3_0_GL
+PC SM 3.0 (GLSL)
+PC_SM_4_0_GL
+PC SM 4.0 (GLSL)
+PC_SM_4_1_GL
+PC SM 4.1 (GLSL)
+PC_SM_5_0_GL
+PC SM 5.0 (GLSL)
+PC_SM_3_0_VULKAN
+PC SM 3.0 (VULKAN)
+PC_SM_4_0_VULKAN
+PC SM 4.0 (VULKAN)
+PC_SM_4_1_VULKAN
+PC SM 4.1 (VULKAN)
+PC_SM_5_0_VULKAN
+PC SM 5.0 (VULKAN)
+CVfxVariableDescription::RemapVariableIndices
+m_nChannelInfoIndex[i] >= 0
+*** Error! Multiple dynamic combos are putting the same constant (%s) in different locations. This shouldn't happen.
+Expecting compressed combo data
+CVfxStaticComboData::Unserialize
+Error decompressing static combo data
+CVfxProgramData::CalcStaticComboIdFromValues
+staticComboValues.Count() == m_staticComboArray.Count()
+%s: Input vector has incorrect length
+staticComboValues[i] >= m_staticComboArray[i].m_nMin
+Programmer Error! Static combo value not in range!
+staticComboValues[i] <= m_staticComboArray[i].m_nMax
+m_staticComboArray[i].m_nComboIndexValue > 0
+Programmer Error! Static combo array not initialized properly!
+VfxPopulateStaticComboDataCacheFromVcs
+( programType >= VFX_PROGRAM_FEATURE ) && ( programType < VFX_PROGRAM_MAX )
+CVfxProgramData::FindOrLoadStaticComboData(2989): Error! Ref count !=0 for static combo data cache entry!
+Error loading static combo data from VCS file!
+CVfxProgramData::FindOrAddVsInputSignatureToArray
+%s(): Trying to add an empty VS input signature
+Static combos:
+   %s 0..0
+   None
+   StaticComboRule( 
+ChildOf( 
+Requires%d( 
+Allow%d( 
+Dynamic combos:
+   DynamicComboRule( 
+Total Combos Before Rules: %15s ( %s Static, %s Dynamic )
+Total Combos After Rules:  %15s ( %s Static, 
+Dynamic )
+Skipped %d%% of all combos
+ChildOf
+*** Error! ChildOf is only allowed in FeatureRules! %s
+Requires
+Requires%d
+*** Error parsing RequiresN rule in %s!
+*** Error parsing RequiresN rule in %s! N must be >= 1!
+Allow%d
+*** Error parsing AllowN rule in %s!
+*** Error parsing AllowN rule in %s! N must be >= 0!
+*** Unknown rule "%s" in %s!
+*** Error! Too many args found in rule in %s!
+*** Error parsing ==N for rule in %s!
+*** Error parsing ==N for rule in %s! Not allowed on ChildOf. Use RequiresN instead.
+*** Error parsing ==N for rule in %s! AllowN args not allowed to have ==0!
+*** Error parsing ==N for rule in %s! First arg to RequiresN cannot be ==0!
+*** Error parsing arg for rule in %s! Found unexpected character '%c'. The only allowed arg modifier is '=='.
+*** Error! Could not find feature with name "%s" in %s!
+*** Error! Could not find feature or static combo with name "%s" in %s!
+*** Error! Could not find static or dynamic combo with name "%s" in %s!
+*** Error! Too many or too few arguments to a rule in %s!
+*** Error! Rule error string must be quoted in %s!
+*** Error! AllowN rule in %s must have at least one arg type match the rule type!
+*** Error! AllowN rule in %s has out-of-order args! Args must be ordered: Features, Static Combos, Dynamic Combos!
+*** Error! AllowN rule in %s must have all args after N be 0..x!
+*** Error! ChildOf and Requires rule in %s must have first arg type match rule type!
+*** Error! ChildOf and Requires rule in %s must have first arg be 0..x!
+*** CVfx::ParseModesFromFile(4350): Error opening file "%s"!
+*** Error parsing mode "%s"! Modes require arguments in the form Name( arg )!
+*** Error parsing mode "%s"! Modes can either fallback to a different shader or set static combo values, but not both!
+*** Mode "%s" in %s is missing an option!
+*** Error parsing =N for mode %s in %s!
+*** Error parsing modes for %s! You need at least 1 mode. Use "Default();" if you don't need specific mode support.
+*** CVfx::ParseFeaturesFromFile(4484): Error opening file "%s"!
+FeatureRule
+Feature
+*** A feature in %s doesn't start with "F_"! Aborting shader compile!
+*** Found feature "%s" multiple times in %s!
+*** Feature "%s" in %s does not follow the 0..N format!
+*** Feature "%s" in %s has min(%d) > max(%d)!
+*** Feature "%s" in %s has min(%d) == max(%d)! Features must have a valid range!
+0123456789)"
+*** Feature "%s" in %s requires string to be N="String" where N = combo value for arg %d!
+*** Feature "%s" in %s has a string index out of order!
+*** Feature "%s" in %s is missing an option!
+*** Feature "%s" in %s is missing an option string!
+*** Feature "%s" in %s is missing string options! Ex: 0..2( "a", "b", "c" )
+*** Unknown text found in FEATURES section in %s: "%s"
+*** CVfx::ParseDevBoolFromFile(4715): Error opening file "%s"!
+*** CVfx::ParseVersionFromFile(4749): Error opening file "%s"!
+*** Unable to parse Version in HEADER section of %s!
+*** CVfx::ParseDescriptionFromFile(4788): Error opening file "%s"!
+*** Error in "%s" - description block can only contain strings!
+*** Error in "%s" - expecting '"'
+*** CVfx::ParseCombosAndRulesFromFileHelper(4892): Error opening file "%s"!
+StaticComboRule
+DynamicComboRule
+StaticCombo
+DynamicCombo
+DynamicComboFromFeature
+*** A static combo in %s doesn't start with "S_"! Aborting shader compile!
+*** A dynamic combo in %s doesn't start with "D_"! Aborting shader compile!
+*** Dynamic combo "%s" in %s cannot refer to a feature! Only static combos can refer to features.
+*** Combo "%s" in %s has arg %s that doesn't match an existing feature!
+*** Combo "%s" in %s does not follow the 0..N format and doesn't match an existing feature!
+*** Combo "%s" in %s has max(%d) > min(%d)!
+*** Combo "%s" in %s has incorrect range %d..%d. Expecting %d..%d!
+*** Combo "%s" in %s doesn't match a known combo source!
+*** Combo "%s" in %s either does not follow the 0..N format, is not a valid dynamic combo name, or doesn't match an existing feature or mode argument!
+*** Combo "%s" in %s requires a 3rd argument: Sys( ... )
+*** Found combo "%s" multiple times in %s declared differently!
+CVfx::StartupSanityCheck
+*** CVfx::StartupSanityCheck(5355): Programmer Error! The order of VfxVariableSourceType_t does not match s_shaderVariableSource!
+*** CVfx::StartupSanityCheck(5356): Programmer Error! The order of VfxVariableSourceType_t does not match s_shaderVariableSource!
+Error parsing supported compile targets from vfx file "%s"
+Shader %s doesn't support compile target %s
+*** Mode "%s" in %s references static combo %s that doesn't exist in any program!
+Error! Cannot find GAME\%s file in current search paths! If this is a new shader, you must run vfxcompile.exe at least once, and then reload shaders.
+VCS file format is "%c%c%c%c" instead of "%c%c%c%c" for %s
+VCS file version is %d instead of %d for %s
+No valid vcs file found for shader %s
+CVfx::CreateFromVcs(5970): Error opening file %s
+MD5 match on %s, loading from vcs
+MD5 mismatch on %s, will load from vfx instead.
+Program MD5 is out of date with features! %s
+CVfx::ValidateMD5FromVcs(6127): Error opening file %s
+CVfx::ValidateMD5FromVcs(6134): Error calling SkipAndValidateVCSHeader() for %s
+Program MD5 is out of date with features! If you recompiled shaders in the background, reload shaders now! %s
+CVfx::ApplyRules
+loop != 99
+Vfx Error: attribute type does not exist or does not support attribute literals.
+CUtlRBTree<struct CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,int,class CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,int>,int> >::Find
+CUtlRBTree<struct CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,int,class CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,int>,int> >::FindInsertionPosition
+Unaccounted
+CUtlMemory<struct VsInputSignatureElement_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct VfxVariableIndexData_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CVfxShaderAttribute,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CVfxCombo,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CVfxRule,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CVfxVariableDescription,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CVfxTextureChannelProcessor,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct ConstantBufferDescription_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CCopyableUtlVector<struct VsInputSignatureElement_t>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CVfxStaticComboData,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<unsigned __int64,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CVfxModeSettings,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CVfxMode,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<enum VfxCompileTarget_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+CUtlRBTree<struct CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,int,class CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,int>,int> >::NewNode
+CUtlRBTree<struct CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,int,class CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,int>,int> >::RemoveAll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,unsigned int,int,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct ConstantBufferVariable_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CVfxVariableIndexArray,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct ConstantBufferBindInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct RsRasterizerStateHandle_t__ *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct RsDepthStencilStateHandle_t__ *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct RsBlendStateHandle_t__ *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<unsigned int,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class CVfxStaticComboVcsEntry,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<bool,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+LESS_EQUAL
+GREATER
+NOT_EQUAL
+GREATER_EQUAL
+USER_CONFIG
+WIREFRAME
+SUBTRACT
+REV_SUBTRACT
+SRC_COLOR
+INV_SRC_COLOR
+SRC_ALPHA
+INV_SRC_ALPHA
+DEST_ALPHA
+INV_DEST_ALPHA
+DEST_COLOR
+INV_DEST_COLOR
+SRC_ALPHA_SAT
+BLEND_FACTOR
+SRC1_COLOR
+INV_SRC1_COLOR
+SRC1_ALPHA
+INV_SRC1_ALPHA
+REPLACE
+INCR_SAT
+DECR_SAT
+AUTOMATIC
+MIN_MAG_MIP_POINT
+MIN_MAG_POINT_MIP_LINEAR
+MIN_POINT_MAG_LINEAR_MIP_POINT
+MIN_POINT_MAG_MIP_LINEAR
+MIN_LINEAR_MAG_MIP_POINT
+MIN_LINEAR_MAG_POINT_MIP_LINEAR
+MIN_MAG_LINEAR_MIP_POINT
+MIN_MAG_MIP_LINEAR
+ANISOTROPIC
+COMPARISON_MIN_MAG_MIP_POINT
+COMPARISON_MIN_MAG_POINT_MIP_LINEAR
+COMPARISON_MIN_POINT_MAG_LINEAR_MIP_POINT
+COMPARISON_MIN_POINT_MAG_MIP_LINEAR
+COMPARISON_MIN_LINEAR_MAG_MIP_POINT
+COMPARISON_MIN_LINEAR_MAG_POINT_MIP_LINEAR
+COMPARISON_MIN_MAG_LINEAR_MIP_POINT
+COMPARISON_MIN_MAG_MIP_LINEAR
+COMPARISON_ANISOTROPIC
+BILINEAR
+TRILINEAR
+NEAREST
+MIRROR_ONCE
+saturate
+smoothstep
+SrgbLinearToGamma
+SrgbGammaToLinear
+normalize
+TextureSize
+Expression Parser - 
+%s[line %d:%d] 
+Expecting %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\vfx_expression_parser.cpp
+VfxEval
+nTop >= 1
+nTop >= 2
+Wrong number of args left on stack!
+c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\vfx_render_state.cpp
+VfxSetStateInRasterizerDesc
+VfxSetStateInDepthStencilDesc
+VfxSetStateInBlendDesc
+*** Error adding variable to array!
+c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\vfx_compile_helpers.cpp
+VfxAddShaderVariablesToProgramVariableArray
+*** Problem remapping texture reference!
+*** Error adding constant buffer to array!
+VfxAddConstantBuffersToProgramConstantBufferArray
+firstrenderstatelement < 0 : i = %d, frse = %d
+VfxRemoveUnnecessaryEntriesFromVariableIndexArray
+variableIndexArray.m_nFirstRenderStateElement >= 0
+variableIndexArray.m_nFirstConstantElement >= 0
+c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\vfx_compile_target_expr.cpp
+CCompileTargetExprStackMachineBuilder::AddFloatLiteral
+CCompileTargetExprStackMachineBuilder::AddElementAccess
+VfxParseCompileTargetExpr c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\vfx_compile_target_expr.cpp
+Compile Target Expression
+VfxParseCompileTargetExpr(97): : Failed to create input stream from "%s"
+VfxParseCompileTargetExpr(105): : Failed to create lexer from "%s"
+VfxParseCompileTargetExpr(113): : Failed to create token stream from "%s"
+VfxParseCompileTargetExpr(121): : Failed to create parser from "%s"
+Lexer encountered %i errors parsing compile targets expression "%s"
+Parser encountered %i errors parsing compile targets expression "%s"
+Error resolving symbol "%s"
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlstackmachine.h
+UtlExecuteStackMachineProgamSimple
+c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\vfxexpr.g
+1:1: Tokens : ( T__18 | T__19 | T__20 | T__21 | T__22 | T__23 | T__24 | T__25 | T__26 | T__27 | T__28 | T__29 | T__30 | T__31 | T__32 | T__33 | T__34 | T__35 | T__36 | T__37 | T__38 | T__39 | T__40 | T__41 | BOOLLITERAL | ID | INTEGERLITERAL | HEXINTEGERLITERAL | FLOATLITERAL | COMMENT | WS );
+Mismatched set
+Early exit
+INTEGERLITERAL
+HEXINTEGERLITERAL
+FLOATLITERAL
+BOOLLITERAL
+HEX_DIGIT
+EXPONENT
+FLOATSUFFIX
+COMMENT
+UNICODE_ESC
+OCTAL_ESC
+ESC_SEQ
+'return'
+'exists'
+c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\vfxexpr.g
+c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\generated_antlr_code\vfxexprparser.c
+c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\compiletargetexpr.g
+c:\buildslave\vrgdc2015_staging_win64\build\src\vfx\generated_antlr_code\compiletargetexprparser.c
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+?E=$% B
+?49HoKC
+?UUUUUU
+AUUUUUU
+?UUUUUU
+Unknown exception
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+-9D	/9a
+?3ScR.>
+?gibQ^AX>
+WR_l%2>
+)2STud>
+J\;5yTb
+<8bunz8
+<@En[vP
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+?8bunz8
+?@En[vP
+?UUUUUU
+@^8U)zj
+bad exception
+X 843"8
+5m8>8=t
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+wchar_t
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+_nextafter
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+-memory-
+lexer->mTokens(): Error: No lexer rules were added to the lexer yet!
+-unknown source-(
+: lexer error %d :
+	%s at offset %d, 
+near '%c' :
+near char(%#02X) :
+(end of input).
+	 This indicates a poorly specified lexer RULE
+	 or unterminated input element such as: "STRING["]
+	 The lexer was matching from line %d, offset %d, which
+looks like this:
+is also the end of the line, so you must check your lexer rules
+Mismatched Token Exception
+Base recognizer function antlr3RecognitionExceptionNew called by unknown parser type - provide override for this function
+Recognition Exception
+Unexpected character
+Unexpected token
+-unknown source-
+Unexpected node
+Base recognizer function 'match' called by unknown parser type - provide override for this function
+Base recognizer function 'matchAny' called by unknown parser type - provide override for this function
+Base recognizer function 'mismatch' called by unknown parser type - provide override for this function
+Extraneous token
+Missing token
+-end of input-(
+ : error %d : %s
+, at offset %d
+, at <EOF>
+<no text for the token>
+    near %s
+, near %s
+Base recognizer function displayRecognitionError called by unknown parser type - provide override for this function
+ : Extraneous input...
+ : Extraneous input - expected <EOF>
+ : Extraneous input - expected %s ...
+ : Missing token (%d)...
+ : Missing <EOF>
+ : Missing %s 
+ : syntax error...
+ : expected <EOF>
+ : expected %s ...
+ : cannot match to any predicted input...
+ : unexpected input...
+  expected one of : 
+Actually dude, we didn't seem to be expecting anything here, or at least
+I could not work out what I was expecting, like so many of us these days!
+ : missing elements...
+ : syntax not recognized...
+Base recognizer function recover called by unknown parser type - provide override for this function
+Base recognizer function recoverFromMismatchedToken called by unknown parser type - provide override for this function
+Base recognizer function recoverFromMismatchedSet called by unknown parser type - provide override for this function
+Base recognizer function 'consumeUntil' called by unknown parser type - provide override for this function
+Base recognizer function 'consumeUntilSet' called by unknown parser type - provide override for this function
+Base recognizer function 'alreadyParsedRule' called by unknown parser type - provide override for this function
+Base recognizer function consumeUntilSet called by unknown parser type - provide override for this function
+Base recognizer function 'synPred' called by unknown parser type - provide override for this function
+<missing 
+[Index: 
+ (Start: 
+-Stop: 
+', type<
+(channel = 
+ LinePos:
+ANTLR3_EXCEPTION number %d (%08X).
+ANTLR3_EXCEPTION: %s
+							
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\lzmadecoder.cpp
+CLZMA::Uncompress
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstackmachine.cpp
+CUtlStackMachineBuilder::AddOperator
+op != INVALID_OPERATOR
+CUtlStackMachineBuilder::GetLocationForTempVariable
+nIdx < 256
+CIntOpEvaluator::Evaluate
+Unknown operator!
+CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\utlstreambuffer.cpp
+CUtlStreamBuffer::CUtlStreamBuffer
+CUtlStreamBuffer::Close
+CUtlStreamBuffer::Close() Unable to open file %s!
+CUtlStreamBuffer::Close() Write %s failed %d != %d.
+CUtlStreamBuffer::StreamPutOverflow
+File has not been opened!
+CUtlStreamBuffer::ReadBytesFromFile
+Unable to read file %s!
+CUtlStreamBuffer::StreamGetOverflow
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+c:\buildslave\vrgdc2015_staging_win64\build\src\materialsystem2\Release\win64\materialsystem2.pdb
+materialsystem2.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+antlr3BaseRecognizerNew
+antlr3BitsetCopy
+antlr3BitsetList
+antlr3BitsetLoad
+antlr3BitsetNew
+antlr3BitsetOf
+antlr3BitsetSetAPI
+antlr3CommonTokenDebugStreamSourceNew
+antlr3CommonTokenNew
+antlr3CommonTokenStreamNew
+antlr3CommonTokenStreamSourceNew
+antlr3EnumNew
+antlr3ExceptionNew
+antlr3Hash
+antlr3HashTableNew
+antlr3IntStreamNew
+antlr3IntTrieNew
+antlr3LexerNew
+antlr3LexerNewStream
+antlr3ListNew
+antlr3MTExceptionNew
+antlr3NewAsciiStringCopyStream
+antlr3NewAsciiStringInPlaceStream
+antlr3NewUCS2StringInPlaceStream
+antlr3ParserNew
+antlr3ParserNewStream
+antlr3ParserNewStreamDbg
+antlr3RecognitionExceptionNew
+antlr3SetTokenAPI
+antlr3SetVectorApi
+antlr3StackNew
+antlr3StringFactoryNew
+antlr3TokenFactoryNew
+antlr3TokenStreamNew
+antlr3UCS2StringFactoryNew
+antlr3VectorFactoryNew
+antlr3VectorNew
+antlr3dfapredict
+antlr3dfaspecialStateTransition
+antlr3dfaspecialTransition
+compiletargetexprLexerNew
+compiletargetexprLexerNewSSD
+compiletargetexprParserNew
+compiletargetexprParserNewSSD
+fillBufferExt
+vfxexprLexerNew
+vfxexprLexerNewSSD
+vfxexprParserNew
+vfxexprParserNewSSD
+CreateCompatibleDC
+CreateFontA
+DeleteDC
+DeleteObject
+GetCharABCWidthsA
+GetCharABCWidthsW
+GetGlyphOutlineA
+GetTextExtentPoint32A
+SelectObject
+SetBkColor
+SetBkMode
+SetMapMode
+SetTextColor
+SetTextAlign
+GetTextMetricsA
+CreateDIBSection
+MoveToEx
+ExtTextOutW
+GDI32.dll
+Plat_IsInDebugSession
+Plat_ExitProcess
+Plat_ShouldCollectMiniDumpsForFatalErrors
+MemZeroMemory
+CMemAllocSystemInitialize
+CommandLine
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+AssertMsg_ConditionFailed
+Warning
+?SeriousWarning@@YAXHPEBDZZ
+?Lock@CThreadFastMutex@@AECAXII@Z
+??0CThreadSpinRWLock@@QEAA@XZ
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?LockForWrite@CThreadSpinRWLock@@QEAAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+HangWatchdogInternal_BeginScope
+HangWatchdogInternal_EndScope
+g_pMemAlloc
+LOG_GENERAL
+g_Telemetry
+g_pGlobalMiniProfilers
+Plat_FloatTime
+LoggingSystem_RegisterLoggingChannel
+?LoggingSystem_IsChannelEnabled@@YA_NHW4LoggingVerbosity_t@@@Z
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@PEBULoggingMetaData_t@@PEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@PEBULoggingMetaData_t@@VColor@@PEBDZZ
+ThreadInMainThread
+??0CThreadMutex@@QEAA@XZ
+??1CThreadMutex@@QEAA@XZ
+?Lock@CThreadMutex@@QEAAXXZ
+Plat_DebugString
+GetCPUInformation
+ThreadSleep
+??0IStack_Annotation@@QEAA@AEBVCCallStackMarkerBase@@@Z
+??1IStack_Annotation@@UEAA@XZ
+tier0.dll
+RegisterStringToken
+RandomFloat
+KeyValuesSystem
+vstdlib.dll
+GetCurrentThreadId
+LeaveCriticalSection
+WideCharToMultiByte
+MultiByteToWideChar
+LCMapStringW
+CloseHandle
+WaitForSingleObject
+GetCurrentProcessId
+FreeLibrary
+GetProcAddress
+LoadLibraryExA
+CreateFileMappingA
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+GetDriveTypeW
+GetFullPathNameA
+GetLastError
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+ExitProcess
+GetModuleHandleExW
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+EnterCriticalSection
+DeleteCriticalSection
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetStringTypeW
+GetStdHandle
+GetFileType
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetCurrentDirectoryW
+GetLocaleInfoW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+OutputDebugStringW
+ReadFile
+ReadConsoleW
+SetStdHandle
+WriteConsoleW
+FlushFileBuffers
+CreateFileW
+KERNEL32.dll
+?DevWarning@@YAXPEBDZZ
+CreateSimpleThread
+ReleaseThreadHandle
+GetThreadedLoadLibraryFunc
+StackToolsNotify_LoadedModule
+StackToolsNotify_BeginLoadingModule
+StackToolsNotify_EndLoadingModule
+Plat_GetEnv
+position
+DXT1DXT3DXT5
+INTZRAWZDF16DF24ATI2ATI1
+0'>0c*>
+pb>pAf>
+-?[`/?291?
+RD?4KF?=GH?9FJ?8HL?
+a?y#c?sIe?
+0123456789ABCDEF
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AV?$CUtlMemory@PEADH@@
+.?AV?$CUtlMemory@EH@@
+.?AV?$CUtlMemory@UVsInputSignatureElement_t@@H@@
+.?AV?$CUtlMemory@VCBoolInitFalse@@H@@
+.?AV?$CUtlMemory@IH@@
+.?AV?$CUtlMemory@HH@@
+.?AV?$CUtlMemory@VCVfxShaderAttribute@@H@@
+.?AV?$CUtlMemory@VCVfxCombo@@H@@
+.?AV?$CUtlMemory@VCVfxRule@@H@@
+.?AV?$CUtlMemory@VCVfxVariableDescription@@H@@
+.?AV?$CUtlMemory@VCVfxTextureChannelProcessor@@H@@
+.?AV?$CUtlMemory@UConstantBufferDescription_t@@H@@
+.?AV?$CUtlMemory@V?$CCopyableUtlVector@UVsInputSignatureElement_t@@@@H@@
+.?AV?$CUtlMemory@VCVfxStaticComboData@@H@@
+.?AV?$CUtlMemory@_KH@@
+.?AV?$CUtlMemory@VCVfxStaticComboVcsEntry@@H@@
+.?AV?$CUtlMemory@VCVfxMode@@H@@
+.PEAU?$HashFixedDataInternal_t@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@@?$CUtlTSHashBase@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@$0IAA@PEAU1@V?$CCThreadsafeTreeHashMethod@$0IAA@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@$0A@@@VCThreadSpinRWLock@@@@
+.?AV?$CUtlMemory@PEAEH@@
+.?AV?$CUtlVectorBase@VCMaterialLayer@@V?$CUtlMemory@VCMaterialLayer@@H@@@@
+.?AV?$CUtlMemory@VCMaterialLayer@@H@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@VCMaterialParam@@V?$CUtlMemory@VCMaterialParam@@H@@@@V?$CUtlMemory@V?$CUtlVector@VCMaterialParam@@V?$CUtlMemory@VCMaterialParam@@H@@@@H@@@@
+.?AV?$CUtlMemory@V?$CUtlVector@VCMaterialParam@@V?$CUtlMemory@VCMaterialParam@@H@@@@H@@
+.?AV?$CUtlMemory@VCMaterialMode@@H@@
+.?AV?$CUtlVectorBase@VCMaterialParam@@V?$CUtlMemory@VCMaterialParam@@H@@@@
+.?AV?$CUtlVectorBase@UCommandBufferInfo_t@CMaterialLayer@@V?$CUtlMemoryFixedGrowable@UCommandBufferInfo_t@CMaterialLayer@@$0CA@H@@@@
+.?AV?$CUtlMemory@UCommandBufferInfo_t@CMaterialLayer@@H@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CThreadsafeTree@$0A@@@$0A@$0IAA@@@V?$CUtlMemory@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CThreadsafeTree@$0A@@@$0A@$0IAA@@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CThreadsafeTree@$0A@@@$0A@$0IAA@@@H@@
+.?AV?$CUtlMemory@VCMaterialParam@@H@@
+.?AV?$CUtlVectorBase@HV?$CUtlMemory@HH@@@@
+.?AV?$CUtlVectorBase@VCBoolInitFalse@@V?$CUtlMemory@VCBoolInitFalse@@H@@@@
+.?AV?$CUtlVectorBase@EV?$CUtlMemory@EH@@@@
+.?AV?$CUtlVectorBase@PEAEV?$CUtlMemory@PEAEH@@@@
+.?AV?$CUtlVectorBase@VCMaterialMode@@V?$CUtlMemory@VCMaterialMode@@H@@@@
+.?AVIMaterial2@@
+.?AVIMaterialMode@@
+.?AVIRenderShaderBuffer@@
+.?AVCUtlRenderShaderBuffer@@
+.?AVIRuntimeShaderCreateCallbacks@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVCMaterial2@@
+.?AVCMaterialLayer@@
+.?AVIMaterialLayer@@
+.?AVCMaterialMode@@
+.?AV?$ITSHashConstructor@PEAVCVfx@@@@
+.?AVCVfxConstructor@@
+.?AVCShaderCreateCallbacks@@
+.?AVCNullShaderCreateCallbacks@@
+.?AVIRefCounted@@
+.?AV?$CRefCountServiceBase@$00VCRefMT@@@@
+.?AVCFunctorData@@
+.?AV?$CRefCounted1@VCFunctorData@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@
+.?AVCFunctorData0@@
+.?AVCMaterialTypeManager@@
+.?AV?$CDefaultIntrospectedTypeManager@$0HEGBGNHG@UMaterialResourceData_t@@@@
+.?AVCBaseIntrospectedTypeManager@@
+.?AVIResourceTypeManager@@
+.PEAU?$HashFixedDataInternal_t@PEAVCVfx@@@?$CUtlTSHashBase@PEAVCVfx@@$0CA@_JV?$CUtlTSHashGenericHashMethod@_J@@VCThreadSpinRWLock@@@@
+.?AV?$CUtlVectorBase@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@
+.?AV?$CUtlMemory@VCUtlString@@H@@
+.?AV?$CUtlVectorBase@PEAURenderShaderHandle_t__@@V?$CUtlMemory@PEAURenderShaderHandle_t__@@H@@@@
+.?AV?$CUtlMemory@PEAURenderShaderHandle_t__@@H@@
+.?AV?$CUtlMemory@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@H@@
+.?AV?$CUtlVectorBase@P6AXXZV?$CUtlMemory@P6AXXZH@@@@
+.?AV?$CUtlMemory@P6AXXZH@@
+.?AV?$CUtlVectorBase@PEAVCMaterial2@@V?$CUtlMemory@PEAVCMaterial2@@H@@@@
+.?AV?$CUtlMemory@PEAVCMaterial2@@H@@
+.?AV?$CUtlVectorBase@PEADV?$CUtlMemoryFixedGrowable@PEAD$0EA@H@@@@
+.?AV?$CUtlVectorBase@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@V?$CUtlMemory@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@H@@@@
+.?AV?$CUtlMemory@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@H@@
+.?AV?$CUtlVectorBase@_JV?$CUtlMemory@_JH@@@@
+.?AV?$CUtlMemory@_JH@@
+.?AVIAppSystem@@
+.?AVIMaterialSystem2@@
+.?AVCMaterialSystem2@@
+.?AV?$CTier2AppSystem@VIMaterialSystem2@@$0A@@@
+.?AV?$CTier1AppSystem@VIMaterialSystem2@@$0A@@@
+.?AV?$CTier0AppSystem@VIMaterialSystem2@@@@
+.?AV?$CBaseAppSystem@VIMaterialSystem2@@@@
+.?AVCFontBase@@
+.?AVCBitmapFont@@
+.?AVCVFontTypeManager@@
+.?AV?$CDefaultIntrospectedTypeManager@$0HEGOGPGGHG@UVBitmapFontDiskData_t@@@@
+.?AV?$CUtlVectorBase@USFontRange@CFontAmalgam@@V?$CUtlMemory@USFontRange@CFontAmalgam@@H@@@@
+.?AV?$CUtlMemory@USFontRange@CFontAmalgam@@H@@
+.?AV?$CUtlVectorBase@USFontDescription@@V?$CUtlMemory@USFontDescription@@H@@@@
+.?AV?$CUtlVectorBase@VCFontAmalgam@@V?$CUtlMemory@VCFontAmalgam@@H@@@@
+.?AV?$CUtlVectorBase@UFontAlias_t@@V?$CUtlMemory@UFontAlias_t@@H@@@@
+.?AV?$CUtlMemory@UFontAlias_t@@H@@
+.?AV?$CUtlMemory@USFontDescription@@H@@
+.?AV?$CUtlMemory@VCFontAmalgam@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@VCFontAttributes@CFontManager@@VCFontInfo@2@HP6A_NAEBV12@0@Z@@H@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@GVCFontDataFile@CFontManager@@HP6A_NAEBG0@Z@@H@@H@@
+.?AV?$CUtlVectorBase@PEAUFontAliasList_t@@V?$CUtlMemory@PEAUFontAliasList_t@@H@@@@
+.?AV?$CUtlMemory@PEAUFontAliasList_t@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@VCFontAttributes@CFontManager@@VCFontInfo@2@HP6A_NAEBV12@0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@VCFontAttributes@CFontManager@@VCFontInfo@2@HP6A_NAEBV12@0@Z@@H@@H@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@GVCFontDataFile@CFontManager@@HP6A_NAEBG0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@GVCFontDataFile@CFontManager@@HP6A_NAEBG0@Z@@H@@H@@@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@V?$CUtlMemory@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_J@@_J@@
+.?AV?$CUtlRBTree@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_JV?$CTreeEntryLess@V?$CNonThreadsafeTree@$0A@@@$0A@@@V?$CUtlMemory@U?$UtlRBTreeNode_t@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_J@@_J@@@@
+.?AVIFontManager@@
+.?AVCFontManager@@
+.?AV?$CTier2AppSystem@VIFontManager@@$0A@@@
+.?AV?$CTier1AppSystem@VIFontManager@@$0A@@@
+.?AV?$CTier0AppSystem@VIFontManager@@@@
+.?AV?$CBaseAppSystem@VIFontManager@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UCacheEntry_t@CFontTextureCache@@G@@G@@
+.?AV?$CUtlVectorBase@UPage_t@CFontTextureCache@@V?$CUtlMemory@UPage_t@CFontTextureCache@@H@@@@
+.?AV?$CUtlMemory@UPage_t@CFontTextureCache@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@_KUPage_t@CFontTextureCache@@GP6A_NAEB_K0@Z@@G@@G@@
+.?AV?$CUtlRBTree@UCacheEntry_t@CFontTextureCache@@GP6A_NAEBU12@0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@UCacheEntry_t@CFontTextureCache@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@_KUPage_t@CFontTextureCache@@GP6A_NAEB_K0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@_KUPage_t@CFontTextureCache@@GP6A_NAEB_K0@Z@@G@@G@@@@
+.?AV?$CUtlVectorBase@EV?$CUtlMemoryFixedGrowable@E$0IAA@H@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@Uabc_cache_t@CPlatformFont@@G@@G@@
+.?AV?$CUtlRBTree@Uabc_cache_t@CPlatformFont@@GP6A_NAEBU12@0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@Uabc_cache_t@CPlatformFont@@G@@G@@@@
+.?AVCPlatformFont@@
+.?AV?$CUtlVectorBase@ULookup_t@CPostProcessingSystem@@V?$CUtlMemory@ULookup_t@CPostProcessingSystem@@H@@@@
+.?AV?$CUtlMemory@ULookup_t@CPostProcessingSystem@@H@@
+.?AV?$CUtlVectorBase@PEAVCPostProcessingResource@@V?$CUtlMemory@PEAVCPostProcessingResource@@H@@@@
+.?AV?$CUtlMemory@PEAVCPostProcessingResource@@H@@
+.?AV?$CUtlVectorBase@ULerpRecord_t@CPostProcessingSystem@@V?$CUtlMemory@ULerpRecord_t@CPostProcessingSystem@@H@@@@
+.?AV?$CUtlMemory@ULerpRecord_t@CPostProcessingSystem@@H@@
+.?AV?$CUtlMemory@PEBVCPostProcessingResource@@H@@
+.?AV?$CUtlVectorBase@PEBVCPostProcessingResource@@V?$CUtlMemoryFixedGrowable@PEBVCPostProcessingResource@@$0BA@H@@@@
+.?AVIPostProcessingSystem@@
+.?AVCPostProcessingSystem@@
+.?AV?$CTier2AppSystem@VIPostProcessingSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VIPostProcessingSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VIPostProcessingSystem@@@@
+.?AV?$CBaseAppSystem@VIPostProcessingSystem@@@@
+.?AVCPostProcessingTypeManager@@
+.?AV?$CDefaultIntrospectedTypeManager@$0HEHDGPHAHG@UPostProcessingResource_t@@@@
+.?AV?$CUtlVectorBase@UCCharRenderGeometry@@V?$CUtlMemory@UCCharRenderGeometry@@H@@@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@UCCharRenderGeometry@@V?$CUtlMemory@UCCharRenderGeometry@@H@@@@V?$CUtlMemory@V?$CUtlVector@UCCharRenderGeometry@@V?$CUtlMemory@UCCharRenderGeometry@@H@@@@H@@@@
+.?AV?$CUtlMemory@V?$CUtlVector@UCCharRenderGeometry@@V?$CUtlMemory@UCCharRenderGeometry@@H@@@@H@@
+.?AV?$CUtlMemory@UCCharRenderGeometry@@H@@
+.?AVITextLayout@@
+.?AVCTextLayout@@
+.?AV?$CTier2AppSystem@VITextLayout@@$0A@@@
+.?AV?$CTier1AppSystem@VITextLayout@@$0A@@@
+.?AV?$CTier0AppSystem@VITextLayout@@@@
+.?AV?$CBaseAppSystem@VITextLayout@@@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@PEAVIQueuedRenderable@@V?$CUtlMemory@PEAVIQueuedRenderable@@H@@@@V?$CUtlMemory@V?$CUtlVector@PEAVIQueuedRenderable@@V?$CUtlMemory@PEAVIQueuedRenderable@@H@@@@H@@@@
+.?AV?$CUtlMemory@V?$CUtlVector@PEAVIQueuedRenderable@@V?$CUtlMemory@PEAVIQueuedRenderable@@H@@@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@VCUtlStringToken@@HGP6A_NAEBV1@0@Z@@G@@G@@
+.?AV?$CUtlMemory@VVector2D@@H@@
+.?AV?$CUtlVectorBase@PEAVIQueuedRenderable@@V?$CUtlMemory@PEAVIQueuedRenderable@@H@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@VCUtlStringToken@@HGP6A_NAEBV1@0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@VCUtlStringToken@@HGP6A_NAEBV1@0@Z@@G@@G@@@@
+.?AV?$CUtlMemory@PEAVIQueuedRenderable@@H@@
+.?AV?$CUtlVectorBase@VVector2D@@V?$CUtlMemory@VVector2D@@H@@@@
+.?AVIMaterialSystem2Utils@@
+.?AVIQueuedRenderable@@
+.?AVCMaterialSystem2Utils@@
+.?AV?$CTier2AppSystem@VIMaterialSystem2Utils@@$0A@@@
+.?AV?$CTier1AppSystem@VIMaterialSystem2Utils@@$0A@@@
+.?AV?$CTier0AppSystem@VIMaterialSystem2Utils@@@@
+.?AV?$CBaseAppSystem@VIMaterialSystem2Utils@@@@
+.?AVCBaseQueuedRenderable@@
+.?AVCQueuedTextRenderable@@
+.?AVCRectLayoutInfo@@
+.?AVCLineLayoutInfo@@
+.?AVCLineBatchLayoutInfo@@
+.?AVIAtomicManipulator@@
+.?AVISchemaManipulator@@
+.?AVCSchemaClassBindingBase@@
+.?AVISchemaBinding@@
+.?AVISchemaInspectionManipulator@@
+.?AV?$CSchemaClassBinding@UVBitmapFontDiskData_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@E@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@E@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCTextureBase@@@@
+.?AU?$CAtomicManipulator@VVector@@@@
+.?AU?$CAtomicManipulator@VColor@@@@
+.?AV?$CSchemaClassBinding@UPostProcessingTonemapParameters_t@@@@
+.?AV?$CSchemaClassBinding@UPostProcessingBloomParameters_t@@@@
+.?AV?$CSchemaClassBinding@UPostProcessingResource_t@@@@
+.?AV?$CSchemaManipulator@VVector@@@@
+.?AV?$CSchemaManipulator@VColor@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VColor@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VColor@@@@@@
+.?AVCSchemaEnumBindingBase@@
+.?AV?$CSchemaEnumBinding@W4HorizJustification_e@@@@
+.?AV?$CSchemaEnumBinding@W4VertJustification_e@@@@
+.?AV?$CSchemaEnumBinding@W4LayoutPositionType_e@@@@
+.?AU?$CAtomicManipulator@VVector4D@@@@
+.?AU?$CAtomicManipulator@VCResourceString@@@@
+.?AV?$CSchemaClassBinding@UMaterialParam_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialParamInt_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialParamFloat_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialParamVector_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialParamTexture_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialParamString_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialParamBuffer_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialResourceData_t@@@@
+.?AV?$CSchemaManipulator@VVector4D@@@@
+.?AV?$CSchemaManipulator@VCResourceString@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMaterialParamInt_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMaterialParamFloat_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMaterialParamVector_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMaterialParamTexture_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMaterialParamBuffer_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMaterialParamString_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCResourceString@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMaterialParamInt_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMaterialParamFloat_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMaterialParamVector_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMaterialParamTexture_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMaterialParamBuffer_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMaterialParamString_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCResourceString@@@@@@
+.?AVCSchemaRegistration@@
+.?AVCSchemaRegistration_materialsystem2@@
+.?AV?$CUtlNTree@UTreeEntry_t@CTexturePacker@@H@@
+.?AV?$CUtlMemory@UNode_t@?$CUtlNTree@UTreeEntry_t@CTexturePacker@@H@@H@@
+.?AVCPostConnectCallback@@
+.?AV?$ISchemaSearchTester@PEBVCSchemaClassInfo@@@@
+.?AUCValueSearchTester_ClassIntrospectionHandle_t@MDiskDataForResourceType@@
+.?AVIResourceAllocatorUtils@@
+.?AVCResourceAllocatorUtils@@
+.?AVCResourceStream@@
+.?AVCResourceStreamFixed@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@VResourceId_t@@PEBD@@H@@
+.?AVCSchemaVisitorBase@@
+.?AVCSchemaFieldVisitor@@
+.?AVCExtrefTraversal@@
+.?AVCResourceReferenceFixupTraversal@@
+.?AVCReferenceCleanupTraversal@@
+.?AVIStack_Annotation@@
+.?AV?$CSchemaFieldVisitorInfoMap@VCExtrefTraversal@@@@
+.?AVCSchemaVisitorInfoMapBase@@
+.?AV?$CStackAnnotation@PEBVCSchemaClassField@@_NXXXXXXX@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@PEBVCSchemaClassInfo@@PEAVCClassVisitInfo@@@@H@@
+.?AV?$CUtlVectorBase@UFieldInfo_t@CClassVisitInfo@@V?$CUtlMemory@UFieldInfo_t@CClassVisitInfo@@H@@@@
+.?AV?$CUtlMemory@UFieldInfo_t@CClassVisitInfo@@H@@
+.?AV?$CUtlMemory@UClassToTraverse_t@CSchemaInheritanceIterator@@H@@
+.?AV?$CUtlVectorBase@UClassToTraverse_t@CSchemaInheritanceIterator@@V?$CUtlMemoryFixedGrowable@UClassToTraverse_t@CSchemaInheritanceIterator@@$07H@@@@
+.?AV?$CUtlMemory@U?$UtlLinkedListElem_t@VCMatSystemTexture@@G@@G@@
+.?AV?$CUtlVectorBase@UDeferredResourceLoads_t@CTextureDictionary@@V?$CUtlMemory@UDeferredResourceLoads_t@CTextureDictionary@@H@@@@
+.?AV?$CUtlMemory@UDeferredResourceLoads_t@CTextureDictionary@@H@@
+.?AV?$CUtlVectorBase@UPendingManifest_t@CTextureDictionary@@V?$CUtlMemory@UPendingManifest_t@CTextureDictionary@@H@@@@
+.?AV?$CUtlMemory@UPendingManifest_t@CTextureDictionary@@H@@
+.?AV?$CUtlVectorBase@PEAUHResourceManifest__@@V?$CUtlMemory@PEAUHResourceManifest__@@H@@@@
+.?AV?$CUtlMemory@PEAUHResourceManifest__@@H@@
+.?AV?$CUtlLinkedList@VCMatSystemTexture@@G$0A@GV?$CUtlMemory@U?$UtlLinkedListElem_t@VCMatSystemTexture@@G@@G@@@@
+.?AVITextureDictionary@@
+.?AVCTextureDictionary@@
+.?AV?$CUtlVectorBase@PEADV?$CUtlMemory@PEADH@@@@
+.?AVexception@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@UCallbackInfo_t@ConCommand@@V?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@@@
+.?AV?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVConCommand@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@CUtlSymbolTable@@V?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@
+.?AV?$CUtlRBTree@VCStringPoolIndex@CUtlSymbolTable@@GVCLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AV?$CUtlMemory@DH@@
+.?AV?$CUtlVectorBase@DV?$CUtlMemory@DH@@@@
+.?AVCSchemaInstallCallback@@
+.?AV?$CUtlVectorBase@UVfxVariableIndexData_t@@V?$CUtlMemory@UVfxVariableIndexData_t@@H@@@@
+.?AV?$CUtlVectorBase@VCVfxStaticComboData@@V?$CUtlMemory@VCVfxStaticComboData@@H@@@@
+.?AV?$CUtlVectorBase@_KV?$CUtlMemory@_KH@@@@
+.?AV?$CUtlVectorBase@UVsInputSignatureElement_t@@V?$CUtlMemory@UVsInputSignatureElement_t@@H@@@@
+.?AV?$CUtlMemory@UConstantBufferVariable_t@@H@@
+.?AV?$CUtlMemory@UVfxVariableIndexData_t@@H@@
+.?AV?$CUtlMemory@VCVfxVariableIndexArray@@H@@
+.?AV?$CUtlMemory@UConstantBufferBindInfo_t@@H@@
+.?AV?$CUtlVectorBase@UConstantBufferBindInfo_t@@V?$CUtlMemory@UConstantBufferBindInfo_t@@H@@@@
+.?AV?$CUtlVectorBase@PEAURsRasterizerStateHandle_t__@@V?$CUtlMemory@PEAURsRasterizerStateHandle_t__@@H@@@@
+.?AV?$CUtlMemory@PEAURsRasterizerStateHandle_t__@@H@@
+.?AV?$CUtlVectorBase@PEAURsDepthStencilStateHandle_t__@@V?$CUtlMemory@PEAURsDepthStencilStateHandle_t__@@H@@@@
+.?AV?$CUtlMemory@PEAURsDepthStencilStateHandle_t__@@H@@
+.?AV?$CUtlVectorBase@PEAURsBlendStateHandle_t__@@V?$CUtlMemory@PEAURsBlendStateHandle_t__@@H@@@@
+.?AV?$CUtlMemory@PEAURsBlendStateHandle_t__@@H@@
+.?AV?$CUtlVectorBase@IV?$CUtlMemory@IH@@@@
+.?AV?$CUtlVectorBase@VCVfxShaderAttribute@@V?$CUtlMemory@VCVfxShaderAttribute@@H@@@@
+.?AV?$CUtlVectorBase@VCVfxCombo@@V?$CUtlMemory@VCVfxCombo@@H@@@@
+.?AV?$CUtlVectorBase@VCVfxRule@@V?$CUtlMemory@VCVfxRule@@H@@@@
+.?AV?$CUtlVectorBase@VCVfxVariableDescription@@V?$CUtlMemory@VCVfxVariableDescription@@H@@@@
+.?AV?$CUtlVectorBase@VCVfxTextureChannelProcessor@@V?$CUtlMemory@VCVfxTextureChannelProcessor@@H@@@@
+.?AV?$CUtlVectorBase@UConstantBufferDescription_t@@V?$CUtlMemory@UConstantBufferDescription_t@@H@@@@
+.?AV?$CUtlVectorBase@V?$CCopyableUtlVector@UVsInputSignatureElement_t@@@@V?$CUtlMemory@V?$CCopyableUtlVector@UVsInputSignatureElement_t@@@@H@@@@
+.?AV?$CUtlVectorBase@VCVfxModeSettings@@V?$CUtlMemory@VCVfxModeSettings@@H@@@@
+.?AV?$CUtlMemory@VCVfxModeSettings@@H@@
+.?AV?$CUtlVectorBase@VCVfxMode@@V?$CUtlMemory@VCVfxMode@@H@@@@
+.?AV?$CUtlVectorBase@W4VfxCompileTarget_t@@V?$CUtlMemory@W4VfxCompileTarget_t@@H@@@@
+.?AV?$CUtlMemory@W4VfxCompileTarget_t@@H@@
+.?AV?$CUtlMemory@_NH@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IIHP6A_NAEBI0@Z@@H@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@IIHP6A_NAEBI0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IIHP6A_NAEBI0@Z@@H@@H@@@@
+.?AV?$CUtlVectorBase@UConstantBufferVariable_t@@V?$CUtlMemory@UConstantBufferVariable_t@@H@@@@
+.?AV?$CUtlVectorBase@VCVfxVariableIndexArray@@V?$CUtlMemory@VCVfxVariableIndexArray@@H@@@@
+.?AV?$CUtlVectorBase@VCVfxStaticComboVcsEntry@@V?$CUtlMemory@VCVfxStaticComboVcsEntry@@H@@@@
+.?AV?$CUtlVectorBase@_NV?$CUtlMemory@_NH@@@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@IH@@H@@
+.?AVCUtlStackMachineBuilder@@
+.?AVCIntOpEvaluator@@
+.?AV?$IOpEvaluator@H@@
+.?AVCCompileTargetExprStackMachineBuilder@@
+.?AVCCompileTargetExprOpCodeHandler@@
+.?AV?$IOpCodeHandler@H@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+?UUUUUU
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z

@@ -1,0 +1,51 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+` AUAVAWH
+ A_A^A]
+GetCurrentActCtx
+ActivateActCtx
+DeactivateActCtx
+AddRefActCtx
+ReleaseActCtx
+Pythoncomloader failed to activate the activation context before loading a DLL
+Pythoncomloader failed to de-activate the activation context
+pythoncom27.dll
+DllGetClassObject
+pythoncomloader failed to load the default activation context
+_malloc_crt
+_initterm
+_initterm_e
+_encoded_null
+_amsg_exit
+__C_specific_handler
+__CppXcptFilter
+__clean_type_info_names_internal
+_unlock
+__dllonexit
+_onexit
+MSVCR100.dll
+GetProcAddress
+GetModuleHandleW
+OutputDebugStringA
+LoadLibraryExA
+EncodePointer
+DecodePointer
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+KERNEL32.dll
+pythoncomloader27.dll
+DllCanUnloadNow
+DllGetClassObject
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD

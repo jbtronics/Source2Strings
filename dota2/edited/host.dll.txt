@@ -1,0 +1,3620 @@
+`.rdata
+@.reloc
+\$09Y ~4H
+D9Q(~,M
+P(9_,~+H
+\$09Y ~`H
+\$ UVWH
+@SUVWAWH
+`A__^][
+@SUVWAWH
+`A__^][
+L$ SVWH
+\$ VATAWH
+@SUVATAWH
+ A_A\^][
+T$8+G$A
+VATAUAVAWH
+A_A^A]A\^
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@UWATAUAWH
+`A_A]A\_]
+|$ Hc=wY
+L$ UWAWH
+@VAVAWH
+L$ SVWH
+\$ VATAWH
+x/HcGhH;
+ Hcy E3
+@SUVWAVAWH
+A_A^_^][
+@SUVWAVAWH
+A_A^_^][
+@SUVWAVAWH
+A_A^_^][
+@SUVWAVAWH
+A_A^_^][
+@SUVWAVAWH
+A_A^_^][
+@SUVWAVAWH
+A_A^_^][
+@SUVWAVAWH
+A_A^_^][
+kHH;K@t
+effffff
+ATAVAWH
+effffff
+0A_A^A\
+ATAVAWH
+TUUUUUU
+0A_A^A\
+ATAVAWH
+0A_A^A\
+ATAVAWH
+effffff
+0A_A^A\
+@WATAUAVAWH
+TUUUUUU
+0A_A^A]A\_
+WATAUAVAWH
+0A_A^A]A\_
+effffff
+A9q }EI
+A;q }?I
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+@A_A^A]A\_
+VWATAVAWH
+f`H;^Xt=f
+@A_A^A\_^
+A8H+A0H
+APH+AHH
+@USVWAVH
+@USVWATAVAWH
+A_A^A\_^[]
+D$0Hct$0
+UWATAVAWH
+A_A^A\_]
+@SUWAWH
+C09w(~:L
+@USVWATAVAWH
+A_A^A\_^[]
+@USVWATAUAVAWH
+L$`LcC,B
+A_A^A]A\_^[]
+@UVWATAUAVAWH
+\$8A;u0A
+A9uH~y3
+x3A;M0}-I
+D$HAiUh
+A_A^A]A\_^]
+D$h;X(|
+D$h;XX|
+GXkVp8H
+D$h;Xp|
+D$h;X@|
+l$ WAVAWH
+C(9~(~FL
+C,HcK(H
+D$p(;M8
+C\HcKXH
+CtHcKpH
+CDHcK@H
+G,HcO(H
+G8@8n4tlH
+F@@8h)u
+FX@8h(t
+FX@8h)u
+F`@8h)u
+@8nxt/E3
+gfffffffH
+@UVWATAUAVAWH
+C4LcC0H
+SL9SHuv
+S\9SXuv
+ClHcKhH
+0A_A^A]A\_^]
+F @8p)uN
+G,HcO(H
+@USVWATAVAWH
+D8`)t#E
+A_A^A\_^[]
+@SUVAUAVAWH
+A9^H~73
+A9^x~>3
+d$PE9~X~QE3
+A9nh~}E3
+XA_A^A]^][
+gfffffff
+@UVWAVAWH
+D8x)t!E3
+A_A^_^]
+D9V,~MA
+@UVWAVAWH
+A_A^_^]
+@USVWAVH
+@UVWATAUAVAWH
+d$hHcC,L
+ueHcC0I
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+t$$@8qxuV3
+D$88X4tJ
+G 8X@t:H
+L$8HcQx
+D$@H;C@t
+\$ VATAVH
+|$PI;~X
+L$ 9D$ H
+D$ 9D$ H
+@SUVWAVH
+pA^_^][
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@UVWATAUAVAWH
+D9x ueH
+A_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+t$ WATAUAVAWH
+A_A^A]A\_
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@UVWATAUAVAWH
+d$8M9l$
+A_A^A]A\_^]
+@UVWATAUAVAWH
+D;C }JH
+A_A^A]A\_^]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+L$`;{,H
+L$`;{HH
+L$`;{X|
+L$`;{x|
+@SUVWATAVAWH
+A_A^A\_^][
+^0H9?t(H
+gfffffffL+
+3333333
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+3333333
+gfffffffH
+@WATAUAVAWH
+@A_A^A]A\_
+gfffffffL+
+3333333
+@SWAUAVAWH
+0A_A^A]_[
+\$`H;\$h
+D$@L;D$Hu
+gfffffffH
+VWATAVAWH
+A_A^A\_^
+VWATAVAWH
+A_A^A\_^
+@UVWAVAWH
+A_A^_^]
+@UVWAVAWH
+A_A^_^]
+@UVWAVAWH
+A_A^_^]
+@UVWAVAWH
+A_A^_^]
+VWATAVAWH
+A_A^A\_^
+VWATAVAWH
+A_A^A\_^
+VWATAVAWH
+A_A^A\_^
+@UVWAVAWH
+A_A^_^]
+L$ ;o(|
+L$ ;o@|
+L$ ;oX|
+L$ ;op|
+t$ 8O t
+D9{H~7I
+D9{X~7I
+t$ 8O t
+Cb9CP~(H
+CB9C0~%H
+F$HcN H
+WATAUAVAWH
+E$HcM H
+A_A^A]A\_
+l$h9{X~&L
+t$ 9q ~
+l$h9s8~F
+t$@9kX~FH
+t$09s8~f
+@UVWATAUAVAWH
+A_A^A]A\_^]
+AUAVAWH
+0A_A^A]
+C8@8l$8t)
+G8D8t$8t*A
+{8@8l$8t,
+C8@8l$8t)
+@UVWATAUAVAWH
+pA_A^A]A\_^]
+L$ D8I	tR
+@SUVWAVAWH
+D8D$9t$
+hA_A^_^][
+@USVWATAVAWH
+A_A^A\_^[]
+@UVWAVAWH
+A_A^_^]
+@UVWAVAWH
+A_A^_^]
+L$0;Q }
+^0H9?t(H
+SVWATAUAVAWH
+@A_A^A]A\_^[
+ATAVAWH
+0A_A^A\
+ATAVAWH
+0A_A^A\
+@UVWAVAWH
+A_A^_^]
+@UVWAVAWH
+A_A^_^]
+^0H9?t(H
+SVWATAUAVAWH
+@A_A^A]A\_^[
+SVWATAUAVAWH
+@A_A^A]A\_^[
+yxxxxxxxH
+gfffffffM
+yxxxxxxxI
+gfffffffH
+yxxxxxxxH
+gfffffffI
+yxxxxxxxI
+gfffffffM
+yxxxxxxxH
+H+Q@HcO,H
+gfffffffM
+yxxxxxxxH
+H+Q@HcO,H
+gfffffffM
+yxxxxxxxH
+H+Q@HcO,H
+O(;H(}*I
+A(A9C(}
+H(A9K(}
+A(A9C(}
+A(A9@(}
+H(A9H(}
+A(A9@(}
+CpHcO4D
+@SVWAVH
+CpHcO4D
+yxxxxxxxI
+\$ UVWH
+gfffffffL
+gfffffffL+H@I
+H+q@HcO,H
+H9H@t`H
+t<Lc@xE
+@SUVWAVH
+pA^_^][
+L+@@HcI,H
+gfffffffI
+@SUVWAVH
+pA^_^][
+@SUVWAVH
+0A^_^][
+yxxxxxxxH
+@@H+H0I
+\$ UVWH
+gfffffffH
+gfffffffI
+@SUVAVH
+gfffffff
+|$xHcF4
+gfffffffH+Q@H
+@SUVWAVH
+Ep9H(tV3
+tiH9EXtT3
+}(Hcv4I
+E@H+h0H
+yxxxxxxxH
+gfffffffM
+yxxxxxxxH
+@SUVWAVAWH
+xA_A^_^][
+@SUVWAVAWH
+xA_A^_^][
+t%HcO4D
+gfffffffH
+yxxxxxxxI
+L$0I9H@t
+t&HcO4D
+t)HcO4D
+t&HcO4D
+t$0I9H@t
+t)HcO4D
+L$0I9H@t
+t%HcO4D
+L$8I9H@t
+t%HcO4D
+t$HcO4D
+@SUVWAVH
+t!HcO4D
+0A^_^][
+t#HcO4D
+t#HcO4L
+@SUVWAVH
+0A^_^][
+t#HcO4D
+t#HcO4L
+@SUVWAVH
+t~LcN,L
+gfffffffH
+0A^_^][
+L$0I9H@t
+t%HcO4D
+L$8I9H@t
+t%HcO4D
+@SUAVAWH
+gffffffff
+gfffffffI
+HA_A^][
+UVWATAUAVAWH
+D9p,~:I
+A_A^A]A\_^]
+t#HcO4D
+USVWATAUAVAWH
+gffffffff
+gfffffff
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+gfffffffH
+A_A^A]A\_^[]
+t(HcW,H
+@UVWATAUAVAWH
+`A_A^A]A\_^]
+@USVWATAVAWH
+pA_A^A\_^[]
+UWATAVAWH
+A_A^A\_]
+|$ ATAVAWH
+0A_A^A\
+@UVWATAUAVAWH
+t(LcK,C
+pA_A^A]A\_^]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+@UVWATAUAVAWH
+A_A^A]A\_^]
+PH@8|$HtG3
+|$0H99t
+l$ VATAWH
+P(A+H,D
+@SUVWATAVAWH
+A_A^A\_^][
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+yxxxxxxx
+@@L+@0I
+I9q sEI
+I;q s?I
+I9q sEI
+I;q s?I
+H9C s(H
+yxxxxxxxH+
+C@H+H0I
+\$ UVWH
+yxxxxxxxL
+B@H+P0I
+L$ VWAVH
+@SATAWH
+yxxxxxxxf
+WATAUAVAWH
+yxxxxxxxL;
+A@H+H0I
+@@L+@0I
+@@H+H0I
+A@H+H0I
+A@H+P0I
+@@H+P0I
+A@H+H0I
+@@L+@0I
+ A_A^A]A\_
+yxxxxxxxu!H
+B@H+P0I
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@UVWATAUAVAWH
+|$ HcC,H
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+t$ IcA,H
+A_A^A]A\_^[]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+SATAUAWH
+8A_A]A\[
+@SUVWATAUAVAWH
+u)IcA,D
+A_A^A]A\_^][
+L$ 8J4tjH
+BXL9BPu#M
+@USVWAVAWH
+A_A^_^[]
+@USVWATAVAWH
+A_A^A\_^[]
+|$ ATAVAWH
+0A_A^A\
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+D$@L;D$Hu
+2333333
+SVWATAUAVAWH
+G A9F |
+PA_A^A]A\_^[
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+@A_A^A]A\_
+A@H+A8H
+@UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWH
+UWATAVAWH
+A_A^A\_]
+@SUVWATAVAWH
+`A_A^A\_^][
+@SUVWAVH
+I;F t/H
+pA^_^][
+@SAUAVH
+@SAVAWH
+D$@L;D$Hu
+UVWATAUAVAWH
+\$pD;},
+0A_A^A]A\_^]
+WATAUAVAWH
+gfffffffL
+gfffffff
+0A_A^A]A\_
+@UVWATAUAVAWH
+|$pD9y8
+yxxxxxxx
+0A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+D$hHcA,H
+SUVWATAUAVAWH
+yxxxxxxx
+K@H+Y0I
+A_A^A]A\_^][
+D$hHcA,H
+^0H9?t(H
+SVWATAUAVAWH
+@A_A^A]A\_^[
+@UVWATAUAVAWH
+A_A^A]A\_^]
+|$(@8:t
+,0<6w H
+<*tq</tm<
+C`9C(uf
+Ch9C,u^H
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWAVAWH
+A_A^_^[
+ATAVAWH
+0A_A^A\
+WATAUAVAWH
+ A_A^A]A\_
+gfffffff
+gfffffffL+
+UVWAVAWH
+A_A^_^]
+L$(@8t$ u
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+l$ WAVAWH
+L$ ;Q }
+L$ D;A }
+@UVWAVAWH
+A_A^_^]
+@VAVAWH
+T$8+G$Hc
+T$8+G$A
+@UWAVAWH
+(A_A^_]
+WATAUAVAWH
+@A_A^A]A\_
+SWATAUH
+xA]A\_[
+@UATAUAVAWH
+A_A^A]A\]
+HcoHHcNHH
+@UVATAUH
+(A]A\^]
+@UVATAUH
+(A]A\^]
+@UAUAWH
+@WAUAWH
+4@HcGpH
+G\HcGXH
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+@SUATAUAWH
+A_A]A\][
+@SUATAUAWH
+A_A]A\][
+UWATAVAWH
+A_A^A\_]
+UVWATAUAVAWH
+ePA_A^A]A\_^]
+UVWATAUAVAWH
+e@A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+|$ UAVAWH
+@UATAVH
+l$ VAUAWH
+ATAUAVH
+l$8+T$hA+
+@A^A]A\
+@UATAVH
+USVWATAUAVAWH
+A_A^A]A\_^[]
+SUATAWH
+XA_A\][
+@UATAUAVAWH
+@A_A^A]A\]
+t+HcC$LcC
+@SUAUAWH
+(A_A]][
+t+HcC$LcC
+t(HcC$HcK
+@UAVAWH
+|$@Hcyp;
+D$<9T$0wE9T$4w?9T$8w9;
+@SVATAWH
+XA_A\^[
+WATAUAVAWH
+ A_A^A]A\_
+ATAVAWH
+ A_A^A\
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+p WATAUAVAWH
+A_A^A]A\_
+VWATAVAWH
+A_A^A\_^
+fffffff
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+SUVWATAUAVAWH
+H9D$(u^L
+L$0D;t$ s
+HA_A^A]A\_^][
+WATAUAVAWH
+A_A^A]A\_
+AUAVAWH
+0A_A^A]
+H SVWAVH
+L$ USVWH
+L$ USWH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+fffffff
+.ffffff
+fffffff
+0ffffff
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+USVWAVH
+` AUAVAWH
+t$8Hc0I
+\$0D9=R
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+!\$0!\$(!\$ L
+@ffffff
+UVWATAUAVAWH
+0A_A^A]A\_^]
+t$ WAVAWH
+@UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+0A_A^A]A\_
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+@SUVWATAVAWH
+tcH95!h
+PA_A^A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+{P9kH|AH
+@UAUAVAWH
+(A_A^A]]
+@UAVAWH
+tBHcs8;sHu
+Hc{8;{Hu
+|$8Hc:H
+UUUUUUUUH
+33333333H+
+@UVWATH
+fffffff
+H(H9J(u
+fixed64
+fixed32
+message
+sfixed32
+sfixed64
+optional
+required
+repeated
+google.protobuf.Empty
+..\src\google\protobuf\descriptor.cc
+CHECK failed: generated_database_->Add(encoded_file_descriptor, size): 
+CHECK failed: has_default_value(): 
+No default value
+Messages can't have default values!
+Can't get here: failed to get default value as string
+$0option $1;
+extend .$0 {
+$0  message $1
+$0  extensions $1 to $2;
+$0  extend .$1 {
+$0$1$2 $3 = $4
+ [default = $0
+$0 oneof $1 {
+$0enum $1 {
+$0$1 = $2
+Invalid proto descriptor for file "
+" is not defined.
+".  To use it here, please add the necessary import.
+", which is not imported by "
+" seems to be defined in "
+") to start from the outermost scope.
+", which is not defined. The innermost scope is searched first in name resolution. Consider using a leading '.'(i.e., ".
+" is resolved to "
+.placeholder.proto
+PLACEHOLDER_VALUE
+.PLACEHOLDER_VALUE
+" not previously defined in symbols_by_name_, but was defined in symbols_by_parent_; this shouldn't be possible.
+" is already defined.
+" is already defined in "
+" is already defined in file "
+" is already defined (as something other than a package) in file "
+Missing name.
+" is not a valid identifier.
+File recursively imports itself: 
+" was listed twice.
+Import "
+" has not been loaded.
+" was not found or had errors.
+Missing field: FileDescriptorProto.name.
+A file with this name is already in the pool.
+Invalid public dependency index.
+Invalid weak dependency index.
+Extension range $0 to $1 includes field "$2" ($3).
+Extension range $0 to $1 overlaps with already-defined range $2 to $3.
+Message extensions cannot have required fields.
+Repeated fields can't have default values.
+Boolean default must be true or false.
+Messages can't have default values.
+Couldn't parse default value "
+Field numbers must be positive integers.
+Field numbers cannot be greater than $0.
+Field numbers $0 through $1 are reserved for the protocol buffer library implementation.
+FieldDescriptorProto.extendee not set for extension field.
+FieldDescriptorProto.oneof_index should not be set for extensions.
+FieldDescriptorProto.extendee set for non-extension field.
+FieldDescriptorProto.oneof_index $0 is out of range for type "$1".
+Extension numbers must be positive integers.
+Extension range end number must be greater than start number.
+Enums must contain at least one value.
+the global scope
+, not just within "
+" must be unique within 
+Note that enum values use C++ scoping rules, meaning that enum values are siblings of their type, not children of it.  Therefore, "
+Oneof must have at least one field.
+" is not a message type.
+"$0" does not declare $1 as an extension number.
+Fields of oneofs must themselves have label LABEL_OPTIONAL.
+" is not a type.
+" is not an enum type.
+Default value for an enum field must be an identifier.
+" has no value named "
+Enum type "
+Field with primitive type has type_name.
+Field with message or enum type missing type_name.
+Extension number $0 has already been used in "$1" by extension "$2".
+Field number $0 has already been used in "$1" by field "$2".
+Extension number $0 has already been used in "$1" by extension "$2" defined in $3.
+" which is.
+Files that do not use optimize_for = LITE_RUNTIME cannot import files which do use this option.  This file is not lite, but it imports "
+Extension numbers cannot be greater than $0.
+[lazy = true] can only be specified for submessage fields.
+[packed = true] can only be specified for repeated primitive fields.
+Extensions of MessageSets must be optional messages.
+MessageSets cannot have fields, only extensions.
+Extensions to non-lite types can only be declared in non-lite files.  Note that you cannot extend a non-lite type to contain a lite type, but the reverse is allowed.
+". If this is intended, set 'option allow_alias = true;' to the enum definition.
+" uses the same enum value as "
+Files with optimize_for = LITE_RUNTIME cannot define services unless you set both options cc_generic_services and java_generic_sevices to false.
+map type is only allowed for repeated fields.
+map type is only allowed for fields with a message type.
+Could not find field type.
+" in type "
+Could not find field named "
+map_key must not name a repeated field.
+map key must name a scalar or string field.
+CHECK failed: builder_: 
+uninterpreted_option
+CHECK failed: uninterpreted_options_field != NULL: 
+No field named "uninterpreted_option" in the Options proto.
+CHECK failed: original_uninterpreted_options_field != NULL: 
+CHECK failed: options->ParseFromString(buf): 
+Protocol message serialized itself in invalid fashion.
+Option must have a name.
+Option must not use reserved name "uninterpreted_option".
+CHECK failed: options_descriptor: 
+)", which is not defined. The innermost scope is searched first in name resolution. Consider using a leading '.'(i.e., "(.
+" is resolved to "(
+Option "
+" unknown.
+" is not a field or extension of message "
+Option field "
+" is an atomic type, not a message.
+" is a repeated message. Repeated message options must be initialized using an aggregate value.
+CHECK failed: !out.HadError(): 
+Unexpected failure while serializing option submessage 
+Invalid wire type for CPPTYPE_MESSAGE: 
+CHECK failed: field != NULL: 
+" was already set.
+Value out of range for int32 option "
+Value must be integer for int32 option "
+Value out of range for int64 option "
+Value must be integer for int64 option "
+Value out of range for uint32 option "
+Value must be non-negative integer for uint32 option "
+Value must be non-negative integer for uint64 option "
+Value must be number for float option "
+Value must be number for double option "
+Value must be identifier for boolean option "
+Value must be "true" or "false" for boolean option "
+Value must be identifier for enum-valued option "
+". This appears to be a value from a sibling type.
+" for option "
+Value must be quoted string for string option "
+.foo = value".
+ = { <proto text format> }". To set fields within it, use syntax like "
+" is a message. To set the entire message, use syntax like "
+CHECK failed: dynamic.get() != NULL: 
+Could not create an instance of 
+Error while parsing option value for "
+CHECK failed: (option_field->type()) == (FieldDescriptor::TYPE_GROUP): 
+Invalid wire type for CPPTYPE_INT32: 
+Invalid wire type for CPPTYPE_INT64: 
+Invalid wire type for CPPTYPE_UINT32: 
+Invalid wire type for CPPTYPE_UINT64: 
+google.protobuf.MessageOptions
+google.protobuf.FileOptions
+google.protobuf.FieldOptions
+google.protobuf.EnumOptions
+google.protobuf.EnumValueOptions
+google.protobuf.ServiceOptions
+google.protobuf.MethodOptions
+google.protobuf.StreamOptions
+Warning: Unused import: "
+" imports "
+" which is not used.
+map/set<T> too long
+list<T> too long
+google/protobuf/descriptor.proto
+..\src\google\protobuf\descriptor.pb.cc
+ google/protobuf/descriptor.proto
+google.protobuf"G
+FileDescriptorSet
+2$.google.protobuf.FileDescriptorProto"
+FileDescriptorProto
+package
+dependency
+public_dependency
+weak_dependency
+message_type
+2 .google.protobuf.DescriptorProto
+	enum_type
+2$.google.protobuf.EnumDescriptorProto
+service
+2'.google.protobuf.ServiceDescriptorProto
+	extension
+2%.google.protobuf.FieldDescriptorProto
+options
+.google.protobuf.FileOptions
+source_code_info
+.google.protobuf.SourceCodeInfo"
+DescriptorProto
+2%.google.protobuf.FieldDescriptorProto
+	extension
+2%.google.protobuf.FieldDescriptorProto
+nested_type
+2 .google.protobuf.DescriptorProto
+	enum_type
+2$.google.protobuf.EnumDescriptorProto
+extension_range
+2/.google.protobuf.DescriptorProto.ExtensionRange
+oneof_decl
+2%.google.protobuf.OneofDescriptorProto
+options
+.google.protobuf.MessageOptions
+ExtensionRange
+FieldDescriptorProto
+2+.google.protobuf.FieldDescriptorProto.Label
+2*.google.protobuf.FieldDescriptorProto.Type
+	type_name
+extendee
+default_value
+oneof_index
+options
+.google.protobuf.FieldOptions"
+TYPE_DOUBLE
+TYPE_FLOAT
+TYPE_INT64
+TYPE_UINT64
+TYPE_INT32
+TYPE_FIXED64
+TYPE_FIXED32
+	TYPE_BOOL
+TYPE_STRING
+TYPE_GROUP
+TYPE_MESSAGE
+TYPE_BYTES
+TYPE_UINT32
+	TYPE_ENUM
+TYPE_SFIXED32
+TYPE_SFIXED64
+TYPE_SINT32
+TYPE_SINT64
+LABEL_OPTIONAL
+LABEL_REQUIRED
+LABEL_REPEATED
+OneofDescriptorProto
+EnumDescriptorProto
+2).google.protobuf.EnumValueDescriptorProto
+options
+.google.protobuf.EnumOptions"l
+EnumValueDescriptorProto
+options
+2!.google.protobuf.EnumValueOptions"
+ServiceDescriptorProto
+2&.google.protobuf.MethodDescriptorProto
+options
+.google.protobuf.ServiceOptions"
+MethodDescriptorProto
+input_type
+output_type
+options
+.google.protobuf.MethodOptions"
+FileOptions
+java_package
+java_outer_classname
+java_multiple_files
+java_generate_equals_and_hash
+java_string_check_utf8
+optimize_for
+2).google.protobuf.FileOptions.OptimizeMode:
+go_package
+cc_generic_services
+java_generic_services
+py_generic_services
+deprecated
+uninterpreted_option
+2$.google.protobuf.UninterpretedOption":
+OptimizeMode
+	CODE_SIZE
+LITE_RUNTIME
+MessageOptions
+message_set_wire_format
+no_standard_descriptor_accessor
+deprecated
+uninterpreted_option
+2$.google.protobuf.UninterpretedOption*	
+FieldOptions
+2#.google.protobuf.FieldOptions.CType:
+deprecated
+experimental_map_key
+uninterpreted_option
+2$.google.protobuf.UninterpretedOption"/
+STRING_PIECE
+EnumOptions
+allow_alias
+deprecated
+uninterpreted_option
+2$.google.protobuf.UninterpretedOption*	
+EnumValueOptions
+deprecated
+uninterpreted_option
+2$.google.protobuf.UninterpretedOption*	
+ServiceOptions
+deprecated
+uninterpreted_option
+2$.google.protobuf.UninterpretedOption*	
+MethodOptions
+deprecated
+uninterpreted_option
+2$.google.protobuf.UninterpretedOption*	
+UninterpretedOption
+2-.google.protobuf.UninterpretedOption.NamePart
+identifier_value
+positive_int_value
+negative_int_value
+double_value
+string_value
+aggregate_value
+NamePart
+	name_part
+is_extension
+SourceCodeInfo
+location
+2(.google.protobuf.SourceCodeInfo.Location
+Location
+leading_comments
+trailing_comments
+com.google.protobufB
+DescriptorProtosH
+D:\Dev\source2\main\src\thirdparty\protobuf-2.6.1\src\google/protobuf/repeated_field.h
+..\src\google\protobuf\stubs\common.cc
+This program requires version 
+ of the Protocol Buffer runtime library, but the installed version is 
+.  Please update your library.  If you compiled the program yourself, make sure that your headers are from the same version of Protocol Buffers as your link-time library.  (Version verification failed in "
+This program was compiled against version 
+ of the Protocol Buffer runtime library, which is not compatible with the installed version (
+).  Contact the program author for an update.  If you compiled the program yourself, make sure that your headers are from the same version of Protocol Buffers as your link-time library.  (Version verification failed in "
+%d.%d.%d
+WARNING
+[libprotobuf %s %s:%d] %s
+..\src\google\protobuf\extension_set.cc
+Multiple extension registrations for type "
+", field number 
+CHECK failed: (type) != (WireFormatLite::TYPE_ENUM): 
+CHECK failed: (type) != (WireFormatLite::TYPE_MESSAGE): 
+CHECK failed: (type) != (WireFormatLite::TYPE_GROUP): 
+CHECK failed: iter != extensions_.end(): 
+Index out-of-bounds (field is empty).
+Non-primitive types can't be packed.
+Can't get here.
+..\src\google\protobuf\message.cc
+CHECK failed: (from.GetDescriptor()) == (descriptor): 
+: Tried to merge from a message with a different type.  to: 
+, from:
+: Tried to copy from a message with a different type. to: 
+Message class "
+" implements neither SetCachedSize() nor ByteSize().  Must implement one or the other.
+File is already registered: 
+Type is already registered: 
+File appears to be in generated pool but wasn't registered: 
+Type appears to be in generated pool but wasn't 
+registered: 
+INVALID_CPPTYPE
+CPPTYPE_INT32
+CPPTYPE_INT64
+CPPTYPE_UINT32
+CPPTYPE_UINT64
+CPPTYPE_DOUBLE
+CPPTYPE_FLOAT
+CPPTYPE_BOOL
+CPPTYPE_ENUM
+CPPTYPE_STRING
+CPPTYPE_MESSAGE
+..\src\google\protobuf\generated_message_reflection.cc
+Protocol Buffer reflection usage error:
+  Method      : google::protobuf::Reflection::
+  Message type: 
+  Field       : 
+  Problem     : 
+  Problem     : Field is not the right type for this message:
+    Expected  : 
+    Field type: 
+  Problem     : Enum value did not match field type:
+    Expected  : 
+    Actual    : 
+Unimplemented type: 
+CHECK failed: (message1->GetReflection()) == (this): 
+First argument to Swap() (of type "
+") is not compatible with this reflection object (which is for type "
+").  Note that the exact same class is required; not just the same descriptor.
+CHECK failed: (message2->GetReflection()) == (this): 
+Second argument to Swap() (of type "
+First argument to SwapFields() (of type "
+Second argument to SwapFields() (of type "
+Field does not match message type.
+HasField
+Field is repeated; the method requires a singular field.
+FieldSize
+Field is singular; the method requires a repeated field.
+ClearField
+RemoveLast
+ReleaseLast
+GetInt32
+SetInt32
+GetRepeatedInt32
+SetRepeatedInt32
+AddInt32
+GetInt64
+SetInt64
+GetRepeatedInt64
+SetRepeatedInt64
+AddInt64
+GetUInt32
+SetUInt32
+GetRepeatedUInt32
+SetRepeatedUInt32
+AddUInt32
+GetUInt64
+SetUInt64
+GetRepeatedUInt64
+SetRepeatedUInt64
+AddUInt64
+GetFloat
+SetFloat
+GetRepeatedFloat
+SetRepeatedFloat
+AddFloat
+GetDouble
+SetDouble
+GetRepeatedDouble
+SetRepeatedDouble
+AddDouble
+GetBool
+SetBool
+GetRepeatedBool
+SetRepeatedBool
+AddBool
+GetString
+GetStringReference
+SetString
+GetRepeatedString
+GetRepeatedStringReference
+SetRepeatedString
+AddString
+GetEnum
+CHECK failed: result != NULL: 
+ is not valid for field 
+ of type 
+SetEnum
+GetRepeatedEnum
+SetRepeatedEnum
+AddEnum
+GetMessage
+SetAllocatedMessage
+ReleaseMessage
+GetRepeatedMessage
+MutableRepeatedMessage
+AddMessage
+"MutableRawRepeatedField"
+MutableRawRepeatedField
+CHECK failed: (field->options().ctype()) == (ctype): 
+subtype mismatch
+CHECK failed: (field->message_type()) == (desc): 
+wrong submessage type
+..\src\google\protobuf\wire_format_lite.cc
+CHECK failed: value.size() <= kint32max: 
+..\src\google\protobuf\wire_format.cc
+CHECK failed: (output->ByteCount()) == (expected_endpoint): 
+: Protocol message serialized to a size different from what was originally expected.  Perhaps it was modified by another thread during serialization?
+..\src\google\protobuf\reflection_ops.cc
+CHECK failed: (&from) != (to): 
+CHECK failed: (to->GetDescriptor()) == (descriptor): 
+Tried to merge messages of different types 
+(merge 
+(cannot determine missing fields for lite message)
+..\src\google\protobuf\message_lite.cc
+CHECK failed: (byte_size_before_serialization) == (byte_size_after_serialization): 
+Protocol message was modified concurrently during serialization.
+CHECK failed: (bytes_produced_by_serialization) == (byte_size_before_serialization): 
+Byte size calculation and serialization were inconsistent.  This may indicate a bug in protocol buffers or it may be caused by concurrent modification of the message.
+This shouldn't be called if all the sizes are equal.
+ message of type "
+" because it is missing required fields: 
+CHECK failed: !coded_out.HadError(): 
+..\src\google\protobuf\io\coded_stream.cc
+The total number of bytes read was 
+A protocol message was rejected because it was too big (more than 
+ bytes).  To increase the limit (or to disable these warnings), see CodedInputStream::SetTotalBytesLimit() in google/protobuf/io/coded_stream.h.
+Reading dangerously large protocol message.  If the message turns out to be larger than 
+ bytes, parsing will be halted for security reasons.  To increase the limit (or to disable these warnings), see CodedInputStream::SetTotalBytesLimit() in google/protobuf/io/coded_stream.h.
+CHECK failed: (buffer_size) >= (0): 
+..\src\google\protobuf\text_format.cc
+CHECK failed: trees: 
+Error parsing text-format 
+Warning parsing text-format 
+" is not defined or is not an extension of "
+Extension "
+" has no field named "
+Message type "
+CHECK failed: allow_unknown_field_: 
+" is specified multiple times.
+Non-repeated field "
+", another member of oneof "
+" is specified along with field "
+Field "
+text format contains deprecated field "
+". Value: "
+Invalid value for boolean field "
+Expected integer or identifier.
+" for field "
+Unknown enumeration value of "
+Reached an unintended state: CPPTYPE_MESSAGE
+infinity
+Invalid float number: 
+Expected identifier.
+Expected string.
+Expected integer.
+Integer out of range.
+Expect a decimal number.
+Expected double.
+", found "
+Expected "
+ Outdent() without matching Indent().
+Message missing required fields: 
+..\src\google\protobuf\descriptor_database.cc
+Invalid file descriptor data passed to EncodedDescriptorDatabase::Add().
+File already exists in database: 
+Invalid symbol name: 
+Symbol name "
+" conflicts with the existing symbol "
+Extension conflicts with extension already in database: extend 
+..\src\google\protobuf\dynamic_message.cc
+CHECK failed: is_prototype(): 
+..\src\google\protobuf\io\strtod.cc
+CHECK failed: (temp[0]) == ('1'): 
+CHECK failed: (temp[size-1]) == ('5'): 
+CHECK failed: (size) <= (6): 
+Unexpected end of string.
+String literals cannot cross line boundaries.
+Expected hex digits for escape sequence.
+Expected four hex digits for \u escape sequence.
+Expected eight hex digits up to 10ffff for \U escape sequence
+Invalid escape sequence in string literal.
+"0x" must be followed by hex digits.
+Numbers starting with leading zero must be in octal.
+"e" must be followed by exponent.
+Need space between number and identifier.
+Already saw decimal point or exponent; can't have another one.
+Hex and octal numbers must be integers.
+"/*" inside block comment.  Block comments cannot be nested.
+End-of-file inside block comment.
+  Comment started here.
+Invalid control characters encountered in text.
+Need space between identifier and decimal point.
+Interpreting non ascii codepoint %d.
+..\src\google\protobuf\io\tokenizer.cc
+ Tokenizer::ParseInteger() passed text that could not have been tokenized as an integer: 
+ Tokenizer::ParseFloat() passed text that could not have been tokenized as a float: 
+ Tokenizer::ParseStringAppend() passed text that could not have been tokenized as a string: 
+..\src\google\protobuf\io\zero_copy_stream_impl_lite.cc
+CHECK failed: (last_returned_size_) > (0): 
+BackUp() can only be called after a successful Next().
+CHECK failed: (count) <= (last_returned_size_): 
+CHECK failed: (count) >= (0): 
+Cannot allocate buffer larger than kint32max for 
+StringOutputStream.
+CHECK failed: (count) <= (target_->size()): 
+00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899"
+0123456789abcdef
+..\src\google\protobuf\stubs\substitute.cc
+strings::Substitute format string invalid: asked for "$
+", but only 
+ args were given.  Full format string was: "
+Invalid strings::Substitute() format string: "
+..\src\google\protobuf\extension_set_heavy.cc
+CHECK failed: prototype != NULL: 
+CHECK failed: output->message_prototype != NULL: 
+Extension factory's GetPrototype() returned NULL for extension: 
+..\src\google\protobuf\io\zero_copy_stream.cc
+This ZeroCopyOutputStream doesn't support aliasing. Reaching here usually means a ZeroCopyOutputStream implementation bug.
+SteamToursHost001
+ResponseRulesCache001
+APPSYSTEM: In ConnectGameInterfaces(), tried to use different connection modes!
+ConnectGameInterfaces
+c:\buildslave\source2_dota_rel_win64\build\src\game\gameinterfaces\gameinterfaces.cpp
+APPSYSTEM: In ConnectGameInterfaces(), s_nRegistrationCount is %d!
+APPSYSTEM: In ReconnectGameInterface(), tried to use different connection modes!
+ReconnectGameInterface
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+MATCHFRAMEWORK_001
+ScaleformUI001
+PanoramaUIEngine001
+PanoramaUIClient001
+PanoramaTextServices001
+ToolFramework2_002
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+EconItemToolModel_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+MODEL_PROCESSING_SERVICES_INTERFACE_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client002
+Source2ClientUI001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers002
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+WorkshopSetup001
+ModelDocCommandSystem001
+NavSystem001
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+c:\buildslave\source2_dota_rel_win64\build\src\interfaces\interfaces.cpp
+SSE and SSE2 are required.
+MathLib_Init
+c:\buildslave\source2_dota_rel_win64\build\src\mathlib\mathlib_base.cpp
+Am_vertexBuffers
+m_attachments
+m_hitboxsets
+Vector4D
+Quaternion
+CResourceString
+matrix3x4a_t
+CResourcePointer
+CResourceArray
+MNoScatter
+MAlignment
+MDiskDataForResourceType
+InfoForResourceTypeIMaterial2
+InfoForResourceTypeCMorphSet
+RenderInputLayoutField_t
+Double-save to Member '%s'
+MeshTranslucencyType_t
+MeshDrawPrimitiveFlags_t
+SkeletonBoneBbox_t
+RenderSkeletonData_t
+RenderSkeletonData_t::FlagEnum_t
+RenderBufferBinding_t
+MaterialDrawDescriptor_t
+OnDiskBufferData_t
+SceneObjectData_t
+AttachmentInfluenceFlags_t
+AttachmentData_t
+HitBox_t
+HitBoxSet_t
+ConstraintType_t
+ConstraintTarget_t
+ConstraintSlave_t
+BaseConstraint_t
+PermRenderMeshData_t
+MESH_TRANSLUCENCY_FULLY_OPAQUE
+MESH_TRANSLUCENCY_PARTIALLY_ALPHA_BLENDED
+MESH_TRANSLUCENCY_FULLY_ALPHA_BLENDED
+From Enum Binding
+MESH_DRAW_FLAGS_NONE
+MESH_DRAW_FLAGS_USE_SHADOW_FAST_PATH
+MESH_DRAW_FLAGS_USE_COMPRESSED_NORMAL_TANGENT
+MESH_DRAW_FLAGS_IS_OCCLUDER
+MESH_DRAW_INPUT_LAYOUT_IS_NOT_MATCHED_TO_MATERIAL
+MESH_DRAW_FLAGS_USE_COMPRESSED_PER_VERTEX_LIGHTING
+MESH_DRAW_FLAGS_USE_UNCOMPRESSED_PER_VERTEX_LIGHTING
+MESH_DRAW_FLAGS_CAN_BATCH_WITH_DYNAMIC_SHADER_CONSTANTS
+MESH_DRAW_FLAGS_DRAW_LAST
+RenderSkeletonData_t::FLAG_BLEND_WEIGHT_COUNT_SHIFT
+RenderSkeletonData_t::FLAG_BLEND_WEIGHT_COUNT_MASK
+ATTACHMENT_INFLUENCE_FLAGS_NONE
+ATTACHMENT_INFLUENCE_FLAGS_ROOT_TRANSFORM
+CONSTRAINT_TYPE_INVALID
+CONSTRAINT_TYPE_HELPER_BONE
+CONSTRAINT_TYPE_TWIST
+CONSTRAINT_TYPE_AIM
+CONSTRAINT_TYPE_POINT
+CONSTRAINT_TYPE_ROTATION
+CONSTRAINT_TYPE_ORIENT
+CONSTRAINT_TYPE_2_BONE_IK
+CONSTRAINT_TYPE_JIGGLE_BONE
+CONSTRAINT_TYPE_TILT_TWIST
+CONSTRAINT_TYPE_MAX
+m_vecCenter
+m_vecSize
+m_nBoneCount
+m_nBoneWeightCount
+m_bonesHash
+m_indexNames
+m_indexHash
+m_invBindPose
+m_bboxes
+m_spheres
+m_nFlags
+m_boneNames
+m_boneParents
+m_hBuffer
+m_nBindOffsetBytes
+m_nBaseVertex
+m_nVertexCount
+m_nStartIndex
+m_nIndexCount
+m_nStartInstance
+m_nInstanceCount
+m_flUvDensity
+m_nPrimitiveType
+m_bAlphaBlendedMaterial
+m_padding
+m_hInputLayoutHandle
+m_indexBuffer
+m_pMaterial
+m_nElementCount
+m_nElementSizeInBytes
+m_inputLayoutFields
+m_pData
+m_vMinBounds
+m_vMaxBounds
+m_translucencyType
+m_drawCalls
+m_vTintColor
+m_influenceNames
+m_vInfluenceOffsets
+m_vInfluenceRotations
+m_influenceWeights
+m_nInfluences
+m_sSurfaceProperty
+m_nGroupId
+m_sBoneName
+m_nBoneNameHash
+m_cRenderColor
+m_nHitBoxIndex
+m_bVisible
+m_SourceFilename
+m_hitboxes
+m_nBoneHash
+m_flWeight
+m_vOffset
+m_qOffset
+m_bIsAttachment
+m_vBasePosition
+m_qBaseOrientation
+m_nConstraintType
+m_vUpVector
+m_qAimOffset
+m_nTargetUpBoneHash
+m_nUpType
+m_bInverse
+m_qParentBindRotation
+m_qChildBindRotation
+m_slaves
+m_targets
+m_sceneObjects
+m_pMorphSet
+m_skeleton
+m_boneConstraints
+m_indexBuffers
+modellib
+CResourceExtReference
+ERROR: CAtomicManipulator::Allocate() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<unsigned int> >::Allocate
+c:\buildslave\source2_dota_rel_win64\build\src\public\resourcefile\resourcestream.h
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<unsigned int> >::AllocateAndCopy
+ERROR: CAtomicManipulator::Copy() Cannot copy CResourceArray(FIXME: maybe you can?)
+CAtomicManipulator<class CResourceArray<unsigned int> >::Copy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate CResourceArray
+CAtomicManipulator<class CResourceArray<unsigned int> >::Deallocate
+CAtomicManipulator<class CResourceArray<unsigned short> >::Allocate
+CAtomicManipulator<class CResourceArray<unsigned short> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<unsigned short> >::Copy
+CAtomicManipulator<class CResourceArray<unsigned short> >::Deallocate
+CAtomicManipulator<class CResourceArray<class matrix3x4a_t> >::Allocate
+CAtomicManipulator<class CResourceArray<class matrix3x4a_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class matrix3x4a_t> >::Copy
+CAtomicManipulator<class CResourceArray<class matrix3x4a_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct SkeletonBoneBbox_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct SkeletonBoneBbox_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct SkeletonBoneBbox_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct SkeletonBoneBbox_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<float> >::Allocate
+CAtomicManipulator<class CResourceArray<float> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<float> >::Copy
+CAtomicManipulator<class CResourceArray<float> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceString> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RenderBufferBinding_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RenderBufferBinding_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RenderBufferBinding_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RenderBufferBinding_t> >::Deallocate
+CWeakHandle
+CAtomicManipulator<class CResourceArray<struct RenderInputLayoutField_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RenderInputLayoutField_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RenderInputLayoutField_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RenderInputLayoutField_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<unsigned char> >::Allocate
+CAtomicManipulator<class CResourceArray<unsigned char> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<unsigned char> >::Copy
+CAtomicManipulator<class CResourceArray<unsigned char> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MaterialDrawDescriptor_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MaterialDrawDescriptor_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MaterialDrawDescriptor_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MaterialDrawDescriptor_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct HitBox_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct HitBox_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct HitBox_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct HitBox_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ConstraintSlave_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ConstraintSlave_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ConstraintSlave_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ConstraintSlave_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ConstraintTarget_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ConstraintTarget_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ConstraintTarget_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ConstraintTarget_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct SceneObjectData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct SceneObjectData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct SceneObjectData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct SceneObjectData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct AttachmentData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct AttachmentData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct AttachmentData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct AttachmentData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct HitBoxSet_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct HitBoxSet_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct HitBoxSet_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct HitBoxSet_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct BaseConstraint_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct BaseConstraint_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct BaseConstraint_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct BaseConstraint_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct OnDiskBufferData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct OnDiskBufferData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct OnDiskBufferData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct OnDiskBufferData_t> >::Deallocate
+matrix3x4_t
+CUtlString
+CUtlVector
+MDefaultString
+CRenderMesh
+RenderPrimitiveType_t
+MEmitKV3TransferPostLoadFn
+MEmitKV3TransferPostSaveFn
+CBaseConstraint
+RenderSkeletonBone_t
+CRenderSkeleton
+CMaterialDrawDescriptor
+CSceneObjectData
+CAttachment
+CHitBox
+CHitBoxSet
+CHitBoxSetList
+m_boneName
+m_parentName
+m_flSphereRadius
+TransferPostLoadFn
+m_bones
+TransferPostSaveFn
+m_material
+m_influenceFlags
+m_bTranslationOnly
+m_bSelected
+m_nNameHash
+m_HitBoxes
+m_HitBoxSets
+m_morphSet
+m_constraints
+CStrongHandle
+CUtlVectorFixedGrowable
+CSchemaNonConstructibleClassBindingBase::ReportClassError
+c:\buildslave\source2_dota_rel_win64\build\src\public\schemasystem\schema.h
+Cannot allocate abstract class %s
+Cannot deallocate abstract class
+Cannot allocate abstract class
+Cannot copy abstract class
+Cannot construct abstract class
+Cannot destruct abstract class
+CPointConstraint
+COrientConstraint
+CAimConstraint
+CTwistConstraint
+CTiltTwistConstraint
+m_nTargetAxis
+m_nSlaveAxis
+<unknown>
+AimConstraint: %s - Cannot Find Aim Up Target Bone
+AimConstraint: %s - Cannot Find Aim Up Target Attachment: %s
+5CTransform
+RnSphereDesc_t
+RnCapsuleDesc_t
+RnHullDesc_t
+RnMeshDesc_t
+RnSoftbodyParticle_t
+RnSoftbodySpring_t
+RnSoftbodyCapsule_t
+VpropBreakablePartData_t
+PhysFeModelDesc_t
+VPhysics2ShapeDef_t
+VPhysXBodyPart_t
+VPhysXBodyPart_t::VPhysXFlagEnum_t
+VPhysXCollisionAttributes_t
+VPhysXRange_t
+VPhysXConstraintParams_t
+VPhysXConstraintParams_t::EnumFlags0_t
+VPhysXConstraint2_t
+VPhysXJoint_t
+PhysSoftbodyDesc_t
+VPhysXAggregateData_t
+VPhysXAggregateData_t::VPhysXFlagEnum_t
+VPhysXBodyPart_t::FLAG_STATIC
+VPhysXBodyPart_t::FLAG_KINEMATIC
+VPhysXBodyPart_t::FLAG_JOINT
+VPhysXBodyPart_t::FLAG_MASS
+VPhysXConstraintParams_t::FLAG0_SHIFT_INTERPENETRATE
+VPhysXConstraintParams_t::FLAG0_SHIFT_CONSTRAIN
+VPhysXConstraintParams_t::FLAG0_SHIFT_BREAKABLE_FORCE
+VPhysXConstraintParams_t::FLAG0_SHIFT_BREAKABLE_TORQUE
+VPhysXAggregateData_t::FLAG_IS_POLYSOUP_GEOMETRY
+VPhysXAggregateData_t::FLAG_LEVEL_COLLISION
+VPhysXAggregateData_t::FLAG_IGNORE_SCALE
+m_capsules
+m_hulls
+m_meshes
+m_CollisionAttributeIndices
+m_flMass
+m_rnShape
+m_pBreakablePartData
+m_nSurfacepropertyIndices
+m_nCollisionAttributeIndex
+m_nReserved
+m_flInertiaScale
+m_flLinearDamping
+m_flAngularDamping
+m_CollisionGroup
+m_InteractAs
+m_InteractWith
+m_CollisionGroupString
+m_InteractAsStrings
+m_InteractWithStrings
+m_flMin
+m_flMax
+m_nType
+m_nTranslateMotion
+m_nRotateMotion
+m_anchor
+m_maxForce
+m_maxTorque
+m_linearLimitValue
+m_linearLimitRestitution
+m_linearLimitSpring
+m_linearLimitDamping
+m_twistLowLimitValue
+m_twistLowLimitRestitution
+m_twistLowLimitSpring
+m_twistLowLimitDamping
+m_twistHighLimitValue
+m_twistHighLimitRestitution
+m_twistHighLimitSpring
+m_twistHighLimitDamping
+m_swing1LimitValue
+m_swing1LimitRestitution
+m_swing1LimitSpring
+m_swing1LimitDamping
+m_swing2LimitValue
+m_swing2LimitRestitution
+m_swing2LimitSpring
+m_swing2LimitDamping
+m_goalPosition
+m_goalOrientation
+m_goalAngularVelocity
+m_driveSpringX
+m_driveSpringY
+m_driveSpringZ
+m_driveDampingX
+m_driveDampingY
+m_driveDampingZ
+m_driveSpringTwist
+m_driveSpringSwing
+m_driveSpringSlerp
+m_driveDampingTwist
+m_driveDampingSwing
+m_driveDampingSlerp
+m_solverIterationCount
+m_projectionLinearTolerance
+m_projectionAngularTolerance
+m_nParent
+m_nChild
+m_params
+m_nBody1
+m_nBody2
+m_Frame1
+m_Frame2
+m_bEnableLinearLimit
+m_LinearLimit
+m_bEnableLinearMotor
+m_vLinearTargetVelocity
+m_flMaxForce
+m_bEnableSwingLimit
+m_SwingLimit
+m_bEnableTwistLimit
+m_TwistLimit
+m_bEnableAngularMotor
+m_vAngularTargetVelocity
+m_flMaxTorque
+m_flLinearFrequency
+m_flLinearDampingRatio
+m_flAngularFrequency
+m_flAngularDampingRatio
+m_ParticleBoneHash
+m_Particles
+m_Springs
+m_Capsules
+m_InitPose
+m_ParticleBoneName
+m_nRefCounter
+m_bindPose
+m_parts
+m_constraints2
+m_joints
+m_pFeModel
+m_surfacePropertyHashes
+m_collisionAttributes
+m_debugPartNames
+m_embeddedKeyvalues
+CAtomicManipulator<class CResourceArray<struct RnSphereDesc_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnSphereDesc_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnSphereDesc_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnSphereDesc_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnCapsuleDesc_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnCapsuleDesc_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnCapsuleDesc_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnCapsuleDesc_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnHullDesc_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnHullDesc_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnHullDesc_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnHullDesc_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnMeshDesc_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnMeshDesc_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnMeshDesc_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnMeshDesc_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyParticle_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyParticle_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyParticle_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyParticle_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodySpring_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodySpring_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodySpring_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodySpring_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyCapsule_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyCapsule_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyCapsule_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyCapsule_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CTransform> >::Allocate
+CAtomicManipulator<class CResourceArray<class CTransform> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CTransform> >::Copy
+CAtomicManipulator<class CResourceArray<class CTransform> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct VPhysXBodyPart_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct VPhysXBodyPart_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct VPhysXBodyPart_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VPhysXBodyPart_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct VPhysXConstraint2_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct VPhysXConstraint2_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct VPhysXConstraint2_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VPhysXConstraint2_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct VPhysXJoint_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct VPhysXJoint_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct VPhysXJoint_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VPhysXJoint_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct VPhysXCollisionAttributes_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct VPhysXCollisionAttributes_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct VPhysXCollisionAttributes_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VPhysXCollisionAttributes_t> >::Deallocate
+MPropertyFriendlyName
+multiplayerBreak_t
+MULTIPLAYER_BREAK_SERVER
+MULTIPLAYER_BREAK_CLIENT
+Motion Disabled
+Do Not Cast Shadows
+Fade Time
+Fade Min Distance
+Fade Max Distance
+Burst Scale
+Burst Randomize
+Surface Prop Hash
+Collision Group Hash
+m_bMotionDisabled
+m_bNoShadows
+m_nHealth
+m_nFadeTime
+m_nFadeMin
+m_nFadeMax
+m_flBurstScale
+m_flBurstRandomize
+m_nSurfaceProp
+m_nCollisionGroupHash
+MDmElementType
+CVPhysXSurfacePropertiesList
+MKV3TransferName
+CPhysSurfacePropertiesPhysics
+CPhysSurfacePropertiesAudio
+CPhysSurfacePropertiesSoundNames
+CPhysSurfacePropertiesGame
+CPhysSurfaceProperties
+friction
+elasticity
+density
+thickness
+dampening
+DmeSurfacePhysicsParams
+m_friction
+m_elasticity
+m_density
+m_thickness
+m_dampening
+audioreflectivity
+audiohardnessfactor
+audioroughnessfactor
+scrapeRoughThreshold
+impactHardThreshold
+audioHardMinVelocity
+DmeSurfaceAudioParams
+m_reflectivity
+m_hardnessFactor
+m_roughnessFactor
+m_roughThreshold
+m_hardThreshold
+m_hardVelocityThreshold
+walkleft
+walkright
+runleft
+runright
+impactsoft
+impacthard
+scrapesmooth
+scraperough
+bulletimpact
+rolling
+DmeSurfaceAudioSounds
+m_walkStepLeft
+m_walkStepRight
+m_runStepLeft
+m_runStepRight
+m_impactSoft
+m_impactHard
+m_scrapeSmooth
+m_scrapeRough
+m_bulletImpact
+m_rolling
+m_break
+m_strain
+maxspeedfactor
+jumpfactor
+gamematerial
+climbable
+m_flMaxSpeedFactor
+m_flJumpFactor
+m_nMaterial
+m_bClimbable
+surfacePropertyName
+description
+physics
+audiosounds
+audioparams
+gameproperties
+m_nameHash
+m_description
+m_physics
+m_audioSounds
+m_audioParams
+m_gameProperties
+SurfacePropertiesList
+m_surfacePropertiesList
+CVPhysXLevelData
+CVPhysXMesh
+DmeVPhysXMesh
+m_shape
+m_pCollisionResourceName
+m_pRenderResourceName
+DmeVPhysXLevel
+CAtomicManipulator<class CResourceArray<class CVPhysXMesh> >::Allocate
+CAtomicManipulator<class CResourceArray<class CVPhysXMesh> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CVPhysXMesh> >::Copy
+CAtomicManipulator<class CResourceArray<class CVPhysXMesh> >::Deallocate
+VPhysXDiskShapeHeader_t
+VPhysXDiskShapeHeader_t::VersinEnum_t
+VPhysXDiskMesh2_t
+VPhysXShapeCompoundHeader2_t
+VPhysXDiskCapsule_t
+VPhysXDiskShapeHeader_t::VERSION
+m_nCollisionAttribute
+m_flSkinWidth
+m_flMaxVelocity
+m_nReserved2
+m_components
+m_types
+m_vEnds
+m_flRadius
+CAtomicManipulator<class CResourceArray<class CResourceArray<unsigned char> > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceArray<unsigned char> > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceArray<unsigned char> > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceArray<unsigned char> > >::Deallocate
+InfoForResourceTypeCAnimationGroupResource
+InfoForResourceTypeCSequenceGroupResource
+InfoForResourceTypeCRenderMesh
+InfoForResourceTypeCModel
+InfoForResourceTypeCPhysAggregateData
+MaterialGroup_t
+ModelSkeletonData_t
+ModelSkeletonData_t::BoneFlags_t
+PermModelInfo_t
+PermModelInfo_t::FlagEnum
+PermModelExtPart_t
+ModelBoneFlexComponent_t
+ModelBoneFlexDriverControl_t
+ModelBoneFlexDriver_t
+PermModelData_t
+ModelSkeletonData_t::FLAG_NO_BONE_FLAGS
+ModelSkeletonData_t::FLAG_BONEFLEXDRIVER
+ModelSkeletonData_t::FLAG_CLOTH
+ModelSkeletonData_t::FLAG_PHYSICS
+ModelSkeletonData_t::FLAG_ATTACHMENT
+ModelSkeletonData_t::FLAG_ANIMATION
+ModelSkeletonData_t::FLAG_MESH
+ModelSkeletonData_t::FLAG_HITBOX
+ModelSkeletonData_t::FLAG_RETARGET_SRC
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD0
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD1
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD2
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD3
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD4
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD5
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD6
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD7
+ModelSkeletonData_t::FLAG_BONE_MERGE_READ
+ModelSkeletonData_t::FLAG_BONE_MERGE_WRITE
+ModelSkeletonData_t::FLAG_ALL_BONE_FLAGS
+ModelSkeletonData_t::BLEND_PREALIGNED
+ModelSkeletonData_t::FLAG_RIGIDLENGTH
+ModelSkeletonData_t::FLAG_PROCEDURAL
+PermModelInfo_t::FLAG_TRANSLUCENT
+PermModelInfo_t::FLAG_TRANSLUCENT_TWO_PASS
+PermModelInfo_t::FLAG_MODEL_IS_RUNTIME_COMBINED
+PermModelInfo_t::FLAG_SOURCE1_IMPORT
+PermModelInfo_t::FLAG_MODEL_PART_CHILD
+PermModelInfo_t::FLAG_NAV_GEN_NONE
+PermModelInfo_t::FLAG_NAV_GEN_HULL
+PermModelInfo_t::FLAG_NO_FORCED_FADE
+PermModelInfo_t::FLAG_HAS_SKINNED_MESHES
+PermModelInfo_t::FLAG_DO_NOT_CAST_SHADOWS
+PermModelInfo_t::FLAG_FORCE_PHONEME_CROSSFADE
+PermModelInfo_t::FLAG_NO_ANIM_EVENTS
+PermModelInfo_t::FLAG_ANIMATION_DRIVEN_FLEXES
+PermModelInfo_t::FLAG_IMPLICIT_BIND_POSE_SEQUENCE
+MODEL_BONE_FLEX_INVALID
+MODEL_BONE_FLEX_TX
+MODEL_BONE_FLEX_TY
+MODEL_BONE_FLEX_TZ
+m_materials
+m_boneSphere
+m_nFlag
+m_bonePosParent
+m_boneRotParent
+m_vHullMin
+m_vHullMax
+m_vViewMin
+m_vViewMax
+m_vEyePosition
+m_flMaxEyeDeflection
+m_keyValueText
+m_Transform
+m_refModel
+m_nBoneComponent
+m_flexController
+m_flexControllerToken
+m_boneNameToken
+m_controls
+m_modelInfo
+m_ExtParts
+m_refMeshes
+m_refMeshGroupMasks
+m_refPhysGroupMasks
+m_refLODGroupMasks
+m_lodGroupSwitchDistances
+m_refPhysicsData
+m_refPhysicsHitboxData
+m_refAnimGroups
+m_refSequenceGroups
+m_meshGroups
+m_materialGroups
+m_nDefaultMeshGroupMask
+m_modelSkeleton
+m_remappingTable
+m_remappingTableStarts
+m_boneFlexDrivers
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeIMaterial2> > > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeIMaterial2> > > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeIMaterial2> > > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeIMaterial2> > > >::Deallocate
+CAtomicManipulator<class CResourceArray<short> >::Allocate
+CAtomicManipulator<class CResourceArray<short> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<short> >::Copy
+CAtomicManipulator<class CResourceArray<short> >::Deallocate
+CAtomicManipulator<class CResourceArray<class Vector> >::Allocate
+CAtomicManipulator<class CResourceArray<class Vector> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class Vector> >::Copy
+CAtomicManipulator<class CResourceArray<class Vector> >::Deallocate
+CAtomicManipulator<class CResourceArray<class Quaternion> >::Allocate
+CAtomicManipulator<class CResourceArray<class Quaternion> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class Quaternion> >::Copy
+CAtomicManipulator<class CResourceArray<class Quaternion> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriverControl_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriverControl_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriverControl_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriverControl_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct PermModelExtPart_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct PermModelExtPart_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct PermModelExtPart_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct PermModelExtPart_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCRenderMesh> > > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCRenderMesh> > > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCRenderMesh> > > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCRenderMesh> > > >::Deallocate
+CAtomicManipulator<class CResourceArray<unsigned __int64> >::Allocate
+CAtomicManipulator<class CResourceArray<unsigned __int64> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<unsigned __int64> >::Copy
+CAtomicManipulator<class CResourceArray<unsigned __int64> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCPhysAggregateData> > > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCPhysAggregateData> > > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCPhysAggregateData> > > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCPhysAggregateData> > > >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCAnimationGroupResource> > > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCAnimationGroupResource> > > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCAnimationGroupResource> > > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCAnimationGroupResource> > > >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCSequenceGroupResource> > > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCSequenceGroupResource> > > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCSequenceGroupResource> > > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCSequenceGroupResource> > > >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MaterialGroup_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MaterialGroup_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MaterialGroup_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MaterialGroup_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriver_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriver_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriver_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriver_t> >::Deallocate
+CBuilderModelInfo
+BuilderModelBoneFlexDriverControl_t
+BuilderModelBoneFlexDriver_t
+BuilderModelBoneFlexDriverList_t
+m_drivers
+position
+Physics
+c:\buildslave\source2_dota_rel_win64\build\src\resourcefile\resourcestream.cpp
+Wrong alignment %d
+CResourceStream::Align
+@X@unknown
+KeyValues Error: %s in file %s
+(*%s*), 
+ ReadToken overflow
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KV Conditional Evaluation Error
+#include
+#include is NULL 
+#base is NULL 
+LoadFromBuffer: expected '{', found '%s'
+RecursiveLoadFromBuffer:  recursion overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  got conditional between key and value
+RegisterConfigValue: Unknown error constructing config value "%s"!
+CGlobalConfigValueRegistry::HookUpConfigValue
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\configvalue.cpp
+%i %i %i %i
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar(%s) defined with infinite float value (%s)
+GCUtlString::FormatV
+%s unable to grow buffer to fit string
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\utlstring.cpp
+UPDATE_STRING_TOKEN_DATABASE
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+VScript
+VScriptDbg
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\source2_dota_rel_win64\build\src\public\tier0\tslist.h
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+bad allocation
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+Access violation - no RTTI data!
+Bad dynamic_cast!
+Unknown exception
+?atan2f
+?8UUUUU
+?E=$% B
+?49HoKC
+?UUUUUU
+AUUUUUU
+?UUUUUU
+bad exception
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+No error
+Operation not permitted
+No such file or directory
+No such process
+Interrupted function call
+Input/output error
+No such device or address
+Arg list too long
+Exec format error
+Bad file descriptor
+No child processes
+Resource temporarily unavailable
+Not enough space
+Permission denied
+Bad address
+Unknown error
+Resource device
+File exists
+Improper link
+No such device
+Not a directory
+Is a directory
+Invalid argument
+Too many open files in system
+Too many open files
+Inappropriate I/O control operation
+File too large
+No space left on device
+Invalid seek
+Read-only file system
+Too many links
+Broken pipe
+Domain error
+Result too large
+Resource deadlock avoided
+Filename too long
+No locks available
+Function not implemented
+Directory not empty
+Illegal byte sequence
+@^8U)zj
+?8bunz8
+?@En[vP
+-9D	/9a
+?UUUUUU
+_nextafter
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+CKeyValues3Cluster allocated with bad alignment! (%p) (If this is inside of a heap allocation, you may need to inherit from CAlignedNewDelete< KV3_CLUSTER_SIZEOF >.)
+CKeyValues3Cluster::CKeyValues3Cluster
+c:\buildslave\source2_dota_rel_win64\build\src\kv3lib\keyvalues3.cpp
+Failed to save unsupported class
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+UTF-16LE
+UNICODE
+generic
+unknown error
+iostream
+iostream stream error
+network_connection.proto
+c:\buildslave\source2_dota_rel_win64\build\src\game\host\generated_protodota\win64\network_connection.pb.cc
+CHECK failed: file != NULL: 
+network_connection.proto
+ google/protobuf/descriptor.proto*
+ENetworkDisconnectionReason
+NETWORK_DISCONNECT_INVALID
+NETWORK_DISCONNECT_SHUTDOWN
+%NETWORK_DISCONNECT_DISCONNECT_BY_USER
+#GameUI_Disconnect_User
+'NETWORK_DISCONNECT_DISCONNECT_BY_SERVER
+#GameUI_Disconnect_Server
+NETWORK_DISCONNECT_LOST
+!#GameUI_Disconnect_ConnectionLost
+NETWORK_DISCONNECT_OVERFLOW
+%#GameUI_Disconnect_ConnectionOverflow
+NETWORK_DISCONNECT_STEAM_BANNED
+ #GameUI_Disconnect_SteamIDBanned
+NETWORK_DISCONNECT_STEAM_INUSE
+#GameUI_Disconnect_SteamIDInUse
+NETWORK_DISCONNECT_STEAM_TICKET
+#GameUI_Disconnect_SteamTicket
+NETWORK_DISCONNECT_STEAM_LOGON
+#GameUI_Disconnect_SteamLogon
+&NETWORK_DISCONNECT_STEAM_AUTHCANCELLED
+#GameUI_Disconnect_SteamLogon
+(NETWORK_DISCONNECT_STEAM_AUTHALREADYUSED
+#GameUI_Disconnect_SteamLogon
+$NETWORK_DISCONNECT_STEAM_AUTHINVALID
+#GameUI_Disconnect_SteamLogon
+$NETWORK_DISCONNECT_STEAM_VACBANSTATE
+#GameUI_Disconnect_SteamVAC
+,NETWORK_DISCONNECT_STEAM_LOGGED_IN_ELSEWHERE
+#GameUI_Disconnect_SteamInUse
++NETWORK_DISCONNECT_STEAM_VAC_CHECK_TIMEDOUT
+#GameUI_Disconnect_SteamTimeOut
+ NETWORK_DISCONNECT_STEAM_DROPPED
+#GameUI_Disconnect_SteamDropped
+"NETWORK_DISCONNECT_STEAM_OWNERSHIP
+!#GameUI_Disconnect_SteamOwnership
+&NETWORK_DISCONNECT_SERVERINFO_OVERFLOW
+%#GameUI_Disconnect_ServerInfoOverflow
+#NETWORK_DISCONNECT_TICKMSG_OVERFLOW
+#GameUI_Disconnect_TickMessage
+*NETWORK_DISCONNECT_STRINGTABLEMSG_OVERFLOW
+%#GameUI_Disconnect_StringTableMessage
+'NETWORK_DISCONNECT_DELTAENTMSG_OVERFLOW
+"#GameUI_Disconnect_DeltaEntMessage
+&NETWORK_DISCONNECT_TEMPENTMSG_OVERFLOW
+!#GameUI_Disconnect_TempEntMessage
+%NETWORK_DISCONNECT_SOUNDSMSG_OVERFLOW
+ #GameUI_Disconnect_SoundsMessage
+#NETWORK_DISCONNECT_SNAPSHOTOVERFLOW
+##GameUI_Disconnect_SnapshotOverflow
+ NETWORK_DISCONNECT_SNAPSHOTERROR
+ #GameUI_Disconnect_SnapshotError
+#NETWORK_DISCONNECT_RELIABLEOVERFLOW
+##GameUI_Disconnect_ReliableOverflow
+NETWORK_DISCONNECT_BADDELTATICK
+%#GameUI_Disconnect_BadClientDeltaTick
+NETWORK_DISCONNECT_NOMORESPLITS
+#GameUI_Disconnect_NoMoreSplits
+NETWORK_DISCONNECT_TIMEDOUT
+#GameUI_Disconnect_TimedOut
+NETWORK_DISCONNECT_DISCONNECTED
+#GameUI_Disconnect_Disconnected
+NETWORK_DISCONNECT_LEAVINGSPLIT
+#GameUI_Disconnect_LeavingSplit
+'NETWORK_DISCONNECT_DIFFERENTCLASSTABLES
+'#GameUI_Disconnect_DifferentClassTables
+#NETWORK_DISCONNECT_BADRELAYPASSWORD
+##GameUI_Disconnect_BadRelayPassword
+'NETWORK_DISCONNECT_BADSPECTATORPASSWORD
+'#GameUI_Disconnect_BadSpectatorPassword
+!NETWORK_DISCONNECT_HLTVRESTRICTED
+!#GameUI_Disconnect_HLTVRestricted
+NETWORK_DISCONNECT_NOSPECTATORS
+#GameUI_Disconnect_NoSpectators
+"NETWORK_DISCONNECT_HLTVUNAVAILABLE
+"#GameUI_Disconnect_HLTVUnavailable
+NETWORK_DISCONNECT_HLTVSTOP
+#GameUI_Disconnect_HLTVStop
+NETWORK_DISCONNECT_KICKED
+#GameUI_Disconnect_Kicked
+NETWORK_DISCONNECT_BANADDED
+#GameUI_Disconnect_BanAdded
+NETWORK_DISCONNECT_KICKBANADDED
+#GameUI_Disconnect_KickBanAdded
+NETWORK_DISCONNECT_HLTVDIRECT
+#GameUI_Disconnect_HLTVDirect
+)NETWORK_DISCONNECT_PURESERVER_CLIENTEXTRA
+)#GameUI_Disconnect_PureServer_ClientExtra
+&NETWORK_DISCONNECT_PURESERVER_MISMATCH
+&#GameUI_Disconnect_PureServer_Mismatch
+NETWORK_DISCONNECT_USERCMD
+#GameUI_Disconnect_UserCmd
+#NETWORK_DISCONNECT_REJECTED_BY_GAME
+!#GameUI_Disconnect_RejectedByGame
+&NETWORK_DISCONNECT_MESSAGE_PARSE_ERROR
+$#GameUI_Disconnect_MessageParseError
+(NETWORK_DISCONNECT_INVALID_MESSAGE_ERROR
+&#GameUI_Disconnect_InvalidMessageError
+&NETWORK_DISCONNECT_BAD_SERVER_PASSWORD
+$#GameUI_Disconnect_BadServerPassword
+-NETWORK_DISCONNECT_DIRECT_CONNECT_RESERVATION
+%NETWORK_DISCONNECT_CONNECTION_FAILURE
+$#GameUI_Disconnect_ConnectionFailure
+)NETWORK_DISCONNECT_NO_PEER_GROUP_HANDLERS
+&#GameUI_Disconnect_NoPeerGroupHandlers
+NETWORK_DISCONNECT_RECONNECTION
+NETWORK_DISCONNECT_LOOPSHUTDOWN
+#GameUI_Disconnect_LoopShutdown
+!NETWORK_DISCONNECT_LOOPDEACTIVATE
+!#GameUI_Disconnect_LoopDeactivate
+NETWORK_DISCONNECT_HOST_ENDGAME
+#GameUI_Disconnect_Host_EndGame
+*NETWORK_DISCONNECT_LOOP_LEVELLOAD_ACTIVATE
+(#GameUI_Disconnect_LoopLevelLoadActivate
+'NETWORK_DISCONNECT_CREATE_SERVER_FAILED
+%#GameUI_Disconnect_CreateServerFailed
+NETWORK_DISCONNECT_EXITING
+ #GameUI_Disconnect_ExitingEngine
+)NETWORK_DISCONNECT_REQUEST_HOSTSTATE_IDLE
+!#GameUI_Disconnect_Request_HSIdle
+.NETWORK_DISCONNECT_REQUEST_HOSTSTATE_HLTVRELAY
+$#GameUI_Disconnect_Request_HLTVRelay
+*NETWORK_DISCONNECT_CLIENT_CONSISTENCY_FAIL
+#GameUI_ClientConsistencyFail
++NETWORK_DISCONNECT_CLIENT_UNABLE_TO_CRC_MAP
+#GameUI_ClientUnableToCRCMap
+ NETWORK_DISCONNECT_CLIENT_NO_MAP
+#GameUI_ClientNoMap
+'NETWORK_DISCONNECT_CLIENT_DIFFERENT_MAP
+#GameUI_ClientDifferentMap
+(NETWORK_DISCONNECT_SERVER_REQUIRES_STEAM
+#GameUI_ServerRequireSteams
+"NETWORK_DISCONNECT_STEAM_DENY_MISC
+!#GameUI_Disconnect_SteamDeny_Misc
+,NETWORK_DISCONNECT_STEAM_DENY_BAD_ANTI_CHEAT
+)#GameUI_Disconnect_SteamDeny_BadAntiCheat
+"NETWORK_DISCONNECT_SERVER_SHUTDOWN
+!#GameUI_Disconnect_ServerShutdown
+,NETWORK_DISCONNECT_SPLITPACKET_SEND_OVERFLOW
+,#GameUI_Disconnect_Splitpacket_Send_Overflow
+&NETWORK_DISCONNECT_REPLAY_INCOMPATIBLE
+%#GameUI_Disconnect_ReplayIncompatible
++NETWORK_DISCONNECT_CONNECT_REQUEST_TIMEDOUT
+%#GameUI_Disconnect_ConnectionTimedout
+&NETWORK_DISCONNECT_SERVER_INCOMPATIBLE
+%#GameUI_Disconnect_ServerIncompatible:E
+network_connection_token
+!.google.protobuf.EnumValueOptions
+string too long
+invalid string position
+networkbasetypes.proto
+c:\buildslave\source2_dota_rel_win64\build\src\game\host\generated_protodota\win64\networkbasetypes.pb.cc
+networkbasetypes.proto
+network_connection.proto"-
+CMsgVector
+CMsgVector2D
+CMsgQAngle
+CMsgPlayerInfo
+steamid
+fakeplayer
+CMsg_CVars
+.CMsg_CVars.CVar
+CNETMsg_NOP"'
+CNETMsg_SplitScreenUser
+CNETMsg_Disconnect
+.ENetworkDisconnectionReason"
+CNETMsg_Tick
+host_frametime
+host_frametime_std_deviation
+host_computationtime
+"host_computationtime_std_deviation
+!host_framestarttime_std_deviation
+CNETMsg_StringCmd
+command
+CNETMsg_SetConVar
+convars
+.CMsg_CVars"
+CNETMsg_SignonState
+signon_state
+spawn_count
+num_server_players
+players_networkids
+map_name
+CSVCMsg_GameEvent
+event_name
+eventid
+.CSVCMsg_GameEvent.key_t
+val_string
+	val_float
+val_long
+	val_short
+val_byte
+val_bool
+val_uint64
+CSVCMsgList_GameEvents
+.CSVCMsgList_GameEvents.event_t
+event_t
+.CSVCMsg_GameEvent"9
+CSVCMsg_UserMessage
+msg_type
+msg_data
+CSVCMsgList_UserMessages
+usermsgs
+2#.CSVCMsgList_UserMessages.usermsg_t
+	usermsg_t
+.CSVCMsg_UserMessage"
+CNETMsg_SpawnGroup_Load
+	worldname
+entitylumpname
+entityfiltername
+spawngrouphandle
+spawngroupownerhandle
+world_offset_pos
+.CMsgVector
+world_offset_angle
+.CMsgQAngle
+spawngroupmanifest
+	tickcount
+manifestincomplete
+localnamefixup
+parentnamefixup
+manifestloadpriority
+worldgroupid
+creationsequence
+savegamefilename
+!CNETMsg_SpawnGroup_ManifestUpdate
+spawngrouphandle
+spawngroupmanifest
+manifestincomplete
+"CNETMsg_SpawnGroup_SetCreationTick
+spawngrouphandle
+	tickcount
+creationsequence
+CNETMsg_SpawnGroup_Unload
+spawngrouphandle
+	tickcount
+ CNETMsg_SpawnGroup_LoadCompleted
+spawngrouphandle
+ CSVCMsg_GameSessionConfiguration
+is_multiplayer
+is_loadsavegame
+is_background_map
+is_headless
+min_client_limit
+max_client_limit
+max_clients
+tick_interval
+hostname
+savegamename
+s1_mapname
+gamemode
+server_ip_address
+is_localonly
+NET_Messages
+net_NOP
+net_Disconnect
+net_SplitScreenUser
+net_Tick
+net_StringCmd
+net_SetConVar
+net_SignonState
+net_SpawnGroup_Load
+net_SpawnGroup_ManifestUpdate
+net_SpawnGroup_SetCreationTick
+net_SpawnGroup_Unload
+net_SpawnGroup_LoadCompleted
+SpawnGroupFlags_t
+#SPAWN_GROUP_LOAD_ENTITIES_FROM_SAVE
+SPAWN_GROUP_DONT_SPAWN_ENTITIES
+SPAWN_GROUP_SYNCHRONOUS_SPAWN
+"SPAWN_GROUP_IS_INITIAL_SPAWN_GROUP
+'SPAWN_GROUP_CREATE_CLIENT_ONLY_ENTITIES
+SPAWN_GROUP_SAVE_ENTITIES
+SPAWN_GROUP_BLOCK_UNTIL_LOADED
+SPAWN_GROUP_LOAD_STREAMING_DATA
+"SPAWN_GROUP_CREATE_NEW_SCENE_WORLD
+CHECK failed: (&from) != (this): 
+c:\buildslave\source2_dota_rel_win64\build\src\thirdparty\protobuf-2.6.1\src\google\protobuf\repeated_field.h
+CHECK failed: (&other) != (this): 
+Protobuf: %s(%d): %s
+CProtobufLogHandler::LogHandler
+c:\buildslave\source2_dota_rel_win64\build\src\common\protobuf_helpers.cpp
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+vector<T> too long
+DebugDrawQueueManager001
+GetModelMaterialColor:  Available on client only!
+GameModelInfoServer001
+GameModelInfoClient001
+GameSystem2HostHook
+Height map file (%s) not found, this will make ground height traces more expensive! Recompile the map to generate a height map.
+DotaMapUtils001
+dota_use_heightmap
+Set to 0 to disable using heightmap when tracing vertical rays
+Tree map file (%s) does not exist or is invalid. This will cause issues with remote clients picking trees correctly.
+HostUtils001
+soundsystem
+SoundSystem001
+$gender
+scripts/global_actors.txt
+allactors
+Exceeded max number of actors in scripts/global_actors.txt
+c:\buildslave\source2_dota_rel_win64\build\src\game\gamecore\igamesystem.cpp
+Game System %s is defined twice!
+System %s failed to init
+IGameSystem::InitAllSystems
+IGameSystem::PostInit( %-80s ) %8.3f msec
+IGameSystem::Init( %-80s ) %8.3f msec
+%s:  IGameSystem::LoopInitAllSystems(finish)
+%s:  IGameSystem::LoopInitAllSystems(start)
+%s:  IGameSystem::LoopDeactivateAllSystems
+%s:  IGameSystem::LoopActivateAllSystems
+prerequisite '%s'
+CResourceManifestPrerequisite
+TestGameSystem
+diffcheck_playerslot
+Activate diffcheck system.
+diffcheck
+Actually show diffcheck results.
+diffcheck_spew
+PredictionDiffManager001
+(missing)
+%%s%%s%%d:  sv[%%%d.%ds] cl[%%%d.%ds]
+SaveRestoreDataVersion001
+Source2Host001
+invalid_parameter
+purecall
+Intentionally vague touch behavior for %p
+BinaryProperties_GetValue
+Release
+host.dll
+EventProfileStorageAvailable_t
+EventFrameBoundary_t
+EventModInitialized_t
+EngineLoopState_t
+EventClientProcessInput_t
+EventClientPollInput_t
+EventSetTime_t
+EventSplitScreenStateChanged_t
+EventClientOutput_t
+EventClientSceneSystemThreadStateChange_t
+EventClientPreOutput_t
+EventClientProcessGameInput_t
+EventSimulate_t
+EventSimpleLoopFrameUpdate_t
+EventClientFrameSimulate_t
+EventClientPostOutput_t
+EventServerPostAdvanceTick_t
+EventServerAdvanceTick_t
+EventPostAdvanceTick_t
+EventAdvanceTick_t
+EventClientPollNetworking_t
+EventClientSendInput_t
+EventClientPostAdvanceTick_t
+EventClientAdvanceTick_t
+EventServerPollNetworking_t
+EventClientSimulate_t
+EventClientPreSimulate_t
+EventClientProcessNetworking_t
+EventClientPostSimulate_t
+EventServerPostSimulate_t
+EventServerSimulate_t
+EventServerProcessNetworking_t
+EventAppShutdown_t
+EventPreDataUpdate_t
+EventPostDataUpdate_t
+EventClientPauseSimulate_t
+m_nRenderHeight
+m_nRenderWidth
+m_nPlatWindowHeight
+m_nPlatWindowWidth
+m_LoopState
+m_nSplitScreenSlot
+m_flFrameTime
+From Class Binding
+m_flRenderFrameTime
+m_flRenderTime
+m_flRealTime
+m_nClientOutputFrames
+m_bThreadsActive
+m_flTickRemainder
+m_flRenderFrameTimeUnscaled
+m_flRenderFrameTimeUnbounded
+m_nTotalTicksThisFrame
+m_nCurrentTick
+m_bLastTick
+m_bFirstTick
+m_nEntityIndex
+m_nCount
+m_nTickCount
+m_nTotalTicks
+m_nDummy0
+c:\buildslave\source2_dota_rel_win64\build\src\game\host\Retaildota\win64\host.pdb
+host.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+LoggingSystem_IsChannelEnabled
+Plat_ShouldCollectMiniDumpsForFatalErrors
+V_tier0_vsnprintfRet
+Warning
+?DevMsg@@YAXPEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+CMemAllocSystemInitialize
+GetDefaultMiniDumpTypeFlags
+Plat_ExitProcess
+LOG_GENERAL
+g_pMemAlloc
+InvokeMiniDumpHandler
+Plat_IsInDebugSession
+V_tier0_strtoi64
+LoggingSystem_Log
+V_tier0_snprintf
+Plat_TickDiffMilliSecF
+COM_TimestampedLog
+Plat_RelativeTicks
+LoggingSystem_RegisterLoggingChannel
+Plat_DebugPrint
+Plat_GetModuleFilename
+Plat_GetModuleProcAddress
+Plat_LoadModuleRaw
+EarlyInit_Tier0
+V_qsort_s
+GetCPUInformation
+CommandLine
+V_tier0_strtoui64
+V_tier0_strtod
+tier0.dll
+RegisterStringToken
+vstdlib.dll
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+GetCurrentThreadId
+MultiByteToWideChar
+WideCharToMultiByte
+CloseHandle
+GetLastError
+GetCurrentProcessId
+GetProcAddress
+EncodePointer
+DecodePointer
+GetStringTypeW
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+GetCPInfo
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+LCMapStringW
+ExitProcess
+GetModuleHandleExW
+GetStdHandle
+GetFileType
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+IsValidCodePage
+GetOEMCP
+FlushFileBuffers
+WriteFile
+GetConsoleCP
+GetConsoleMode
+GetModuleFileNameW
+LoadLibraryExW
+SetStdHandle
+SetFilePointerEx
+WriteConsoleW
+OutputDebugStringW
+CreateFileW
+KERNEL32.dll
+V_tier0_sscanf
+KeyValuesSystem
+V_GetErrno
+V_SetErrno
+V_tier0_vscprintf
+Plat_GetEnv
+Plat_GetOSType
+Plat_IsHighDPI
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVErrorCollector@io@protobuf@google@@
+.?AVFinder@TextFormat@protobuf@google@@
+.?AVAggregateOptionFinder@OptionInterpreter@DescriptorBuilder@protobuf@google@@
+.?AVAggregateErrorCollector@?A0x1cbe348a@protobuf@google@@
+.?AVFileDescriptorSet@protobuf@google@@
+.?AVFileDescriptorProto@protobuf@google@@
+.?AVDescriptorProto_ExtensionRange@protobuf@google@@
+.?AVDescriptorProto@protobuf@google@@
+.?AVFieldDescriptorProto@protobuf@google@@
+.?AVOneofDescriptorProto@protobuf@google@@
+.?AVEnumDescriptorProto@protobuf@google@@
+.?AVEnumValueDescriptorProto@protobuf@google@@
+.?AVServiceDescriptorProto@protobuf@google@@
+.?AVMethodDescriptorProto@protobuf@google@@
+.?AVFileOptions@protobuf@google@@
+.?AVMessageOptions@protobuf@google@@
+.?AVFieldOptions@protobuf@google@@
+.?AVEnumOptions@protobuf@google@@
+.?AVEnumValueOptions@protobuf@google@@
+.?AVServiceOptions@protobuf@google@@
+.?AVMethodOptions@protobuf@google@@
+.?AVUninterpretedOption_NamePart@protobuf@google@@
+.?AVUninterpretedOption@protobuf@google@@
+.?AVSourceCodeInfo_Location@protobuf@google@@
+.?AVSourceCodeInfo@protobuf@google@@
+.?AVexception@std@@
+.?AVFatalException@protobuf@google@@
+.?AVFieldSkipper@internal@protobuf@google@@
+.?AVExtensionFinder@internal@protobuf@google@@
+.?AVGeneratedExtensionFinder@internal@protobuf@google@@
+.?AVReflection@protobuf@google@@
+.?AVMessageFactory@protobuf@google@@
+.?AVGeneratedMessageFactory@?A0xe48f9c5c@protobuf@google@@
+.?AVGeneratedMessageReflection@internal@protobuf@google@@
+.?AVFieldValuePrinter@TextFormat@protobuf@google@@
+.?AVParserErrorCollector@ParserImpl@Parser@TextFormat@protobuf@google@@
+.?AVDescriptorDatabase@protobuf@google@@
+.?AVEncodedDescriptorDatabase@protobuf@google@@
+.?AVDynamicMessageFactory@protobuf@google@@
+.?AVDynamicMessage@protobuf@google@@
+.?AVZeroCopyInputStream@io@protobuf@google@@
+.?AVZeroCopyOutputStream@io@protobuf@google@@
+.?AVArrayInputStream@io@protobuf@google@@
+.?AVArrayOutputStream@io@protobuf@google@@
+.?AVStringOutputStream@io@protobuf@google@@
+.?AVUnknownFieldSetFieldSkipper@internal@protobuf@google@@
+.?AVDescriptorPoolExtensionFinder@internal@protobuf@google@@
+.?AVbad_cast@std@@
+.?AVCPostConnectCallback@@
+.?AVISequence@@
+.?AVIBaseSequence@@
+.?AVIVSSequence@@
+.?AVCEmptySequence@@
+.?AVIAtomicManipulator@@
+.?AVISchemaManipulator@@
+.?AVCSchemaEnumBindingBase@@
+.?AU?$CAtomicManipulator@VVector@@@@
+.?AU?$CAtomicManipulator@VQuaternion@@@@
+.?AU?$CAtomicManipulator@Vmatrix3x4a_t@@@@
+.?AU?$CAtomicManipulator@VVector4D@@@@
+.?AVISchemaInspectionManipulator@@
+.?AU?$CAtomicManipulator@VCResourceString@@@@
+.?AV?$CSchemaEnumBinding@W4MeshTranslucencyType_t@@@@
+.?AV?$CSchemaEnumBinding@W4MeshDrawPrimitiveFlags_t@@@@
+.?AV?$CSchemaEnumBinding@W4FlagEnum_t@RenderSkeletonData_t@@@@
+.?AV?$CSchemaEnumBinding@W4AttachmentInfluenceFlags_t@@@@
+.?AV?$CSchemaEnumBinding@W4ConstraintType_t@@@@
+.?AV?$CSchemaClassBinding@USkeletonBoneBbox_t@@@@
+.?AV?$CSchemaClassBinding@URenderSkeletonData_t@@@@
+.?AV?$CSchemaClassBinding@URenderBufferBinding_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialDrawDescriptor_t@@@@
+.?AV?$CSchemaClassBinding@UOnDiskBufferData_t@@@@
+.?AV?$CSchemaClassBinding@USceneObjectData_t@@@@
+.?AV?$CSchemaClassBinding@UAttachmentData_t@@@@
+.?AV?$CSchemaClassBinding@UHitBox_t@@@@
+.?AV?$CSchemaClassBinding@UHitBoxSet_t@@@@
+.?AV?$CSchemaClassBinding@UConstraintTarget_t@@@@
+.?AV?$CSchemaClassBinding@UConstraintSlave_t@@@@
+.?AV?$CSchemaClassBinding@UBaseConstraint_t@@@@
+.?AV?$CSchemaClassBinding@UPermRenderMeshData_t@@@@
+.?AV?$CSchemaManipulator@VVector@@@@
+.?AV?$CSchemaManipulator@VQuaternion@@@@
+.?AV?$CSchemaManipulator@Vmatrix3x4a_t@@@@
+.?AV?$CSchemaManipulator@VVector4D@@@@
+.?AV?$CSchemaManipulator@VCResourceString@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@I@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@G@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@Vmatrix3x4a_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@USkeletonBoneBbox_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@M@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCResourceString@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URenderBufferBinding_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URenderInputLayoutField_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@E@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMaterialDrawDescriptor_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UHitBox_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UConstraintSlave_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UConstraintTarget_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@USceneObjectData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCMorphSet@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourcePointer@URenderSkeletonData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UAttachmentData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UHitBoxSet_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UBaseConstraint_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UOnDiskBufferData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCMorphSet@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@I@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@G@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@Vmatrix3x4a_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@USkeletonBoneBbox_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@M@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCResourceString@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URenderBufferBinding_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URenderInputLayoutField_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@E@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMaterialDrawDescriptor_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UHitBox_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UConstraintSlave_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UConstraintTarget_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@USceneObjectData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCMorphSet@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourcePointer@URenderSkeletonData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UAttachmentData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UHitBoxSet_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UBaseConstraint_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UOnDiskBufferData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeIMaterial2@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCMorphSet@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCMorphSet@@@@
+.?AU?$CAtomicManipulator@Umatrix3x4_t@@@@
+.?AU?$CAtomicManipulator@VColor@@@@
+.?AU?$CAtomicManipulator@VCUtlString@@@@
+.?AVISchemaCollectionManipulator@@
+.?AV?$CSchemaClassBinding@URenderSkeletonBone_t@@@@
+.?AV?$CSchemaClassBinding@VCRenderSkeleton@@@@
+.?AV?$CSchemaClassBinding@VCMaterialDrawDescriptor@@@@
+.?AV?$CSchemaClassBinding@VCSceneObjectData@@@@
+.?AV?$CSchemaClassBinding@VCAttachment@@@@
+.?AV?$CSchemaClassBinding@VCHitBox@@@@
+.?AV?$CSchemaClassBinding@VCHitBoxSet@@@@
+.?AV?$CSchemaClassBinding@VCHitBoxSetList@@@@
+.?AV?$CSchemaClassBinding@VCRenderMesh@@@@
+.?AV?$CSchemaManipulator@Umatrix3x4_t@@@@
+.?AV?$CSchemaManipulator@VColor@@@@
+.?AV?$CSchemaManipulator@VCUtlString@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@URenderSkeletonBone_t@@V?$CUtlMemory@URenderSkeletonBone_t@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@HV?$CUtlMemory@HH@@@@@@
+.?AU?$CAtomicManipulator@V?$CStrongHandle@UInfoForResourceTypeIMaterial2@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCMaterialDrawDescriptor@@V?$CUtlMemory@VCMaterialDrawDescriptor@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCHitBox@@V?$CUtlMemory@VCHitBox@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCHitBoxSet@@V?$CUtlMemory@VCHitBoxSet@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVectorFixedGrowable@VCSceneObjectData@@$00@@@@
+.?AU?$CAtomicManipulator@V?$CStrongHandle@UInfoForResourceTypeCMorphSet@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@PEAVCBaseConstraint@@V?$CUtlMemory@PEAVCBaseConstraint@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@URenderSkeletonBone_t@@V?$CUtlMemory@URenderSkeletonBone_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@URenderSkeletonBone_t@@V?$CUtlMemory@URenderSkeletonBone_t@@H@@@@URenderSkeletonBone_t@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@HV?$CUtlMemory@HH@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@HV?$CUtlMemory@HH@@@@H@@
+.?AV?$CSchemaManipulator@V?$CStrongHandle@UInfoForResourceTypeIMaterial2@@@@@@
+.?AV?$CSchemaStrongHandleInspectionManipulator@UInfoForResourceTypeIMaterial2@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCMaterialDrawDescriptor@@V?$CUtlMemory@VCMaterialDrawDescriptor@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCMaterialDrawDescriptor@@V?$CUtlMemory@VCMaterialDrawDescriptor@@H@@@@VCMaterialDrawDescriptor@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCHitBox@@V?$CUtlMemory@VCHitBox@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCHitBox@@V?$CUtlMemory@VCHitBox@@H@@@@VCHitBox@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCHitBoxSet@@V?$CUtlMemory@VCHitBoxSet@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCHitBoxSet@@V?$CUtlMemory@VCHitBoxSet@@H@@@@VCHitBoxSet@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVectorFixedGrowable@VCSceneObjectData@@$00@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVectorFixedGrowable@VCSceneObjectData@@$00@@VCSceneObjectData@@@@
+.?AV?$CSchemaManipulator@V?$CStrongHandle@UInfoForResourceTypeCMorphSet@@@@@@
+.?AV?$CSchemaStrongHandleInspectionManipulator@UInfoForResourceTypeCMorphSet@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@PEAVCBaseConstraint@@V?$CUtlMemory@PEAVCBaseConstraint@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@PEAVCBaseConstraint@@V?$CUtlMemory@PEAVCBaseConstraint@@H@@@@PEAVCBaseConstraint@@@@
+.?AVCBaseConstraint@@
+.?AVCPointConstraint@@
+.?AVCOrientConstraint@@
+.?AVCAimConstraint@@
+.?AVCTwistConstraint@@
+.?AVCTiltTwistConstraint@@
+.?AVCSchemaRegistration_modellib@@
+.?AVCSchemaNonConstructibleClassBindingBase@@
+.?AV?$CSchemaNonConstructibleClassBinding@VCBaseConstraint@@@@
+.?AV?$CSchemaClassBinding@VCPointConstraint@@@@
+.?AV?$CSchemaClassBinding@VCOrientConstraint@@@@
+.?AV?$CSchemaClassBinding@VCAimConstraint@@@@
+.?AV?$CSchemaClassBinding@VCTwistConstraint@@@@
+.?AV?$CSchemaClassBinding@VCTiltTwistConstraint@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@UConstraintSlave_t@@V?$CUtlMemory@UConstraintSlave_t@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@UConstraintTarget_t@@V?$CUtlMemory@UConstraintTarget_t@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@UConstraintSlave_t@@V?$CUtlMemory@UConstraintSlave_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@UConstraintSlave_t@@V?$CUtlMemory@UConstraintSlave_t@@H@@@@UConstraintSlave_t@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@UConstraintTarget_t@@V?$CUtlMemory@UConstraintTarget_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@UConstraintTarget_t@@V?$CUtlMemory@UConstraintTarget_t@@H@@@@UConstraintTarget_t@@@@
+.?AU?$CAtomicManipulator@VCTransform@@@@
+.?AV?$CSchemaEnumBinding@W4VPhysXFlagEnum_t@VPhysXBodyPart_t@@@@
+.?AV?$CSchemaEnumBinding@W4EnumFlags0_t@VPhysXConstraintParams_t@@@@
+.?AV?$CSchemaEnumBinding@W4VPhysXFlagEnum_t@VPhysXAggregateData_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysics2ShapeDef_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXBodyPart_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXCollisionAttributes_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXRange_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXConstraintParams_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXConstraint2_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXJoint_t@@@@
+.?AV?$CSchemaClassBinding@UPhysSoftbodyDesc_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXAggregateData_t@@@@
+.?AV?$CSchemaManipulator@VCTransform@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnSphereDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnCapsuleDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnHullDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnMeshDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourcePointer@VVpropBreakablePartData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnSoftbodyParticle_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnSoftbodySpring_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnSoftbodyCapsule_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCTransform@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVPhysXBodyPart_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVPhysXConstraint2_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVPhysXJoint_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourcePointer@UPhysFeModelDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVPhysXCollisionAttributes_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnSphereDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnCapsuleDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnHullDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnMeshDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourcePointer@VVpropBreakablePartData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnSoftbodyParticle_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnSoftbodySpring_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnSoftbodyCapsule_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCTransform@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVPhysXBodyPart_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVPhysXConstraint2_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVPhysXJoint_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourcePointer@UPhysFeModelDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVPhysXCollisionAttributes_t@@@@@@
+.?AV?$CSchemaEnumBinding@W4multiplayerBreak_t@@@@
+.?AV?$CSchemaClassBinding@VVpropBreakablePartData_t@@@@
+.?AV?$CSchemaClassBinding@VCPhysSurfacePropertiesPhysics@@@@
+.?AV?$CSchemaClassBinding@VCPhysSurfacePropertiesAudio@@@@
+.?AV?$CSchemaClassBinding@VCPhysSurfacePropertiesSoundNames@@@@
+.?AV?$CSchemaClassBinding@VCPhysSurfacePropertiesGame@@@@
+.?AV?$CSchemaClassBinding@VCPhysSurfaceProperties@@@@
+.?AV?$CSchemaClassBinding@VCVPhysXSurfacePropertiesList@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@PEAVCPhysSurfaceProperties@@V?$CUtlMemory@PEAVCPhysSurfaceProperties@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@PEAVCPhysSurfaceProperties@@V?$CUtlMemory@PEAVCPhysSurfaceProperties@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@PEAVCPhysSurfaceProperties@@V?$CUtlMemory@PEAVCPhysSurfaceProperties@@H@@@@PEAVCPhysSurfaceProperties@@@@
+.?AV?$CSchemaClassBinding@VCVPhysXMesh@@@@
+.?AV?$CSchemaClassBinding@VCVPhysXLevelData@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCVPhysXMesh@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCVPhysXMesh@@@@@@
+.?AV?$CSchemaEnumBinding@W4VersinEnum_t@VPhysXDiskShapeHeader_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXDiskShapeHeader_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXDiskMesh2_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXShapeCompoundHeader2_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXDiskCapsule_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceArray@E@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceArray@E@@@@@@
+.?AV?$CSchemaEnumBinding@W4BoneFlags_t@ModelSkeletonData_t@@@@
+.?AV?$CSchemaEnumBinding@W4FlagEnum@PermModelInfo_t@@@@
+.?AV?$CSchemaEnumBinding@W4ModelBoneFlexComponent_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialGroup_t@@@@
+.?AV?$CSchemaClassBinding@UModelSkeletonData_t@@@@
+.?AV?$CSchemaClassBinding@UPermModelInfo_t@@@@
+.?AV?$CSchemaClassBinding@UPermModelExtPart_t@@@@
+.?AV?$CSchemaClassBinding@UModelBoneFlexDriverControl_t@@@@
+.?AV?$CSchemaClassBinding@UModelBoneFlexDriver_t@@@@
+.?AV?$CSchemaClassBinding@UPermModelData_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@F@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VVector@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VQuaternion@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UModelBoneFlexDriverControl_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UPermModelExtPart_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@_K@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMaterialGroup_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UModelBoneFlexDriver_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@F@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VVector@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VQuaternion@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UModelBoneFlexDriverControl_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UPermModelExtPart_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@_K@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMaterialGroup_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UModelBoneFlexDriver_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCModel@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCRenderMesh@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCPhysAggregateData@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCAnimationGroupResource@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCSequenceGroupResource@@@@
+.?AV?$CSchemaClassBinding@VCBuilderModelInfo@@@@
+.?AV?$CSchemaClassBinding@UBuilderModelBoneFlexDriverControl_t@@@@
+.?AV?$CSchemaClassBinding@UBuilderModelBoneFlexDriver_t@@@@
+.?AV?$CSchemaClassBinding@UBuilderModelBoneFlexDriverList_t@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriverControl_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriverControl_t@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriver_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriver_t@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriverControl_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriverControl_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriverControl_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriverControl_t@@H@@@@UBuilderModelBoneFlexDriverControl_t@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriver_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriver_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriver_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriver_t@@H@@@@UBuilderModelBoneFlexDriver_t@@@@
+.?AVIKeyValuesErrorSpew@@
+.?AVCDefaultKeyValuesErrorSpew@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVConVar@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AVCSchemaInstallCallback@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AV__non_rtti_object@std@@
+.?AVbad_typeid@std@@
+.?AVbad_exception@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVClosure@protobuf@google@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AVFunctionClosure0@internal@protobuf@google@@
+.?AVCSVCMsgList_GameEvents@@
+.?AVCNETMsg_SpawnGroup_ManifestUpdate@@
+.?AVCMsgPlayerInfo@@
+.?AVCSVCMsgList_GameEvents_event_t@@
+.?AVCNETMsg_SpawnGroup_Load@@
+.?AVCNETMsg_SpawnGroup_Unload@@
+.?AVCMsgQAngle@@
+.?AVCNETMsg_SplitScreenUser@@
+.?AVCNETMsg_SpawnGroup_LoadCompleted@@
+.?AVCMsg_CVars_CVar@@
+.?AVCSVCMsg_GameSessionConfiguration@@
+.?AVCNETMsg_Tick@@
+.?AVCNETMsg_SignonState@@
+.?AVCNETMsg_StringCmd@@
+.?AVMessageLite@protobuf@google@@
+.?AVCNETMsg_Disconnect@@
+.?AVCSVCMsg_GameEvent_key_t@@
+.?AVCSVCMsg_GameEvent@@
+.?AVCNETMsg_SpawnGroup_SetCreationTick@@
+.?AVCSVCMsg_UserMessage@@
+.?AVCSVCMsgList_UserMessages@@
+.?AVCMsg_CVars@@
+.?AVCNETMsg_SetConVar@@
+.?AVCNETMsg_NOP@@
+.?AVCMsgVector2D@@
+.?AVCMsgVector@@
+.?AVMessage@protobuf@google@@
+.?AVCSVCMsgList_UserMessages_usermsg_t@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AV?$CGameAppSystem@VIDebugDrawQueueMgr@@$0A@@@
+.?AV?$CTier3AppSystem@VIDebugDrawQueueMgr@@$0A@@@
+.?AV?$CTier2AppSystem@VIDebugDrawQueueMgr@@$0A@@@
+.?AV?$CTier1AppSystem@VIDebugDrawQueueMgr@@$0A@@@
+.?AV?$CTier0AppSystem@VIDebugDrawQueueMgr@@@@
+.?AV?$CBaseAppSystem@VIDebugDrawQueueMgr@@@@
+.?AVCDebugDrawQueueMgr@@
+.?AVIDebugDrawQueueMgr@@
+.?AVIAppSystem@@
+.?AVCGameModelInfoClient@@
+.?AVCGameModelInfoServer@@
+.?AV?$CTier3AppSystem@VIGameModelInfo@@$0A@@@
+.?AV?$CTier2AppSystem@VIGameModelInfo@@$0A@@@
+.?AV?$CTier1AppSystem@VIGameModelInfo@@$0A@@@
+.?AV?$CTier0AppSystem@VIGameModelInfo@@@@
+.?AV?$CBaseAppSystem@VIGameModelInfo@@@@
+.?AVCGameModelInfo@@
+.?AVIGameModelInfo@@
+.?AV?$CGameAppSystem@VIGameSystem2HostHook@@$0A@@@
+.?AV?$CTier3AppSystem@VIGameSystem2HostHook@@$0A@@@
+.?AV?$CTier2AppSystem@VIGameSystem2HostHook@@$0A@@@
+.?AV?$CTier1AppSystem@VIGameSystem2HostHook@@$0A@@@
+.?AV?$CTier0AppSystem@VIGameSystem2HostHook@@@@
+.?AV?$CBaseAppSystem@VIGameSystem2HostHook@@@@
+.?AVCGameSystem2HostHook@@
+.?AVIGameSystem2HostHook@@
+.?AV?$CGameAppSystem@VIDotaMapUtils@@$0A@@@
+.?AV?$CTier3AppSystem@VIDotaMapUtils@@$0A@@@
+.?AV?$CTier2AppSystem@VIDotaMapUtils@@$0A@@@
+.?AV?$CTier1AppSystem@VIDotaMapUtils@@$0A@@@
+.?AV?$CTier0AppSystem@VIDotaMapUtils@@@@
+.?AV?$CBaseAppSystem@VIDotaMapUtils@@@@
+.?AVCDotaMapUtils@@
+.?AVIDotaMapUtils@@
+.?AV?$CGameAppSystem@VIHostUtils@@$0A@@@
+.?AV?$CTier3AppSystem@VIHostUtils@@$0A@@@
+.?AV?$CTier2AppSystem@VIHostUtils@@$0A@@@
+.?AV?$CTier1AppSystem@VIHostUtils@@$0A@@@
+.?AV?$CTier0AppSystem@VIHostUtils@@@@
+.?AV?$CBaseAppSystem@VIHostUtils@@@@
+.?AVCHostUtils@@
+.?AVIHostUtils@@
+.?AUIVTableIndexCalculator@@
+.?AVIGameSystem@@
+.?AVCDontUseThisGameSystem@@
+.?AVCBaseGameSystemFactory@@
+.?AVIGameSystemEventDispatcher@@
+.?AVIGameSystemFactory@@
+.?AVCGameSystemEventDispatcher@@
+.?AVCLoopModeBase@@
+.?AVCLoopModeGameHostBase@@
+.?AVCResourceManifestPrerequisite@@
+.?AVILoopMode@@
+.?AVIPrerequisite@@
+.?AVCTestGameSystem@@
+.?AV?$CGameSystemReallocatingFactory@VCTestGameSystem@@V1@@@
+.?AVCAutoGameSystem@@
+.?AV?$CLoopModeFactory@VCLoopModeGameHostDota@@@@
+.?AVILoopModeFactory@@
+.?AVCLoopModeGameHostDota@@
+.?AV?$CGameAppSystem@VIPredictionDiffMgr@@$0A@@@
+.?AV?$CTier2AppSystem@VIPredictionDiffMgr@@$0A@@@
+.?AV?$CTier3AppSystem@VIPredictionDiffMgr@@$0A@@@
+.?AV?$CTier0AppSystem@VIPredictionDiffMgr@@@@
+.?AV?$CTier1AppSystem@VIPredictionDiffMgr@@$0A@@@
+.?AVCPredictionDiffMgr@@
+.?AV?$CBaseAppSystem@VIPredictionDiffMgr@@@@
+.?AVIPredictionDiffMgr@@
+.?AV?$CTier2AppSystem@VISaveRestoreDataMgr@@$0A@@@
+.?AV?$CTier3AppSystem@VISaveRestoreDataMgr@@$0A@@@
+.?AV?$CTier0AppSystem@VISaveRestoreDataMgr@@@@
+.?AV?$CTier1AppSystem@VISaveRestoreDataMgr@@$0A@@@
+.?AVCSaveRestoreDataMgr@@
+.?AV?$CBaseAppSystem@VISaveRestoreDataMgr@@@@
+.?AVISaveRestoreDataMgr@@
+.?AV?$CTier3AppSystem@VISource2Host@@$0A@@@
+.?AV?$CGameAppSystem@VISource2Host@@$0A@@@
+.?AV?$CTier1AppSystem@VISource2Host@@$0A@@@
+.?AV?$CTier2AppSystem@VISource2Host@@$0A@@@
+.?AV?$CBaseAppSystem@VISource2Host@@@@
+.?AV?$CTier0AppSystem@VISource2Host@@@@
+.?AVCSource2HostBase@@
+.?AVISource2Host@@
+.?AV?$CSchemaClassBinding@UEventPreDataUpdate_t@@@@
+.?AV?$CSchemaClassBinding@UEventAppShutdown_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientPauseSimulate_t@@@@
+.?AV?$CSchemaClassBinding@UEventPostDataUpdate_t@@@@
+.?AV?$CSchemaClassBinding@UEventServerPostSimulate_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientPostSimulate_t@@@@
+.?AV?$CSchemaClassBinding@UEventServerProcessNetworking_t@@@@
+.?AV?$CSchemaClassBinding@UEventServerSimulate_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientSimulate_t@@@@
+.?AV?$CSchemaClassBinding@UEventServerPollNetworking_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientProcessNetworking_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientPreSimulate_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientSendInput_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientPollNetworking_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientAdvanceTick_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientPostAdvanceTick_t@@@@
+.?AV?$CSchemaClassBinding@UEventServerAdvanceTick_t@@@@
+.?AV?$CSchemaClassBinding@UEventServerPostAdvanceTick_t@@@@
+.?AV?$CSchemaClassBinding@UEventAdvanceTick_t@@@@
+.?AV?$CSchemaClassBinding@UEventPostAdvanceTick_t@@@@
+.?AV?$CSchemaClassBinding@UEventSimpleLoopFrameUpdate_t@@@@
+.?AV?$CSchemaClassBinding@UEventSimulate_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientPostOutput_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientFrameSimulate_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientSceneSystemThreadStateChange_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientOutput_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientProcessGameInput_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientPreOutput_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientPollInput_t@@@@
+.?AV?$CSchemaClassBinding@UEventClientProcessInput_t@@@@
+.?AV?$CSchemaClassBinding@UEventSplitScreenStateChanged_t@@@@
+.?AV?$CSchemaClassBinding@UEventSetTime_t@@@@
+.?AV?$CSchemaClassBinding@UEventFrameBoundary_t@@@@
+.?AV?$CSchemaClassBinding@UEventProfileStorageAvailable_t@@@@
+.?AV?$CSchemaClassBinding@UEngineLoopState_t@@@@
+.?AV?$CSchemaClassBinding@UEventModInitialized_t@@@@
+.?AVCSchemaClassBindingBase@@
+.?AVISchemaBinding@@
+.?AVCSchemaRegistration_host@@
+.?AVCSchemaRegistration@@
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+161012213925Z0#

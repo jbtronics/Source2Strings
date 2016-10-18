@@ -1,0 +1,2445 @@
+KUnknown
+FloatBitMap_t::ConvertGammaToLinear(295): Conversion not supported yet!
+FloatBitMap_t::ConvertGammaToLinear
+c:\buildslave\destinations_staging_win64\build\src\bitmap\floatbitmap.cpp
+FloatBitMap_t::LoadFromBuffer: Received improper buffer size, skipping!
+FloatBitMap_t::LoadFromBuffer: Unsupported color format, skipping!
+FloatBitMap_t::WriteToBuffer: Received improper buffer size %s (expecting %s), skipping!
+FloatBitMap_t::WriteToBuffer(823): Unsupported color format "%s", skipping!
+FloatBitMap_t::WriteToBufferDXT(861): Error! Temp texture is %d bytes when ATI's lib requires %d bytes!
+FloatBitMap_t::WriteToBufferDXT(912): Unsupported output color format "%s"!
+FloatBitMap_t::WriteToBufferDXT(921): Error! Allocated %llu bytes when ATI's lib requires %d bytes!
+FloatBitMap_t::WriteToBufferDXT(929): Error %d returned from ATI_TC_ConvertTexture()!
+UNKNOWN
+RGBA8888
+ABGR8888
+RGB888_BLUESCREEN
+BGR888_BLUESCREEN
+ARGB8888
+BGRA8888
+BGRX8888
+BGRX5551
+BGRA4444
+DXT1_ONEBITALPHA
+BGRA5551
+UVWQ8888
+RGBA16161616F
+RGBA16161616
+UVLX8888
+RGB323232F
+RGBA32323232F
+NV_DST16
+NV_DST24
+NV_INTZ
+NV_RAWZ
+ATI_DST16
+ATI_DST24
+X360_DST16
+X360_DST24
+X360_DST24F
+LINEAR_BGRX8888
+LINEAR_RGBA8888
+LINEAR_ABGR8888
+LINEAR_ARGB8888
+LINEAR_BGRA8888
+LINEAR_RGB888
+LINEAR_BGR888
+LINEAR_BGRX5551
+LINEAR_I8
+LINEAR_RGBA16161616
+LE_BGRX8888
+LE_BGRA8888
+RG1616F
+RG3232F
+RGBX8888
+NV_NULL
+RGBA1010102
+BGRA1010102
+LINEAR_D24S8
+D24X4S4
+D16_SHADOW
+D24X8_SHADOW
+RGBA16161616_EDRAM
+RGBA1010102F_EDRAM
+R16F_EXPAND
+RG1616F_EXPAND
+RGBA16161616F_EXPAND
+RGBA16161616F_EDRAM_RGBA1010102F
+RGBA16161616F_EXPAND_EDRAM_RGBA1010102F
+RGBA16161616_EDRAM_RGBA16161616
+DXT5_NM
+RGBA8888_LINEAR
+BGRA8888_LINEAR
+BGRX8888_LINEAR
+RGBX555
+Unsupported PSD color mode!
+transparency
+dummyfilename.tif
+PNG load error %s
+ConvertJpegToRGB
+ConvertRGBToRGBAImage
+generic
+unknown error
+iostream
+iostream stream error
+stream end
+need dictionary
+file error
+stream error
+data error
+string too long
+invalid string position
+ati_compress_wrapper.dll
+Unable to load %s, error %d
+LoadAtiCompress
+c:\buildslave\destinations_staging_win64\build\src\bitmap\ati_compress_loader.cpp
+ATI_TC_ConvertTexture_Wrapper
+ATI_TC_CalculateBufferSize_Wrapper
+Unable find required entry points in %s
+p?VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+MATCHFRAMEWORK_001
+ScaleformUI001
+PanoramaUIEngine001
+PanoramaUIClient001
+PanoramaTextServices001
+ToolFramework2_002
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+EconItemToolModel_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+MODEL_PROCESSING_SERVICES_INTERFACE_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client002
+Source2ClientUI001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers002
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+WorkshopSetup001
+ModelDocCommandSystem001
+NavSystem001
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+c:\buildslave\destinations_staging_win64\build\src\interfaces\interfaces.cpp
+Invalid progressive parameters Ss=%d Se=%d Ah=%d Al=%d
+Invalid progressive parameters at scan script entry %d
+Bogus sampling factors
+Invalid scan script at entry %d
+Improper call to JPEG library in state %d
+JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
+Bogus virtual array access
+Buffer passed to JPEG library is too small
+Suspension not allowed here
+CCIR601 sampling not implemented yet
+Too many color components: %d, max %d
+Unsupported color conversion request
+Bogus DAC index %d
+Bogus DAC value 0x%x
+Bogus DHT index %d
+Bogus DQT index %d
+Empty JPEG image (DNL not supported)
+Read from EMS failed
+Write to EMS failed
+Didn't expect more than one scan
+Input file read error
+Output file write error --- out of disk space?
+Fractional sampling not implemented yet
+Huffman code size table overflow
+Missing Huffman code table entry
+Maximum supported image dimension is %u pixels
+Empty input file
+Premature end of input file
+Cannot transcode due to multiple use of quantization table %d
+Scan script does not transmit all data
+Invalid color quantization mode change
+Not implemented yet
+Requested feature was omitted at compile time
+Arithmetic table 0x%02x was not defined
+Backing store not supported
+Huffman table 0x%02x was not defined
+JPEG datastream contains no image
+Quantization table 0x%02x was not defined
+Not a JPEG file: starts with 0x%02x 0x%02x
+Insufficient memory (case %d)
+Cannot quantize more than %d color components
+Cannot quantize to fewer than %d colors
+Cannot quantize to more than %d colors
+Invalid JPEG file structure: two SOF markers
+Invalid JPEG file structure: missing SOS marker
+Unsupported JPEG process: SOF type 0x%02x
+Invalid JPEG file structure: two SOI markers
+Invalid JPEG file structure: SOS before SOF
+Failed to create temporary file %s
+Read failed on temporary file
+Seek failed on temporary file
+Write failed on temporary file --- out of disk space?
+Application transferred too few scanlines
+Unsupported marker type 0x%02x
+Virtual array controller messed up
+Image too wide for this implementation
+Read from XMS failed
+Write to XMS failed
+Copyright (C) 2010, Thomas G. Lane, Guido Vollbeding
+8b  16-May-2010
+Caution: quantization tables are too coarse for baseline JPEG
+Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
+Unknown APP0 marker (not JFIF), length %u
+Unknown APP14 marker (not Adobe), length %u
+Define Arithmetic Table 0x%02x: 0x%02x
+Define Huffman Table 0x%02x
+Define Quantization Table %d  precision %d
+Define Restart Interval %u
+Freed EMS handle %u
+Obtained EMS handle %u
+End Of Image
+        %3d %3d %3d %3d %3d %3d %3d %3d
+JFIF APP0 marker: version %d.%02d, density %dx%d  %d
+Warning: thumbnail image size does not match data length %u
+JFIF extension marker: type 0x%02x, length %u
+    with %d x %d thumbnail image
+Miscellaneous marker 0x%02x, length %u
+Unexpected marker 0x%02x
+        %4u %4u %4u %4u %4u %4u %4u %4u
+Quantizing to %d = %d*%d*%d colors
+Quantizing to %d colors
+Selected %d colors for quantization
+At marker 0x%02x, recovery action %d
+Smoothing not supported with nonstandard sampling ratios
+Start Of Frame 0x%02x: width=%u, height=%u, components=%d
+    Component %d: %dhx%dv q=%d
+Start of Image
+Start Of Scan: %d components
+    Component %d: dc=%d ac=%d
+  Ss=%d, Se=%d, Ah=%d, Al=%d
+Closed temporary file %s
+Opened temporary file %s
+JFIF extension marker: JPEG-compressed thumbnail image, length %u
+JFIF extension marker: palette thumbnail image, length %u
+JFIF extension marker: RGB thumbnail image, length %u
+Unrecognized component IDs %d %d %d, assuming YCbCr
+Freed XMS handle %u
+Obtained XMS handle %u
+Unknown Adobe color transform code %d
+Corrupt JPEG data: bad arithmetic code
+Inconsistent progression sequence for component %d coefficient %d
+Corrupt JPEG data: %u extraneous bytes before marker 0x%02x
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Warning: unknown JFIF revision number %d.%02d
+Premature end of JPEG file
+Corrupt JPEG data: found marker 0x%02x instead of RST%d
+Invalid SOS parameters for sequential JPEG
+Application transferred too many scanlines
+Bogus message code %d
+ALIGN_TYPE is wrong, please fix
+MAX_ALLOC_CHUNK is wrong, please fix
+Bogus buffer control mode
+Invalid component ID %d in SOS
+Invalid crop request
+DCT coefficient out of range
+DCT scaled block size %dx%d not supported
+Component index %d: mismatching sampling ratio %d:%d, %d:%d, %c
+Bogus Huffman table definition
+Bogus input colorspace
+Bogus JPEG colorspace
+Bogus marker length
+Wrong JPEG library version: library is %d, caller expects %d
+Sampling factors too large for interleaved scan
+Invalid memory pool code %d
+Unsupported JPEG data precision %d
+JPEGMEM
+BKbhTb~XBK!;
+Z@&LHA'
+MQC,ARD
+/TF<)VGy#WH
+Da\">c]$8c^
+VeaFOfb
+Ahd=<c]^7if1Rjg
+Lkh9Fgc^A
+Potential overflow in png_zalloc()
+Ignoring invalid time value
+Invalid IHDR data
+Invalid filter method in IHDR
+Unknown filter method in IHDR
+MNG features are not allowed in a PNG datastream
+Unknown compression method in IHDR
+Unknown interlace method in IHDR
+Invalid color type/bit depth combination in IHDR
+Invalid color type in IHDR
+Invalid bit depth in IHDR
+Width is too large for libpng to process pixels
+Invalid image height in IHDR
+Invalid image width in IHDR
+Image height exceeds user limit in IHDR
+Image width exceeds user limit in IHDR
+Image height is zero in IHDR
+Image width is zero in IHDR
+@gamma table being rebuilt
+ but running with 
+Application built with libpng-
+Ignoring attempt to set cHRM RGB triangle with zero area
+Invalid cHRM blue point
+Invalid cHRM green point
+Invalid cHRM red point
+Invalid cHRM white point
+Ignoring attempt to set negative chromaticity value
+extreme cHRM chunk cannot be converted to tristimulus values
+internal error in png_XYZ_from_xy
+zlib version error
+zlib memory error
+zlib stream error
+Unknown zlib error
+Missing PLTE before IDAT
+Missing IHDR before IDAT
+internal sequential row size calculation error
+bad adaptive filter value
+sequential row overflow
+Extra compressed data
+Decompression error
+Not enough image data
+Invalid attempt to read row data
+Interlace handling should be turned on when using png_read_image
+Too many IDATs found
+Read palette index exceeding num_palette
+0123456789ABCDEF
+123456789
+0123456789ABCDEFlibpng warning: %s
+libpng error: %s
+undefined
+invalid background gamma type
+libpng does not support gamma+background+rgb_to_gray
+png_do_encode_alpha: unexpected call
+png_do_quantize returned rowbytes=0
+png_do_rgb_to_gray found nongray pixel
+Uninitialized row
+NULL row buffer
+Call to NULL read function
+Read Error
+Can't set both read_data_fn and write_data_fn in the same structure
+Out of Memory
+DDDDUUUU
+00003333
+""""UUUU
+PNG unsigned integer out of range
+PNG fixed point integer out of range
+PNG file corrupted by ASCII conversion
+Not a PNG file
+Buffer error in compressed datastream
+Data error in compressed datastream
+Incomplete compressed datastream
+Unknown compression type @1
+Exceeded size limit while expanding chunk
+Not enough memory to decompress chunk
+png_inflate logic error
+invalid chunklength
+invalid chunk type
+invalid user transform pixel depth
+internal row width error
+internal row size calculation error
+internal row logic error
+Row has too many bytes to allocate in memory
+CRC error
+Invalid IHDR chunk
+Out of place IHDR
+Invalid palette chunk
+Truncating incorrect info tRNS chunk length
+Truncating incorrect tRNS chunk length
+Ignoring PLTE chunk in grayscale PNG
+Duplicate PLTE chunk
+Invalid PLTE after IDAT
+Missing IHDR before PLTE
+No image in file
+Incorrect IEND chunk length
+Ignoring incorrect gAMA value @1 when sRGB is also present
+Ignoring gAMA chunk with out of range gamma
+Incorrect gAMA chunk length
+Duplicate gAMA chunk
+Out of place gAMA chunk
+Invalid gAMA after IDAT
+Missing IHDR before gAMA
+Incorrect sBIT chunk length
+Duplicate sBIT chunk
+Out of place sBIT chunk
+Invalid sBIT after IDAT
+Missing IHDR before sBIT
+Ignoring cHRM chunk with negative chromaticities
+internal error handling cHRM->XYZ
+internal error handling cHRM coefficients
+Ignoring incorrect cHRM white(@1,@2) r(@3,@4)g(@5,@6)b(@7,@8) when sRGB is also present
+Incorrect cHRM chunk length
+Duplicate cHRM chunk
+Out of place cHRM chunk
+Invalid cHRM after IDAT
+Missing IHDR before cHRM
+Ignoring incorrect cHRM value when sRGB is also present
+Unknown sRGB intent
+Incorrect sRGB chunk length
+Duplicate sRGB chunk
+Out of place sRGB chunk
+Invalid sRGB after IDAT
+Missing IHDR before sRGB
+Duplicate iCCP chunk
+Profile size field missing from iCCP chunk
+Ignoring iCCP chunk with declared size = @1 and actual length = @2
+Ignoring nonzero compression type in iCCP chunk
+Malformed iCCP chunk
+Out of place iCCP chunk
+Invalid iCCP after IDAT
+Missing IHDR before iCCP
+sPLT chunk requires too much memory
+sPLT chunk too long
+sPLT chunk has bad length
+malformed sPLT chunk
+Invalid sPLT after IDAT
+Missing IHDR before sPLT
+No space in chunk cache for sPLT
+tRNS chunk not allowed with alpha channel
+Zero length tRNS chunk
+Missing PLTE before tRNS
+Incorrect tRNS chunk length
+Duplicate tRNS chunk
+Invalid tRNS after IDAT
+Missing IHDR before tRNS
+Incorrect bKGD chunk index value
+Incorrect bKGD chunk length
+Duplicate bKGD chunk
+Missing PLTE before bKGD
+Invalid bKGD after IDAT
+Missing IHDR before bKGD
+Incorrect hIST chunk length
+Duplicate hIST chunk
+Missing PLTE before hIST
+Invalid hIST after IDAT
+Missing IHDR before hIST
+Incorrect pHYs chunk length
+Duplicate pHYs chunk
+Invalid pHYs after IDAT
+Missing IHDR before pHYs
+Incorrect oFFs chunk length
+Duplicate oFFs chunk
+Invalid oFFs after IDAT
+Missing IHDR before oFFs
+No memory for pCAL params
+Unrecognized equation type for pCAL chunk
+Invalid pCAL parameters for equation type
+Invalid pCAL data
+No memory for pCAL purpose
+Duplicate pCAL chunk
+Invalid pCAL after IDAT
+Missing IHDR before pCAL
+Invalid sCAL chunk ignored: bad width format
+Invalid sCAL chunk ignored: bad height format
+Invalid sCAL chunk ignored: non-positive height
+Invalid sCAL chunk ignored: non-positive width
+Invalid sCAL ignored: invalid unit
+Out of memory while processing sCAL chunk
+sCAL chunk too short
+Duplicate sCAL chunk
+Invalid sCAL after IDAT
+Missing IHDR before sCAL
+Incorrect tIME chunk length
+Duplicate tIME chunk
+Out of place tIME chunk
+Insufficient memory to process text chunk
+Not enough memory to process text chunk
+No memory to process text chunk
+Missing IHDR before tEXt
+No space in chunk cache for tEXt
+Insufficient memory to store zTXt chunk
+Not enough memory to process zTXt chunk
+Unknown compression type in zTXt chunk
+Truncated zTXt chunk
+Out of memory processing zTXt chunk
+Missing IHDR before zTXt
+No space in chunk cache for zTXt
+Unknown iTXt compression type or method
+Insufficient memory to store iTXt chunk
+Not enough memory to process iTXt chunk
+Malformed iTXt chunk
+Truncated iTXt chunk
+No memory to process iTXt chunk
+Missing IHDR before iTXt
+No space in chunk cache for iTXt
+error in user chunk
+unknown critical chunk
+No space in chunk cache for unknown chunk
+Extra compression data
+Decompression Error
+Out of range gamma value ignored
+Invalid palette size, hIST allocation skipped
+Insufficient memory for hIST chunk data
+Invalid pCAL equation type
+Insufficient memory for pCAL parameter
+Insufficient memory for pCAL params
+Insufficient memory for pCAL units
+Invalid format for pCAL parameter
+Insufficient memory for pCAL purpose
+Invalid sCAL width
+Invalid sCAL height
+Memory allocation failed while processing sCAL
+Invalid sCAL unit
+Invalid palette length
+Insufficient memory to process iCCP profile
+Insufficient memory to process iCCP chunk
+text compression mode is out of range
+tRNS chunk has out-of-range samples for bit_depth
+Out of memory while processing sPLT chunk
+No memory for sPLT palettes
+Out of memory while processing unknown chunk
+Failed to allocate memory for %s (%ld elements of %ld bytes each)
+No space for "TransferFunction" tag
+@Integer overflow in %s
+%lu: Sample out of range, max %lu
+TIFFNumberOfStrips
+Invalid YCbCr subsampling
+TIFFVStripSize
+TIFFScanlineSize
+TIFFFillStrip
+TIFFReadBufferSetup
+%lu: Row out of range, max %lu
+%s: Seek error at scanline %lu, strip %lu
+%s: Read error at scanline %lu; got %lu bytes, expected %lu
+%s: Read error at scanline %lu, strip %lu; got %lu bytes, expected %lu
+%s: Invalid strip byte count %lu, strip %lu
+%s: Read error on strip %lu; got %lu bytes, expected %lu
+%s: Data buffer too small to hold strip %lu
+%s: No space for data buffer at scanline %ld
+File not open for reading
+Can not read scanlines from a tiled image
+TIFFClientOpen
+"%s": Bad mode
+%s: Out of memory (TIFF structure)
+One of the client procedures is NULL pointer.
+Cannot read TIFF header
+Error writing TIFF header
+Not a TIFF file, bad magic number %d (0x%x)
+This is a BigTIFF file.  This format not supported
+by this version of libtiff.
+Not a TIFF file, bad version number %d (0x%x)
+_TIFFVSetField
+%s: Invalid InkNames value; expecting %d names, found %d
+TIFFSetField
+Nonstandard tile width %d, convert file
+Nonstandard tile length %d, convert file
+%s: Sorry, cannot nest SubIFDs
+pseudo-
+%s: Invalid %stag "%s" (not supported by codec)
+%s: Failed to allocate space for list of custom values
+%s: Bad field type %d for "%s"
+Tag Value
+%s: Bad value %d for "%s" tag
+%s: Bad value %u for "%s" tag
+%s: Unknown %stag %u
+%s: Cannot modify tag "%s" while writing
+_TIFFVGetField
+Error writing directory link
+TIFFNumberOfTiles
+TIFFTileRowSize
+TIFFVTileSize
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+TIFFReadDirectory
+for "ReferenceBlackWhite" array
+EstimateStripByteCounts
+MissingRequired
+TIFFFetchDirectory
+to fetch tag value
+%s: Failed to read directory at offset %u
+%s: invalid TIFF directory; tags are not sorted in ascending order
+%s: wrong data type %d for "%s"; tag ignored
+%s: unknown field with tag %d (0x%x) encountered
+Registering anonymous field with tag %d (0x%x) failed
+Planarconfig tag value assumed incorrect, assuming data is contig instead of chunky
+TIFFReadDirectory
+ImageLength
+%s: cannot handle zero number of %s
+TileOffsets
+StripOffsets
+to read "TransferFunction" tag
+Photometric tag is missing, assuming data is YCbCr
+Photometric tag value assumed incorrect, assuming data is YCbCr instead of RGB
+BitsPerSample tag is missing, assuming 8 bits per sample
+SamplesPerPixel tag is missing, assuming correct SamplesPerPixel value is 3
+SamplesPerPixel tag is missing, assuming correct SamplesPerPixel value is 1
+Colormap
+StripByteCounts
+%s: TIFF directory is missing required "%s" field, calculating from imagelength
+%s: Bogus "%s" field, ignoring and calculating from imagelength
+%s: Wrong "%s" field, ignoring and calculating from imagelength
+%s: cannot handle zero scanline size
+%s: cannot handle zero tile size
+%s: cannot handle zero strip size
+for "StripByteCounts" array
+%s: Cannot determine size of unknown tag type %d
+%s: TIFF directory is missing required "%s" field
+for IFD list
+incorrect count for field "%s" (%u, expecting %u); tag ignored
+incorrect count for field "%s" (%u, expecting %u); tag trimmed
+%s: Seek error accessing TIFF directory
+%s: Can not read TIFF directory count
+to read TIFF directory
+%.100s: Can not read TIFF directory
+%s: Can not read TIFF directory
+Error fetching data for field "%s"
+%s: Rational with zero denominator (num = %u)
+unexpected count for field "%s", %u, expected 2; ignored
+to fetch array of rationals
+cannot read TIFF_ANY type %d for field "%s"
+to fetch per-sample values
+Cannot handle different per-sample values for field "%s"
+for strip array
+to fetch strip tag
+for chopped "StripByteCounts" array
+for chopped "StripOffsets" array
+%s %s encoding is not implemented
+Compression scheme %u %s encoding is not implemented
+scanline
+%s %s decoding is not implemented
+Compression scheme %u %s decoding is not implemented
+Compression algorithm does not support random access
+TIFFLinkDirectory
+Error post-encoding before directory write
+Error flushing data before directory write
+Cannot write directory, out of space
+Error writing directory count
+Error writing directory contents
+No space to write per-sample shorts
+No space to write per-sample values
+No space to write RATIONAL array
+"%s": Information lost writing value (%g) as (unsigned) RATIONAL
+No space to write array
+Error writing data for field "%s"
+Error fetching directory count
+Error fetching directory link
+%s: Error writing SubIFD directory link
+TIFFAppendToStrip
+Seek error at scanline %lu
+Write error at scanline %lu
+SubfileType
+OldSubfileType
+ImageWidth
+BitsPerSample
+Compression
+PhotometricInterpretation
+Threshholding
+CellWidth
+CellLength
+FillOrder
+DocumentName
+ImageDescription
+Orientation
+SamplesPerPixel
+RowsPerStrip
+MinSampleValue
+MaxSampleValue
+XResolution
+YResolution
+PlanarConfiguration
+PageName
+XPosition
+YPosition
+FreeOffsets
+FreeByteCounts
+GrayResponseUnit
+GrayResponseCurve
+ResolutionUnit
+PageNumber
+ColorResponseUnit
+TransferFunction
+Software
+DateTime
+HostComputer
+WhitePoint
+PrimaryChromaticities
+ColorMap
+HalftoneHints
+TileWidth
+TileLength
+TileByteCounts
+InkNames
+NumberOfInks
+DotRange
+TargetPrinter
+ExtraSamples
+SampleFormat
+SMinSampleValue
+SMaxSampleValue
+ClipPath
+XClipPathUnits
+YClipPathUnits
+YCbCrCoefficients
+YCbCrSubsampling
+YCbCrPositioning
+ReferenceBlackWhite
+XMLPacket
+Matteing
+DataType
+ImageDepth
+TileDepth
+ImageFullWidth
+ImageFullLength
+TextureFormat
+TextureWrapModes
+FieldOfViewCotangent
+MatrixWorldToScreen
+MatrixWorldToCamera
+Copyright
+RichTIFFIPTC
+Photoshop
+EXIFIFDOffset
+ICC Profile
+GPSIFDOffset
+StoNits
+InteroperabilityIFDOffset
+DNGVersion
+DNGBackwardVersion
+UniqueCameraModel
+LocalizedCameraModel
+CFAPlaneColor
+CFALayout
+LinearizationTable
+BlackLevelRepeatDim
+BlackLevel
+BlackLevelDeltaH
+BlackLevelDeltaV
+WhiteLevel
+DefaultScale
+BestQualityScale
+DefaultCropOrigin
+DefaultCropSize
+ColorMatrix1
+ColorMatrix2
+CameraCalibration1
+CameraCalibration2
+ReductionMatrix1
+ReductionMatrix2
+AnalogBalance
+AsShotNeutral
+AsShotWhiteXY
+BaselineExposure
+BaselineNoise
+BaselineSharpness
+BayerGreenSplit
+LinearResponseLimit
+CameraSerialNumber
+LensInfo
+ChromaBlurRadius
+AntiAliasStrength
+ShadowScale
+DNGPrivateData
+MakerNoteSafety
+CalibrationIlluminant1
+CalibrationIlluminant2
+RawDataUniqueID
+OriginalRawFileName
+OriginalRawFileData
+ActiveArea
+MaskedAreas
+AsShotICCProfile
+AsShotPreProfileMatrix
+CurrentICCProfile
+CurrentPreProfileMatrix
+_TIFFMergeFieldInfo
+for field info array
+Setting up field info failed
+_TIFFSetupFieldInfo
+Failed to allocate field info array
+Internal error, unknown tag 0x%x
+TIFFFieldWithTag
+PackBits
+ThunderScan
+Old-style JPEG
+CCITT RLE
+CCITT RLE/W
+CCITT Group 3
+CCITT Group 4
+ISO JBIG
+Deflate
+AdobeDeflate
+PixarLog
+SGILog24
+%s compression support is not configured
+NeXTDecode: Not enough data for scanline %ld
+ LZWSetupDecode
+LZWSetupEncode
+No space for LZW state block
+LZWPreDecode
+No space for LZW code table
+Old-style LZW codes, convert file
+LZWDecode: Bogus encoding, loop in the code table; scanline %d
+LZWDecode: Strip %d not terminated with EOI code
+LZWDecode: Corrupted LZW table at scanline %d
+LZWDecode: Wrong length of decoded string: data probably corrupted at scanline %d
+LZWDecode: Not enough data at scanline %d (short %ld bytes)
+LZWDecodeCompat: Corrupted LZW table at scanline %d
+LZWDecodeCompat: Wrong length of decoded string: data probably corrupted at scanline %d
+LZWDecodeCompat: Not enough data at scanline %d (short %ld bytes)
+No space for LZW hash table
+TIFFInitLZW
+ZIPSetupDecode
+ZIPDecode
+ZIPSetupEncode
+ZIPEncode
+ZIPPostEncode
+ZIPVSetField
+TIFFInitZIP
+%s: Decoding error at scanline %d, %s
+%s: zlib error: %s
+%s: Not enough data at scanline %d (short %d bytes)
+%s: Encoder error: %s
+Merging Deflate codec-specific tags failed
+No space for ZIP state block
+LogL16InitState
+LogLuvInitState
+SGILogDataFmt
+SGILogEncode
+TIFFInitSGILog
+LogL16Decode: Not enough data at row %d (short %d pixels)
+LogLuvDecode24: Not enough data at row %d (short %d pixels)
+LogLuvDecode32: Not enough data at row %d (short %d pixels)
+No support for converting user data format to LogL
+%s: No space for SGILog translation buffer
+SGILog compression cannot handle non-contiguous data
+No support for converting user data format to LogLuv
+must be either LogLUV or LogL
+Inappropriate photometric interpretation %d for SGILog compression; %s
+XYZ, Luv
+SGILog compression supported only for %s, or raw data
+Unknown data format %d for LogLuv compression
+Unknown encoding %d for LogLuv compression
+Merging SGILog codec-specific tags failed
+%s: No space for LogLuv state block
+DumpModeDecode: Not enough data for scanline %d
+PackBitsDecode: discarding %ld bytes to avoid buffer overrun
+PackBitsDecode: Not enough data for scanline %ld
+Fax3Decode1D
+Fax3DecodeRLE
+Fax3Decode2D
+FaxMode
+FaxFillFunc
+BadFaxLines
+CleanFaxData
+ConsecutiveBadFaxLines
+FaxRecvParams
+FaxSubAddress
+FaxRecvTime
+Group3Options
+Group4Options
+Fax4Decode
+%s: Bad code word at line %u of %s %u (x %u)
+%s: Uncompressed data (not supported) at line %u of %s %u (x %u)
+Premature EOL
+Line length mismatch
+%s: %s at line %u of %s %u (got %u, expected %u)
+%s: Premature EOF at line %u of %s %u (x %u)
+Bits/sample must be 1 for Group 3/4 encoding/decoding
+Row pixels integer overflow (rowpixels %u)
+for Group 3/4 run arrays
+%s: No space for Group 3/4 reference line
+Fax3SetupState
+  Group 4 Options:
+%suncompressed data
+  Group 3 Options:
+%s2-d encoding
+%sEOL padding
+ (%lu = 0x%lx)
+  Fax Data:
+ receiver regenerated
+ uncorrected errors
+ (%u = 0x%x)
+  Bad Fax Lines: %lu
+  Consecutive Bad Fax Lines: %lu
+  Fax Receive Parameters: %08lx
+  Fax SubAddress: %s
+  Fax Receive Time: %lu secs
+  Fax DCS: %s
+Merging common CCITT Fax codec-specific tags failed
+InitCCITTFax3
+%s: No space for state block
+TIFFInitCCITTFax3
+Merging CCITT Fax 3 codec-specific tags failed
+Merging CCITT Fax 4 codec-specific tags failed
+TIFFInitCCITTFax4
+Not enough
+Too much
+ThunderDecode: %s data at scanline %ld (%lu != %lu)
+PredictorSetup
+PredictorEncodeTile
+Predictor
+Horizontal differencing "Predictor" not supported with %d-bit samples
+Floating point "Predictor" not supported with %d data format
+"Predictor" value %d not supported
+Out of memory allocating %d byte temp buffer.
+  Predictor: 
+horizontal differencing 
+floating point predictor 
+%u (0x%x)
+Merging Predictor codec-specific tags failed
+TIFFPredictorInit
+SSE and SSE2 are required.
+MathLib_Init
+c:\buildslave\destinations_staging_win64\build\src\mathlib\mathlib_base.cpp
+GenerateResourceNameFromFileName: Invalid extension specified in file name "%s"!
+ERROR: Specified full path %s does not lie under the mod search path!)
+ERROR: Specified path %s could not be made content-relative
+FixupResourceName: Illegal full path passed in ("%s")!
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
+WARNING: LoadAndValidateResourceHeader - FileSystem not initialized!
+%i %i %i %i
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar(%s) defined with infinite float value (%s)
+c:\buildslave\destinations_staging_win64\build\src\tier1\mempool.cpp
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase::CUtlMemoryPoolBase
+CUtlString::FormatV
+%s unable to grow buffer to fit string
+c:\buildslave\destinations_staging_win64\build\src\tier1\utlstring.cpp
+@X@unknown
+KeyValues Error: %s in file %s
+(*%s*), 
+ ReadToken overflow
+KeyValues::SaveToFile: couldn't open file "%s" in path "%s".
+0x%016llX
+KeyValues::RecursiveSaveToFile: TODO, missing code for TYPE_COLOR.
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KV Conditional Evaluation Error
+#include
+#include is NULL 
+#base is NULL 
+LoadFromBuffer: expected '{', found '%s'
+RecursiveLoadFromBuffer:  recursion overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  got conditional between key and value
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf
+c:\buildslave\destinations_staging_win64\build\src\tier1\utlbuffer.cpp
+Unable to watch '%s'
+CUtlLinkedList<class CUtlString,unsigned int,0,unsigned int,class CUtlMemory<struct UtlLinkedListElem_t<class CUtlString,unsigned int>,unsigned int> >::AllocInternal
+RegisterConfigValue: Unknown error constructing config value "%s"!
+CGlobalConfigValueRegistry::HookUpConfigValue
+c:\buildslave\destinations_staging_win64\build\src\tier1\configvalue.cpp
+CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!
+CopyAttrFrom
+FillAttr
+CTSQueue<class CFunctor *,0>::CTSQueue
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+VScript
+VScriptDbg
+MUnserializationCallback
+CToolsConfig
+CAssetTypeConfig
+Toolutils
+EXECUTABLE_PATH
+sdkassettypes.txt
+assettypes.txt
+Failed to load asset configuration file '%s'
+No schematized data found. File is malformed, or class bindings are not registered.
+File data is too complex for simple SchemaLoadObject() - Use CSchemaLoadContext directly to support multiple root objects or external allocations.
+CUtlString
+CUtlVector
+InfoDataFilter_t
+CAssetInfoFilterParams
+AssetBadgeInfo_t
+CSimpleAssetTypeInfo
+ResourceDataEncodingType_t
+CResourceAssetTypeInfo
+CBitmapAssetTypeInfo
+CDatamodelAssetTypeInfo
+CMapAssetTypeInfo
+RESOURCE_ENCODING_INTROSPECTED
+RESOURCE_ENCODING_KV3
+RESOURCE_ENCODING_VTEX
+RESOURCE_ENCODING_RAW_BYTES
+RESOURCE_ENCODING_COUNT
+m_Description
+m_Filter
+From Class Binding
+m_FriendlyName
+m_IconLg
+m_IconSm
+m_SuppressSubstrings
+m_AssetTypeGroups
+m_AdditionalExtensions
+m_AssetBadges
+m_EngineCommands
+m_bHideTypeByDefault
+m_bIsNontrivialChildAssetType
+m_bAutoRecompile
+m_bIgnoreCompiledState
+m_bContentFileIsText
+m_bPrefersLivePreview
+m_bPresentInGameTree
+m_ResourceModule
+m_AdditionalResourceModules
+m_CompilerIdentifier
+m_DataBlockEncoding
+m_bPreventDirectCompile
+m_bCanBeAChildCompile
+m_bPrefersIconForThumbnail
+m_ResourceTypes
+m_BitmapTypes
+m_SimpleAssets
+m_DatamodelTypes
+m_MapTypes
+m_DefaultFilter
+toolutils2
+MPropertyFriendlyName
+AssetEditInfoFilterFunc_t
+== (or missing)
+!= (or missing)
+contains
+doesn't contain
+ASSET_FILTER_EQUAL
+ASSET_FILTER_NOT_EQUAL
+ASSET_FILTER_EQUAL_OR_MISSING
+ASSET_FILTER_NOT_EQUAL_OR_MISSING
+ASSET_FILTER_LESS
+ASSET_FILTER_LESS_EQUAL
+ASSET_FILTER_GREATER
+ASSET_FILTER_GREATER_EQUAL
+ASSET_FILTER_CONTAINS
+ASSET_FILTER_DOES_NOT_CONTAIN
+ASSET_FILTER_FUNC_COUNT
+m_Value
+m_FilterFunc
+m_Filters
+c:\buildslave\destinations_staging_win64\build\src\public\schemasystem\schema.h
+ERROR: CAtomicManipulator::Allocate() Cannot allocate KeyValues
+CAtomicManipulator<class KeyValues>::Allocate
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate KeyValues
+CAtomicManipulator<class KeyValues>::AllocateAndCopy
+ERROR: CAtomicManipulator::Copy() Cannot copy KeyValues(FIXME: maybe you can?)
+CAtomicManipulator<class KeyValues>::Copy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate KeyValues
+CAtomicManipulator<class KeyValues>::Deallocate
+KeyValues
+CBaseToolInfo
+CEngineToolInfo
+CExternalToolInfo
+m_ToolIcon
+m_Library
+m_bIsTextEditor
+m_bStartActive
+m_bShowInRevisionSubMenu
+m_PrimaryAssetTypes
+m_SecondaryAssetTypes
+m_LimitToMods
+m_bAttemptedLoad
+m_pSettings
+m_Replace
+m_Command
+m_WorkingDir
+m_OverridenBy
+m_bWaitForFinish
+m_SupportedExts
+m_bDebug
+m_bIsPrimaryTool
+m_bShownInUI
+m_EngineTools
+m_ExternalTools
+Failed to read %d bytes
+CBaseFile::MustRead
+c:\buildslave\destinations_staging_win64\build\src\public\tier2\fileutils.h
+VPK directory for '%s' corrupt
+CPackedStore::BuildHashTables
+c:\buildslave\destinations_staging_win64\build\src\vpklib\packedstore.cpp
+%s_dir.vpk
+Unknown version %d for vpk %s
+CPackedStore::CPackedStore
+%s_%03d.vpk
+Packed store %s with refcount > 0.
+Exceeded limit of number of vpk files supported (%d)!
+CPackedStore::GetFileHandle
+%s%s%s crc=0x%x metadatasz=%d
+ fnumber=%d ofs=0x%x sz=%d
+%s_flt.vpk
+CUtlBlockMemory overflow!
+CUtlBlockMemory<unsigned char,int>::ChangeSize
+c:\buildslave\destinations_staging_win64\build\src\public\tier1\utlblockmemory.h
+-vwatch_locking
+VWATCH_LOCKING
+VWatchSharedMemoryManager
+-vwatch_disabled
+Global\vwatch_shared_data
+Unable to find running VWatch service. Client expected version %lu. Running without VWatch performance benefits.
+	You can install the VWatch service by installing/updating VMPI from \\fileserver\vmpi
+VWatch timed out waiting for the service to initialize
+Mismatched VWatch protocol version number. Client expected version %lu, VWatch service running version %lu. Running without VWatch performance benefits.
+	You can update your VWatch service by updating VMPI from \\fileserver\vmpi
+VWatch timed out waiting for the service to finish it's initial scan.
+VWatch service is in an error state and needs to be restarted. Running without VWatch performance benefits.
+Global\vwatch_mutex
+VWatch unable to open mutex handle "Global\vwatch_mutex" because of error %d.
+VWatch timed out trying to do a connection lock of "Global\vwatch_mutex". Running without VWatch performance benefits.
+\\.\pipe\vwatch_appsignal
+VWatch unable to connect app signal pipe (%d).
+VWatch SetNamedPipeHandleState() failure %d.
+VWatch unable to retrieve process handle with app signal pipe. TransactNamedPipe(%d)
+Vwatch Retrieval of synchronization handle through app signal pipe failed with error code %d
+Can't get VWatch process handle from pid %lu.
+CVWatchClient::GetSnapshotForDir()
+CVWatchClient::GetFileCRC() read
+CVWatchClient::GetFileCRC() optional fallback read
+CVWatchClient::GetFileCRC() write
+CVWatchClient::GetFileStats() read
+CVWatchClient::GetFileStats() optional fallback read
+CVWatchClient::IsFileIgnoredByVWatchService()
+CVWatchClient::UpdateLinkedWatchedDirectories()
+VWatch unable to transact with vwatch pipe, error %d.
+CVWatchClient::IsWatchingDir()
+Warning: CVWatchClient::GetSlowSnapshotForDir( %s ) had to grow the block size %d times. Consider increasing VWATCH_SLOW_SNAPSHOT_SIZE.
+VWatch Update
+[Unknown]
+VWATCHSERVICESTATUS_OK
+VWATCHSERVICESTATUS_NOTCONNECTED(Connection failure flags 0x%X)
+VWATCHSERVICESTATUS_NOPROCESS
+VWATCHSERVICESTATUS_HUNG
+VWATCHSERVICESTATUS_RESET
+VWATCHSERVICESTATUS_OUTOFMEMORY
+VWATCHSERVICESTATUS_REBASEDMEMORY
+CFileChangeWatcher has detected that VWatch has stopped updating (Status=%s). It's probably a good idea to reset the engine. Converting vwatched directories to Windows watched.
+%s%s\*.*
+CSharedMemoryMgr::Open() OpenFileMapping() failed with error %d
+CSharedMemoryMgr::Open() MapViewOfFile() failed with error %d
+CSharedMemoryMgr::RemapView() MapViewOfFile() failed with error %d
+[-&LMb#{'
+)\ZEo^m/
+H*0"ZOW
+IiGM>nw
+incorrect header check
+unknown compression method
+invalid window size
+unknown header flags set
+header crc mismatch
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid code lengths set
+invalid bit length repeat
+invalid code -- missing end-of-block
+invalid literal/lengths set
+invalid distances set
+invalid literal/length code
+invalid distance code
+invalid distance too far back
+incorrect data check
+incorrect length check
+insufficient memory
+buffer error
+incompatible version
+								
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+?E=$% B
+?49HoKC
+?UUUUUU
+CorExitProcess
+GrJoq>@
+?8UUUUU
+?UUUUUU
+AUUUUUU
+?UUUUUU
+Unknown exception
+Access violation - no RTTI data!
+Bad dynamic_cast!
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+UTF-16LE
+UNICODE
+?8bunz8
+?@En[vP
+-9D	/9a
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+?UUUUUU
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+_nextafter
+@^8U)zj
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CreateFile2
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+Failed to remove expected relevant file '%s' for asset '%s' (can happen due to delays in processing file changes)
+AssetSystem removing read-only stale asset file '%s' from '%s'
+AssetSystem removing stale asset file '%s' from '%s'
+Discarding in-memory replacement
+Discarding replacement for '%s' - SKIPPED (no replacement data)
+Discarding replacement for '%s'...
+-> Discarding child %d replacement '%s'
+Assigning replacement buffer to '%s' with parent '%s'
+Find the number of assets registered with the asset system
+assetsystem_count
+Assets in asset system: %d
+Not a resource.
+WARNING: CAsset::EnsureFileWritable: Asset '%s' does not have requested file. (%d)
+WARNING: CAsset::EnsureFileWritable: Asset '%s' is in a read-only mod. (%d)
+WARNING: CAsset::EnsureFileWritable: Asset '%s' has no file in the required mod. (%d)
+CAsset::EnsureFileWritable( %s, %d ) -> %s
+CONTENT
+"%s" missing dependency "%s:%s"
+[Not a resource]
+_toolsettings\asset_settings\
+_user.txt
+Tool User Settings
+Depends on out-of-date '%s':
+ -> reason: %s
+IsChildResource
+dependency
+additional input dependency
+CAsset::RequireInstanceInfo
+%s failure
+c:\buildslave\destinations_staging_win64\build\src\assetsystem\asset.cpp
+%s allocation count overflow
+c:\buildslave\destinations_staging_win64\build\src\public\tier1\utlleanvector.h
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<class CUtlTypesafeInt<struct AssetIndex_t_id *,unsigned int>,3,short>,class CUtlTypesafeInt<struct AssetIndex_t_id *,unsigned int>,short>::AddToTailGetPtr
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<unsigned short,6,short>,unsigned short,short>::AddToTailGetPtr
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetFileInfo_t,1,short>,struct AssetFileInfo_t,short>::AddToTailGetPtr
+CUtlLeanVectorFixedGrowableBase<class CUtlTypesafeInt<struct AssetIndex_t_id *,unsigned int>,3,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<unsigned short,6,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<struct AssetFileInfo_t,1,short>::EnsureCapacity
+FCVAR_NEVER_AS_STRING
+c:\buildslave\destinations_staging_win64\build\src\assetsystem\utlcoveragetest.h
+CUtlCoverageTestGroup::VerifyCoverageGroup
+m_nPoints > 0
+Assertion Failed in function %s():
+WARNING: Coverage group '%s' missed coverage point '%s'
+( nMissedPoints == 0 )
+Test coverage group '%s' missed some coverage points. (See above.)
+tools_asset_info.bin
+readonly_
+-publiccontent
+publiccontent_
+WARNING: Assetsystem is trying to save persistent info but no changelist was specified!
+AssetSystem unable to save persistent info to '%s'
+-filterassetfiles
+filtered_
+-saveonlyleafiestassets
+-savereadonlyassets
+AssetSystem saved persistent info for %u layers / %u assets in %.3f sec
+-noassetinfoload
+AssetSystem unable to load persistent info from '%s'
+AssetSystem loaded persistent info from %u layers / %u assets in %.2fs
+Flushing persistent asset info to disk, %g seconds since last, %u change delta
+AssetDependencies
+CAssetSystem::BuildDependencyData
+Updating asset dependency information...
+Asset System - Updating dependency information...
+g_pToolsSplashScreen->showMessage
+Updating dependencies: %d%% (%s/%s) - %s
+Asset System - %s
+AssetSystem dependency data propagated in %.2fs (refreshed %u of %u)
+AssetSystem incremental dependency update for %u assets (up to %u of %u)
+AssetSystem incremental dependency update completed for %u assets
+DEBUG: CAsset::UpdateDependencyInformationAndCompileState - %s
+Asset system disabled - skipping dependency update for asset '%s'
+Asset Fingerprint Changed: %s [%d -> %d]
+Asset Full Fingerprint Changed: %s [%d -> %d]
+Cov_DetermineCompileState_NoDependencies
+Cov_DetermineCompileState_IgnoreCompileState
+Cov_DetermineCompileState_CompileFailed
+Cov_DetermineCompileState_InvalidDependencyInfo
+Cov_DetermineCompileState_ForcedUpToDateDependencyInfo
+Cov_DetermineCompileState_FileExistenceChanged
+Cov_DetermineCompileState_FileCRCChanged
+Cov_DetermineCompileState_NonexistentModReference
+Cov_DetermineCompileState_ModChanged
+Cov_DetermineCompileState_SpecialDependencyChanged
+Cov_DetermineCompileState_OutOfDate
+Cov_DetermineCompileState_InconsistentChild
+Cov_DetermineCompileState_Good
+g_Cov_DetermineCompileState
+IgnoreCompiledState set for type (%s)
+Resource Compile Failed
+Invalid Dependency Information
+Read-Only Compiled Asset Information Always Up-to-Date
+Asset is Empty
+Compiled Asset Without Content Always Up-to-Date
+file existence changed
+Getting CRC for %s
+file CRC changed
+WARNING: Assetsystem encountered dependencies from nonexistent mod '%s' (first asset: '%s')
+WARNING: Asset '%s' refers to dependency '%s' from nonexistent mod '%s' (file '%s')
+file mod is invalid
+file mod changed
+special dependency mismatch
+At least one out-of-date dependency: %s (%s)
+INCONSISTENT: Marked as child resource, but has content files.
+Parent with missing children. (eg. '%s')
+Ignoring file change for non-asset file ( %s )
+Ignoring file change for malformed path ( %s )
+Ignoring file change from unknown path ( %s )
+Ignoring file change for file that is being written ( %s ) [retry %u]
+CAssetSystem::HandleFileChange: %s
+Read-Only AssetSystem: ignoring change to %s in read-only mod
+Asset changed on disk: %s
+New file for unknown asset: %s
+Asset file deleted from disk: %s
+Irrelevant deleted file: %s
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<unsigned char,64,int>,unsigned char,int>::AddMultipleToTail
+CUtlLeanVectorFixedGrowableBase<struct AssetPathSymbols_t,1,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<struct AssetCRCDependency_t,1,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<struct AssetReference_t,1,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<struct AssetSpecialDependency_t,1,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<struct AssetEditData_t,2,short>::EnsureCapacity
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<class CUtlTypesafeInt<struct AssetIndex_t_id *,unsigned int>,5,short>,class CUtlTypesafeInt<struct AssetIndex_t_id *,unsigned int>,short>::AddToTailGetPtr
+CUtlLeanVectorFixedGrowableBase<struct AssetUnrecognizedRelatedPath_t,1,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<unsigned char,64,int>::EnsureCapacity
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetUnrecognizedRelatedPath_t,3,short>,struct AssetUnrecognizedRelatedPath_t,short>::AddToTailGetPtr
+CUtlLeanVectorFixedGrowableBase<class CUtlTypesafeInt<struct AssetIndex_t_id *,unsigned int>,5,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<struct AssetUnrecognizedRelatedPath_t,3,short>::EnsureCapacity
+ASSET_ENABLE_VWATCH
+ASSET_DISABLE_VWATCH
+-vwatch
+-novwatch
+VWATCH NOT CONNECTED!
+-testmode
+-vwatch_not_required
+Unable to verify if the VWatch service is running.<br><br>Please verify that you have VMPI installed (a green dot in your system tray)<br>If there is no green dot, install VMPI from \\fileserver\vmpi or the <a href="https://intranet.valvesoftware.com/wiki/index.php/VMPI">wiki</a><br><br><br>If all else fails, you can run with "-vwatch_not_required" to bypass this fatal error
+Your VWatch installation is out of date<br><br>Install the newest VMPI from \\fileserver\vmpi or the <a href="https://intranet.valvesoftware.com/wiki/index.php/VMPI">wiki</a><br><br><br>If all else fails, you can run with "-vwatch_not_required" to bypass this fatal error
+There was a problem acquiring VWatch communication resources from Windows<br><br>To fix this, please try:<br> -restarting VMPI from "Start->Valve->Start VMPI Service"<br> -reinstalling VMPI from \\fileserver\vmpi or the <a href="https://intranet.valvesoftware.com/wiki/index.php/VMPI">wiki</a><br> -Looking through your console logs for more specific errors and emailing them to <a href="mailto:dave@valvesoftware.com?subject=VWATCHCONNECTIONFAILURE_MISSINGHANDLES">Dave K</a><br> -Grabbing a programmer<br><br><br>If all else fails, you can run with "-vwatch_not_required" to bypass this fatal error
+Your VWatch service is in an error state.<br><br>Please right click the VMPI Icon (green dot) in your system tray, click "VWatch...", then click "Restart"<br>If this happens frequently, please report it to <a href="mailto:dave@valvesoftware.com?subject=VWATCHCONNECTIONFAILURE_SERVICEINERRORSTATE">Dave K</a>, preferably before you've restarted the service<br><br><br>If all else fails, you can run with "-vwatch_not_required" to bypass this fatal error
+Your VWatch service is too busy for a connection attempt.<br><br>If you're doing something disk intensive, then this is expected.<br>You can try restarting in a moment, or reporting the failure to <a href="mailto:dave@valvesoftware.com?subject=VWATCHCONNECTIONFAILURE_TIMEDOUT">Dave K</a><br>Please include notes on what else you were doing at the time. Especially syncing and/or rebuilding content.<br><br><br>If all else fails, you can run with "-vwatch_not_required" to bypass this fatal error
+Failed to identify the VWatch failure
+VWatch is not connected
+CONTENTROOT
+GAMEROOT
+ERROR: Assetsystem cannot start: %s
+CStdAssetFileSystem::LoadAssetTypesConfigurationFile
+c:\buildslave\destinations_staging_win64\build\src\assetsystem\assetfilesystem_stdio.cpp
+Unable to get file info to add asset '%s', ignoring
+c:\buildslave\destinations_staging_win64\build\src\assetsystem\assetfilesystem_test.cpp
+CInMemoryFilesystem::RegisterFakeFile
+NULL == FindFile( pFileName, NULL )
+CInMemoryFilesystem::SetFileContentToString
+NULL != pFile
+CInMemoryFilesystem::SetFileWritable
+CInMemoryFilesystem::TouchFileModifiedTime
+CInMemoryFilesystem::CreateFileA
+pPath != NULL
+CInMemoryFilesystem::CTestSearchPath::CreateFileA
+NULL == FindFile( pFilePathRelativeToSearchPath )
+t:/game/
+t:/content/
+AssetPlat_IsFileNotBeingWritten( %s ) -> FALSE (in use)
+ -> failed with error %d: %s
+AssetPlat_IsFileNotBeingWritten( %s ) -> TRUE (available)
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\destinations_staging_win64\build\src\public\tier0\tslist.h
+TODO: remove IAssetSystem::GetAssetInfo before checkin!
+CAssetSystem::GetAssetInfo
+c:\buildslave\destinations_staging_win64\build\src\assetsystem\assetsystem.h
+Information about the current assetsystem database.
+assetsystem_stats
+(Dev command - regenerate the asset sort indicies)
+assetsystem_test_resort
+AssetSystem
+AssetSystem001
+Spew info for assets that match the specified substring
+assetsystem_debug_substring
+ResourceSystem009
+resourcesystem
+ResourceCompilerSystem001
+resourcecompiler
+/AssetSystemSuspendFileChanges
+Overriden Asset
+Asset appears in multiple search paths.
+toolimages:assetbrowser/asset_badges/asset_involves_override.png
+Inherited Asset
+Asset is from a search path other than '%s'.
+toolimages:assetbrowser/asset_badges/asset_not_in_leaf_mod.png
+Child Asset
+Asset is an uninteresting child resource.
+toolimages:assetbrowser/asset_badges/asset_is_trivial_child.png
+Read-Only Asset
+Asset is from a read-only search path.
+toolimages:assetbrowser/asset_badges/asset_from_read_only_searchpath.png
+Asset Without Content
+Asset does not have any content.
+toolimages:assetbrowser/asset_badges/asset_with_no_content.png
+-validatereadonlyassets
+-asyncassetscan
+%s (%d)
+<ERROR>
+Game (%s)
+_addons
+Content (%s)
+disable_readonly_assets
+-noreadonlyassets
+-allreadonlyassets
+-readonlyexceptleafiest
+-readonlyexceptcoreandleafiest
+-buildallcontentreadonly
+_imported
+Read-Only AssetSystem: %s does not exist, using default info file
+AssetSystem: Mod '%s' set to read-only
+Scanning for Asset Files (%d/%d): scanned %u directories and %u files
+(async) 
+%sScanning for Asset Files (%d/%d): '%s' = %s, previously scanned %u directories and %u files
+Scanning for Asset Files (%d/%d): previously scanned %u directories and %u files
+AsyncAssetScan
+AssetSystem found stale asset '%s'
+AssetSystem pruned %u stale assets
+-filterassetfiles missing filename
+CAssetSystem::FilterAssetFiles
+c:\buildslave\destinations_staging_win64\build\src\assetsystem\assetsystem.cpp
+-filterassetfiles unable to open '%s'
+Filtering asset files according to whitelist %s
+content/
+core/tools/images/
+content
+Could not find asset for shipped file '%s/%s'
+Asset '%s' does not have shipped file '%s/%s'
+Filtering asset files finished in %.2f
+  %u files initially, %u resolved files in whitelist (%u lines), %u files remaining
+-allowasyncfilescan
+Unable to create async scan thread
+CAssetSystem::InitializeAssetSystem
+AssetSystem files scanned in %.2f seconds.
+AssetSystem dependency graph created in %.2f seconds.
+AssetSystem initialized in %.2f seconds. [%.2f load, %.2f scan, %.2f dependencies, %.2f save]
+DEBUG: CAssetSystem::HandleNewPossibleAssetFile - '%s'
+RESOURCE_LOAD_IGNORED
+RESOURCE_LOAD_SUCCESS
+RESOURCE_LOAD_FAIL
+RESOURCE_LOAD_RELOAD
+CAssetSystem::NotifyResourceStatusChange( %s ) - %s
+Abandoning deferred file change for %s after %u attempts
+AssetSystem: finished file scan, %u directories and %u files scanned
+AssetSystem processed %u async file updates
+Unregistered pending cache for asset: %s
+Content
+Manual Reload
+WARNING: CAssetSystem::OpenForEdit: Asset '%s' is in a read-only mod.
+ASSETS: Root path symbol table is over half full (%llu)
+ASSETS: Mod name symbol table is over half full (%llu)
+ASSETS: Relative dir symbol table is over half full (%llu)
+ASSETS: File name symbol table is over half full (%llu)
+ASSETS: File extension symbol table is over half full (%llu)
+WARNING: AssetSystem preventing resource '%s' (compile state %d) from loading due to on-demand-compile problem. Still not compiled for reason: %s
+Assetsystem resource replacement buffer
+WARNING: Suppressing on-demand recompile of asset %s - already tried with this fingerprint.
+ -> On behalf of child: %s
+ -> reason: %s
+ -> This likely indicates a disparity between the assetsystem and resourcecompiler's views of the hard disk. Perhaps you forgot to add an extension to (sdk)assettypes.txt?
+(Infinite recompile suppression) %s
+On-demand recompile of asset %s
+Reloading Resource [%d/%d]: %s
+Asset System Reload Manifest
+Test resort expected 1 argument: <number>
+Asset resort '%s' - %.2f seconds for %d iterations of %d assets ==> %.2fms per run (%.2fus per asset)
+AssetSystem Stats:
+* %d assets in database, size per CAsset %u
+      CAsset:                        %7d [ %7.2fMiB base + %7.2fMiB alloc ]
+      Resource/MyReferences Info:    %7d [ %7.2fMiB base + %7.2fMiB alloc ]
+      Dependency ReferencingMe Info: %7d [ %7.2fMiB base + %7.2fMiB alloc ]
+* ~%.2fMiB additional used by asset system
+* ==> Total assetsystem memory usage: ~%.2fMiB
+* %llu paths registered, %u unique root paths, %u unique mod names, %u unique in-mod paths, %u unique base filenames, %u unique extensions
+* %u unique edit info keys (%llu registered), %u unique misc strings (%llu registered)
+* %llu stats satisfied from asset info, %llu stats from the filesystem
+* %llu files CRC'ed
+* Asset info saved %llu times
+* %d mods (%d unrecognized):
+      Mod%s[% 2d]: "%s"
+ (%u assets, %u with overrides)
+* %u assets not in a mod/without any files
+* %d asset types:
+      AssetType[% 3d]: % 40s: %d assets
+AssetSystem: ignoring saved per-asset info for unresolvable (probably deleted) asset '%s'
+All %d parents of this child resource are orphans or leafier than it.
+This a child resource with no parents.
+"%s" has no corresponding content file
+Handling batched file changes...
+File: %s
+Skipping reload of in-memory compiled resource '%s' without a compiled replacement buffer
+Skipping reload of in-memory compiled resource '%s' with no associated asset
+ - %s_c
+  ( Full path: %s )
+  REASON: %s
+'%s' has %s '%s' without a mod.
+'%s' has %s '%s' with invalid mod index %d.
+'%s' has %s '%s' in unrecognized mod '%s'.
+AssetSystem invalid file info '%s'.
+AssetSystem file info doesn't match read-only info for '%s'.
+CTSQueue: Misaligned queue
+CTSQueue<struct CAsyncIOResult_t,0>::CTSQueue
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<char,40,int>,char,int>::AddMultipleToTail
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<char,8,int>,char,int>::AddMultipleToTail
+CTSQueue<struct AsyncScanResult_t *,0>::CTSQueue
+CUtlLeanVectorImpl<class CUtlLeanVectorBase<struct FioBaseFileInfo_t,short>,struct FioBaseFileInfo_t,short>::AddToTailGetPtr
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetElementSymbol_t,19,short>,struct AssetElementSymbol_t,short>::AddToTailGetPtr
+CUtlLeanVectorFixedGrowableBase<char,40,int>::EnsureCapacity
+CUtlLeanVectorBase<struct FioBaseFileInfo_t,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<char,8,int>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<struct AssetElementSymbol_t,19,short>::EnsureCapacity
+CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList<class CUtlKeyValuePair<unsigned __int64,class CAsset *>,unsigned int,0,unsigned int,class CUtlMemory<struct UtlLinkedListElem_t<class CUtlKeyValuePair<unsigned __int64,class CAsset *>,unsigned int>,unsigned int> >::AllocInternal
+c:\buildslave\destinations_staging_win64\build\src\public\tier1\utllinkedlist.h
+CUtlLinkedList overflow! (exhausted index range)
+toolimages:assettypes/generic_lg.png
+toolimages:assettypes/generic_sm.png
+t:/game/leaf/
+AssetSystemTest001
+t:/game/base/
+t:/game/mid/
+t:/content/mid/
+t:/content/leaf/
+t:/content/base/
+TestAssetType_Content
+TestAssetType_Resource
+%s%s/%s_c
+%s%s/%s
+materials/test_tga.content
+test_tga_content_1
+t:/content/mid/materials/test_tga.content
+materials/test_txt.content
+materials/test_vmat.vres
+test_resource_1
+t:/content/mid/materials/test_vmat.vres
+CreateTestSimpleVmatTga
+c:\buildslave\destinations_staging_win64\build\src\assetsystem\assetsystemtest.cpp
+pTestMaterial->CompileState() == ASSET_FILE_COMPILED
+assetsTheMaterialDependsOn.Count() == 1
+assetsTheMaterialDependsOn[0] == pTestTGA
+assetsThatDependOnTheTGA.Count() == 1
+assetsThatDependOnTheTGA[0] == pTestMaterial
+TestSimpleVmatTga
+test_content_2
+pTestMaterial->CompileState() == ASSET_FILE_UNCOMPILED
+At least one out-of-date dependency: materials/test_tga.content (file CRC changed)
+pTestMaterial->Test_GetRecompileCount() == 1
+test_tga_content_2
+pTestMaterial->Test_GetRecompileCount() == 2
+test_tga_content_3
+TestSimpleVmatTxtAppearance
+pTestMaterial->Test_GetRecompileCount() == 0
+t:/content/mid/materials/test_txt.content
+At least one out-of-date dependency: materials/test_txt.content (file CRC changed)
+test_txt_content_1
+test_txt_content_2
+pResource->CompileState() == ASSET_FILE_COMPILED
+TestReadOnlyAndTimestampFeature
+NEW_DATA
+pResource->CompileState() == ASSET_FILE_UNCOMPILED
+t:/content/base/materials/test_tga.content
+TestSimpleVmatTgaSearchPath
+new_tga_in_base
+pTestMaterial->AdditionalInputDependencyCount() == 1
+t:/content/leaf/materials/test_tga.content
+new_tga_in_leaf
+t:/content/leaf/materials/test_vmat.vres
+new_mat_in_leaf
+pTestMaterial->Test_GetConcreteDependencies().Count() == 3
+pTestMaterial->Test_GetConcreteDependencies()[1].m_nExpectedCRC == nLeafTGACRC
+TestAssetType_Two_Content
+content_mp3_and_game.mp3
+content_mp3_and_game.vsnd
+content_mp3_and_game.vsnd_c
+pContentMP3AndGame != NULL
+TestTwoContentFileResourceType
+pContentMP3AndGame->HasFileInLocation( ASSET_LOCATION_CONTENT )
+pContentMP3AndGame->HasFileInLocation( ASSET_LOCATION_GAME )
+content_wav_and_game.wav
+content_wav_and_game.vsnd
+content_wav_and_game.vsnd_c
+pContentWAVAndGame != NULL
+pContentWAVAndGame->HasFileInLocation( ASSET_LOCATION_CONTENT )
+pContentWAVAndGame->HasFileInLocation( ASSET_LOCATION_GAME )
+game_only.vsnd
+game_only.vsnd_c
+pGameOnly != NULL
+!pGameOnly->HasFileInLocation( ASSET_LOCATION_CONTENT )
+pGameOnly->HasFileInLocation( ASSET_LOCATION_GAME )
+content_mp3_only.vsnd
+content_mp3_only.mp3
+pContentOnlyMP3 != NULL
+pContentOnlyMP3->HasFileInLocation( ASSET_LOCATION_CONTENT )
+!pContentOnlyMP3->HasFileInLocation( ASSET_LOCATION_GAME )
+content_wav_only.vsnd
+content_wav_only.wav
+pContentOnlyWAV != NULL
+pContentOnlyWAV->HasFileInLocation( ASSET_LOCATION_CONTENT )
+!pContentOnlyWAV->HasFileInLocation( ASSET_LOCATION_GAME )
+content_wav_then_mp3.vsnd
+content_wav_then_mp3.wav
+pWAVThenMP3_First != NULL
+pWAVThenMP3_First->HasFileInLocation( ASSET_LOCATION_CONTENT )
+!pWAVThenMP3_First->HasFileInLocation( ASSET_LOCATION_GAME )
+!V_strcmp( pWAVThenMP3_First->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/mid/content_wav_then_mp3.wav" )
+t:/content/mid/content_wav_then_mp3.wav
+content_wav_then_mp3.mp3
+pWAVThenMP3_Second == pWAVThenMP3_First
+pWAVThenMP3_Second->HasFileInLocation( ASSET_LOCATION_CONTENT )
+!pWAVThenMP3_Second->HasFileInLocation( ASSET_LOCATION_GAME )
+!V_strcmp( pWAVThenMP3_Second->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/mid/content_wav_then_mp3.mp3" )
+t:/content/mid/content_wav_then_mp3.mp3
+content_mp3_then_wav.mp3
+pMP3ThenWAV_First != NULL
+content_mp3_then_wav.vsnd
+pMP3ThenWAV_First->HasFileInLocation( ASSET_LOCATION_CONTENT )
+!pMP3ThenWAV_First->HasFileInLocation( ASSET_LOCATION_GAME )
+t:/content/mid/content_mp3_then_wav.mp3
+!V_strcmp( pMP3ThenWAV_First->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/mid/content_mp3_then_wav.mp3" )
+pMP3ThenWAV_Second == pMP3ThenWAV_First
+content_mp3_then_wav.wav
+pMP3ThenWAV_Second->HasFileInLocation( ASSET_LOCATION_CONTENT )
+!pMP3ThenWAV_Second->HasFileInLocation( ASSET_LOCATION_GAME )
+!V_strcmp( pMP3ThenWAV_Second->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/mid/content_mp3_then_wav.mp3" )
+base_wav_then_leaf_mp3.wav
+pBaseWavThenLeafMP3 != NULL
+base_wav_then_leaf_mp3.vsnd
+pBaseWavThenLeafMP3->HasFileInLocation( ASSET_LOCATION_CONTENT )
+!pBaseWavThenLeafMP3->HasFileInLocation( ASSET_LOCATION_GAME )
+t:/content/base/base_wav_then_leaf_mp3.wav
+!V_strcmp( pBaseWavThenLeafMP3->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/base/base_wav_then_leaf_mp3.wav" )
+pBaseWavThenLeafMP3_Second == pBaseWavThenLeafMP3
+base_wav_then_leaf_mp3.mp3
+pBaseWavThenLeafMP3_Second->HasFileInLocation( ASSET_LOCATION_CONTENT )
+!pBaseWavThenLeafMP3_Second->HasFileInLocation( ASSET_LOCATION_GAME )
+t:/content/leaf/base_wav_then_leaf_mp3.mp3
+!V_strcmp( pBaseWavThenLeafMP3_Second->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/leaf/base_wav_then_leaf_mp3.mp3" )
+base_mp3_then_leaf_wav.vsnd
+base_mp3_then_leaf_wav.mp3
+t:/content/base/base_mp3_then_leaf_wav.mp3
+!V_strcmp( pMP3ThenWAV_First->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/base/base_mp3_then_leaf_wav.mp3" )
+base_mp3_then_leaf_wav.wav
+!V_strcmp( pMP3ThenWAV_Second->GetAbsolutePath_Transient( ASSET_LOCATION_CONTENT ), "t:/content/leaf/base_mp3_then_leaf_wav.wav" )
+t:/content/leaf/base_mp3_then_leaf_wav.wav
+content_wav_then_mp3_compile_test.wav
+content_wav_then_mp3_compile_test.mp3
+content_wav_then_mp3_compile_test.vsnd
+pAsset->CompileState() == ASSET_FILE_COMPILED
+wav_content_1
+wav_content_2
+pAsset->Test_GetRecompileCount() == 1
+At least one out-of-date dependency: content_wav_then_mp3_compile_test.wav (file CRC changed)
+mp3_content_1
+pAsset->Test_GetRecompileCount() == 2
+At least one out-of-date dependency: content_wav_then_mp3_compile_test.mp3 (file CRC changed)
+mp3_content_2
+pAsset->Test_GetRecompileCount() == 3
+pAsset->Test_GetRecompileCount() == 4
+wav_content_3
+t:/content/leaf/content_wav_then_mp3_compile_test.wav
+pAsset->Test_GetRecompileCount() == 5
+At least one out-of-date dependency: content_wav_then_mp3_compile_test.wav (file mod changed)
+wav_content_4
+pAsset->Test_GetRecompileCount() == 6
+nCoverageHitPoints > 0
+CAssetSystemTest::RunTests
+==== AssetSystemTest Complete! ====
+dep.m_bOptional
+CTestAsset::Test_Dependencies_UpdateConcreteFromLogicalVector
+GetParentAssetSystem()->RegisterPathSymbols( dep.m_pAssetRelativePath, ASSET_LOCATION_INVALID, &fullPathSyms, false )
+CTestAsset::RecompileAsset
+!V_strcmp( m_NextExpectedRecompileReason.Get(), GetCompileStateReason_Transient() )
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetCRCDependency_t,3,short>,struct AssetCRCDependency_t,short>::AddMultipleToTail
+N/A (No recompile expected)
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetCRCDependency_t,4,short>,struct AssetCRCDependency_t,short>::AddMultipleToTail
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetReference_t,6,short>,struct AssetReference_t,short>::AddMultipleToTail
+CUtlLeanVectorFixedGrowableBase<struct AssetReference_t,6,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<struct AssetCRCDependency_t,3,short>::EnsureCapacity
+CUtlLeanVectorFixedGrowableBase<struct AssetCRCDependency_t,4,short>::EnsureCapacity
+WARNING: Failed to load data for bitmap asset '%s'
+Reloading cached bitmap: %s [%s]
+Reloading cached datamodel asset: %s [%s]
+Cannot recompile maps via Asset System
+Cannot reload maps via Asset System
+CResourceAsset::UpdateCacheRequest
+Skipping registration of failed in-memory compile result for resource: '%s' (root = '%s')
+verbose
+ERROR recompiling: '%s'
+Registering in-memory compile result for resource: '%s' (root = '%s')
+Recompiling resource asset: '%s'
+Not a compileable resource.
+Source file not present.
+Recompiling asset
+Cannot recompile '%s': %s
+[no manif]
+Compiled file is in leafier mod than content. ('%s' != '%s')
+UNKNOWN ERROR
+[cached: %d][err: %d][%d req]%s
+Not loaded.
+[manif: %s %d]
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetEditData_t,6,short>,struct AssetEditData_t,short>::AddToTailGetPtr
+CUtlLeanVectorFixedGrowableBase<struct AssetEditData_t,6,short>::EnsureCapacity
+Tools Auto-Checkout
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetReference_t,6,short>,struct AssetReference_t,short>::AddToTailGetPtr
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetSpecialDependency_t,5,short>,struct AssetSpecialDependency_t,short>::AddToTailGetPtr
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetPathSymbols_t,1,short>,struct AssetPathSymbols_t,short>::AddToTailGetPtr
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetCRCDependency_t,3,short>,struct AssetCRCDependency_t,short>::AddToTailGetPtr
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct AssetCRCDependency_t,4,short>,struct AssetCRCDependency_t,short>::AddToTailGetPtr
+CUtlLeanVectorFixedGrowableBase<struct AssetSpecialDependency_t,5,short>::EnsureCapacity
+Loaded Resources
+WorkingSetName
+All Assets
+ImplicitDependingOnMe
+Unnamed
+AssetPath
+ImplicitDependencies
+working_sets
+purecall
+invalid_parameter
+BinaryProperties_GetValue
+Intentionally vague touch behavior for %p
+Release
+assetsystem
+assetsystem.dll
+AssetEditInfoDataType_t
+ASSET_EDIT_INFO_DATA_TYPE_COUNT
+ASSET_EDIT_INFO_STRING
+ASSET_EDIT_INFO_FLOAT
+ASSET_EDIT_INFO_INT
+From Enum Binding
+c:\buildslave\destinations_staging_win64\build\src\assetsystem\Retail\win64\assetsystem.pdb
+assetsystem.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+LoggingSystem_IsChannelEnabled
+Plat_ShouldCollectMiniDumpsForFatalErrors
+Warning
+ThreadInterlockedExchange64
+LoggingSystem_Log
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+CMemAllocSystemInitialize
+GetDefaultMiniDumpTypeFlags
+Plat_IsInDebugSession
+Plat_ExitProcess
+LOG_GENERAL
+g_pMemAlloc
+InvokeMiniDumpHandler
+Plat_TickDiffSecF
+CommandLine
+HangWatchdog_IndicateActivity
+Plat_FloatTime
+Plat_RelativeTicks
+g_VProfCurrentProfile
+AssertMsg_ConditionFailed
+?ExitScope@CVProfile@@QEAAXXZ
+?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
+Plat_GetEnv
+Plat_TickDiffMilliSecF
+CreateSimpleThread
+ReleaseThreadHandle
+ThreadSetDebugNameS2
+??0CThreadFullMutex@@QEAA@_NPEBD00@Z
+ThreadSleep
+LoggingSystem_RegisterLoggingChannel
+ThreadYield
+Plat_TickDiffMicroSecF
+??1CThreadFullMutex@@QEAA@XZ
+?Unlock@CThreadFullMutex@@QEAAXXZ
+?Lock@CThreadFullMutex@@QEAA_NI@Z
+LoggingSystem_SetChannelVerbosity
+Plat_GetModuleFilename
+Plat_GetModuleProcAddress
+Plat_LoadModuleRaw
+EarlyInit_Tier0
+?Set@CThreadEvent@@QEAA_NXZ
+g_Mathlib_GammaToLinearByteTable
+Plat_LoadModule
+GetCPUInformation
+tier0.dll
+g_pThreadPool
+vstdlib.dll
+CreateFileA
+FormatMessageA
+GetLastError
+CloseHandle
+LocalFree
+EnterCriticalSection
+LeaveCriticalSection
+ExitProcess
+lstrlenA
+GetCurrentThreadId
+MultiByteToWideChar
+WideCharToMultiByte
+CreateFileW
+FindClose
+FindFirstFileExW
+FindNextFileW
+FlushFileBuffers
+GetFileAttributesExW
+GetFileInformationByHandle
+ReadFile
+SetEndOfFile
+WriteFile
+DeviceIoControl
+CancelIo
+SleepEx
+GetCurrentProcess
+ReadDirectoryChangesW
+WaitForSingleObject
+GetCurrentProcessId
+GetProcAddress
+OpenFileMappingA
+GetLongPathNameA
+GetShortPathNameA
+FindFirstFileA
+FindNextFileA
+SetNamedPipeHandleState
+TransactNamedPipe
+GetOverlappedResult
+ResetEvent
+ReleaseMutex
+CreateEventA
+OpenProcess
+GetTickCount
+WaitForMultipleObjects
+OpenMutexA
+GetFileAttributesA
+VirtualAlloc
+MapViewOfFile
+UnmapViewOfFile
+DeleteCriticalSection
+EncodePointer
+DecodePointer
+GetStringTypeW
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+RtlUnwindEx
+GetSystemTimeAsFileTime
+GetModuleHandleExW
+AreFileApisANSI
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+GetDriveTypeW
+SetEnvironmentVariableA
+GetCPInfo
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+CompareStringW
+LCMapStringW
+IsValidCodePage
+GetOEMCP
+GetStdHandle
+GetFileType
+GetModuleFileNameA
+QueryPerformanceCounter
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetConsoleCP
+GetConsoleMode
+ReadConsoleW
+SetFilePointerEx
+GetTimeZoneInformation
+SystemTimeToTzSpecificLocalTime
+FileTimeToSystemTime
+SetStdHandle
+GetModuleFileNameW
+LoadLibraryExW
+GetCurrentDirectoryW
+WriteConsoleW
+FileTimeToLocalFileTime
+PeekNamedPipe
+GetFullPathNameW
+OutputDebugStringW
+HeapAlloc
+HeapFree
+GetProcessHeap
+KERNEL32.dll
+Plat_getwd
+KeyValuesSystem
+?DevMsg@@YAXPEBDZZ
+?Lock@CThreadFastMutex@@AECAXII@Z
+g_Tier1_CRC32Table
+Plat_DebugString
+Plat_GetOSType
+Plat_IsHighDPI
+Plat_IsRunningOnCustomerMachine
+Plat_MSTime
+Plat_IsInTestMode
+?WaitForRead@CThreadRWLock@@AEAAXXZ
+HangWatchdogInternal_BeginScope
+HangWatchdogInternal_EndScope
+??1CThreadSyncObject@@QEAA@XZ
+??0CThreadEvent@@QEAA@_N@Z
+?LockForWrite@CThreadRWLock@@QEAAXXZ
+?UnlockWrite@CThreadRWLock@@QEAAXXZ
+LockGlobalObjectRegistry
+UnlockGlobalObjectRegistry
+FindRegisteredGlobalObjectInternal
+RegisterGlobalObject
+UnRegisterGlobalObject
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVCPostConnectCallback@@
+.?AVIConVar@@
+.?AVConVar@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AVexception@std@@
+.?AVbad_cast@std@@
+.?AVIKeyValuesErrorSpew@@
+.?AVCDefaultKeyValuesErrorSpew@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AV?$CMemberFunctor7@PEAVCSOAContainer@@P81@EAAXHHHHPEBV1@HH@ZHHHHPEBV1@HHV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CMemberFunctor6@PEAVCSOAContainer@@P81@EAAXHHHHHM@ZHHHHHMV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CMemberFunctor1@PEAV?$CParallelProcessorAbstract@V?$CParallelProcessor@HV?$CMemberFuncJobItemProcessor@HV?$CCallQueueT@V?$CTSQueue@PEAVCFunctor@@$0A@@@@@V1@@@$00@@@@P81@EAAXH@ZHV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AVCP4File@@
+.?AVCSchemaInstallCallback@@
+.?AVCSchemaRegistration_toolutils2@@
+.?AVIAtomicManipulator@@
+.?AVISchemaManipulator@@
+.?AVCSchemaClassBindingBase@@
+.?AU?$CAtomicManipulator@VCUtlString@@@@
+.?AVISchemaCollectionManipulator@@
+.?AV?$CSchemaEnumBinding@W4ResourceDataEncodingType_t@@@@
+.?AV?$CSchemaClassBinding@UAssetBadgeInfo_t@@@@
+.?AV?$CSchemaClassBinding@VCSimpleAssetTypeInfo@@@@
+.?AV?$CSchemaClassBinding@VCResourceAssetTypeInfo@@@@
+.?AV?$CSchemaClassBinding@VCBitmapAssetTypeInfo@@@@
+.?AV?$CSchemaClassBinding@VCDatamodelAssetTypeInfo@@@@
+.?AV?$CSchemaClassBinding@VCMapAssetTypeInfo@@@@
+.?AV?$CSchemaClassBinding@VCAssetTypeConfig@@@@
+.?AV?$CSchemaManipulator@VCUtlString@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@UAssetBadgeInfo_t@@V?$CUtlMemory@UAssetBadgeInfo_t@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCResourceAssetTypeInfo@@V?$CUtlMemory@VCResourceAssetTypeInfo@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCBitmapAssetTypeInfo@@V?$CUtlMemory@VCBitmapAssetTypeInfo@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCSimpleAssetTypeInfo@@V?$CUtlMemory@VCSimpleAssetTypeInfo@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCDatamodelAssetTypeInfo@@V?$CUtlMemory@VCDatamodelAssetTypeInfo@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCMapAssetTypeInfo@@V?$CUtlMemory@VCMapAssetTypeInfo@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@VCUtlString@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@UAssetBadgeInfo_t@@V?$CUtlMemory@UAssetBadgeInfo_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@UAssetBadgeInfo_t@@V?$CUtlMemory@UAssetBadgeInfo_t@@H@@@@UAssetBadgeInfo_t@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCResourceAssetTypeInfo@@V?$CUtlMemory@VCResourceAssetTypeInfo@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCResourceAssetTypeInfo@@V?$CUtlMemory@VCResourceAssetTypeInfo@@H@@@@VCResourceAssetTypeInfo@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCBitmapAssetTypeInfo@@V?$CUtlMemory@VCBitmapAssetTypeInfo@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCBitmapAssetTypeInfo@@V?$CUtlMemory@VCBitmapAssetTypeInfo@@H@@@@VCBitmapAssetTypeInfo@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCSimpleAssetTypeInfo@@V?$CUtlMemory@VCSimpleAssetTypeInfo@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCSimpleAssetTypeInfo@@V?$CUtlMemory@VCSimpleAssetTypeInfo@@H@@@@VCSimpleAssetTypeInfo@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCDatamodelAssetTypeInfo@@V?$CUtlMemory@VCDatamodelAssetTypeInfo@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCDatamodelAssetTypeInfo@@V?$CUtlMemory@VCDatamodelAssetTypeInfo@@H@@@@VCDatamodelAssetTypeInfo@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCMapAssetTypeInfo@@V?$CUtlMemory@VCMapAssetTypeInfo@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCMapAssetTypeInfo@@V?$CUtlMemory@VCMapAssetTypeInfo@@H@@@@VCMapAssetTypeInfo@@@@
+.?AV?$CSchemaEnumBinding@W4AssetEditInfoFilterFunc_t@@@@
+.?AV?$CSchemaClassBinding@UInfoDataFilter_t@@@@
+.?AV?$CSchemaClassBinding@UCAssetInfoFilterParams@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@UInfoDataFilter_t@@V?$CUtlMemory@UInfoDataFilter_t@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@UInfoDataFilter_t@@V?$CUtlMemory@UInfoDataFilter_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@UInfoDataFilter_t@@V?$CUtlMemory@UInfoDataFilter_t@@H@@@@UInfoDataFilter_t@@@@
+.?AU?$CAtomicManipulator@VKeyValues@@@@
+.?AV?$CSchemaClassBinding@VCBaseToolInfo@@@@
+.?AV?$CSchemaClassBinding@VCEngineToolInfo@@@@
+.?AV?$CSchemaClassBinding@VCExternalToolInfo@@@@
+.?AV?$CSchemaClassBinding@VCToolsConfig@@@@
+.?AV?$CSchemaManipulator@VKeyValues@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCEngineToolInfo@@V?$CUtlMemory@VCEngineToolInfo@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCExternalToolInfo@@V?$CUtlMemory@VCExternalToolInfo@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCEngineToolInfo@@V?$CUtlMemory@VCEngineToolInfo@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCEngineToolInfo@@V?$CUtlMemory@VCEngineToolInfo@@H@@@@VCEngineToolInfo@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCExternalToolInfo@@V?$CUtlMemory@VCExternalToolInfo@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCExternalToolInfo@@V?$CUtlMemory@VCExternalToolInfo@@H@@@@VCExternalToolInfo@@@@
+.?AVCVWatchSnapshot@@
+.?AVCSnapshotInternal@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_typeid@std@@
+.?AV__non_rtti_object@std@@
+.?AVCAsset@@
+.?AV?$CFmtStrN@$0CAAA@$0A@@@
+.?AVIAsset@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVIAssetFileSystemInterface@@
+.?AVCStdAssetFileSystem@@
+.?AVIToolsResourceListener@@
+.?AVIAppSystem@@
+.?AVICommandCallback@@
+.?AVConCommand@@
+.?AVCAssetFileSystemDirectoryVisitor@@
+.?AVIAssetSystem@@
+.?AV?$CTier1AppSystem@VIAssetSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VIAssetSystem@@@@
+.?AVICommandCompletionCallback@@
+.?AV?$CTier2AppSystem@VIAssetSystem@@$0A@@@
+.?AVConCommandBase@@
+.?AV?$CTier3AppSystem@VIAssetSystem@@$0A@@@
+.?AV?$CConCommandMemberAccessor@VCAssetSystem@@@@
+.?AVCAssetFileSystemChangeHandlerVisitor@?4??ProcessFileChanges@CAssetSystem@@QEAAXXZ@
+.?AVIResourceUpdater@@
+.?AVCAssetSystem@@
+.?AV?$CBaseAppSystem@VIAssetSystem@@@@
+.?AVVisitor@CDirTreeWatchManager@@
+.?AVIAssetType@@
+.?AVCTestAssetFileSystem@@
+.?AV?$CTier0AppSystem@VIAssetSystemTest@@@@
+.?AV?$CTier1AppSystem@VIAssetSystemTest@@$0A@@@
+.?AVCInMemoryFilesystem@@
+.?AVIAssetSystemTest@@
+.?AVCTestAsset@@
+.?AV?$CBaseAppSystem@VIAssetSystemTest@@@@
+.?AVCTestAssetType@@
+.?AVCAssetSystemTest@@
+.?AVCAssetType@@
+.?AV?$CMemberFunctor1@PEAVCBitmapAsset@@P81@EAAXPEAVIAsyncFileRequest@@@ZPEAV2@V?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CRefCountServiceBase@$00VCRefMT@@@@
+.?AVIBitmapAsset@@
+.?AVCBitmapAsset@@
+.?AV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@
+.?AVIRefCounted@@
+.?AVCFunctor@@
+.?AVCBitmapAssetType@@
+.?AVCDatamodelAsset@@
+.?AV?$CMemberFunctor1@PEAVCDatamodelAsset@@P81@EAAXPEAVIAsyncFileRequest@@@ZPEAV2@V?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AVIDatamodelAsset@@
+.?AVCDatamodelAssetType@@
+.?AVCMapAsset@@
+.?AVCMapAssetType@@
+.?AVCInMemoryCompileResultsListener@CResourceAsset@@
+.?AVCResourceAsset@@
+.?AVIInMemoryCompileResultsListener@@
+.?AVCResourceAssetType@@
+.?AVCProceduralWorkingSet@@
+.?AVCLoadedResourcesWorkingSet@@
+.?AVIWorkingSet@@
+.?AVCAllAssetsWorkingSet@@
+.?AVCSimpleWorkingSet@@
+.?AVCSchemaRegistration_assetsystem@@
+.?AVCSchemaRegistration@@
+.?AVISchemaBinding@@
+.?AV?$CSchemaEnumBinding@W4AssetEditInfoDataType_t@@@@
+.?AVCSchemaEnumBindingBase@@
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+160919234010Z0#

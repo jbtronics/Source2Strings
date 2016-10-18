@@ -1,0 +1,2529 @@
+!This program cannot be run in DOS mode.
+tXRichI
+`.rdata
+@_RDATA
+@.reloc
+|$ ATAVAWH
+ A_A^A\
+t$@9Y(u%9Y,L
+SUVWATAUAVH
+@A^A]A\_^][
+L$ SVWH
+}X;_$wSL
+@USVWAVH
+t$ WATAWH
+SWATAUH
+hA]A\_[
+@SUATAUH
+(A]A\][
+l$ VAVAWH
+\$ UVWH
+WATAUAVAWH
+ A_A^A]A\_H
+AXH9y0u
+VWATAVAWH
+@A_A^A\_^
+UVWAVAWH
+0A_A^_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+<_t	<*t
+WATAUAVAWH
+0A_A^A]A\_
+|$@9^p~1
+@SUWAVAWH
+@A_A^_][
+t$ UWAUAVAWH
+A_A^A]_]
+ Hcy E3
+SUVWAUAVAWH
+L$H;E8|
+L$H;EX|
+PA_A^A]_^][
+A;v(uRI
+@USVWAWH
+<0tf<1tTL
+uMG9l'0uFL
+D'0C9D'(uPC
+D' C9D'
+D'4C9D',uPC
+D'$C9D'
+@USVWATH
+@USWATH
+uI9F,uD
+u<9F,u7
+UVWATAUAVAWH
+0A_A^A]A\_^]
+SUVWAUAWH
+A_A]_^][
+UATAUAVAWH
+D9s8~JI
+x8;{8}3;{L
+D9sh~Rf
+x>;{h}9;{|
+@A_A^A]A\]
+x-;_h}(;_|
+xf;}8}a;}L
+x2A;@h},A;@|
+s WATAUAVAWH
+A_A^A]A\_
+SVATAUH
+XA]A\^[
+t$ WAVAWH
+Lcs@D;sP
+Hck@;kP
+UVATAUAVH
+t*D8(t%H
+t]D8.tXH
+tVD8(tQH
+A^A]A\^]
+UVWAVAWH
+A_A^_^]
+SUVWAUAVH
+xA^A]_^][
+D9k@~4I
+C940t%G
+d$ UAVAWH
+x ATAVAWH
+uY8D$PuSH
+WATAUAVAWH
+A_A^A]A\_
+@UATAVAWH
+A_A^A\]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+@USWATAWH
+A9T$(~m
+A_A\_[]
+\$ WAVAWH
+UVWAVAWH
+A_A^_^]
+NpH;^Xu
+@WATAUAVAWH
+PA_A^A]A\_
+USVWATAWH
+A_A\_^[]
+C943t+G
+9t$0u_H
+@SUVWAUAVAWH
+A_A^A]_^][
+UVWAVAWH
+A_A^_^]
+@SUVWATAVAWH
+@A_A^A\_^][
+;D$@u*H
+@WAVAWH
+D$0+C,+C(
+@VAVAWH
+Hcw`;wp
+|$ UAVAWH
+\$ UVWATAUAVAWH
+0A_A^A]A\_^]
+Hcw ;w0u
+ Hcy E3
+@UWAUAWH
+(A_A]_]
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+EhfA9Eh
+NhfA9Nh~TH
+UWATAVAWH
+C\f;C`~
+C^f;Cb~
+C`f9C\~
+Cbf9C^~
+A_A^A\_]
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+<\t5</t1A
+</t?<\t;H
+WATAUAVAWH
+ A_A^A]A\_
+L$ SVWH
+<\t.</t*
+D$0;D$8t
+USVWATAUAVAWH
+D8d$@u	D8#
+t8D8 t3H
+D8d$AtPH
+A_A^A]A\_^[]
+SUATAVH
+l$ AUAVAWH
+ A_A^A]
+@SUVWATAVAWH
+A_A^A\_^][
+@SVWATH
+@UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+0A_A^A]A\_
+|$ ATAVAWH
+ A_A^A\
+WATAUAVAWH
+ A_A^A]A\_
+t$@HcwH$
+D$(;wXu
+A0t#H9I8u
+@UAVAWH
+e A_A^]
+@SAVAWH
+l$@HckxH
+D$<9T$0wR9T$4wL9T$8wF;
+)t$PH9[8t
+)|$PH9[8t
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+t+HcC$LcC
+@SUAUAWH
+(A_A]][
+t+HcC$LcC
+t(HcC$HcK
+ATAVAWH
+ A_A^A\
+fffffff
+L$ USVWH
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+fffffff
+.ffffff
+0ffffff
+fffffff
+VWATAVAWH
+A_A^A\_^
+USVWAVH
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+UVWATAUAVAWH
+G D9d$lu
+A_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+@ffffff
+SVWATAUAVAWUH
+]A_A^A]A\_^[
+UVWATAUAVAWH
+9D$LupE
+A_A^A]A\_^]
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+t$ WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+$tPH9\$@t>
+A_A^A]A\_^]
+UWATAVAWH
+uMM9'tHH
+uQM91tLH
+A_A^A\_]
+<1~-<3~ <4t5<5t
+UATAUAVAWH
+A_A^A]A\]
+D8t$HuD
+(D$@L9t$ t0H
+D$(D8t$(u\H
+x UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+,0<	w!A
+t$ WAVAWH
+@UATAUAVAWH
+A_A^A]A\]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+WATAUAVAWH
+0A_A^A]A\_
+D9t$htrH
+@USVWATAUAVAWH
+eHA_A^A]A\_^[]
+t$ WATAUAVAWH
+G 9\$tu
+A_A^A]A\_
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+SATAUAWUH
+]A_A]A\[
+l$ VWAVH
+9\$ ~>L
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+@SUVWATAVAWH
+PA_A^A\_^][
+AUAVAWH
+0A_A^A]
+` AUAVAWH
+0A_A^A]
+p WAVAWH
+SVWATAUAVAWH
+PA_A^A]A\_^[
+@SUVWAVH
+@A^_^][
+x AUAVAWH
+ A_A^A]
+@UAVAWH
+H(H9J(u
+Release
+vgui_dll
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\bitmap.cpp
+vgui::Bitmap::Bitmap
+_filename
+vgui::Bitmap::Paint
+0 0 0 0
+%d %d %d %d
+backgroundtype
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\border.cpp
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\fmtstr.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\fileio.cpp
+CPathString::PopulateWCharPath
+cchResult
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CFmtStrN<256,0>::CFmtStrN
+FmtStrVSNPrintf truncated without QUIET_TRUNCATION specified!
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utllinkedlist.h
+CUtlLinkedList<class CUtlString,unsigned int,0,unsigned int,class CUtlMemory<struct UtlLinkedListElem_t<class CUtlString,unsigned int>,unsigned int> >::RemoveAll
+m_Head == InvalidIndex()
+m_Tail == InvalidIndex()
+m_FirstFree == InvalidIndex()
+m_ElementCount == 0
+CUtlLinkedList<class CUtlString,unsigned int,0,unsigned int,class CUtlMemory<struct UtlLinkedListElem_t<class CUtlString,unsigned int>,unsigned int> >::Free
+IsValidIndex(elem) && IndexInRange( elem )
+CUtlLinkedList<class CUtlString,unsigned int,0,unsigned int,class CUtlMemory<struct UtlLinkedListElem_t<class CUtlString,unsigned int>,unsigned int> >::LinkBefore
+IsValidIndex(elem)
+IsInList(before)
+CUtlLinkedList<class CUtlString,unsigned int,0,unsigned int,class CUtlMemory<struct UtlLinkedListElem_t<class CUtlString,unsigned int>,unsigned int> >::Unlink
+CUtlLinkedList<class CUtlString,unsigned int,0,unsigned int,class CUtlMemory<struct UtlLinkedListElem_t<class CUtlString,unsigned int>,unsigned int> >::AllocInternal
+!multilist || ML
+m_Memory.IsValidIterator( m_LastAlloc ) || m_ElementCount == 0
+m_Memory.IsValidIterator( it )
+CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)
+MemAllocClassName
+Unaccounted
+CUtlMemory<struct UtlLinkedListElem_t<class CUtlString,unsigned int>,unsigned int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlMemory::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\imageborder.cpp
+vgui/%s
+paintfirst
+r_screen_size_expansion
+VGUI_Input005
+VGUI_InputInternal001
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\inputwin32.cpp
+MouseFocusTicked
+KeyFocusTicked
+0)KEY_0
+1!KEY_1
+2@KEY_2
+3#KEY_3
+4$KEY_4
+5%KEY_5
+6^KEY_6
+7&KEY_7
+8*KEY_8
+9(KEY_9
+aAKEY_A
+bBKEY_B
+cCKEY_C
+dDKEY_D
+eEKEY_E
+fFKEY_F
+gGKEY_G
+hHKEY_H
+iIKEY_I
+jJKEY_J
+kKKEY_K
+lLKEY_L, L
+mMKEY_M
+nNKEY_N
+oOKEY_O
+pPKEY_P
+qQKEY_Q
+rRKEY_R
+sSKEY_S
+tTKEY_T
+uUKEY_U
+vVKEY_V
+wWKEY_W
+xXKEY_X
+yYKEY_Y
+zZKEY_Z
+KEY_PAD_0
+KEY_PAD_1
+KEY_PAD_2
+KEY_PAD_3
+KEY_PAD_4
+KEY_PAD_5
+KEY_PAD_6
+KEY_PAD_7
+KEY_PAD_8
+KEY_PAD_9
+//KEY_PAD_DIVIDE
+**KEY_PAD_MULTIPLY
+--KEY_PAD_MINUS
+++KEY_PAD_PLUS
+KEY_PAD_ENTER
+KEY_PAD_DECIMAL, L
+KEY_LESS
+[{KEY_LBRACKET
+]}KEY_RBRACKET
+;:KEY_SEMICOLON
+'"KEY_APOSTROPHE
+`~KEY_BACKQUOTE
+,<KEY_COMMA
+.>KEY_PERIOD
+/?KEY_SLASH
+\|KEY_BACKSLASH
+-_KEY_MINUS
+=+KEY_EQUAL, L
+KEY_ENTER
+  KEY_SPACE
+KEY_BACKSPACE
+KEY_TAB
+KEY_CAPSLOCK
+KEY_NUMLOCK
+KEY_ESCAPE
+KEY_SCROLLLOCK
+KEY_INSERT
+KEY_DELETE
+KEY_HOME
+KEY_END
+KEY_PAGEUP
+KEY_PAGEDOWN
+KEY_BREAK
+KEY_LSHIFT
+KEY_RSHIFT
+KEY_LALT
+KEY_RALT
+KEY_LCONTROL, L
+KEY_RCONTROL, L
+KEY_LWIN
+KEY_RWIN
+KEY_APP
+KEY_LEFT
+KEY_DOWN
+KEY_RIGHT
+KEY_F10
+KEY_F11
+KEY_F12
+CInputWin32::DestroyInputContext
+context != DEFAULT_INPUT_CONTEXT
+CInputWin32::ActivateInputContext
+(context == DEFAULT_INPUT_CONTEXT) || m_Contexts.IsValidIndex(context)
+-vguifocus
+KillFocus
+newPanel
+SetFocus
+(no name)
+changing kb focus from %s to %s
+removing kb focus %s
+CursorExited
+CursorExitedChild
+CursorEnteredChild
+CursorEntered
+changing mouse focus from %s to %s
+CInputWin32::SetMouseCaptureEx
+pContext
+CInputWin32::SetMouseCapture
+MouseCaptureLost
+SetCursorPosInternal
+CursorMoved
+MousePressed
+mousepressed
+InputControlState
+passthrough
+UnhandledMouseClick
+MouseDoublePressed
+MouseReleased
+MouseWheeled
+KeyCodePressed
+KeyCodeTyped
+unichar
+KeyTyped
+KeyCodeReleased
+CInputWin32::GetIMELanguageShortCode
+unicodeBufferSizeInBytes >= sizeof(buf[0])
+DoCompositionString
+CInputWin32::CreateNewCandidateList
+!_imeCandidates
+CInputWin32::GetCandidate
+destSizeBytes >= sizeof(dest[0])
+DoShowIMECandidates
+DoHideIMECandidates
+DoUpdateIMECandidates
+KeyCodeUnhandled
+ModalSubTree
+CInputWin32::SetModalSubTreeReceiveMessages
+pContext->m_pModalSubTree
+CUtlLinkedList<struct CInputWin32::InputContext_t,int,0,int,class CUtlMemory<struct UtlLinkedListElem_t<struct CInputWin32::InputContext_t,int>,int> >::RemoveAll
+CUtlLinkedList<struct CInputWin32::InputContext_t,int,0,int,class CUtlMemory<struct UtlLinkedListElem_t<struct CInputWin32::InputContext_t,int>,int> >::Free
+Unaccounted
+CUtlMemory<class vgui::VPanel *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlLinkedList<struct CInputWin32::InputContext_t,int,0,int,class CUtlMemory<struct UtlLinkedListElem_t<struct CInputWin32::InputContext_t,int>,int> >::LinkBefore
+CUtlLinkedList<struct CInputWin32::InputContext_t,int,0,int,class CUtlMemory<struct UtlLinkedListElem_t<struct CInputWin32::InputContext_t,int>,int> >::Unlink
+CUtlLinkedList<struct CInputWin32::InputContext_t,int,0,int,class CUtlMemory<struct UtlLinkedListElem_t<struct CInputWin32::InputContext_t,int>,int> >::AllocInternal
+Unaccounted
+CUtlMemory<struct HKL__ *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<struct UtlLinkedListElem_t<struct CInputWin32::InputContext_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+?textcolor
+bgcolor
+shadowtextcolor
+selectedtextcolor
+selectedbgcolor
+render_bg
+inset-left
+inset-right
+inset-top
+inset-bottom
+padding
+padding-left
+padding-right
+padding-top
+padding-bottom
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\keyvalues.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\layoutfile.cpp
+LayoutFile
+no such file '%s'
+error loading file '%s', %s
+[%s] unknown layout command '%s' (valid values 'region', 'place')
+end-right
+end-down
+control
+controls
+overflow
+allow-horizontal
+allow-vertical
+allow-both
+scroll-horizontal
+scroll-vertical
+scroll-both
+top-center
+left-center
+margin-left
+margin-right
+margin-bottom
+margin-top
+ignore_invis
+spacing
+[%s] unexpected parameter for width="%s" - must be either a number, or "max"
+[%s] unexpected parameter for height="%s" - must be either a number, or "max"
+include
+.layout
+:active
+:selected
+:disabled
+:scrollbar
+unknown pseudoclass on style %s in file %s
+Unknown key '%s' set in style '%s' in file '%s'
+Error parsing 'render' key in a style definition
+Error parsing 'render_bg' key in a style definition
+unknown color '%s' referenced by style key '%s'
+Errors in %s:
+materials/vgui/hud/800corner1.vmat
+materials/vgui/hud/800corner2.vmat
+materials/vgui/hud/800corner3.vmat
+materials/vgui/hud/800corner4.vmat
+image_scale
+image_proportional
+image_tiled
+image_tiled_horiz
+image_tiled_vert
+image_scalable
+gradient
+gradient_horizontal
+dashedrect
+roundedfill
+parse render key : Expected command token, found '%s' in '%s'
+parse render key : Expected '(', found '%s' in '%s'
+parse render key : Expected [x0 y0 x1 y1], found '%s' in '%s'
+parse render key : Expected [+ - ,], found '%s' in '%s'
+Render command has x0 and x1 reversed: '%s'
+Render command has y0 and y1 reversed: '%s'
+Render command has left edge > right edge: '%s'
+Render command has top edge > bottom edge: '%s'
+parse render key : Couldn't load image '%s' in '%s'
+Couldn't find color '%s' referenced in render fill comand '%s'
+parsing render key : Expected [, )], found '%s' in '%s'
+parse render key : Expected ')', found '%s' in '%s'
+settings
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlrbtree.h
+CUtlRBTree<struct CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::Node_t,int,class CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::Node_t,int>,int> >::Find
+!!m_LessFunc
+CUtlRBTree<struct CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::Node_t,int,class CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::Node_t,int>,int> >::RemoveAll
+m_Root == InvalidIndex()
+m_NumElements == 0
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utldict.h
+CUtlRBTree<struct CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::Node_t,int,class CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::Node_t,int>,int> >::Find
+CUtlRBTree<struct CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::Node_t,int,class CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::Node_t,int>,int> >::RemoveAll
+CUtlRBTree<class HKeySymbol,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &),class CUtlMemory<struct UtlRBTreeNode_t<class HKeySymbol,int>,int> >::Find
+CUtlRBTree<struct CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::Node_t,int,class CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::Node_t,int>,int> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::Node_t,int,class CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::Node_t,int>,int> >::FindInsertionPosition
+CUtlRBTree<class HKeySymbol,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &),class CUtlMemory<struct UtlRBTreeNode_t<class HKeySymbol,int>,int> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::Find
+CUtlRBTree<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::RemoveAll
+Unaccounted
+CUtlMemory<class CUtlString,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<class HKeySymbol,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlRBTree<struct CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::Node_t,int,class CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::Node_t,int>,int> >::NewNode
+m_Elements.IsValidIterator( m_LastAlloc ) || m_NumElements == 0
+m_Elements.IsValidIterator( it )
+m_Elements.IsValidIterator( m_LastAlloc )
+Unaccounted
+CUtlMemory<class CStyleSet *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<struct vgui::layoutcmd_base_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlRBTree<struct CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::Node_t,int,class CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::Node_t,int>,int> >::NewNode
+Unaccounted
+CUtlMemory<struct CStyleAppearance::DrawOp_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<class KeyValues *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<struct style_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlRBTree<class HKeySymbol,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &),class CUtlMemory<struct UtlRBTreeNode_t<class HKeySymbol,int>,int> >::NewNode
+CUtlRBTree<class HKeySymbol,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &),class CUtlMemory<struct UtlRBTreeNode_t<class HKeySymbol,int>,int> >::RemoveAll
+CUtlRBTree<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::FindInsertionPosition
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class HKeySymbol,class CUtlVector<struct style_t,class CUtlMemory<struct style_t,int> > *,int,bool (__cdecl*)(class HKeySymbol const &,class HKeySymbol const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct CLayoutFile::AppearanceKey_t,class CStyleAppearance *,int,bool (__cdecl*)(struct CLayoutFile::AppearanceKey_t const &,struct CLayoutFile::AppearanceKey_t const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<class HKeySymbol,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlRBTree<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class Color,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<class Color,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+vgui2.dll
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+unknown name
+unknown class
+%s : (%s (%s) - > %s (%s)) )
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\scalableimageborder.cpp
+src_corner_height
+src_corner_width
+draw_corner_height
+draw_corner_width
+Border.Bright
+BorderBright
+200 200 200 196
+Border.DarkBorderDark
+40 40 40 196
+Border.SelectionBorderSelection
+0 0 0 196
+Button.TextColor
+ControlFG
+Button.BgColor
+ControlBG
+Button.ArmedTextColor
+Button.ArmedBgColor
+Button.DepressedTextColor
+Button.DepressedBgColor
+Button.FocusBorderColor
+0 0 0 255
+CheckButton.TextColor
+BaseText
+CheckButton.SelectedTextColor
+BrightControlText
+CheckButton.BgColor
+CheckBgColor
+CheckButton.Border1
+CheckButtonBorder1
+CheckButton.Border2
+CheckButtonBorder2
+CheckButton.Check
+CheckButtonCheck
+ComboBoxButton.ArrowColor
+LabelDimText
+ComboBoxButton.ArmedArrowColor
+MenuButton/ArmedArrowColor
+ComboBoxButton.BgColor
+MenuButton/ButtonBgColor
+ComboBoxButton.DisabledBgColor
+Frame.TitleTextInsetX
+Frame.ClientInsetX
+Frame.ClientInsetY
+Frame.BgColor
+BgColor
+Frame.OutOfFocusBgColor
+Frame.FocusTransitionEffectTime
+Frame.TransitionEffectTime
+Frame.AutoSnapRange
+FrameGrip.Color1
+FrameGrip.Color2
+BorderSelection
+FrameTitleButton.FgColor
+TitleButtonFgColor
+FrameTitleButton.BgColor
+TitleButtonBgColor
+FrameTitleButton.DisabledFgColor
+TitleButtonDisabledFgColor
+FrameTitleButton.DisabledBgColor
+TitleButtonDisabledBgColor
+FrameSystemButton.FgColor
+TitleBarBgColor
+FrameSystemButton.BgColor
+FrameSystemButton.Icon
+TitleBarIcon
+FrameSystemButton.DisabledIcon
+TitleBarDisabledIcon
+FrameTitleBar.Font
+Default
+FrameTitleBar.TextColor
+TitleBarFgColor
+FrameTitleBar.BgColor
+FrameTitleBar.DisabledTextColor
+TitleBarDisabledFgColor
+FrameTitleBar.DisabledBgColor
+TitleBarDisabledBgColor
+GraphPanel.FgColor
+GraphPanel.BgColor
+WindowBgColor
+Label.TextDullColor
+Label.TextColor
+Label.TextBrightColor
+Label.SelectedTextColor
+Label.BgColor
+LabelBgColor
+Label.DisabledFgColor1
+DisabledFgColor1
+Label.DisabledFgColor2
+DisabledFgColor2
+ListPanel.TextColor
+WindowFgColor
+ListPanel.TextBgColor
+Menu/ArmedBgColor
+ListPanel.BgColor
+ListBgColor
+ListPanel.SelectedTextColor
+ListSelectionFgColor
+ListPanel.SelectedBgColor
+ListPanel.SelectedOutOfFocusBgColor
+SelectionBG2
+ListPanel.EmptyListInfoTextColor
+ListPanel.DisabledTextColor
+ListPanel.DisabledSelectedTextColor
+Menu.TextColor
+Menu/FgColor
+Menu.BgColor
+Menu/BgColor
+Menu.ArmedTextColor
+Menu/ArmedFgColor
+Menu.ArmedBgColor
+Menu.TextInset
+Panel.FgColor
+FgColor
+Panel.BgColor
+ProgressBar.FgColor
+ProgressBar.BgColor
+PropertySheet.TextColor
+FgColorDim
+PropertySheet.SelectedTextColor
+PropertySheet.TransitionEffectTime
+RadioButton.TextColor
+RadioButton.SelectedTextColor
+RichText.TextColor
+RichText.BgColor
+RichText.SelectedTextColor
+SelectionFgColor
+RichText.SelectedBgColor
+SelectionBgColor
+ScrollBar.Wide
+ScrollBarButton.FgColor
+DimBaseText
+ScrollBarButton.BgColor
+ScrollBarButton.ArmedFgColor
+ScrollBarButton.ArmedBgColor
+ScrollBarButton.DepressedFgColor
+ScrollBarButton.DepressedBgColor
+ScrollBarSlider.FgColor
+ScrollBarSlider/ScrollBarSliderFgColor
+ScrollBarSlider.BgColor
+ScrollBarSlider/ScrollBarSliderBgColor
+SectionedListPanel.HeaderTextColor
+SectionTextColor
+SectionedListPanel.HeaderBgColor
+BuddyListBgColor
+SectionedListPanel.DividerColor
+SectionDividerColor
+SectionedListPanel.TextColor
+BuddyButton/FgColor1
+SectionedListPanel.BrightTextColor
+BuddyButton/ArmedFgColor1
+SectionedListPanel.BgColor
+SectionedListPanel.SelectedTextColor
+SectionedListPanel.SelectedBgColor
+BuddyButton/ArmedBgColor
+SectionedListPanel.OutOfFocusSelectedTextColor
+BuddyButton/ArmedFgColor2
+SectionedListPanel.OutOfFocusSelectedBgColor
+Slider.NobColor
+SliderTickColor
+Slider.TextColor
+Slider/SliderFgColor
+Slider.TrackColor
+SliderTrackColor
+Slider.DisabledTextColor1
+Slider.DisabledTextColor2
+TextEntry.TextColor
+TextEntry.BgColor
+TextEntry.CursorColor
+TextCursorColor
+TextEntry.DisabledTextColor
+WindowDisabledFgColor
+TextEntry.DisabledBgColor
+TextEntry.SelectedTextColor
+TextEntry.SelectedBgColor
+TextEntry.OutOfFocusSelectedBgColor
+TextEntry.FocusEdgeColor
+ToggleButton.SelectedTextColor
+Tooltip.TextColor
+Tooltip.BgColor
+SelectionBG
+TreeView.BgColor
+WizardSubPanel.BgColor
+SubPanelBgColor
+VGUI_Scheme010
+vgui_spew_fonts
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\scheme.cpp
+CSchemeManager::GetIScheme
+!"Invalid scheme requested."
+CSchemeManager::FindLoadedScheme
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\scheme.cpp
+vgui_dll
+CSchemeManager::LoadSchemeFromFileEx -> LoadFromFile
+CSchemeManager::LoadSchemeFromFileEx
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\scheme.cpp
+vgui_dll
+cl_hud_minmode
+_minmode
+pScheme->LoadFromFile
+CSchemeManager::LoadSchemeFromFileEx
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\scheme.cpp
+vgui_dll
+CSchemeManager::GetProportionalScaledValueEx
+CSchemeManager::GetProportionalNormalizedValueEx
+LayoutFileChanged
+CSchemeManager::UsesAppearances
+CScheme::LoadFromFile( %s )
+BaseSettings
+proportional_base
+uses_appearances
+You need to name the scheme (%s)!
+CScheme::LoadFromFile
+pchColor
+HKEY_CURRENT_USER\Software\Valve\Steam\Language
+english
+CustomFontFiles
+BitmapFontFiles
+isproportional
+CScheme::ReloadFontGlyphs
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\scheme.cpp
+vgui_dll
+ReloadFontGlyphs(): Start [%s]
+fontdata || ( kv->GetFirstSubKey() == NULL )
+underline
+strikeout
+antialias
+dropshadow
+outline
+additive
+scanlines
+Warning font %s does not have a 'name' key! No windows font will be created. Check your scheme to make sure all machine configs are supported.
+Bad scale values for %s
+Bad Tall value for %s
+ReloadFontGlyphs(): End
+Borders
+bordertype
+scalable_image
+CScheme::LoadBorders
+BaseBorder
+Scheme: %s (%s)
+koreana
+tchinese
+schinese
+japanese
+CUtlRBTree<struct CSchemeManager::CachedBitmapHandle_t,int,bool (__cdecl*)(struct CSchemeManager::CachedBitmapHandle_t const &,struct CSchemeManager::CachedBitmapHandle_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CSchemeManager::CachedBitmapHandle_t,int>,int> >::SetLessFunc
+CUtlRBTree<struct CSchemeManager::CachedBitmapHandle_t,int,bool (__cdecl*)(struct CSchemeManager::CachedBitmapHandle_t const &,struct CSchemeManager::CachedBitmapHandle_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CSchemeManager::CachedBitmapHandle_t,int>,int> >::Find
+CUtlRBTree<struct CSchemeManager::CachedBitmapHandle_t,int,bool (__cdecl*)(struct CSchemeManager::CachedBitmapHandle_t const &,struct CSchemeManager::CachedBitmapHandle_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CSchemeManager::CachedBitmapHandle_t,int>,int> >::RemoveAt
+IsValid()
+CUtlRBTree<struct CSchemeManager::CachedBitmapHandle_t,int,bool (__cdecl*)(struct CSchemeManager::CachedBitmapHandle_t const &,struct CSchemeManager::CachedBitmapHandle_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CSchemeManager::CachedBitmapHandle_t,int>,int> >::RemoveAll
+CUtlRBTree<int,int,bool (__cdecl*)(int const &,int const &),class CUtlMemory<struct UtlRBTreeNode_t<int,int>,int> >::SetLessFunc
+CUtlRBTree<int,int,bool (__cdecl*)(int const &,int const &),class CUtlMemory<struct UtlRBTreeNode_t<int,int>,int> >::Find
+CUtlRBTree<struct CSchemeManager::CachedBitmapHandle_t,int,bool (__cdecl*)(struct CSchemeManager::CachedBitmapHandle_t const &,struct CSchemeManager::CachedBitmapHandle_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CSchemeManager::CachedBitmapHandle_t,int>,int> >::FreeNode
+IsValidIndex(i) && (i != InvalidIndex())
+CUtlRBTree<struct CSchemeManager::CachedBitmapHandle_t,int,bool (__cdecl*)(struct CSchemeManager::CachedBitmapHandle_t const &,struct CSchemeManager::CachedBitmapHandle_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CSchemeManager::CachedBitmapHandle_t,int>,int> >::FindInsertionPosition
+CUtlRBTree<int,int,bool (__cdecl*)(int const &,int const &),class CUtlMemory<struct UtlRBTreeNode_t<int,int>,int> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::Find
+CUtlRBTree<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::RemoveAll
+Unaccounted
+CUtlMemory<struct CScheme::SchemeBorder_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<class CScheme *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlRBTree<struct CSchemeManager::CachedBitmapHandle_t,int,bool (__cdecl*)(struct CSchemeManager::CachedBitmapHandle_t const &,struct CSchemeManager::CachedBitmapHandle_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CSchemeManager::CachedBitmapHandle_t,int>,int> >::NewNode
+CUtlRBTree<int,int,bool (__cdecl*)(int const &,int const &),class CUtlMemory<struct UtlRBTreeNode_t<int,int>,int> >::NewNode
+CUtlRBTree<int,int,bool (__cdecl*)(int const &,int const &),class CUtlMemory<struct UtlRBTreeNode_t<int,int>,int> >::RemoveAll
+CUtlRBTree<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::FindInsertionPosition
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CSchemeManager::CachedBitmapHandle_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<int,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlRBTree<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CLayoutFile *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Basic Latin
+Latin-1 Supplement
+Latin Extended-A
+Latin Extended-B
+IPA Extensions
+Spacing Modifier Letters
+Combining Diacritical Marks
+Cyrillic
+Armenian
+Devanagari
+Bengali
+Gurmukhi
+Gujarati
+Kannada
+Malayalam
+Sinhala
+Tibetan
+Myanmar
+Georgian
+Hangul Jamo
+Ethiopic
+Cherokee
+Unified Canadian Aboriginal Syllabics
+Mongolian
+Latin Extended Additional
+Greek Extended
+General Punctuation
+Superscripts and Subscripts
+Currency Symbols
+Combining Diacritical Marks for Symbols
+Letterlike Symbols
+Number Forms
+Mathematical Operators
+Miscellaneous Technical
+Control Pictures
+Optical Character Recognition
+Enclosed Alphanumerics
+Box Drawing
+Block Elements
+Geometric Shapes
+Miscellaneous Symbols
+Dingbats
+Braille Patterns
+CJK Radicals Supplement
+KangXi Radicals
+Ideographic Description Characters
+CJK Symbols and Punctuation
+Hiragana
+Katakana
+Bopomofo
+Hangul Compatibility Jamo
+Bopomofo Extended
+Enclosed CJK Letters and Months
+CJK Compatibility
+CJK Unified Ideographs Extension A
+CJK Unified Ideographs
+Yi Syllables
+Yi Radicals
+Hangul Syllables
+-- surrogates --
+CJK Compatibility Ideographs
+Alphabetic Presentation Forms
+Arabic Presentation Forms-A
+Combining Half Marks
+CJK Compatibility Forms
+Small Form Variants
+Arabic Presentation Forms-B
+Halfwidth and Fullwidth Forms
+Specials
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\surface.cpp
+CWin32Surface::DrawTexturedQuadArray
+CWin32Surface::CreateCursorFromFile
+CWin32Surface::GetResolutionKey
+CWin32Surface::GetKernedCharWidth
+CWin32Surface::QueueCustomPaintCallbackInternal
+CWin32Surface::Paint3D
+CWin32Surface::DisableClipping
+CWin32Surface::Set3DPaintTempRenderTarget
+CWin32Surface::Reset3DPaintTempRenderTarget
+CWin32Surface::UpdateRefractTexture
+CWin32Surface::DrawFilledRectFastFade
+CWin32Surface::DrawFilledRectFade
+CWin32Surface::DrawColoredCircle
+CWin32Surface::DrawTexturedLine
+CWin32Surface::DrawOutlinedCircle
+CWin32Surface::DrawTexturedPolyLine
+CWin32Surface::DrawTexturedSubRect
+CWin32Surface::DrawColoredText
+CWin32Surface::DrawColoredTextRect
+CWin32Surface::DrawRenderCharFromInfo
+CWin32Surface::DrawGetUnicodeCharRenderInfo
+CWin32Surface::GetTextHeight
+CWin32Surface::GetTextLen
+CWin32Surface::DrawGradientFilledRect
+CWin32Surface::SetZPos
+CWin32Surface::SetStencilReference
+CWin32Surface::DrawGetTextureHandle
+VGUI_Surface032
+SchemeSurface001
+AcceptPanel
+DragDrop
+Surface
+Warning: VPanel with no drawing context
+error: SetNotifyIcon(%d) failed
+CWin32Surface::DrawSetTextFont
+CWin32Surface::DrawPrintText
+CWin32Surface::DrawUnicodeString
+pwString
+CWin32Surface::DrawSetSubTextureRGBA
+Error: texture file '%s' does not exist or is invalid
+staticCreateBitmapHandle: can't create DIB
+staticCreateBitmapHandle
+Error: texture file '%s' has invalid image_type %d
+OnMovedPopupToFront
+CWin32Surface::CreatePopup
+CWin32Surface::AddBitmapFontFile
+CWin32Surface::SetBitmapFontName
+CWin32Surface::GetBitmapFontName
+CWin32Surface::SetBitmapFontGlyphSet
+CWin32Surface::PrecacheFontCharacters
+CWin32Surface::ClearTemporaryFontCache
+CWin32Surface::SetPanelForInput
+__STEAM_BOOTSTRAPPER_ICON_ID__
+Valve Client
+WM_LBUTTONDOWN
+NotifyIconMsg
+LBUTTONDBLCLK
+CONTEXTMENU
+WindowsEndSession
+TaskbarCreated
+TaskbarRestart
+CUtlRBTree<class vgui::Texture,int,bool (__cdecl*)(class vgui::Texture const &,class vgui::Texture const &),class CUtlMemory<struct UtlRBTreeNode_t<class vgui::Texture,int>,int> >::Find
+CUtlRBTree<class vgui::Texture,int,bool (__cdecl*)(class vgui::Texture const &,class vgui::Texture const &),class CUtlMemory<struct UtlRBTreeNode_t<class vgui::Texture,int>,int> >::RemoveAt
+CUtlRBTree<struct CWin32Surface::ContextAbsPos_t,unsigned short,bool (__cdecl*)(struct CWin32Surface::ContextAbsPos_t const &,struct CWin32Surface::ContextAbsPos_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CWin32Surface::ContextAbsPos_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<class vgui::Texture,int,bool (__cdecl*)(class vgui::Texture const &,class vgui::Texture const &),class CUtlMemory<struct UtlRBTreeNode_t<class vgui::Texture,int>,int> >::FreeNode
+CUtlRBTree<class vgui::Texture,int,bool (__cdecl*)(class vgui::Texture const &,class vgui::Texture const &),class CUtlMemory<struct UtlRBTreeNode_t<class vgui::Texture,int>,int> >::FindInsertionPosition
+CUtlRBTree<struct CWin32Surface::ContextAbsPos_t,unsigned short,bool (__cdecl*)(struct CWin32Surface::ContextAbsPos_t const &,struct CWin32Surface::ContextAbsPos_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CWin32Surface::ContextAbsPos_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short,class CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short,class CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+Unaccounted
+CUtlMemory<unsigned __int64,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlRBTree<class vgui::Texture,int,bool (__cdecl*)(class vgui::Texture const &,class vgui::Texture const &),class CUtlMemory<struct UtlRBTreeNode_t<class vgui::Texture,int>,int> >::NewNode
+CUtlRBTree<class vgui::Texture,int,bool (__cdecl*)(class vgui::Texture const &,class vgui::Texture const &),class CUtlMemory<struct UtlRBTreeNode_t<class vgui::Texture,int>,int> >::RemoveAll
+CUtlRBTree<struct CWin32Surface::ContextAbsPos_t,unsigned short,bool (__cdecl*)(struct CWin32Surface::ContextAbsPos_t const &,struct CWin32Surface::ContextAbsPos_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CWin32Surface::ContextAbsPos_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CWin32Surface::ContextAbsPos_t,unsigned short,bool (__cdecl*)(struct CWin32Surface::ContextAbsPos_t const &,struct CWin32Surface::ContextAbsPos_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CWin32Surface::ContextAbsPos_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short,class CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short>,unsigned short> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short,class CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<class vgui::Texture,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CWin32Surface::ContextAbsPos_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlRBTree<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short,class CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class vgui::IImage *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+VGUI_System010
+HKEY_LOCAL_MACHINE
+HKEY_CURRENT_USER
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\system.cpp
+CSystem::GetUserConfigFileData
+dialogName && *dialogName
+UserConfigData
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Desktop
+Ccount >= 0
+generic
+unknown error
+iostream
+iostream stream error
+VGUI_ivgui008
+	panel '%s' of type '%s' leaked
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\vgui.cpp
+CVGui::DestroyContext
+context != DEFAULT_VGUI_CONTEXT
+CVGui::AssociatePanelWithContext
+CVGui::ActivateContext
+(context == DEFAULT_VGUI_CONTEXT) || m_Contexts.IsValidIndex(context)
+CVGui::ResetContext
+surface()->RunFrame()
+Unaccounted
+CVGui::RunFrame
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\vgui.cpp
+vgui_dll
+system()->RunFrame()
+Unaccounted
+CVGui::RunFrame
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\vgui.cpp
+vgui_dll
+update cursor positions
+Unaccounted
+CVGui::RunFrame
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\vgui.cpp
+vgui_dll
+input()->RunFrame()
+Unaccounted
+CVGui::RunFrame
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\vgui.cpp
+vgui_dll
+messaging
+Unaccounted
+CVGui::RunFrame
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\vgui.cpp
+vgui_dll
+SolveTraverse
+Unaccounted
+CVGui::RunFrame
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\vgui.cpp
+vgui_dll
+Leaked %d panels of class %s in %s
+  %d:  %s at 0x%p/0x%p 
+CVGui::PanelDeleted
+m_HandleTable.IsHandleValid(h)
+Secondary
+Primary
+command
+%s Queue dispatching command( %s, %s -- %i )
+%s Queue dispatching( %s -- %i )
+CVGui::PostMessage
+params->GetName()
+ShutdownRequest
+CVGui::ClearMessageQueues
+!m_InDispatcher
+vgui::vgui_strcpy
+dst!=NULL
+dstLen>=0
+src!=NULL
+Set language vgui is using
+set_vgui_language
+finnish
+italian
+norwegian
+portuguese
+russian
+spanish
+swedish
+set_vgui_language %s is not a valid language choice
+Localize_001
+localize
+VFileSystem017
+filesystem_stdio
+IVGui unable to connect to required interfaces!
+-vguimessages
+RenderSystemSurface001
+string too long
+invalid string position
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlhandletable.h
+CUtlHandleTable<class vgui::VPanel,20>::RemoveHandle
+nIndex < ( unsigned int )m_list.Count()
+CUtlHandleTable<class vgui::VPanel,20>::SetHandle
+CUtlHandleTable<class vgui::VPanel,20>::IsHandleValid
+CUtlLinkedList<struct MessageItem_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct MessageItem_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlHandleTable<class vgui::VPanel,20>::GetEntry
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlqueue.h
+CUtlQueue<int,class CUtlMemory<int,int> >::Count
+m_tail == QUEUE_ITERATOR_INVALID
+m_tail != QUEUE_ITERATOR_INVALID
+CUtlLinkedList<struct CVGui::Context_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CVGui::Context_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlLinkedList<struct CVGui::Context_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CVGui::Context_t,unsigned short>,unsigned short> >::Free
+CUtlLinkedList<struct MessageItem_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct MessageItem_t,unsigned short>,unsigned short> >::Free
+CUtlRBTree<struct CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::Find
+CUtlHandleTable<class vgui::VPanel,20>::HandleType_t::HandleType_t
+i < ( 1 << HandleBits )
+s < ( 1 << ( 31 - HandleBits ) )
+Unaccounted
+CUtlMemory<int,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlQueue<int,class CUtlMemory<int,int> >::RemoveAtHead
+m_head != QUEUE_ITERATOR_INVALID
+Unaccounted
+CUtlMemory<struct CVGui::Tick_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlLinkedList<struct CVGui::Context_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CVGui::Context_t,unsigned short>,unsigned short> >::LinkBefore
+CUtlLinkedList<struct CVGui::Context_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CVGui::Context_t,unsigned short>,unsigned short> >::Unlink
+CUtlLinkedList<struct CVGui::Context_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CVGui::Context_t,unsigned short>,unsigned short> >::AllocInternal
+CUtlLinkedList<struct MessageItem_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct MessageItem_t,unsigned short>,unsigned short> >::LinkBefore
+CUtlLinkedList<struct MessageItem_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct MessageItem_t,unsigned short>,unsigned short> >::Unlink
+CUtlLinkedList<struct MessageItem_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct MessageItem_t,unsigned short>,unsigned short> >::AllocInternal
+CUtlRBTree<struct CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::FindInsertionPosition
+Unaccounted
+CUtlMemory<struct CUtlHandleTable<class vgui::VPanel,20>::EntryType_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<struct UtlLinkedListElem_t<struct CVGui::Context_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<struct UtlLinkedListElem_t<struct MessageItem_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+Unaccounted
+CUtlMemory<struct MessageItem_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+CUtlRBTree<struct CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
+CUtlRBTree<struct CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::RemoveAll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CCopyableUtlVector<class vgui::VPanel *>,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+vgui_dll
+VGUI_Panel010
+min width
+min height
+left inset
+top inset
+right inset
+bottom inset
+visible
+enabled
+is topmost popup
+mouse input
+keyboard input
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\vpanel.cpp
+vgui::VPanel::Solve
+_pinsibling_their_corner < ARRAYSIZE(PinDeltas)
+_clipRect[0] <= _clipRect[2]
+_clipRect[1] <= _clipRect[3]
+vgui::VPanel::MoveBehindSibling
+_parent->_childDar.FindElement(sibling) != _parent->_childDar.InvalidIndex()
+GetZPos() == sibling->GetZPos()
+FVApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+@fff>fff>fff>fff>
+c:\buildslave\vrgdc2015_staging_win64\build\src\mathlib\mathlib_base.cpp
+_VectorNormalizeFast
+fabs( vec.LengthSqr() - 1.0f ) < 1e-3
+MathLib_Init
+SSE and SSE2 are required.
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strncmp
+Unaccounted
+_V_strncmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_strcmp
+V_strncasecmp
+Unaccounted
+V_strncasecmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_stristr
+pSearch
+_V_strncpy
+maxLen >= sizeof( *pDest )
+maxLen > 0
+V_vsnwprintf
+V_snprintf
+V_vsnprintf
+V_vsnprintfRet
+_V_strncat
+destBufferSize >= 0
+_V_AppendSlash
+V_AppendSlash: ran out of space on %s.
+V_SplitString2
+outStrings.Count() == 0
+Unaccounted
+CUtlMemory<char *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+()$^.*+?[]|\-{},:=!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+unknown
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\keyvalues.cpp
+CKeyValuesErrorStack::Pop
+m_errorIndex>=0
+CKeyValuesErrorStack::Reset
+stackLevel >= 0 && stackLevel < m_errorIndex
+KeyValues Error: %s in file %s
+(*%s*), 
+ ReadToken overflow
+CKeyValuesTokenReader::SeekBackOneToken
+CKeyValuesTokenReader::SeekBackOneToken: It is only possible to seek back one token at a time
+CkeyValuesTokenReader::SeekBackOneToken: No tokens read yet
+CKeyValues_Data::Internal_SetSubKey::<lambda_dfee2f515a6a5adff42b5f68583e88d3>::operator ()
+m_iDataType == TYPE_NONE
+KeyValues::KeyValues
+pOther->Internal_GetSubKey() == NULL
+CKeyValues_Data::Internal_ClearData
+!m_bStoredSubKey
+KeyValues::GetName
+Member function called on NULL KeyValues
+KeyValues::GetNameSymbol
+KeyValues::GetNameSymbolCaseSensitive
+KeyValues::LoadFromFile
+KeyValues::SaveToFile: couldn't open file "%s" in path "%s".
+0x%016llX
+KeyValues::RecursiveSaveToFile: TODO, missing code for TYPE_COLOR.
+KeyValues::FindKey
+KeyValues::FindKey called on NULL pointer!
+!bCreate
+size >= 0
+size < 1024 * 1024
+KeyValues::AddSubkeyUsingKnownLastChild
+pSubkey != NULL
+pSubkey->m_pPeer == NULL
+Internal_GetSubKey() == NULL
+Internal_GetSubKey() != NULL
+pLastChild->m_pPeer == NULL
+KeyValues::AddSubKey
+KeyValues::GetFirstSubKey
+KeyValues::GetNextKey
+KeyValues::GetFirstTrueSubKey
+KeyValues::GetNextTrueSubKey
+KeyValues::GetFirstValue
+KeyValues::GetNextValue
+CKeyValues_Data::Internal_GetInt
+CKeyValues_Data::Internal_GetPtr
+CKeyValues_Data::Internal_GetFloat
+CKeyValues_Data::Internal_GetString
+CKeyValues_Data::Internal_CopyData
+KeyValues::AppendIncludedKeys
+KeyValues::ParseIncludedKeys
+resourceName
+filetoinclude
+pFileSystem
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues::MergeBaseKeys
+KeyValues::RecursiveMergeKeyValues
+KV Conditional Evaluation Error
+KeyValues::LoadFromBuffer
+#include
+#include is NULL 
+#base is NULL 
+pCurrentKey
+LoadFromBuffer: expected '{', found '%s'
+RecursiveLoadFromBuffer:  recursion overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  got conditional between key and value
+KeyValues::RecursiveLoadFromBuffer
+dat->m_pPeer == NULL
+pLastChild == NULL || pLastChild->m_pPeer == dat
+Internal_GetSubKey() == dat
+pLastChild->m_pPeer == dat
+Unaccounted
+CUtlMemory<char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+D"A/oyu
+	6RtcZO"
+z`%1Is}
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+*** ConCommand "%s" (%p) was not unregistered! Shutdown crash imminent!
+ConCommand::Dispatch
+Encountered ConCommand '%s' without a callback!
+ConCommand::AutoCompleteSuggest
+m_pParent->m_fnCompletionCallback
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+ConVarRef %s doesn't point to an existing ConVar
+Unaccounted
+CUtlMemory<struct ConCommand::CallbackInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::Find
+Unaccounted
+CUtlSymbolTable::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::AddString
+Unaccounted
+CUtlSymbolTable::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbolTable::AddString
+pPool->m_SpaceUsed < 0xFFFF
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::Insert
+!"Allowing insert of dupe without explicit dupe insertion. Fix code callpoint to allow dupes."
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct CUtlSymbolTable::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+CUtlBuffer::CUtlBuffer
+nSize != 0
+CUtlBuffer::Get
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + size - 1 )
+CUtlBuffer::GetString
+nMaxChars > 0
+(GetChar()) == (0)
+CUtlBuffer::PeekGet
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + nMaxSize - 1 )
+CUtlBuffer::Put
+CUtlBuffer::AddNullTermination
+m_Memory.IsIdxValid( Index )
+Unaccounted
+CUtlMemory<unsigned char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\exprevaluator.cpp
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+VScript
+PlusOne
+PlusTwo
+PlusThree
+PlusFour
+PushOneLeftDeltaZeroRightZero
+PushOneLeftDeltaZeroRightNonZero
+PushOneLeftDeltaOneRightZero
+PushOneLeftDeltaOneRightNonZero
+PushOneLeftDeltaNRightZero
+PushOneLeftDeltaNRightNonZero
+PushOneLeftDeltaNRightNonZeroPack6Bits
+PushOneLeftDeltaNRightNonZeroPack8Bits
+PushTwoLeftDeltaZero
+PushTwoPack5LeftDeltaZero
+PushThreeLeftDeltaZero
+PushThreePack5LeftDeltaZero
+PushTwoLeftDeltaOne
+PushTwoPack5LeftDeltaOne
+PushThreeLeftDeltaOne
+PushThreePack5LeftDeltaOne
+PushTwoLeftDeltaN
+PushTwoPack5LeftDeltaN
+PushThreeLeftDeltaN
+PushThreePack5LeftDeltaN
+PushNAndNonTopographical
+PopOnePlusOne
+PopOnePlusN
+PopAllButOnePlusOne
+PopAllButOnePlusN
+PopAllButOnePlusNPack3Bits
+PopAllButOnePlusNPack6Bits
+PopNPlusOne
+PopNPlusN
+PopNAndNonTopographical
+NonTopoComplex
+NonTopoPenultimatePluseOne
+NonTopoComplexPack4Bits
+FieldPathEncodeFinish
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\tslist.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\schemabindings.cpp
+InstallSchemaBindings
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+?UUUUUU
+AUUUUUU
+?E=$% B
+?49HoKC
+?UUUUUU
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+Unknown exception
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+bad exception
+@^8U)zj
+?8bunz8
+?@En[vP
+-9D	/9a
+?UUUUUU
+?3ScR.>
+?gibQ^AX>
+WR_l%2>
+)2STud>
+J\;5yTb
+<8bunz8
+<@En[vP
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+_nextafter
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+<unknown>
+wchar_t
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+CreateFile2
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+c:\buildslave\vrgdc2015_staging_win64\build\src\vgui2\src\Release\win64\vgui2.pdb
+vgui2.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+DragQueryFileA
+Shell_NotifyIconA
+SHGetFileInfoA
+SHGetSpecialFolderPathA
+SHELL32.dll
+ActivateKeyboardLayout
+GetKeyboardLayoutList
+GetKeyboardLayout
+SetCursorPos
+RegisterWindowMessageA
+GetMessageA
+TranslateMessage
+DispatchMessageA
+PeekMessageA
+DefWindowProcA
+RegisterClassA
+UnregisterClassA
+CreateWindowExA
+DestroyWindow
+ShowWindow
+FlashWindow
+SetWindowPos
+IsIconic
+SetFocus
+GetFocus
+GetKeyState
+SetCapture
+ReleaseCapture
+SetTimer
+SetActiveWindow
+SetForegroundWindow
+ReleaseDC
+BeginPaint
+EndPaint
+InvalidateRect
+ValidateRect
+SetWindowTextA
+SetWindowTextW
+GetWindowRect
+SetCursor
+ClientToScreen
+WindowFromPoint
+GetWindowLongA
+SetWindowLongA
+GetWindowLongPtrA
+SetWindowLongPtrA
+LoadCursorA
+LoadIconA
+DestroyIcon
+LoadImageA
+DrawIconEx
+CreateIconIndirect
+CopyIcon
+GetIconInfo
+SystemParametersInfoA
+IsWindowVisible
+OpenClipboard
+CloseClipboard
+SetClipboardData
+GetClipboardData
+EmptyClipboard
+IsWindowEnabled
+GetDesktopWindow
+GetParent
+EnumWindows
+GetWindowThreadProcessId
+GetGUIThreadInfo
+USER32.dll
+RegCloseKey
+RegCreateKeyExA
+RegOpenKeyExA
+RegQueryValueExA
+RegSetValueExA
+ADVAPI32.dll
+CreateBitmap
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreatePen
+CreateRectRgn
+CreateSolidBrush
+DeleteDC
+DeleteObject
+GetBkColor
+GetDeviceCaps
+GetTextColor
+AddFontMemResourceEx
+RemoveFontResourceA
+SelectObject
+SetBkColor
+SetBkMode
+StretchBlt
+SetRectRgn
+SetTextColor
+SetTextAlign
+CreateDIBSection
+GetObjectA
+MoveToEx
+ExtTextOutA
+Polygon
+Polyline
+SetViewportOrgEx
+GDI32.dll
+CoUninitialize
+CoInitialize
+OleInitialize
+RegisterDragDrop
+RevokeDragDrop
+ReleaseStgMedium
+CoCreateInstance
+ole32.dll
+ImmGetProperty
+ImmGetContext
+ImmReleaseContext
+ImmGetCompositionStringW
+ImmGetCandidateListCountW
+ImmGetCandidateListW
+ImmGetConversionStatus
+ImmSetConversionStatus
+ImmNotifyIME
+ImmSetCandidateWindow
+ImmIsUIMessageA
+IMM32.dll
+SHDeleteKeyA
+SHLWAPI.dll
+PlaySoundA
+WINMM.dll
+AssertMsg_ConditionFailed
+g_pMemAlloc
+Plat_DebugString
+Plat_ExitProcess
+Plat_ShouldCollectMiniDumpsForFatalErrors
+CMemAllocSystemInitialize
+LoggingSystem_IsChannelEnabled
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+Warning
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+LOG_GENERAL
+g_pGlobalMiniProfilers
+CommandLine
+Plat_FloatTime
+Plat_IsInDebugSession
+LoggingSystem_RegisterLoggingChannel
+COM_TimestampedLog
+g_Telemetry
+Plat_WindowToOsSpecificHandle
+LoggingSystem_Log
+?Lock@CThreadFastMutex@@AECAXII@Z
+GetCPUInformation
+tier0.dll
+KeyValuesSystem
+GetOSType
+vstdlib.dll
+CreateFileW
+FindClose
+FindFirstFileExW
+FlushFileBuffers
+GetFileInformationByHandle
+ReadFile
+SetEndOfFile
+WriteFile
+CloseHandle
+GetLastError
+CancelIo
+SleepEx
+GetCurrentProcess
+ReadDirectoryChangesW
+OutputDebugStringW
+GetVersionExA
+GetModuleHandleA
+GlobalAlloc
+GlobalLock
+GlobalUnlock
+GlobalFree
+WideCharToMultiByte
+GetCommandLineA
+GetDiskFreeSpaceExA
+GetCurrentProcessId
+GetCurrentThreadId
+GetLocalTime
+GlobalSize
+GetLogicalDriveStringsA
+MultiByteToWideChar
+LCMapStringW
+GetProcAddress
+EncodePointer
+DecodePointer
+GetSystemTimeAsFileTime
+IsDebuggerPresent
+IsProcessorFeaturePresent
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+GetDriveTypeW
+SetEnvironmentVariableA
+ExitProcess
+GetModuleHandleExW
+AreFileApisANSI
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+SystemTimeToTzSpecificLocalTime
+FileTimeToSystemTime
+GetStringTypeW
+GetStdHandle
+GetFileType
+GetModuleFileNameA
+QueryPerformanceCounter
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetCurrentDirectoryW
+CompareStringW
+GetModuleFileNameW
+LoadLibraryExW
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+FileTimeToLocalFileTime
+PeekNamedPipe
+GetFullPathNameW
+ReadConsoleW
+SetStdHandle
+WriteConsoleW
+GetTimeZoneInformation
+HeapAlloc
+HeapFree
+GetProcessHeap
+KERNEL32.dll
+Plat_getwd
+?DevMsg@@YAXPEBDZZ
+??0CThreadSpinRWLock@@QEAA@XZ
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?LockForWrite@CThreadSpinRWLock@@QEAAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+Plat_IsHighDPI
+0'>0c*>
+pb>pAf>
+-?[`/?291?
+RD?4KF?=GH?9FJ?8HL?
+a?y#c?sIe?
+0123456789ABCDEF0@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AVIImage@vgui@@
+.?AVBitmap@vgui@@
+.?AVIBorder@vgui@@
+.?AVBorder@vgui@@
+.?AV?$CUtlMemory@U?$UtlLinkedListElem_t@VCUtlString@@I@@I@@
+.?AV?$CUtlLinkedList@VCUtlString@@I$0A@IV?$CUtlMemory@U?$UtlLinkedListElem_t@VCUtlString@@I@@I@@@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVImageBorder@@
+.?AV?$CUtlVectorBase@PEAVVPanel@vgui@@V?$CUtlMemory@PEAVVPanel@vgui@@H@@@@
+.?AV?$CUtlMemory@PEAVVPanel@vgui@@H@@
+.?AV?$CUtlMemory@U?$UtlLinkedListElem_t@UInputContext_t@CInputWin32@@H@@H@@
+.?AV?$CUtlVectorBase@PEAUHKL__@@V?$CUtlMemory@PEAUHKL__@@H@@@@
+.?AV?$CUtlMemory@PEAUHKL__@@H@@
+.?AV?$CUtlLinkedList@UInputContext_t@CInputWin32@@H$0A@HV?$CUtlMemory@U?$UtlLinkedListElem_t@UInputContext_t@CInputWin32@@H@@H@@@@
+.?AVIInput@vgui@@
+.?AVIAppSystem@@
+.?AVIInputInternal@vgui@@
+.?AVCInputWin32@@
+.?AV?$CTier3AppSystem@VIInputInternal@vgui@@$0A@@@
+.?AV?$CTier2AppSystem@VIInputInternal@vgui@@$0A@@@
+.?AV?$CTier1AppSystem@VIInputInternal@vgui@@$0A@@@
+.?AV?$CTier0AppSystem@VIInputInternal@vgui@@@@
+.?AV?$CBaseAppSystem@VIInputInternal@vgui@@@@
+.?AV?$CUtlDict@VColor@@H@@
+.?AV?$CUtlVectorBase@VColor@@V?$CUtlMemory@VColor@@H@@@@
+.?AV?$CUtlVectorBase@UDrawOp_t@CStyleAppearance@@V?$CUtlMemory@UDrawOp_t@CStyleAppearance@@H@@@@
+.?AV?$CUtlMemory@PEADH@@
+.?AV?$CUtlVectorBase@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@
+.?AV?$CUtlVectorBase@VHKeySymbol@@V?$CUtlMemory@VHKeySymbol@@H@@@@
+.?AV?$CUtlMemory@VHKeySymbol@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@VHKeySymbol@@PEAV?$CUtlVector@Ustyle_t@@V?$CUtlMemory@Ustyle_t@@H@@@@HP6A_NAEBV1@0@Z@@H@@H@@
+.?AV?$CUtlVectorBase@PEAVCStyleSet@@V?$CUtlMemory@PEAVCStyleSet@@H@@@@
+.?AV?$CUtlMemory@PEAVCStyleSet@@H@@
+.?AV?$CUtlVectorBase@Ulayoutcmd_base_t@vgui@@V?$CUtlMemory@Ulayoutcmd_base_t@vgui@@H@@@@
+.?AV?$CUtlMemory@Ulayoutcmd_base_t@vgui@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@UAppearanceKey_t@CLayoutFile@@PEAVCStyleAppearance@@HP6A_NAEBU12@0@Z@@H@@H@@
+.?AV?$CUtlMemory@VColor@@H@@
+.?AV?$CUtlMemory@UDrawOp_t@CStyleAppearance@@H@@
+.?AV?$CUtlVectorBase@PEAVKeyValues@@V?$CUtlMemory@PEAVKeyValues@@H@@@@
+.?AV?$CUtlMemory@PEAVKeyValues@@H@@
+.?AV?$CUtlVectorBase@Ustyle_t@@V?$CUtlMemory@Ustyle_t@@H@@@@
+.?AV?$CUtlMemory@Ustyle_t@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@VHKeySymbol@@H@@H@@
+.?AV?$CUtlMemory@VCUtlString@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@VHKeySymbol@@PEAV?$CUtlVector@Ustyle_t@@V?$CUtlMemory@Ustyle_t@@H@@@@HP6A_NAEBV1@0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@VHKeySymbol@@PEAV?$CUtlVector@Ustyle_t@@V?$CUtlMemory@Ustyle_t@@H@@@@HP6A_NAEBV1@0@Z@@H@@H@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@UAppearanceKey_t@CLayoutFile@@PEAVCStyleAppearance@@HP6A_NAEBU12@0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@UAppearanceKey_t@CLayoutFile@@PEAVCStyleAppearance@@HP6A_NAEBU12@0@Z@@H@@H@@@@
+.?AV?$CUtlRBTree@VHKeySymbol@@HP6A_NAEBV1@0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@VHKeySymbol@@H@@H@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDVColor@@HP6A_NAEBQEBD0@Z@@H@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEBDVColor@@HP6A_NAEBQEBD0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDVColor@@HP6A_NAEBQEBD0@Z@@H@@H@@@@
+.?AVIAppearance@vgui@@
+.?AVCStyleAppearance@@
+.?AVIMessageListener@vgui@@
+.?AVCMessageListener@vgui@@
+.?AVScalableImageBorder@@
+.?AV?$CUtlDict@PEAVCLayoutFile@@H@@
+.?AV?$CUtlVectorBase@USchemeBorder_t@CScheme@@V?$CUtlMemory@USchemeBorder_t@CScheme@@H@@@@
+.?AV?$CUtlMemory@USchemeBorder_t@CScheme@@H@@
+.?AV?$CUtlVectorBase@PEAVCScheme@@V?$CUtlMemory@PEAVCScheme@@H@@@@
+.?AV?$CUtlMemory@PEAVCScheme@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UCachedBitmapHandle_t@CSchemeManager@@H@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@HH@@H@@
+.?AV?$CUtlRBTree@UCachedBitmapHandle_t@CSchemeManager@@HP6A_NAEBU12@0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@UCachedBitmapHandle_t@CSchemeManager@@H@@H@@@@
+.?AV?$CUtlRBTree@HHP6A_NAEBH0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@HH@@H@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDPEAVCLayoutFile@@HP6A_NAEBQEBD0@Z@@H@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEBDPEAVCLayoutFile@@HP6A_NAEBQEBD0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDPEAVCLayoutFile@@HP6A_NAEBQEBD0@Z@@H@@H@@@@
+.?AVIBaseInterface@@
+.?AVIScheme@vgui@@
+.?AVISchemeManager@vgui@@
+.?AVCScheme@@
+.?AVCSchemeManager@@
+.?AV?$CUtlDict@PEAVIImage@vgui@@G@@
+.?AV?$CUtlVectorBase@_KV?$CUtlMemory@_KH@@@@
+.?AV?$CUtlMemory@_KH@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@VTexture@vgui@@H@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UContextAbsPos_t@CWin32Surface@@G@@G@@
+.?AV?$CUtlRBTree@VTexture@vgui@@HP6A_NAEBV12@0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@VTexture@vgui@@H@@H@@@@
+.?AV?$CUtlRBTree@UContextAbsPos_t@CWin32Surface@@GP6A_NAEBU12@0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@UContextAbsPos_t@CWin32Surface@@G@@G@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDPEAVIImage@vgui@@GP6A_NAEBQEBD0@Z@@G@@G@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEBDPEAVIImage@vgui@@GP6A_NAEBQEBD0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDPEAVIImage@vgui@@GP6A_NAEBQEBD0@Z@@G@@G@@@@
+.?AUIUnknown@@
+.?AUIDropTarget@@
+.?AVIVGuiPaintSurface@@
+.?AVISurface@vgui@@
+.?AVISchemeSurface@@
+.?AVILocalizeTextQuery@@
+.?AVCWin32Surface@@
+.?AV?$CBaseAppSystem@VISurface@vgui@@@@
+.?AVCIconImage@@
+.?AVCSurfaceDragDropTarget@@
+.?AVISystem@vgui@@
+.?AVCSystem@@
+.?AV?$CUtlDict@V?$CCopyableUtlVector@PEAVVPanel@vgui@@@@H@@
+.?AV?$CUtlMemory@HH@@
+.?AV?$CUtlVectorBase@PEAUTick_t@CVGui@@V?$CUtlMemory@PEAUTick_t@CVGui@@H@@@@
+.?AV?$CUtlMemory@PEAUTick_t@CVGui@@H@@
+.?AV?$CUtlMemory@U?$UtlLinkedListElem_t@UContext_t@CVGui@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlLinkedListElem_t@UMessageItem_t@@G@@G@@
+.?AV?$CUtlVectorBase@UEntryType_t@?$CUtlHandleTable@VVPanel@vgui@@$0BE@@@V?$CUtlMemory@UEntryType_t@?$CUtlHandleTable@VVPanel@vgui@@$0BE@@@H@@@@
+.?AV?$CUtlMemory@UEntryType_t@?$CUtlHandleTable@VVPanel@vgui@@$0BE@@@H@@
+.?AV?$CUtlLinkedList@UContext_t@CVGui@@G$0A@GV?$CUtlMemory@U?$UtlLinkedListElem_t@UContext_t@CVGui@@G@@G@@@@
+.?AV?$CUtlLinkedList@UMessageItem_t@@G$0A@GV?$CUtlMemory@U?$UtlLinkedListElem_t@UMessageItem_t@@G@@G@@@@
+.?AV?$CUtlVectorBase@UMessageItem_t@@V?$CUtlMemory@UMessageItem_t@@H@@@@
+.?AV?$CUtlMemory@UMessageItem_t@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDV?$CCopyableUtlVector@PEAVVPanel@vgui@@@@HP6A_NAEBQEBD0@Z@@H@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEBDV?$CCopyableUtlVector@PEAVVPanel@vgui@@@@HP6A_NAEBQEBD0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDV?$CCopyableUtlVector@PEAVVPanel@vgui@@@@HP6A_NAEBQEBD0@Z@@H@@H@@@@
+.?AVIVGui@vgui@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVCVGui@@
+.?AV?$CTier3AppSystem@VIVGui@vgui@@$0A@@@
+.?AV?$CTier2AppSystem@VIVGui@vgui@@$0A@@@
+.?AV?$CTier1AppSystem@VIVGui@vgui@@$0A@@@
+.?AV?$CTier0AppSystem@VIVGui@vgui@@@@
+.?AV?$CBaseAppSystem@VIVGui@vgui@@@@
+.?AVVPanel@vgui@@
+.?AVIPanel@vgui@@
+.?AVVPanelWrapper@@
+.?AV?$CTier3AppSystem@VIPanel@vgui@@$0A@@@
+.?AV?$CTier2AppSystem@VIPanel@vgui@@$0A@@@
+.?AV?$CTier1AppSystem@VIPanel@vgui@@$0A@@@
+.?AV?$CTier0AppSystem@VIPanel@vgui@@@@
+.?AV?$CBaseAppSystem@VIPanel@vgui@@@@
+.?AVCPostConnectCallback@@
+.?AV?$CUtlVectorBase@PEADV?$CUtlMemory@PEADH@@@@
+.?AVexception@std@@
+.?AV?$CUtlMemory@DH@@
+.?AV?$CUtlVectorBase@DV?$CUtlMemory@DH@@@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@UCallbackInfo_t@ConCommand@@V?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@@@
+.?AV?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVConCommand@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@CUtlSymbolTable@@V?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@
+.?AV?$CUtlRBTree@VCStringPoolIndex@CUtlSymbolTable@@GVCLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@@@
+.?AV?$CUtlMemory@EH@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+?UUUUUU
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z

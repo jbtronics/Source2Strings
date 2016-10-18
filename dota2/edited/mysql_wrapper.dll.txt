@@ -1,0 +1,288 @@
+!This program cannot be run in DOS mode.
+`.rdata
+D$ QRPV
+|';Q(}"
+YYuTVWh
+< tK<	tG
+PPPPPPPP
+t+WWVPV
+<+t(<-t$:
+u&f!;f;
+UQPXY]Y[
+mysql_wrapper
+<invalid column specified>
+<invalid row specified>
+MySQLWrapper001
+bad allocation
+GAIsProcessorFeaturePresent
+KERNEL32
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+.mixcrt
+EncodePointer
+KERNEL32.DLL
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+CorExitProcess
+mscoree.dll
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+InitializeCriticalSectionAndSpinCount
+kernel32.dll
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+February
+January
+Saturday
+Thursday
+Wednesday
+Tuesday
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+CONOUT$
+D:\Dev\mdurand_source2\main\src\utils\vmpi_private\mysql_wrapper\Release\mysql_wrapper.pdb
+mysql_close
+mysql_error
+mysql_real_connect
+mysql_init
+mysql_insert_id
+mysql_fetch_row
+mysql_data_seek
+mysql_free_result
+mysql_fetch_fields
+mysql_field_count
+mysql_store_result
+mysql_query
+LIBMYSQL.dll
+g_pMemAlloc
+tier0.dll
+MultiByteToWideChar
+WideCharToMultiByte
+GetProcAddress
+GetModuleHandleA
+GetCurrentProcessId
+CloseHandle
+GetCurrentThreadId
+GetCommandLineA
+HeapFree
+GetVersionExA
+HeapAlloc
+GetProcessHeap
+GetLastError
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+WriteFile
+GetStdHandle
+GetModuleFileNameA
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+InterlockedIncrement
+SetLastError
+InterlockedDecrement
+ExitProcess
+SetHandleCount
+GetFileType
+GetStartupInfoA
+DeleteCriticalSection
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+QueryPerformanceCounter
+GetTickCount
+GetSystemTimeAsFileTime
+GetCPInfo
+GetOEMCP
+IsValidCodePage
+LCMapStringA
+LCMapStringW
+LeaveCriticalSection
+EnterCriticalSection
+SetFilePointer
+GetConsoleCP
+GetConsoleMode
+LoadLibraryA
+GetLocaleInfoA
+InitializeCriticalSection
+RtlUnwind
+GetStringTypeA
+GetStringTypeW
+SetStdHandle
+WriteConsoleA
+GetConsoleOutputCP
+WriteConsoleW
+CreateFileA
+FlushFileBuffers
+KERNEL32.dll
+AssertValidStringPtr
+_AssertValidWritePtr
+_AssertValidReadPtr
+mysql_wrapper.dll
+CreateInterface
+.?AVIMySQLRowSet@@
+.?AVIMySQL@@
+.?AVCMySQL@@
+.?AVCMySQLCopiedRowSet@@
+.?AVtype_info@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+010Q0r0
+5L5`5h6p6
+>O>h>o>w>|>
+?^?d?h?l?p?
+1W1\1b1f1l1p1v1z1
+1)2:2P2`2
+2.3F3R3X3
+9/:H:O:W:\:`:d:
+:>;D;H;L;P;
+<;<m<t<x<|<
+2"2C2V2W6
+? ?)?0?E?e?j?
+0%1/1J1
+2$2L2n2
+4,424F4M4g4q4w4
+5+5L5V5q5
+7N7a7g7s7y7
+8%81868;8A8E8K8P8V8^8j8
+9 9>9u;
+=(=>=H=c=k=s=~=
+1*181G1
+3I4O4b4l4
+4-5?5p5
+<F<S<]<k<t<~<
+0'0,0;0b0
+2#3:3K3
+4(404;4k4
+9@9G9`9r9x9
+9K:k:u:(;q;~;
+3)3:3E3S3a3h3w3
+4D4N4W4z4
+<\=e=k=
+>+>0>H>N>]>c>p>
+4>4D4M4T4_4k4
+4A5M5Y6
+:&:8:U:g:y:
+<c=i=o=u={=
+>)>.>4>:>P>W>"?
+0!1,1V1d1p1~1
+2!2.2O2[2
+92P2e5i5m5q5u5y5}5
+:!:&:+:
+L1X1\1`1d1h1t1x1
+2 2$2(2,2
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1
+; ;,<0<
+=$=(=8=<=@=D=L=d=t=x=
+=4>8>X>x>
+? ?@?`?|?
+0 0<0@0`0
+0(0D0\0t0
+0h2l2p2t2x2|2
+3$3,343<3D3L3T3\3h3`8X9
+:$:0:4:8:<:@:H:L:
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>

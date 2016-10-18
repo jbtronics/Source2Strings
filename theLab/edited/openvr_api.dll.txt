@@ -1,0 +1,630 @@
+IVROverlay_010
+IVRRenderModels_004
+VR_OVERRIDE
+IVRSettings_001
+VR_CONFIG_PATH
+VR_LOG_PATH
+IVRSystem_011
+IVRExtendedDisplay_001
+IVRTrackedCamera_001
+IVRApplications_004
+IVRChaperone_003
+IVRChaperoneSetup_005
+IVRControlPanel_001
+IVRCompositor_013
+IVRClientCore_002
+IVRDashboardManager_001
+generic
+unknown error
+iostream
+iostream stream error
+vrclient_x64.dll
+VRClientCoreFactory
+string too long
+invalid string position
+No Error (0)
+Installation Not Found (100)
+Installation Corrupt (101)
+vrclient Shared Lib Not Found (102)
+File Not Found (103)
+Factory Function Not Found (104)
+Interface Not Found (105)
+Invalid Interface (106)
+User Config Directory Invalid (107)
+Hmd Not Found (108)
+Not Initialized (109)
+Installation path could not be located (110)
+Config path could not be located (111)
+Log path could not be located (112)
+Unable to write path registry (113)
+App info manager init failed (114)
+Internal Retry (115)
+User Canceled Init (116)
+Another app was already launching (117)
+Settings manager init failed (118)
+VR system shutting down (119)
+Too many tracked objects (120)
+Not starting vrserver for background app (121)
+The requested interface is incompatible with the compositor and the compositor is running (122)
+This interface is not available to utility applications (123)
+Driver Failed (200)
+Driver Not Known (201)
+HMD Not Known (202)
+Driver Not Loaded (203)
+Driver runtime is out of date (204)
+HMD already in use by another application (205)
+Device is not calibrated (206)
+Device Calibration is invalid (207)
+HMD detected over USB, but Monitor not found (208)
+VR Server Init Failed (300)
+Connect to VR Server Failed (301)
+Shared IPC State Init Failed (302)
+Shared IPC Compositor Init Failed (303)
+Shared IPC Mutex Init Failed (304)
+Shared IPC Failed (305)
+Compositor failed to initialize (400)
+Compositor failed to find DX11 hardware (401)
+Unable to connect to Oculus Runtime (1000)
+HMD found, but can not open device (1101)
+HMD found, but unable to request config (1102)
+HMD found, but no stored config (1103)
+HMD found, but failed configuration check (1113)
+HMD found, but config too big (1104)
+HMD found, but config too small (1105)
+HMD found, but unable to init ZLib (1106)
+HMD found, but problems with the data (1107)
+HMD found, but problems with the data (1108)
+HMD found, but problems with the data (1109)
+HMD found, but problems with the data (1110)
+HMD found, but problems with the data (1111)
+HMD found, but problems with the data (1112)
+Unable to find Steam installation (2000)
+Unknown error (%d)
+VRInitError_None
+VRInitError_Unknown
+VRInitError_Init_InstallationNotFound
+VRInitError_Init_InstallationCorrupt
+VRInitError_Init_VRClientDLLNotFound
+VRInitError_Init_FileNotFound
+VRInitError_Init_FactoryNotFound
+VRInitError_Init_InterfaceNotFound
+VRInitError_Init_InvalidInterface
+VRInitError_Init_HmdNotFound
+VRInitError_Init_NotInitialized
+VRInitError_Init_PathRegistryNotFound
+VRInitError_Init_NoConfigPath
+VRInitError_Init_NoLogPath
+VRInitError_Init_PathRegistryNotWritable
+VRInitError_Init_AppInfoInitFailed
+VRInitError_Init_Retry
+VRInitError_Init_InitCanceledByUser
+VRInitError_Init_AnotherAppLaunching
+VRInitError_Init_NotAvailableToUtilityApps
+VRInitError_Init_SettingsInitFailed
+VRInitError_Driver_Failed
+VRInitError_Driver_Unknown
+VRInitError_Driver_HmdUnknown
+VRInitError_Driver_NotLoaded
+VRInitError_Driver_RuntimeOutOfDate
+VRInitError_Driver_HmdInUse
+VRInitError_Driver_NotCalibrated
+VRInitError_Driver_CalibrationInvalid
+VRInitError_Driver_HmdDisplayNotFound
+VRInitError_IPC_ServerInitFailed
+VRInitError_IPC_ConnectFailed
+VRInitError_IPC_SharedStateInitFailed
+VRInitError_IPC_CompositorInitFailed
+VRInitError_IPC_MutexInitFailed
+VRInitError_IPC_Failed
+VRInitError_Compositor_Failed
+VRInitError_Compositor_D3D11HardwareRequired
+VRInitError_VendorSpecific_UnableToConnectToOculusRuntime
+VRInitError_VendorSpecific_HmdFound_CantOpenDevice
+VRInitError_VendorSpecific_HmdFound_UnableToRequestConfigStart
+VRInitError_VendorSpecific_HmdFound_NoStoredConfig
+VRInitError_VendorSpecific_HmdFound_ConfigFailedSanityCheck
+VRInitError_VendorSpecific_HmdFound_ConfigTooBig
+VRInitError_VendorSpecific_HmdFound_ConfigTooSmall
+VRInitError_VendorSpecific_HmdFound_UnableToInitZLib
+VRInitError_VendorSpecific_HmdFound_CantReadFirmwareVersion
+VRInitError_VendorSpecific_HmdFound_UnableToSendUserDataStart
+VRInitError_VendorSpecific_HmdFound_UnableToGetUserDataStart
+VRInitError_VendorSpecific_HmdFound_UnableToGetUserDataNext
+VRInitError_VendorSpecific_HmdFound_UserDataAddressRange
+VRInitError_VendorSpecific_HmdFound_UserDataError
+VRInitError_Steam_SteamInstallationNotFound
+openvrpaths.vrpath
+VR Path Registry node %s is not an array
+Unable to determine VR Path Registry filename
+Unable to read VR Path Registry from %s
+Unable to parse %s: %s
+runtime
+external_drivers
+vector<T> too long
+bad locale name
+ios_base::badbit set
+ios_base::failbit set
+ios_base::eofbit set
+in Json::Value::duplicateStringValue(): Failed to allocate string value buffer
+in Json::Value::duplicateAndPrefixStringValue(): length too big for prefixing
+in Json::Value::duplicateAndPrefixStringValue(): Failed to allocate string value buffer
+assert json failed
+in Json::Value::setComment(): Comments must start with /
+Type is not convertible to string
+in Json::Value::operator[](ArrayIndex): requires arrayValue
+in Json::Value::operator[](int index): index cannot be negative
+in Json::Value::operator[](ArrayIndex)const: requires arrayValue
+in Json::Value::resolveReference(key, end): requires objectValue
+in Json::Value::find(key, end, found): requires objectValue or nullValue
+bad cast
+map/set<T> too long
+A valid JSON document must be either an array or an object value.
+Exceeded stackLimit in readValue().
+Syntax error: value, object or array expected.
+Missing ':' after object member name
+Missing ',' or '}' in object declaration
+Missing '}' or object member name
+Missing ',' or ']' in array declaration
+' is not a number.
+Empty escape sequence in string
+Bad escape sequence in string
+additional six characters expected to parse unicode surrogate pair.
+expecting another \u token to begin the second half of a unicode surrogate pair
+Bad unicode escape sequence in string: four digits expected.
+Bad unicode escape sequence in string: hexadecimal digit expected.
+Line %d, Column %d
+ for detail.
+deque<T> too long
+0123456789ABCDEFabcdef-+Xx
+0123456789-+Ee
+0123456789ABCDEFabcdef-+XxPp
+-Infinity
+-1e+9999
+Infinity
+1e+9999
+MainThrd
+Out of thread local storage!
+%a %b %d %Y %H:%M:%S.%%03u
+%a %b %d %H:%M:%S %Y
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+A0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+Unknown exception
+bad exception
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+UTF-16LE
+UNICODE
+_nextafter
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CreateFile2
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+c:\buildslave\steamvr_rel_win64\build\src\openvr_api\Retail\win64\openvr_api.pdb
+openvr_api.dll
+VRControlPanel
+VRDashboardManager
+VRTrackedCamera
+VR_GetGenericInterface
+VR_GetInitToken
+VR_GetStringForHmdError
+VR_GetVRInitErrorAsEnglishDescription
+VR_GetVRInitErrorAsSymbol
+VR_InitInternal
+VR_IsHmdPresent
+VR_IsInterfaceVersionValid
+VR_IsRuntimeInstalled
+VR_RuntimePath
+VR_ShutdownInternal
+FreeLibrary
+GetLastError
+GetModuleFileNameA
+GetModuleFileNameW
+WideCharToMultiByte
+GetProcAddress
+LoadLibraryExA
+EnterCriticalSection
+LeaveCriticalSection
+OutputDebugStringA
+GetEnvironmentVariableA
+SetEnvironmentVariableA
+FindClose
+IsDebuggerPresent
+GetCurrentProcess
+GetCurrentProcessId
+TerminateProcess
+RaiseException
+GetCurrentThreadId
+SetLastError
+InitializeCriticalSectionAndSpinCount
+DeleteCriticalSection
+CloseHandle
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+MultiByteToWideChar
+CreateFileW
+GetSystemTime
+SystemTimeToFileTime
+QueryPerformanceCounter
+EncodePointer
+DecodePointer
+GetStringTypeW
+RtlPcToFileHeader
+RtlLookupFunctionEntry
+RtlUnwindEx
+GetCommandLineA
+ReadFile
+GetDriveTypeW
+HeapFree
+HeapAlloc
+GetSystemTimeAsFileTime
+GetCPInfo
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+GetModuleHandleW
+IsProcessorFeaturePresent
+GetDateFormatW
+GetTimeFormatW
+CompareStringW
+LCMapStringW
+GetLocaleInfoW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+ExitProcess
+GetModuleHandleExW
+AreFileApisANSI
+HeapSize
+GetProcessHeap
+GetStdHandle
+GetFileType
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetConsoleMode
+ReadConsoleW
+SetFilePointerEx
+WriteFile
+GetConsoleCP
+GetCurrentDirectoryW
+FindFirstFileExW
+SystemTimeToTzSpecificLocalTime
+FileTimeToSystemTime
+FlushFileBuffers
+IsValidCodePage
+GetOEMCP
+GetTimeZoneInformation
+HeapReAlloc
+LoadLibraryExW
+SetStdHandle
+WriteConsoleW
+FileTimeToLocalFileTime
+GetFileInformationByHandle
+PeekNamedPipe
+GetFullPathNameW
+OutputDebugStringW
+SetEndOfFile
+KERNEL32.dll
+SHGetFolderPathW
+SHELL32.dll
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVruntime_error@std@@
+.?AVexception@std@@
+.?AVfailure@ios_base@std@@
+.?AVsystem_error@std@@
+.?AV_System_error@std@@
+.?AVRuntimeError@Json@@
+.?AVException@Json@@
+.?AVLogicError@Json@@
+.?AVbad_cast@std@@
+.?AVios_base@std@@
+.?AV?$_Iosb@H@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV_Facet_base@std@@
+.?AVfacet@locale@std@@
+.?AUctype_base@std@@
+.?AV?$ctype@D@std@@
+.?AV?$basic_istream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_istringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+.?AV?$num_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$numpunct@D@std@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AV_Locimp@locale@std@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+160303211540Z0#

@@ -1,0 +1,2620 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@_RDATA
+@.reloc
+|$ ATAVAWH
+ A_A^A\
+D8B(t	D
+D8B)t	D
+D8B*t	D
+WATAUAVAWH
+@A_A^A]A\_
+l$ VWAVH
+@UVAVAWH
+ATAVAWH
+WATAUAVAWH
+A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+D$@HcL$HE3
+D$@HcL$H
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+\$ UWATAVAWH
+@8{0u6H
+`A_A^A\_]
+VWATAUAVH
+A^A]A\_^
+@UATAWH
+E3wDtnH
+UVWAVAWH
+ A_A^_^]
+SUWAUAVH
+PA^A]_][
+@SVWAVAWH
+`A_A^_^[
+HcD$PHcL$XH
+@UAUAWH
+ATAUAWH
+ A_A]A\
+SUVWAVAWH
+A_A^_^][
+SUVWAVAWH
+A_A^_^][
+L$PD9N$
+L$PD;N$
+@SWATAUH
+SUVWATAVH
+A^A\_^][
+L$PD9N$
+L$PD;N$
+@SWATAUH
+SUVWATAVH
+A^A\_^][
+L$ ATAUAWH
+L$ ATAUAVAWH
+A_A^A]A\
+SVWATAUAWH
+hA_A]A\_^[
+SVWATAUAWH
+hA_A]A\_^[
+SVATAUH
+VATAUAWH
+A_A]A\^
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+L$ SVWH
+WATAUAVAWH
+ A_A^A]A\_
+@SVAVAWH
+XA_A^^[
+@SWATAVH
+XA^A\_[
+L;D$8v7H
+|$ ATAVAWH
+0A_A^A\
+WATAUAVAWH
+ A_A^A]A\_
+|$ ATAVAWH
+0A_A^A\
+WATAUAVAWH
+ A_A^A]A\_
+f9G`uBH
+f9G`u0H
+tIf9wbH
+AUAVAWH
+t$ WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+L;l$Ht D;
+L;l$Ht$D;
+NL;l$Ht!D;
+`A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+L;T$Xt$D;
+`A_A^A]A\_^]
+t$ WAVA
+WATAUAVAWH
+ A_A^A]A\_
+WATAUAVAWH
+@A_A^A]A\_
+L$ UWAUAVAWH
+ A_A^A]_]
+WATAUAVAWH
+ A_A^A]A\_
+L$ SVWH
+</t?<\t;H
+L$ SVWH
+t+HcC$LcC
+@SUAUAWH
+(A_A]][
+t+HcC$LcC
+t(HcC$HcK
+t$@HcwH$
+D$(;wXu
+A0t#H9I8u
+@UAVAWH
+e A_A^]
+@SAVAWH
+l$@HckxH
+D$<9T$0wR9T$4wL9T$8wF;
+)t$PH9[8t
+)|$PH9[8t
+t$ WATAUAVAWH
+0A_A^A]A\_
+|$ ATAVAWH
+ A_A^A\
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+D$0;D$8t
+USVWATAUAVAWH
+D8d$@u	D8#
+t8D8 t3H
+D8d$AtPH
+A_A^A]A\_^[]
+SUATAVH
+l$ AUAVAWH
+ A_A^A]
+@SUVWATAVAWH
+A_A^A\_^][
+@SVWATH
+A9E|s]f
+E|A;Epr
+A;M0v"A
+i H9i0u
+A0H9i8u
+\$ ATAVAWH
+N(D9q(u
+ A_A^A\
+WATAUAVAWH
+CLD#C|L#
+N(D9q(u
+ A_A^A]A\_
+WATAUAVAWH
+CLD#C|L#
+ A_A^A]A\_
+C0D9p<t
+S(9C8sq
+C0D9p<t
+C0D9p<tN
+D9s(t)H
+K,D9s(A
+@SUWAVAWH
+ A_A^_][
+K H9K0u
+C0H9K8u
+L9~PtcL9~`t]L9~htWH
+ A_A^_][
+F(D)p(H
+@WATAUAVAWH
+N(D9q(u
+ A_A^A]A\_
+\$0)p(H
+|$ ATAUAVAW
+A_A^A]A\
+@UVWAVAWH
+A_A^_^]
+SUVWATAUAVAWH
+8A_A^A]A\_^][
+|$ ATAVAWH
+ A_A^A\
+@SUVWATH
+tdLc\$HIc
+H SVWAVH
+fffffff
+ATAVAWH
+ A_A^A\
+fffffff
+VWATAVAWH
+A_A^A\_^
+L$ USWH
+fffffff
+.ffffff
+WATAUAVAWH
+@A_A^A]A\_
+AUAVAWH
+0A_A^A]
+x AUAVAWH
+ A_A^A]
+@UATAVH
+l$ VAVAWH
+UVWATAUAVAWH
+A_A^A]A\_^]
+^ffffff
+fffffff
+0ffffff
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+` AUAVAWH
+t$8Hc0I
+\$0D9=65	
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+USVWAVH
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+@ffffff
+t$ WAVAWH
+t$ WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+SVWATAUAVAWUH
+]A_A^A]A\_^[
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+VWATAVAWH
+ A_A^A\_^
+UVWATAUAVAWH
+$tPH9\$@t>
+A_A^A]A\_^]
+UWATAVAWH
+uMM9'tHH
+uQM91tLH
+A_A^A\_]
+<1~-<3~ <4t5<5t
+UATAUAVAWH
+A_A^A]A\]
+D8t$HuD
+(D$@L9t$ t0H
+D$(D8t$(u\H
+x UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+,0<	w!A
+@UATAUAVAWH
+A_A^A]A\]
+SATAUAWUH
+]A_A]A\[
+@SUVWATAVAWH
+PA_A^A\_^][
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@UAVAWH
+H(H9J(u
+Release
+inputsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+InputStackSystemVersion001
+InputSystemVersion001
+c:\buildslave\vrgdc2015_staging_win64\build\src\inputsystem\inputstacksystem.cpp
+CInputStackSystem:  empty
+enabled
+disabled
+CInputStackSystem:  %s is %s
+visible
+CInputStackSystem:  %s cursor %s
+CInputStackSystem:  %s capture set to 0x%p
+CInputStackSystem:  %s cursor clip set to 0x%p
+CInputStackSystem:  %s relative mouse mode %s
+CInputStackSystem:  nothing enabled
+MemAllocClassName
+Unaccounted
+CUtlMemory<struct InputContext_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+inputsystem
+CUtlMemory::Grow
+WM_NULL
+WM_CREATE
+WM_DESTROY
+WM_MOVE
+WM_SIZE
+WM_ACTIVATE
+WM_SETFOCUS
+WM_KILLFOCUS
+WM_ENABLE
+WM_SETREDRAW
+WM_SETTEXT
+WM_GETTEXT
+WM_GETTEXTLENGTH
+WM_PAINT
+WM_CLOSE
+WM_QUERYENDSESSION
+WM_QUIT
+WM_QUERYOPEN
+WM_ERASEBKGND
+WM_SYSCOLORCHANGE
+WM_ENDSESSION
+WM_SYSTEMERROR
+WM_SHOWWINDOW
+WM_CTLCOLOR
+WM_WININICHANGE
+WM_SETTINGCHANGE
+WM_DEVMODECHANGE
+WM_ACTIVATEAPP
+WM_FONTCHANGE
+WM_TIMECHANGE
+WM_CANCELMODE
+WM_SETCURSOR
+WM_MOUSEACTIVATE
+WM_CHILDACTIVATE
+WM_QUEUESYNC
+WM_GETMINMAXINFO
+WM_PAINTICON
+WM_ICONERASEBKGND
+WM_NEXTDLGCTL
+WM_SPOOLERSTATUS
+WM_DRAWITEM
+WM_MEASUREITEM
+WM_DELETEITEM
+WM_VKEYTOITEM
+WM_CHARTOITEM
+WM_SETFONT
+WM_GETFONT
+WM_SETHOTKEY
+WM_GETHOTKEY
+WM_QUERYDRAGICON
+WM_COMPAREITEM
+WM_COMPACTING
+WM_WINDOWPOSCHANGING
+WM_WINDOWPOSCHANGED
+WM_POWER
+WM_COPYDATA
+WM_CANCELJOURNAL
+WM_NOTIFY
+WM_INPUTLANGCHANGEREQUEST
+WM_INPUTLANGCHANGE
+WM_TCARD
+WM_HELP
+WM_USERCHANGED
+WM_NOTIFYFORMAT
+WM_CONTEXTMENU
+WM_STYLECHANGING
+WM_STYLECHANGED
+WM_DISPLAYCHANGE
+WM_GETICON
+WM_SETICON
+WM_NCCREATE
+WM_NCDESTROY
+WM_NCCALCSIZE
+WM_NCHITTEST
+WM_NCPAINT
+WM_NCACTIVATE
+WM_GETDLGCODE
+WM_NCMOUSEMOVE
+WM_NCLBUTTONDOWN
+WM_NCLBUTTONUP
+WM_NCLBUTTONDBLCLK
+WM_NCRBUTTONDOWN
+WM_NCRBUTTONUP
+WM_NCRBUTTONDBLCLK
+WM_NCMBUTTONDOWN
+WM_NCMBUTTONUP
+WM_NCMBUTTONDBLCLK
+WM_KEYDOWN
+WM_KEYUP
+WM_CHAR
+WM_DEADCHAR
+WM_SYSKEYDOWN
+WM_SYSKEYUP
+WM_SYSCHAR
+WM_SYSDEADCHAR
+WM_KEYLAST
+WM_IME_STARTCOMPOSITION
+WM_IME_ENDCOMPOSITION
+WM_IME_COMPOSITION
+WM_IME_KEYLAST
+WM_INITDIALOG
+WM_COMMAND
+WM_SYSCOMMAND
+WM_TIMER
+WM_HSCROLL
+WM_VSCROLL
+WM_INITMENU
+WM_INITMENUPOPUP
+WM_MENUSELECT
+WM_MENUCHAR
+WM_ENTERIDLE
+WM_CTLCOLORMSGBOX
+WM_CTLCOLOREDIT
+WM_CTLCOLORLISTBOX
+WM_CTLCOLORBTN
+WM_CTLCOLORDLG
+WM_CTLCOLORSCROLLBAR
+WM_CTLCOLORSTATIC
+WM_MOUSEFIRST
+WM_MOUSEMOVE
+WM_LBUTTONDOWN
+WM_LBUTTONUP
+WM_LBUTTONDBLCLK
+WM_RBUTTONDOWN
+WM_RBUTTONUP
+WM_RBUTTONDBLCLK
+WM_MBUTTONDOWN
+WM_MBUTTONUP
+WM_MBUTTONDBLCLK
+WM_MOUSEWHEEL
+WM_MOUSEHWHEEL
+WM_PARENTNOTIFY
+WM_ENTERMENULOOP
+WM_EXITMENULOOP
+WM_NEXTMENU
+WM_SIZING
+WM_CAPTURECHANGED
+WM_MOVING
+WM_POWERBROADCAST
+WM_DEVICECHANGE
+WM_MDICREATE
+WM_MDIDESTROY
+WM_MDIACTIVATE
+WM_MDIRESTORE
+WM_MDINEXT
+WM_MDIMAXIMIZE
+WM_MDITILE
+WM_MDICASCADE
+WM_MDIICONARRANGE
+WM_MDIGETACTIVE
+WM_MDISETMENU
+WM_ENTERSIZEMOVE
+WM_EXITSIZEMOVE
+WM_DROPFILES
+WM_MDIREFRESHMENU
+WM_IME_SETCONTEXT
+WM_IME_NOTIFY
+WM_IME_CONTROL
+WM_IME_COMPOSITIONFULL
+WM_IME_SELECT
+WM_IME_CHAR
+WM_IME_KEYDOWN
+WM_IME_KEYUP
+WM_MOUSEHOVER
+WM_NCMOUSELEAVE
+WM_MOUSELEAVE
+WM_COPY
+WM_PASTE
+WM_CLEAR
+WM_UNDO
+WM_RENDERFORMAT
+WM_RENDERALLFORMATS
+WM_DESTROYCLIPBOARD
+WM_DRAWCLIPBOARD
+WM_PAINTCLIPBOARD
+WM_VSCROLLCLIPBOARD
+WM_SIZECLIPBOARD
+WM_ASKCBFORMATNAME
+WM_CHANGECBCHAIN
+WM_HSCROLLCLIPBOARD
+WM_QUERYNEWPALETTE
+WM_PALETTEISCHANGING
+WM_PALETTECHANGED
+WM_HOTKEY
+WM_PRINT
+WM_PRINTCLIENT
+WM_HANDHELDFIRST
+WM_HANDHELDLAST
+WM_PENWINFIRST
+WM_PENWINLAST
+WM_COALESCE_FIRST
+WM_COALESCE_LAST
+WM_DDE_FIRST
+WM_DDE_INITIATE
+WM_DDE_TERMINATE
+WM_DDE_ADVISE
+WM_DDE_UNADVISE
+WM_DDE_ACK
+WM_DDE_DATA
+WM_DDE_REQUEST
+WM_DDE_POKE
+WM_DDE_EXECUTE
+WM_DDE_LAST
+WM_USER
+SDL_FIRSTEVENT
+SDL_QUIT
+SDL_APP_TERMINATING
+SDL_APP_LOWMEMORY
+SDL_APP_WILLENTERBACKGROUND
+SDL_APP_DIDENTERBACKGROUND
+SDL_APP_WILLENTERFOREGROUND
+SDL_APP_DIDENTERFOREGROUND
+SDL_WINDOWEVENT
+SDL_SYSWMEVENT
+SDL_KEYDOWN
+SDL_KEYUP
+SDL_TEXTEDITING
+SDL_TEXTINPUT
+SDL_MOUSEMOTION
+SDL_MOUSEBUTTONDOWN
+SDL_MOUSEBUTTONUP
+SDL_MOUSEWHEEL
+SDL_JOYAXISMOTION
+SDL_JOYBALLMOTION
+SDL_JOYHATMOTION
+SDL_JOYBUTTONDOWN
+SDL_JOYBUTTONUP
+SDL_JOYDEVICEADDED
+SDL_JOYDEVICEREMOVED
+SDL_CONTROLLERAXISMOTION
+SDL_CONTROLLERBUTTONDOWN
+SDL_CONTROLLERBUTTONUP
+SDL_CONTROLLERDEVICEADDED
+SDL_CONTROLLERDEVICEREMOVED
+SDL_CONTROLLERDEVICEREMAPPED
+SDL_FINGERDOWN
+SDL_FINGERUP
+SDL_FINGERMOTION
+SDL_DOLLARGESTURE
+SDL_DOLLARRECORD
+SDL_MULTIGESTURE
+SDL_CLIPBOARDUPDATE
+SDL_DROPFILE
+SDL_USEREVENT
+SDL_LASTEVENT
+IE_ButtonPressed
+IE_ButtonReleased
+IE_ButtonDoubleClicked
+IE_AnalogValueChanged
+IE_ButtonPressedRepeating
+IE_Quit
+IE_ControllerInserted
+IE_ControllerUnplugged
+IE_Close
+IE_WindowSizeChanged
+IE_ActivateApp
+IE_ActivateWindow
+IE_WindowMove
+IE_CopyData
+IE_LocateMouseClick
+IE_KeyTyped
+IE_KeyCodeTyped
+IE_KeyCodeReleased
+IE_InputLanguageChanged
+IE_IMESetWindow
+IE_IMEStartComposition
+IE_IMEComposition
+IE_IMEEndComposition
+IE_IMEShowCandidates
+IE_IMEChangeCandidates
+IE_IMECloseCandidates
+IE_IMERecomputeModes
+MSWHEEL_ROLLMSG
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\inputsystem\inputenums.h
+InputEvent_t::IsQualifierPressed
+m_nType == IE_ButtonPressed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\bitvec.h
+InputSystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\inputsystem\inputsystem.cpp
+-input_message_spew
+-disable_cursor_clip
+XInput1_3.dll
+ConfigurationSystem_001
+configurationsystem
+IMEManager001
+imemanager
+ScaleformUI001
+CInputSystem::SleepUntilInput
+c:\buildslave\vrgdc2015_staging_win64\build\src\inputsystem\inputsystem.cpp
+inputsystem
+CInputSystem::AttachToWindow: Tried to attach to the same window twice!
+inactive
+DetectApplicationActive:  polling determined app should be %s
+SDL:  got %s
+mouse down/up at %d %d on window %d
+SDL: Window %d shown
+SDL: Window %d hidden
+SDL: Window %d exposed
+SDL: Window %d moved to %d,%d
+SDL: Window %d resized to %dx%d
+SDL: Window %d minimized
+SDL: Window %d maximized
+SDL: Window %d restored
+SDL: Mouse entered window %d
+SDL: Mouse left window %d
+SDL: Window %d gained keyboard focus
+SDL: Window %d lost keyboard focus
+SDL: Window %d closed
+SDL: Window %d got unknown event %d
+CInputSystem::PollInputState_SDL
+process SDL events
+CInputSystem::PollInputState
+PrimaryUserId is %d
+KEYDOWN: sdlkeycode=%d SDL_GetKeyName='
+' buttoncode=%d buttonname='%s' ButtonCode_GetLocalKeyNameUTF8='
+(dota/keydown) %x %x %s
+KEYUP %d (%s)
+TEXTINPUT '%c'
+CInputSystem::ProcessSDLEvent
+w == nWidth
+h == nHeight
+INACTIVE
+WM_ACTIVATE with %s
+/cursor.res
+LoadCursorResource
+bLoadedCursorResource
+Failed to load image for cursor from %s: %s
+Failed to load cursor from %s: %s
+UpdateCaptureOnFocusChange:  releasing capture of 0x%p
+UpdateCaptureOnFocusChange:  enabling capture of 0x%p
+EnableMouseCapture:  releasing capture of 0x%p
+EnableMouseCapture:  enabling capture of 0x%p
+'is active'
+'is NOT active'
+enabling
+disabling
+UpdateCursorClipOnFocusChange:  %s SDL_SetWindowGrab on 0x%p (%s) %s
+SetCursorClip:  disabling SDL_SetWindowGrab on 0x%p (%s)
+SetCursorClip:  %s SDL_SetWindowGrab on 0x%p (%s) %s
+unknown event
+CInputSystem::SetMouseParams
+nCount == INPUT_SYSTEM_NUM_MOUSE_PARAMS
+CInputSystem::GetMouseParams
+SDL says cursor is %s and is set to 0x%p
+not using
+SDL is %s relative mouse
+Current coordinate scaling %g,%g
+focused
+out of focus
+Windows says 0x%p (%s) is capturing mouse and we are %s and %s
+Windows says clipping to %d %d %d %d
+SDL clip window state on 0x%p is %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlstringmap.h
+CUtlStringMap<struct InputCursorHandle_t__ *,class CUtlSymbolTable>::operator []
+n <= m_Vector.Count()
+CBitVecT<class CFixedBitVecBase<516> >::IsBitSet
+bitNum >= 0 && bitNum < this->GetNumBits()
+CBitVecT<class CFixedBitVecBase<516> >::Set
+CBitVecT<class CFixedBitVecBase<516> >::Clear
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlflags.h
+CUtlFlags<unsigned short>::SetFlag
+nFlagMask == (T)nFlagMask
+__UNKNOWN__
+Unaccounted
+CUtlMemory<struct InputEvent_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+inputsystem
+Unaccounted
+CUtlMemory<unsigned char *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+inputsystem
+Unaccounted
+CUtlMemory<struct CInputSystem::InputWindow_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+inputsystem
+Unaccounted
+CUtlMemory<struct InputCursorHandle_t__ *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+inputsystem
+CWingman warrior centering hack.
+joy_wingmanwarrior_centerhack
+Wingman warrior hack related to turn axes.
+joy_wingmanwarrior_turnhack
+Analog axis range before a button press is registered.
+joy_axisbutton_threshold
+joystick not found -- driver not present
+initializing SDL joystick %d %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\inputsystem\joystick.cpp
+CInputSystem::PollJoystick
+m_nJoystickCount <= ARRAYSIZE(m_pJoystickInfo)
+CUtlFlags<unsigned short>::IsFlagSet
+KP_DIVIDE
+KP_MULTIPLY
+KP_MINUS
+KP_PLUS
+KP_ENTER
+SEMICOLON
+BACKSPACE
+CAPSLOCK
+NUMLOCK
+SCROLLLOCK
+UPARROW
+LEFTARROW
+DOWNARROW
+RIGHTARROW
+CAPSLOCKTOGGLE
+NUMLOCKTOGGLE
+SCROLLLOCKTOGGLE
+AC_BACK
+AC_BOOKMARKS
+AC_FORWARD
+AC_HOME
+AC_REFRESH
+AC_SEARCH
+AC_STOP
+ALTERASE
+AMPERSAND
+ASTERISK
+AUDIOMUTE
+AUDIONEXT
+AUDIOPLAY
+AUDIOPREV
+AUDIOSTOP
+BRIGHTNESSDOWN
+BRIGHTNESSUP
+CALCULATOR
+CLEARAGAIN
+COMPUTER
+CURRENCYSUBUNIT
+CURRENCYUNIT
+DECIMALSEPARATOR
+DISPLAYSWITCH
+EXCLAIM
+EXECUTE
+GREATER
+KBDILLUMDOWN
+KBDILLUMTOGGLE
+KBDILLUMUP
+KP_AMPERSAND
+KP_BACKSPACE
+KP_BINARY
+KP_CLEAR
+KP_CLEARENTRY
+KP_COLON
+KP_COMMA
+KP_DBLAMPERSAND
+KP_DBLVERTICALBAR
+KP_DECIMAL
+KP_EQUALS
+KP_EQUALSAS400
+KP_EXCLAM
+KP_GREATER
+KP_HASH
+KP_HEXADECIMAL
+KP_LEFTBRACE
+KP_LEFTPAREN
+KP_LESS
+KP_MEMADD
+KP_MEMCLEAR
+KP_MEMDIVIDE
+KP_MEMMULTIPLY
+KP_MEMRECALL
+KP_MEMSTORE
+KP_MEMSUBTRACT
+KP_OCTAL
+KP_PERCENT
+KP_PLUSMINUS
+KP_POWER
+KP_RIGHTBRACE
+KP_RIGHTPAREN
+KP_SPACE
+KP_VERTICALBAR
+LEFTPAREN
+MEDIASELECT
+PERCENT
+PRINTSCREEN
+QUESTION
+QUOTEDBL
+RETURN2
+RIGHTPAREN
+SEPARATOR
+THOUSANDSSEPARATOR
+UNDERSCORE
+VOLUMEDOWN
+VOLUMEUP
+INVERTED_EXCLAMATION_MARK
+CENT_SIGN
+POUND_SIGN
+CURRENCY_SIGN
+YEN_SIGN
+BROKEN_BAR
+SECTION_SIGN
+DIAERESIS
+COPYRIGHT_SIGN
+FEMININE_ORDINAL_INDICATOR
+LEFT_POINTING_DOUBLE_ANGLE_QUOTATION_MARK
+NOT_SIGN
+REGISTERED_SIGN
+DEGREE_SIGN
+DEGREE_SYMBOL
+PLUS_MINUS_SIGN
+SUPERSCRIPT_TWO
+SUPERSCRIPT_THREE
+ACUTE_ACCENT
+MICRO_SIGN
+PILCROW_SIGN
+MIDDLE_DOT
+CEDILLA
+SUPERSCRIPT_ONE
+MASCULINE_ORDINAL_INDICATOR
+RIGHT_POINTING_DOUBLE_ANGLE_QUOTATION_MARK
+VULGAR_FRACTION_ONE_QUARTER
+VULGAR_FRACTION_ONE_HALF
+VULGAR_FRACTION_THREE_QUARTERS
+INVERTED_QUESTION_MARK
+MULTIPLICATION_SIGN
+SHARP_S
+A_WITH_GRAVE
+A_WITH_ACUTE
+A_WITH_CIRCUMFLEX
+A_WITH_TILDE
+A_WITH_DIAERESIS
+A_WITH_RING_ABOVE
+C_WITH_CEDILLA
+E_WITH_GRAVE
+E_WITH_ACUTE
+E_WITH_CIRCUMFLEX
+E_WITH_DIAERESIS
+I_WITH_GRAVE
+I_WITH_ACUTE
+I_WITH_CIRCUMFLEX
+I_WITH_DIAERESIS
+N_WITH_TILDE
+O_WITH_GRAVE
+O_WITH_ACUTE
+O_WITH_CIRCUMFLEX
+O_WITH_TILDE
+O_WITH_DIAERESIS
+DIVISION_SIGN
+O_WITH_STROKE
+U_WITH_GRAVE
+U_WITH_ACUTE
+U_WITH_CIRCUMFLEX
+U_WITH_DIAERESIS
+Y_WITH_ACUTE
+Y_WITH_DIAERESIS
+EURO_SIGN
+LEFT_CURLY_BRACKET
+RIGHT_CURLY_BRACKET
+VERTICAL_BAR
+KEY_CYRILLIC_YU
+KEY_CYRILLIC_E
+KEY_CYRILLIC_HARD_SIGN
+KEY_CYRILLIC_HA
+KEY_CYRILLIC_IO
+KEY_CYRILLIC_ZHE
+KEY_CYRILLIC_BE
+MWHEELUP
+MWHEELDOWN
+POV_RIGHT
+POV_DOWN
+POV_LEFT
+X_AXIS_POS
+X_AXIS_NEG
+Y_AXIS_POS
+Y_AXIS_NEG
+Z_AXIS_POS
+Z_AXIS_NEG
+R_AXIS_POS
+R_AXIS_NEG
+U_AXIS_POS
+U_AXIS_NEG
+V_AXIS_POS
+V_AXIS_NEG
+MOUSE_X
+MOUSE_Y
+MOUSE_XY
+MOUSE_WHEEL
+A_BUTTON
+B_BUTTON
+X_BUTTON
+Y_BUTTON
+L_SHOULDER
+R_SHOULDER
+S1_RIGHT
+S1_LEFT
+S1_DOWN
+L_TRIGGER
+R_TRIGGER
+S2_RIGHT
+S2_LEFT
+S2_DOWN
+c:\buildslave\vrgdc2015_staging_win64\build\src\inputsystem\key_translation.cpp
+ButtonCode_VirtualKeyToButtonCode
+ButtonCode_XKeyToButtonCode
+00000409
+Updates game keyboard layout to current windows keyboard setting.
+key_updatelayout
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlrbtree.h
+CUtlRBTree<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::Find
+!!m_LessFunc
+CUtlRBTree<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+m_Elements.IsValidIterator( m_LastAlloc ) || m_NumElements == 0
+m_Elements.IsValidIterator( it )
+m_Elements.IsValidIterator( m_LastAlloc )
+CUtlRBTree<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+m_Root == InvalidIndex()
+m_FirstFree == InvalidIndex()
+m_NumElements == 0
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,enum ButtonCode_t,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+inputsystem
+inputsystem.dll
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+joy_deadzone_mode
+XInputGetState
+XInputSetState
+XInputGetCapabilities
+XInputGetKeystroke
+c:\buildslave\vrgdc2015_staging_win64\build\src\inputsystem\xcontroller.cpp
+CInputSystem::OpenXDevice
+0 && "Unsupported XDevice Type"
+CInputSystem::PostXKeyEvent
+code >= 0 && code < ARRAYSIZE(state.m_pAnalogDelta)
+xKey >= 0 && xKey < ARRAYSIZE(m_appXKeys[0])
+quit_x360
+CInputSystem::ReadXDevice
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\configurationsystem\iconfigurationsystem.h
+CUserConfigValue<int>::CUserConfigValue
+CUserConfigValue: Error constructing a user config value!
+CUserConfigValue<int>::Get
+m_pValue
+count >= 0
+CATI_DST16
+ATI_DST24
+X360_DST16
+X360_DST24
+X360_DST24F
+LINEAR_BGRX8888
+LINEAR_RGBA8888
+LINEAR_ABGR8888
+LINEAR_ARGB8888
+LINEAR_BGRA8888
+LINEAR_RGB888
+LINEAR_BGR888
+LINEAR_BGRX5551
+LINEAR_I8
+LINEAR_RGBA16161616
+LE_BGRX8888
+LE_BGRA8888
+RG1616F
+RG3232F
+RGBX8888
+NV_NULL
+RGBA1010102
+BGRA1010102
+LINEAR_D24S8
+D24X4S4
+D16_SHADOW
+D24X8_SHADOW
+RGBA16161616_EDRAM
+RGBA1010102F_EDRAM
+R16F_EXPAND
+RG1616F_EXPAND
+RGBA16161616F_EXPAND
+RGBA16161616F_EDRAM_RGBA1010102F
+RGBA16161616F_EXPAND_EDRAM_RGBA1010102F
+RGBA16161616_EDRAM_RGBA16161616
+DXT5_NM
+RGBA8888_LINEAR
+BGRA8888_LINEAR
+BGRX8888_LINEAR
+RGBX555
+UNKNOWN
+RGBA8888
+ABGR8888
+RGB888_BLUESCREEN
+BGR888_BLUESCREEN
+ARGB8888
+BGRA8888
+BGRX8888
+BGRX5551
+BGRA4444
+DXT1_ONEBITALPHA
+BGRA5551
+UVWQ8888
+RGBA16161616F
+RGBA16161616
+UVLX8888
+RGB323232F
+RGBA32323232F
+NV_DST16
+NV_DST24
+NV_INTZ
+NV_RAWZ
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsoacontainer.h
+nAttributeIdx < MAX_SOA_FIELDS
+nX < m_nColumns
+nY < m_nRows
+nZ < m_nSlices
+m_nDataType[nAttributeIdx] != ATTRDATATYPE_NONE
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\bitmap\floatbitmap.h
+FloatBitMap_t::Pixel
+( x >= 0 ) && ( x < NumCols() )
+( y >= 0 ) && ( y < NumRows() )
+( z >= 0 ) && ( z < NumSlices() )
+CSOAContainer::ElementPointer
+m_nDataType[nAttributeIdx] != ATTRDATATYPE_4V
+?c:\buildslave\vrgdc2015_staging_win64\build\src\bitmap\tiffloader.cpp
+Unaccounted
+CUtlMemory<char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<unsigned char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+BVApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+Invalid progressive parameters Ss=%d Se=%d Ah=%d Al=%d
+Invalid progressive parameters at scan script entry %d
+Bogus sampling factors
+Invalid scan script at entry %d
+Improper call to JPEG library in state %d
+JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
+Bogus virtual array access
+Buffer passed to JPEG library is too small
+Suspension not allowed here
+CCIR601 sampling not implemented yet
+Too many color components: %d, max %d
+Unsupported color conversion request
+Bogus DAC index %d
+Bogus DAC value 0x%x
+Bogus DHT index %d
+Bogus DQT index %d
+Empty JPEG image (DNL not supported)
+Read from EMS failed
+Write to EMS failed
+Didn't expect more than one scan
+Input file read error
+Output file write error --- out of disk space?
+Fractional sampling not implemented yet
+Huffman code size table overflow
+Missing Huffman code table entry
+Maximum supported image dimension is %u pixels
+Empty input file
+Premature end of input file
+Cannot transcode due to multiple use of quantization table %d
+Scan script does not transmit all data
+Invalid color quantization mode change
+Not implemented yet
+Requested feature was omitted at compile time
+Arithmetic table 0x%02x was not defined
+Backing store not supported
+Huffman table 0x%02x was not defined
+JPEG datastream contains no image
+Quantization table 0x%02x was not defined
+Not a JPEG file: starts with 0x%02x 0x%02x
+Insufficient memory (case %d)
+Cannot quantize more than %d color components
+Cannot quantize to fewer than %d colors
+Cannot quantize to more than %d colors
+Invalid JPEG file structure: two SOF markers
+Invalid JPEG file structure: missing SOS marker
+Unsupported JPEG process: SOF type 0x%02x
+Invalid JPEG file structure: two SOI markers
+Invalid JPEG file structure: SOS before SOF
+Failed to create temporary file %s
+Read failed on temporary file
+Seek failed on temporary file
+Write failed on temporary file --- out of disk space?
+Application transferred too few scanlines
+Unsupported marker type 0x%02x
+Virtual array controller messed up
+Image too wide for this implementation
+Read from XMS failed
+Write to XMS failed
+Copyright (C) 2010, Thomas G. Lane, Guido Vollbeding
+8b  16-May-2010
+Caution: quantization tables are too coarse for baseline JPEG
+Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
+Unknown APP0 marker (not JFIF), length %u
+Unknown APP14 marker (not Adobe), length %u
+Define Arithmetic Table 0x%02x: 0x%02x
+Define Huffman Table 0x%02x
+Define Quantization Table %d  precision %d
+Define Restart Interval %u
+Freed EMS handle %u
+Obtained EMS handle %u
+End Of Image
+        %3d %3d %3d %3d %3d %3d %3d %3d
+JFIF APP0 marker: version %d.%02d, density %dx%d  %d
+Warning: thumbnail image size does not match data length %u
+JFIF extension marker: type 0x%02x, length %u
+    with %d x %d thumbnail image
+Miscellaneous marker 0x%02x, length %u
+Unexpected marker 0x%02x
+        %4u %4u %4u %4u %4u %4u %4u %4u
+Quantizing to %d = %d*%d*%d colors
+Quantizing to %d colors
+Selected %d colors for quantization
+At marker 0x%02x, recovery action %d
+Smoothing not supported with nonstandard sampling ratios
+Start Of Frame 0x%02x: width=%u, height=%u, components=%d
+    Component %d: %dhx%dv q=%d
+Start of Image
+Start Of Scan: %d components
+    Component %d: dc=%d ac=%d
+  Ss=%d, Se=%d, Ah=%d, Al=%d
+Closed temporary file %s
+Opened temporary file %s
+JFIF extension marker: JPEG-compressed thumbnail image, length %u
+JFIF extension marker: palette thumbnail image, length %u
+JFIF extension marker: RGB thumbnail image, length %u
+Unrecognized component IDs %d %d %d, assuming YCbCr
+Freed XMS handle %u
+Obtained XMS handle %u
+Unknown Adobe color transform code %d
+Corrupt JPEG data: bad arithmetic code
+Inconsistent progression sequence for component %d coefficient %d
+Corrupt JPEG data: %u extraneous bytes before marker 0x%02x
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Warning: unknown JFIF revision number %d.%02d
+Premature end of JPEG file
+Corrupt JPEG data: found marker 0x%02x instead of RST%d
+Invalid SOS parameters for sequential JPEG
+Application transferred too many scanlines
+Bogus message code %d
+ALIGN_TYPE is wrong, please fix
+MAX_ALLOC_CHUNK is wrong, please fix
+Bogus buffer control mode
+Invalid component ID %d in SOS
+Invalid crop request
+DCT coefficient out of range
+DCT scaled block size %dx%d not supported
+Component index %d: mismatching sampling ratio %d:%d, %d:%d, %c
+Bogus Huffman table definition
+Bogus input colorspace
+Bogus JPEG colorspace
+Bogus marker length
+Wrong JPEG library version: library is %d, caller expects %d
+Sampling factors too large for interleaved scan
+Invalid memory pool code %d
+Unsupported JPEG data precision %d
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+BKbhTb~XBK!;
+Z@&LHA'
+MQC,ARD
+/TF<)VGy#WH
+Da\">c]$8c^
+VeaFOfb
+Ahd=<c]^7if1Rjg
+Lkh9Fgc^A
+p@0123456789ABCDEF
+123456789
+0123456789ABCDEF
+DDDDUUUU
+00003333
+""""UUUU
+unknown
+Failed to allocate memory for %s (%ld elements of %ld bytes each)
+Integer overflow in %s
+Invalid YCbCr subsampling
+TIFFVStripSize
+TIFFScanlineSize
+TIFFReadRawStrip
+TIFFFillStrip
+TIFFReadRawTile
+TIFFFillTile
+TIFFReadBufferSetup
+TIFFClientOpen
+_TIFFVSetField
+TIFFAdvanceDirectory
+TIFFUnlinkDirectory
+TIFFSetField
+pseudo-
+%s: Unknown %stag %u
+%s: Cannot modify tag "%s" while writing
+TIFFTileRowSize
+TIFFVTileSize
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+TIFFReadDirectory
+for "ReferenceBlackWhite" array
+TIFFReadCustomDirectory
+EstimateStripByteCounts
+MissingRequired
+TIFFFetchDirectory
+to fetch tag value
+ImageLength
+TileOffsets
+StripOffsets
+StripByteCounts
+%s %s encoding is not implemented
+Compression scheme %u %s encoding is not implemented
+scanline
+%s %s decoding is not implemented
+Compression scheme %u %s decoding is not implemented
+Compression algorithm does not support random access
+TIFFRewriteDirectory
+TIFFLinkDirectory
+TIFFWriteScanline
+TIFFWriteEncodedStrip
+TIFFWriteRawStrip
+TIFFWriteEncodedTile
+TIFFWriteRawTile
+TIFFWriteBufferSetup
+TIFFAppendToStrip
+Seek error at scanline %lu
+Write error at scanline %lu
+_TIFFMergeFieldInfo
+for field info array
+SubfileType
+OldSubfileType
+ImageWidth
+BitsPerSample
+Compression
+PhotometricInterpretation
+Threshholding
+CellWidth
+CellLength
+FillOrder
+DocumentName
+ImageDescription
+Orientation
+SamplesPerPixel
+RowsPerStrip
+MinSampleValue
+MaxSampleValue
+XResolution
+YResolution
+PlanarConfiguration
+PageName
+XPosition
+YPosition
+FreeOffsets
+FreeByteCounts
+GrayResponseUnit
+GrayResponseCurve
+ResolutionUnit
+PageNumber
+ColorResponseUnit
+TransferFunction
+Software
+DateTime
+HostComputer
+WhitePoint
+PrimaryChromaticities
+ColorMap
+HalftoneHints
+TileWidth
+TileLength
+TileByteCounts
+InkNames
+NumberOfInks
+DotRange
+TargetPrinter
+ExtraSamples
+SampleFormat
+SMinSampleValue
+SMaxSampleValue
+ClipPath
+XClipPathUnits
+YClipPathUnits
+YCbCrCoefficients
+YCbCrSubsampling
+YCbCrPositioning
+ReferenceBlackWhite
+XMLPacket
+Matteing
+DataType
+ImageDepth
+TileDepth
+ImageFullWidth
+ImageFullLength
+TextureFormat
+TextureWrapModes
+FieldOfViewCotangent
+MatrixWorldToScreen
+MatrixWorldToCamera
+Copyright
+RichTIFFIPTC
+Photoshop
+EXIFIFDOffset
+ICC Profile
+GPSIFDOffset
+StoNits
+InteroperabilityIFDOffset
+DNGVersion
+DNGBackwardVersion
+UniqueCameraModel
+LocalizedCameraModel
+CFAPlaneColor
+CFALayout
+LinearizationTable
+BlackLevelRepeatDim
+BlackLevel
+BlackLevelDeltaH
+BlackLevelDeltaV
+WhiteLevel
+DefaultScale
+BestQualityScale
+DefaultCropOrigin
+DefaultCropSize
+ColorMatrix1
+ColorMatrix2
+CameraCalibration1
+CameraCalibration2
+ReductionMatrix1
+ReductionMatrix2
+AnalogBalance
+AsShotNeutral
+AsShotWhiteXY
+BaselineExposure
+BaselineNoise
+BaselineSharpness
+BayerGreenSplit
+LinearResponseLimit
+CameraSerialNumber
+LensInfo
+ChromaBlurRadius
+AntiAliasStrength
+ShadowScale
+DNGPrivateData
+MakerNoteSafety
+CalibrationIlluminant1
+CalibrationIlluminant2
+RawDataUniqueID
+OriginalRawFileName
+OriginalRawFileData
+ActiveArea
+MaskedAreas
+AsShotICCProfile
+AsShotPreProfileMatrix
+CurrentICCProfile
+CurrentPreProfileMatrix
+ExposureTime
+FNumber
+ExposureProgram
+SpectralSensitivity
+ISOSpeedRatings
+OptoelectricConversionFactor
+ExifVersion
+DateTimeOriginal
+DateTimeDigitized
+ComponentsConfiguration
+CompressedBitsPerPixel
+ShutterSpeedValue
+ApertureValue
+BrightnessValue
+ExposureBiasValue
+MaxApertureValue
+SubjectDistance
+MeteringMode
+LightSource
+FocalLength
+SubjectArea
+MakerNote
+UserComment
+SubSecTime
+SubSecTimeOriginal
+SubSecTimeDigitized
+FlashpixVersion
+ColorSpace
+PixelXDimension
+PixelYDimension
+RelatedSoundFile
+FlashEnergy
+SpatialFrequencyResponse
+FocalPlaneXResolution
+FocalPlaneYResolution
+FocalPlaneResolutionUnit
+SubjectLocation
+ExposureIndex
+SensingMethod
+FileSource
+SceneType
+CFAPattern
+CustomRendered
+ExposureMode
+WhiteBalance
+DigitalZoomRatio
+FocalLengthIn35mmFilm
+SceneCaptureType
+GainControl
+Contrast
+Saturation
+Sharpness
+DeviceSettingDescription
+SubjectDistanceRange
+ImageUniqueID
+Failed to allocate field info array
+Internal error, unknown tag 0x%x
+TIFFFieldWithTag
+PackBits
+ThunderScan
+Old-style JPEG
+CCITT RLE
+CCITT RLE/W
+CCITT Group 3
+CCITT Group 4
+ISO JBIG
+Deflate
+AdobeDeflate
+PixarLog
+SGILog24
+%s compression support is not configured
+NeXTDecode: Not enough data for scanline %ld
+ LZWSetupDecode
+LZWSetupEncode
+No space for LZW state block
+LZWPreDecode
+No space for LZW code table
+Old-style LZW codes, convert file
+LZWDecode: Bogus encoding, loop in the code table; scanline %d
+LZWDecode: Strip %d not terminated with EOI code
+LZWDecode: Corrupted LZW table at scanline %d
+LZWDecode: Wrong length of decoded string: data probably corrupted at scanline %d
+LZWDecode: Not enough data at scanline %d (short %ld bytes)
+LZWDecodeCompat: Corrupted LZW table at scanline %d
+LZWDecodeCompat: Wrong length of decoded string: data probably corrupted at scanline %d
+LZWDecodeCompat: Not enough data at scanline %d (short %ld bytes)
+No space for LZW hash table
+TIFFInitLZW
+ZIPSetupDecode
+ZIPDecode
+ZIPSetupEncode
+ZIPEncode
+ZIPPostEncode
+ZIPVSetField
+TIFFInitZIP
+%s: Decoding error at scanline %d, %s
+%s: zlib error: %s
+%s: Not enough data at scanline %d (short %d bytes)
+%s: Encoder error: %s
+Merging Deflate codec-specific tags failed
+No space for ZIP state block
+LogL16InitState
+LogLuvInitState
+TIFFInitSGILog
+SGILogDataFmt
+SGILogEncode
+LogL16Decode: Not enough data at row %d (short %d pixels)
+LogLuvDecode24: Not enough data at row %d (short %d pixels)
+LogLuvDecode32: Not enough data at row %d (short %d pixels)
+No support for converting user data format to LogL
+%s: No space for SGILog translation buffer
+SGILog compression cannot handle non-contiguous data
+No support for converting user data format to LogLuv
+must be either LogLUV or LogL
+Inappropriate photometric interpretation %d for SGILog compression; %s
+XYZ, Luv
+SGILog compression supported only for %s, or raw data
+Unknown data format %d for LogLuv compression
+Unknown encoding %d for LogLuv compression
+Merging SGILog codec-specific tags failed
+%s: No space for LogLuv state block
+DumpModeDecode: Not enough data for scanline %d
+PackBitsDecode: discarding %ld bytes to avoid buffer overrun
+PackBitsDecode: Not enough data for scanline %ld
+Fax3Decode1D
+Fax3DecodeRLE
+Fax3Decode2D
+Fax4Decode
+FaxMode
+FaxFillFunc
+BadFaxLines
+CleanFaxData
+ConsecutiveBadFaxLines
+FaxRecvParams
+FaxSubAddress
+FaxRecvTime
+Group3Options
+Group4Options
+%s: Bad code word at line %u of %s %u (x %u)
+%s: Uncompressed data (not supported) at line %u of %s %u (x %u)
+Premature EOL
+Line length mismatch
+%s: %s at line %u of %s %u (got %u, expected %u)
+%s: Premature EOF at line %u of %s %u (x %u)
+Bits/sample must be 1 for Group 3/4 encoding/decoding
+Row pixels integer overflow (rowpixels %u)
+for Group 3/4 run arrays
+%s: No space for Group 3/4 reference line
+Fax3SetupState
+  Group 4 Options:
+%suncompressed data
+  Group 3 Options:
+%s2-d encoding
+%sEOL padding
+ (%lu = 0x%lx)
+  Fax Data:
+ receiver regenerated
+ uncorrected errors
+ (%u = 0x%x)
+  Bad Fax Lines: %lu
+  Consecutive Bad Fax Lines: %lu
+  Fax Receive Parameters: %08lx
+  Fax SubAddress: %s
+  Fax Receive Time: %lu secs
+  Fax DCS: %s
+Merging common CCITT Fax codec-specific tags failed
+InitCCITTFax3
+%s: No space for state block
+TIFFInitCCITTFax3
+Merging CCITT Fax 3 codec-specific tags failed
+Merging CCITT Fax 4 codec-specific tags failed
+TIFFInitCCITTFax4
+Not enough
+Too much
+ThunderDecode: %s data at scanline %ld (%lu != %lu)
+PredictorSetup
+PredictorEncodeTile
+Predictor
+Horizontal differencing "Predictor" not supported with %d-bit samples
+Floating point "Predictor" not supported with %d data format
+"Predictor" value %d not supported
+Out of memory allocating %d byte temp buffer.
+  Predictor: 
+horizontal differencing 
+floating point predictor 
+%u (0x%x)
+Merging Predictor codec-specific tags failed
+TIFFPredictorInit
+c:\buildslave\vrgdc2015_staging_win64\build\src\mathlib\mathlib_base.cpp
+_VectorNormalizeFast
+fabs( vec.LengthSqr() - 1.0f ) < 1e-3
+MathLib_Init
+SSE and SSE2 are required.
+@fff>fff>fff>fff>
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\fmtstr.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strncmp
+Unaccounted
+_V_strncmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_strcmp
+V_strncasecmp
+Unaccounted
+V_strncasecmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strnicmp
+V_stristr
+pSearch
+_V_strncpy
+maxLen >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+V_vsnprintf
+_V_strncat
+destBufferSize >= 0
+_V_FileBase
+maxlen >= 1
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CFmtStrN<256,0>::CFmtStrN
+FmtStrVSNPrintf truncated without QUIET_TRUNCATION specified!
+VALVE-MODULE-DEBUG-%08X
+%s/bin/%s
+BuiltDebug
+-allowdebug
+Module %s is a debug build
+Sys_LoadModule
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\interface.cpp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+CUtlBuffer::CUtlBuffer
+nSize != 0
+CUtlBuffer::Get
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + size - 1 )
+CUtlBuffer::GetString
+nMaxChars > 0
+(GetChar()) == (0)
+CUtlBuffer::PeekGet
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + nMaxSize - 1 )
+CUtlBuffer::Put
+CUtlBuffer::AddNullTermination
+m_Memory.IsIdxValid( Index )
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+*** ConCommand "%s" (%p) was not unregistered! Shutdown crash imminent!
+ConCommand::Dispatch
+Encountered ConCommand '%s' without a callback!
+ConCommand::AutoCompleteSuggest
+m_pParent->m_fnCompletionCallback
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+Unaccounted
+CUtlMemory<struct ConCommand::CallbackInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+CGlobalConfigValueRegistry::AddToList
+s_pConfigRegistry->m_nCount >= 0 && s_pConfigRegistry->m_nCount < ARRAYSIZE(s_pConfigRegistry->m_pInfo)
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::Find
+Unaccounted
+CUtlSymbolTable::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::AddString
+Unaccounted
+CUtlSymbolTable::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbolTable::AddString
+pPool->m_SpaceUsed < 0xFFFF
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::Insert
+!"Allowing insert of dupe without explicit dupe insertion. Fix code callpoint to allow dupes."
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct CUtlSymbolTable::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\keyvalues.cpp
+CKeyValuesErrorStack::Pop
+m_errorIndex>=0
+CKeyValuesErrorStack::Reset
+stackLevel >= 0 && stackLevel < m_errorIndex
+KeyValues Error: %s in file %s
+(*%s*), 
+ ReadToken overflow
+CKeyValuesTokenReader::SeekBackOneToken
+CKeyValuesTokenReader::SeekBackOneToken: It is only possible to seek back one token at a time
+CkeyValuesTokenReader::SeekBackOneToken: No tokens read yet
+CKeyValues_Data::Internal_SetSubKey::<lambda_dfee2f515a6a5adff42b5f68583e88d3>::operator ()
+m_iDataType == TYPE_NONE
+CKeyValues_Data::Internal_ClearData
+!m_bStoredSubKey
+KeyValues::GetName
+Member function called on NULL KeyValues
+KeyValues::GetNameSymbol
+KeyValues::GetNameSymbolCaseSensitive
+KeyValues::LoadFromFile
+KeyValues::FindKey
+KeyValues::FindKey called on NULL pointer!
+!bCreate
+size >= 0
+size < 1024 * 1024
+KeyValues::AddSubkeyUsingKnownLastChild
+pSubkey != NULL
+pSubkey->m_pPeer == NULL
+Internal_GetSubKey() == NULL
+Internal_GetSubKey() != NULL
+pLastChild->m_pPeer == NULL
+KeyValues::AddSubKey
+KeyValues::GetNextKey
+CKeyValues_Data::Internal_GetInt
+CKeyValues_Data::Internal_CopyData
+KeyValues::AppendIncludedKeys
+KeyValues::ParseIncludedKeys
+resourceName
+filetoinclude
+pFileSystem
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues::MergeBaseKeys
+KeyValues::RecursiveMergeKeyValues
+KV Conditional Evaluation Error
+KeyValues::LoadFromBuffer
+#include
+#include is NULL 
+#base is NULL 
+pCurrentKey
+LoadFromBuffer: expected '{', found '%s'
+RecursiveLoadFromBuffer:  recursion overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  got conditional between key and value
+KeyValues::RecursiveLoadFromBuffer
+dat->m_pPeer == NULL
+pLastChild == NULL || pLastChild->m_pPeer == dat
+Internal_GetSubKey() == dat
+pLastChild->m_pPeer == dat
+Unaccounted
+CUtlMemory<class KeyValues *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+()$^.*+?[]|\-{},:=!
+generic
+unknown error
+iostream
+iostream stream error
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+string too long
+invalid string position
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\exprevaluator.cpp
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+D"A/oyu
+	6RtcZO"
+z`%1Is}
+)VScript
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\schemabindings.cpp
+InstallSchemaBindings
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+[-&LMb#{'
+)\ZEo^m/
+H*0"ZOW
+IiGM>nw
+incorrect header check
+unknown compression method
+invalid window size
+unknown header flags set
+header crc mismatch
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid code lengths set
+invalid bit length repeat
+invalid code -- missing end-of-block
+invalid literal/lengths set
+invalid distances set
+invalid literal/length code
+invalid distance code
+invalid distance too far back
+incorrect data check
+incorrect length check
+ deflate 1.2.5 Copyright 1995-2010 Jean-loup Gailly and Mark Adler 
+need dictionary
+stream end
+file error
+stream error
+data error
+insufficient memory
+buffer error
+incompatible version
+ inflate 1.2.5 Copyright 1995-2010 Mark Adler 
+								
+?E=$% B
+?49HoKC
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+?UUUUUU
+CorExitProcess
+GrJoq>@
+?8UUUUU
+?UUUUUU
+AUUUUUU
+?UUUUUU
+Unknown exception
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+UTF-16LE
+UNICODE
+?8bunz8
+?@En[vP
+?UUUUUU
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+-9D	/9a
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+_nextafter
+@^8U)zj
+?3ScR.>
+?gibQ^AX>
+WR_l%2>
+)2STud>
+J\;5yTb
+<8bunz8
+<@En[vP
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+<unknown>
+wchar_t
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+c:\buildslave\vrgdc2015_staging_win64\build\src\inputsystem\Release\win64\inputsystem.pdb
+inputsystem.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+RegisterWindowMessageA
+SendMessageA
+CallWindowProcA
+GetKeyState
+GetCapture
+SetCapture
+ReleaseCapture
+GetSystemMetrics
+SetActiveWindow
+GetForegroundWindow
+SetForegroundWindow
+GetWindowTextA
+GetClipCursor
+GetWindowLongPtrW
+SetWindowLongPtrW
+GetWindowThreadProcessId
+SystemParametersInfoA
+LoadKeyboardLayoutA
+GetKeyboardLayout
+MapVirtualKeyExA
+GetFocus
+USER32.dll
+ImmIsUIMessageA
+IMM32.dll
+SDL_GetError
+SDL_RWFromFile
+SDL_CreateRGBSurface
+SDL_FreeSurface
+SDL_LoadBMP_RW
+SDL_UpperBlitScaled
+SDL_GetWindowFromID
+SDL_GetWindowTitle
+SDL_SetWindowGrab
+SDL_GetWindowGrab
+SDL_GetModState
+SDL_GetKeyName
+SDL_WarpMouseGlobal
+SDL_SetRelativeMouseMode
+SDL_GetRelativeMouseMode
+SDL_CreateColorCursor
+SDL_CreateSystemCursor
+SDL_SetCursor
+SDL_GetCursor
+SDL_FreeCursor
+SDL_ShowCursor
+SDL_PollEvent
+SDL_WaitEventTimeout
+SDL_SetWindowsMessageHook
+SDL_NumJoysticks
+SDL_JoystickOpen
+SDL_JoystickName
+SDL_JoystickNumAxes
+SDL_JoystickNumHats
+SDL_JoystickNumButtons
+SDL_JoystickUpdate
+SDL_JoystickGetAxis
+SDL_JoystickGetHat
+SDL_JoystickGetButton
+SDL_JoystickClose
+SDL_InitSubSystem
+SDL_QuitSubSystem
+SDL2.dll
+AssertMsg_ConditionFailed
+Warning
+g_pMemAlloc
+CMemAllocSystemInitialize
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+g_pGlobalMiniProfilers
+Plat_SetupFPUControlWord
+Plat_MSTime
+Plat_GetWindowClientSize
+Plat_WindowToScreenCoords
+Plat_ScreenToWindowCoords
+Plat_WindowToOsSpecificHandle
+Plat_OsSpecificHandleToPlatWindow
+Plat_IsHighDPI
+CommandLine
+LoggingSystem_RegisterLoggingChannel
+?ConMsg@@YAXPEBDZZ
+?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
+?ExitScope@CVProfile@@QEAAXXZ
+ETWMouseDown
+ETWMouseUp
+ETWMouseMove
+ETWMouseWheel
+ETWKeyDown
+g_Telemetry
+g_ClockSpeedMillisecondsMultiplier
+g_VProfCurrentProfile
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+Plat_IsInDebugSession
+Plat_ExitProcess
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+Plat_ShouldCollectMiniDumpsForFatalErrors
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+LOG_GENERAL
+GetCPUInformation
+tier0.dll
+KeyValuesSystem
+GetOSType
+vstdlib.dll
+CloseHandle
+CreateEventA
+GetCurrentProcessId
+GetTickCount
+GetProcAddress
+LeaveCriticalSection
+ExitProcess
+MultiByteToWideChar
+WideCharToMultiByte
+LCMapStringW
+WaitForSingleObject
+FreeLibrary
+LoadLibraryExA
+CreateFileMappingA
+GetCurrentThreadId
+IsDebuggerPresent
+IsProcessorFeaturePresent
+RtlUnwindEx
+EncodePointer
+DecodePointer
+GetCommandLineA
+GetLastError
+GetModuleHandleExW
+EnterCriticalSection
+GetDriveTypeW
+GetFullPathNameA
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+ReadFile
+GetConsoleMode
+ReadConsoleW
+WriteFile
+GetConsoleCP
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetModuleFileNameW
+LoadLibraryExW
+FlushFileBuffers
+GetStringTypeW
+GetCurrentDirectoryW
+SetStdHandle
+SetFilePointerEx
+WriteConsoleW
+OutputDebugStringW
+CreateFileW
+KERNEL32.dll
+?DevWarning@@YAXPEBDZZ
+CreateSimpleThread
+ReleaseThreadHandle
+GetThreadedLoadLibraryFunc
+StackToolsNotify_LoadedModule
+StackToolsNotify_BeginLoadingModule
+StackToolsNotify_EndLoadingModule
+?DevMsg@@YAXPEBDZZ
+?Lock@CThreadFastMutex@@AECAXII@Z
+DXT1DXT3DXT5
+INTZRAWZDF16DF24ATI2ATI1
+0'>0c*>
+pb>pAf>
+-?[`/?291?
+RD?4KF?=GH?9FJ?8HL?
+a?y#c?sIe?
+0123456789ABCDEF
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+*S?~uJ?x
+O?_Y@?R
+BA?8gV?
+:>	As?K
+>$jh?ckm
+>|Z2>'ez?
+.?AV?$CUtlMemory@PEAUInputContext_t@@H@@
+.?AVIInputStackSystem@@
+.?AVIAppSystem@@
+.?AVCInputStackSystem@@
+.?AV?$CTier2AppSystem@VIInputStackSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VIInputStackSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VIInputStackSystem@@@@
+.?AV?$CBaseAppSystem@VIInputStackSystem@@@@
+.?AV?$CUtlMemory@UInputEvent_t@@H@@
+.?AV?$CUtlVectorBase@UInputEvent_t@@V?$CUtlMemory@UInputEvent_t@@H@@@@
+.?AV?$CUtlMemory@PEAEH@@
+.?AV?$CUtlVectorBase@PEAEV?$CUtlMemory@PEAEH@@@@
+.?AV?$CUtlVectorBase@UInputWindow_t@CInputSystem@@V?$CUtlMemory@UInputWindow_t@CInputSystem@@H@@@@
+.?AV?$CUtlMemory@UInputWindow_t@CInputSystem@@H@@
+.?AV?$CUtlMemory@PEAUInputCursorHandle_t__@@H@@
+.?AV?$CUtlVectorBase@PEAUInputCursorHandle_t__@@V?$CUtlMemory@PEAUInputCursorHandle_t__@@H@@@@
+.?AVIInputSystem@@
+.?AVCInputSystem@@
+.?AV?$CTier2AppSystem@VIInputSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VIInputSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VIInputSystem@@@@
+.?AV?$CBaseAppSystem@VIInputSystem@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IW4ButtonCode_t@@GP6A_NAEBI0@Z@@G@@G@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@IW4ButtonCode_t@@GP6A_NAEBI0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IW4ButtonCode_t@@GP6A_NAEBI0@Z@@G@@G@@@@
+.?AV?$CUtlMemory@EH@@
+.?AV?$CUtlMemory@DH@@
+.?AV?$CUtlVectorBase@DV?$CUtlMemory@DH@@@@
+.?AVCPostConnectCallback@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@UCallbackInfo_t@ConCommand@@V?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@@@
+.?AV?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVConCommand@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@CUtlSymbolTable@@V?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@
+.?AV?$CUtlRBTree@VCStringPoolIndex@CUtlSymbolTable@@GVCLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@@@
+.?AV?$CUtlVectorBase@PEAVKeyValues@@V?$CUtlMemory@PEAVKeyValues@@H@@@@
+.?AV?$CUtlMemory@PEAVKeyValues@@H@@
+.?AVexception@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+?UUUUUU
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z

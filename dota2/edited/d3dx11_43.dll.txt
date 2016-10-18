@@ -1,0 +1,692 @@
+!This program cannot be run in DOS mode.
+@.reloc
+bad allocation
+Fd3d10.dll
+d3d10_1.dll
+D3DCompile
+D3DPreprocess
+(="H6=Y
+y:>hF>>
+hl>:Kp>
+g!?Yw"?
+X0?fk1?
+@=?4T>?
+JW?KbX?
+	`?r"a?
+@x? [y?Qvz?
+(a>Dke>
+e#?RZ$?pO%?iD&??9'?
+f7?6Y8?
+pG?q`H?
+iV?xXW?
+6f?	#g?
+(a>Dke>
+e#?RZ$?pO%?iD&??9'?
+f7?6Y8?
+pG?q`H?
+iV?xXW?
+6f?	#g?
+(="H6=Y
+y:>hF>>
+hl>:Kp>
+g!?Yw"?
+X0?fk1?
+@=?4T>?
+JW?KbX?
+	`?r"a?
+@x? [y?Qvz?
+D3DX11ComputeNormalMap Staging Texture
+D3DX11SHProjectCubeMap Staging Texture
+D3DX11SaveTexture Staging Texture Temporary
+	:KWindowsCodecs.dll
+WICCreateImagingFactory_Proxy
+D3DX: (WARN) The BC6 or BC7 texture encoder has been invoked.  This can be extremely slow given the complexity of the BC6/BC7 encoding space in particular (whereas decoding these is fast).  Sometimes a format encoder could be invoked unintentionally, such as loading a texture from a file encoded as one format but asking for another.  Another example is that although the default D3DX behavior for creating a texture from a file makes a full mipmap chain unless otherwise specified, the intent may have been to load a BC6/BC7 image without generating mips, thus avoiding the encoder.  These examples may or may not represent the current situation.  The point here is merely to suggest one explanation why code may be unexpectedly running slowly. 
+?BC7_UNORM_SRGB
+BC7_UNORM
+BC7_TYPELESS
+BC6H_SF16
+BC6H_UF16
+BC6H_TYPELESS
+B8G8R8X8_UNORM_SRGB
+B8G8R8X8_TYPELESS
+B8G8R8A8_UNORM_SRGB
+B8G8R8A8_TYPELESS
+R10G10B10_XR_BIAS_A2_UNORM
+B8G8R8X8_UNORM
+B8G8R8A8_UNORM
+B5G5R5A1_UNORM
+B5G6R5_UNORM
+BC5_SNORM
+BC5_UNORM
+BC5_TYPELESS
+BC4_SNORM
+BC4_UNORM
+BC4_TYPELESS
+BC3_UNORM_SRGB
+BC3_UNORM
+BC3_TYPELESS
+BC2_UNORM_SRGB
+BC2_UNORM
+BC2_TYPELESS
+BC1_UNORM_SRGB
+BC1_UNORM
+BC1_TYPELESS
+G8R8_G8B8_UNORM
+R8G8_B8G8_UNORM
+R9G9B9E5_SHAREDEXP
+R1_UNORM
+A8_UNORM
+R8_SINT
+R8_SNORM
+R8_UINT
+R8_UNORM
+R8_TYPELESS
+R16_SINT
+R16_SNORM
+R16_UINT
+R16_UNORM
+D16_UNORM
+R16_FLOAT
+R16_TYPELESS
+R8G8_SINT
+R8G8_SNORM
+R8G8_UINT
+R8G8_UNORM
+R8G8_TYPELESS
+X24_TYPELESS_G8_UINT
+R24_UNORM_X8_TYPELESS
+D24_UNORM_S8_UINT
+R24G8_TYPELESS
+R32_SINT
+R32_UINT
+R32_FLOAT
+D32_FLOAT
+R32_TYPELESS
+R16G16_SINT
+R16G16_SNORM
+R16G16_UINT
+R16G16_UNORM
+R16G16_FLOAT
+R16G16_TYPELESS
+R8G8B8A8_SINT
+R8G8B8A8_SNORM
+R8G8B8A8_UINT
+R8G8B8A8_UNORM_SRGB
+R8G8B8A8_UNORM
+R8G8B8A8_TYPELESS
+R11G11B10_FLOAT
+R10G10B10A2_UINT
+R10G10B10A2_UNORM
+R10G10B10A2_TYPELESS
+X32_TYPELESS_G8X24_UINT
+R32_FLOAT_X8X24_TYPELESS
+D32_FLOAT_S8X24_UINT
+R32G8X24_TYPELESS
+R32G32_SINT
+R32G32_UINT
+R32G32_FLOAT
+R32G32_TYPELESS
+R16G16B16A16_SINT
+R16G16B16A16_SNORM
+R16G16B16A16_UINT
+R16G16B16A16_UNORM
+R16G16B16A16_FLOAT
+R16G16B16A16_TYPELESS
+R32G32B32_SINT
+R32G32B32_UINT
+R32G32B32_FLOAT
+R32G32B32_TYPELESS
+R32G32B32A32_SINT
+R32G32B32A32_UINT
+R32G32B32A32_FLOAT
+R32G32B32A32_TYPELESS
+UNKNOWN
+d3dcompiler_43.dll
+D3D10CreateBlob
+d3dx11_43.pdb
+WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVH
+0A^A]A\
+UVWATAUAVAWH
+x`L!d$ L
+`A_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+x`L!d$ L
+pA_A^A]A\_^]
+UVWATAUAVAWH
+x`L!d$ L
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+xkL!d$ L
+UVWATAUAVAWH
+xZL!d$ L
+@A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+UVWATAUAVAWH
+x`L!d$ L
+PA_A^A]A\_^]
+UVWATAUAVAWH
+x`L!d$ L
+PA_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+xkL!d$ L
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UWATAUAVH
+xVL!d$ L
+A^A]A\_]
+UWATAUAVH
+xVL!d$ L
+A^A]A\_]
+UWATAUAVH
+xZL!d$ L
+@A^A]A\_]
+UWATAUAVH
+xZL!d$ L
+@A^A]A\_]
+UWATAUAVH
+xZL!d$ L
+@A^A]A\_]
+L$ SUVWH
+UVWATAUAVAWH
+H9\$PuKI
+A_A^A]A\_^]
+D$H9D$@
+t$ WATAUH
+@USVWATH
+@USVWATAUAVAWH
+L$(!|$ H
+A_A^A]A\_^[]
+@USVWATH
+X UVWATAUAVAWH
+t$X;\$@
+A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+H9A0tAH
+A(9B(u0
+WATAUAVAWH
+D9i(v}D
+ A_A^A]A\_
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+H UATAUAVAWH
+L9{0t<E
+D9{(v3M
+D9{(v'L
+A_A^A]A\]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+D$l9w$t
+\$P9w u<H
+D$X9w t
+\$P9w u<H
+D$X9w t
+\$P9w u<H
+D$X9w t
+Px9s$u[9s uV
+UVWATAUAVAWH
+T$@D;m,s
+A_A^A]A\_^]
+USVWATAUAVAWH
+L$(D!l$ I
+\$89\$4
+\$8;\$4
+\$89\$4
+\$8;\$4
+\$H9\$4
+\$H;\$4
+\$H9\$4
+\$H;\$4
+\$H9\$4
+\$H;\$4
+\$H9\$4
+A_A^A]A\_^[]
+UVWATAUAVAWH
+D!d$0D9gD
+D$0D9oD
+A_A^A]A\_^]
+x ATAUAVH
+ A^A]A\
+UVWATAUAVAWH
+ A_A^A]A\_^]
+&D9O@t$
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUH
+A]A\_^]
+x ATAUAVH
+|7H ueI
+9D7PuFM
+9D7Tu8M
+9D7Xu*H
+A 9D7\u
+A$9D7`u
+A(9D7dt
+C0,I9C0r
+r>I;SPw8I
+\$ A^A]A\
+UVWATAUAVAWH
+D8N8tWL
+D8N8t~L
+A_A^A]A\_^]
+tA9\$lu;
+UATAUAVAWH
+s$D9C(u
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+x ATAUAVH
+ph9xpveH
+ A^A]A\
+x ATAUAVH
+GPhD9plD
+ A^A]A\
+@SUVWATAUAVAWH
+8A_A^A]A\_^][
+SUVWATAUAVAWH
+XA_A^A]A\_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWATAUAVAWH
+xA_A^A]A\_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+t$ WATAUAVAWH
+h E9qpv`E
+ A_A^A]A\_
+t$ WATAUAVAWD
+A_A^A]A\_
+@SUVWATAUAVAWH
+Z@D+r,D+R0D+Z4
++Y,+i0D+a4H
+8A_A^A]A\_^][
+F D9mHt>A
+D9IhvcE
+K 9{hvhI
+W 9_hv#I
+UVWATAUAVAWH
+D$0D9{h
+A_A^A]A\_^]H
+UVWATAUAVAWH
+D$0D9{h
+A_A^A]A\_^]H
+UVWATAUAVAWH
+D$0D9{h
+A_A^A]A\_^]H
+UVWATAUAVAWH
+D$0D9{h
+A_A^A]A\_^]H
+W 9_hvfI
+K 9{hvG
+S D9Chvr
+S 9Khvi
+UVWATAUAVAWH
+D$ D9{h
+A_A^A]A\_^]H
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+D$0D9{h
+A_A^A]A\_^]H
+UVWATAUAVAWH
+D$0D9{h
+A_A^A]A\_^]H
+UVWATAUAVAWH
+D$0D9{h
+A_A^A]A\_^]H
+UVWATAUAVAWH
+D$0D9{h
+A_A^A]A\_^]H
+w 9_hv"
+p WATAUAVAWH
+)d$pD9qHt
+A_A^A]A\_H
+p WATAUAVAWH
+)d$pD9yHt
+A_A^A]A\_H
+p WATAUAVAWH
+)d$pD9yHt
+A_A^A]A\_H
+p WATAUAVAWH
+)d$pD9yHt
+A_A^A]A\_H
+O 9_hv:
+O 9_hv*
+p WATAUAVAWH
+A_A^A]A\_H
+WATAUAVAWH
+A_A^A]A\_H
+p WATAUAVAWH
+A_A^A]A\_H
+p WATAUAVAWH
+)d$pD9yHt
+A_A^A]A\_H
+p WATAUAVAWH
+)d$pD9yHt
+A_A^A]A\_H
+p WATAUAVAWH
+)d$pD9yHt
+A_A^A]A\_H
+p WATAUAVAWH
+)d$pD9yHt
+A_A^A]A\_H
+w 9_hv"
+WATAUAVAWH
+A_A^A]A\_H
+WATAUAVAWH
+A_A^A]A\_H
+WATAUAVAWH
+A_A^A]A\_H
+WATAUAVAWH
+A_A^A]A\_H
+WATAUAVAWH
+A_A^A]A\_H
+WATAUAVAWH
+A_A^A]A\_H
+WATAUAVAWH
+A_A^A]A\_H
+WATAUAVAWH
+A_A^A]A\_H
+p WATAUAVAWH
+A_A^A]A\_H
+K D9ShvEA
+\$ UVWATAUAVAWH
+@A_A^A]A\_^]H
+UVWATAUAVAWH
+D$0D9{h
+A_A^A]A\_^]H
+UVWATAUAVAWH
+A_A^A]A\_^]H
+UVWATAUAVAWH
+D$ D9{h
+A_A^A]A\_^]H
+@SUVWATAUAVAWH
+t$ D9cHt
+HA_A^A]A\_^][
+x ATAUAVH
+G D9u@t=
+ A^A]A\
+A9HPttA9@P
+A9HPtxA
+=YUY2t(=GRGBt
+=UYVYu$
+[ =YUY2t!=GRGB
+=YUY2t!=GRGB
+UVWATAVH
+A^A\_^]
+x UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUH
+A]A\_^]
+UVWATAUH
+A]A\_^]
+p UWAWH
+X UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+` AUAVAW
+d$8A_A^A]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+UVWATAUAVAWH
+\$XD:l$@
+A_A^A]A\_^]
+x ATAUAV
+|$8A^A]A\
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+|$ UATAUAVAWH
+ A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+p WATAUAVAWH
+A_A^A]A\_
+t$ UWATAUAVH
+A^A]A\_]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+@A_A^A]A\_^]
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+USVWATAUAVAWH
+HA_A^A]A\_^[]
+USVWATAUAVAWH
+hA_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+X UVWATAUAVAWH
+A_A^A]A\_^]
+x UATAUAVAWH
+A_A^A]A\]
+l$ VWATH
+ATAUAVH
+ A^A]A\
+H3E H3E
+__CxxFrameHandler
+_vsnwprintf
+_purecall
+_controlfp
+??0exception@@QEAA@AEBQEBDH@Z
+?what@exception@@UEBAPEBDXZ
+??1exception@@UEAA@XZ
+??0exception@@QEAA@AEBV0@@Z
+_CxxThrowException
+_callnewh
+_XcptFilter
+_initterm
+_amsg_exit
+__C_specific_handler
+msvcrt.dll
+memmove
+_unlock
+__dllonexit
+_onexit
+?terminate@@YAXXZ
+??1type_info@@UEAA@XZ
+DisableThreadLibraryCalls
+VirtualProtect
+GetModuleHandleA
+LoadLibraryA
+GetProcAddress
+FreeLibrary
+CloseHandle
+ReadFile
+GetFileSizeEx
+CreateFileW
+GetFullPathNameW
+MultiByteToWideChar
+GetLastError
+GetProcessAffinityMask
+GetCurrentProcess
+CreateThread
+WaitForMultipleObjects
+CreateSemaphoreA
+CreateMutexA
+WaitForSingleObject
+ReleaseSemaphore
+ReleaseMutex
+DebugBreak
+CreateFileA
+InitializeCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+OutputDebugStringA
+RtlVirtualUnwind
+RtlLookupFunctionEntry
+RtlCaptureContext
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+KERNEL32.dll
+CreateStreamOnHGlobal
+ole32.dll
+DeleteObject
+GDI32.dll
+WriteFile
+WideCharToMultiByte
+FindResourceA
+FindResourceW
+LoadResource
+SizeofResource
+LockResource
+d3dx11_43.dll
+D3DX11CheckVersion
+D3DX11CompileFromFileA
+D3DX11CompileFromFileW
+D3DX11CompileFromMemory
+D3DX11CompileFromResourceA
+D3DX11CompileFromResourceW
+D3DX11ComputeNormalMap
+D3DX11CreateAsyncCompilerProcessor
+D3DX11CreateAsyncFileLoaderA
+D3DX11CreateAsyncFileLoaderW
+D3DX11CreateAsyncMemoryLoader
+D3DX11CreateAsyncResourceLoaderA
+D3DX11CreateAsyncResourceLoaderW
+D3DX11CreateAsyncShaderPreprocessProcessor
+D3DX11CreateAsyncShaderResourceViewProcessor
+D3DX11CreateAsyncTextureInfoProcessor
+D3DX11CreateAsyncTextureProcessor
+D3DX11CreateShaderResourceViewFromFileA
+D3DX11CreateShaderResourceViewFromFileW
+D3DX11CreateShaderResourceViewFromMemory
+D3DX11CreateShaderResourceViewFromResourceA
+D3DX11CreateShaderResourceViewFromResourceW
+D3DX11CreateTextureFromFileA
+D3DX11CreateTextureFromFileW
+D3DX11CreateTextureFromMemory
+D3DX11CreateTextureFromResourceA
+D3DX11CreateTextureFromResourceW
+D3DX11CreateThreadPump
+D3DX11FilterTexture
+D3DX11GetImageInfoFromFileA
+D3DX11GetImageInfoFromFileW
+D3DX11GetImageInfoFromMemory
+D3DX11GetImageInfoFromResourceA
+D3DX11GetImageInfoFromResourceW
+D3DX11LoadTextureFromTexture
+D3DX11PreprocessShaderFromFileA
+D3DX11PreprocessShaderFromFileW
+D3DX11PreprocessShaderFromMemory
+D3DX11PreprocessShaderFromResourceA
+D3DX11PreprocessShaderFromResourceW
+D3DX11SHProjectCubeMap
+D3DX11SaveTextureToFileA
+D3DX11SaveTextureToFileW
+D3DX11SaveTextureToMemory
+.?AVbad_alloc@std@@
+.?AVexception@@
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+070822223102Z
+120825070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+091207224029Z
+110307224029Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+,http://www.microsoft.com/pki/certs/CSPCA.crt0
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+060916010447Z
+190915070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+080725190115Z
+130725191115Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:85D3-305C-5BCF1%0#
+Microsoft Time-Stamp Service0
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+,http://www.microsoft.com/pki/certs/tspca.crt0
+z?*[FS	<
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+ http://www.microsoft.com/directx0
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA
+100522003050Z0#

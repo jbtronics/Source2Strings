@@ -1,0 +1,873 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+|$ ATAVAWH
+ A_A^A\
+ATAVAWH
+@A_A^A\
+ATAVAWH
+@A_A^A\
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+L$ SVWH
+A0t#H9I8u
+@UAVAWH
+e A_A^]
+@SAVAWH
+l$@HckxH
+D$<9T$0wR9T$4wL9T$8wF;
+)t$PH9[8t
+)|$PH9[8t
+ATAVAWH
+ A_A^A\
+x ATAVAWH
+fffffff
+VWATAVAWH
+A_A^A\_^
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+t$ WAVAWH
+@UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+$tPH9\$@t>
+A_A^A]A\_^]
+UWATAVAWH
+uMM9'tHH
+uQM91tLH
+A_A^A\_]
+<1~-<3~ <4t5<5t
+UATAUAVAWH
+A_A^A]A\]
+D8t$HuD
+(D$@L9t$ t0H
+D$(D8t$(u\H
+x UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+,0<	w!A
+AUAVAWH
+0A_A^A]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@SUVWATAVAWH
+PA_A^A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+H(H9J(u
+VMediaFoundation001
+MFCreateSinkWriterFromURL( filename, NULL, NULL, &pSinkWriter )
+%s FAILED with error %x
+MFCreateMediaType( &pVideoTypeOut )
+pVideoTypeOut->SetGUID( MF_MT_MAJOR_TYPE, MFMediaType_Video )
+pVideoTypeOut->SetGUID( MF_MT_SUBTYPE, MFVideoFormat_H264 )
+pVideoTypeOut->SetUINT32( MF_MT_AVG_BITRATE, params.m_nVideoBitsPerSec )
+pVideoTypeOut->SetUINT32( MF_MT_INTERLACE_MODE, MFVideoInterlace_Progressive )
+MFSetAttributeSize( pVideoTypeOut.Get(), MF_MT_FRAME_SIZE, params.m_nWidth, params.m_nHeight )
+MFSetAttributeRatio( pVideoTypeOut.Get(), MF_MT_FRAME_RATE, params.m_nVideoFrameRate, params.m_nVideoFrameScale )
+pVideoTypeOut->SetUINT32( MF_MT_MPEG2_PROFILE, eAVEncH264VProfile_Main )
+MFSetAttributeRatio( pVideoTypeOut.Get(), MF_MT_PIXEL_ASPECT_RATIO, 1, 1 )
+pSinkWriter->AddStream( pVideoTypeOut.Get(), ( DWORD* )pVideoStreamIndex )
+MFCreateMediaType( &pVideoTypeIn )
+pVideoTypeIn->SetGUID( MF_MT_MAJOR_TYPE, MFMediaType_Video )
+pVideoTypeIn->SetGUID( MF_MT_SUBTYPE, MFVideoFormat_YUY2 )
+pVideoTypeIn->SetUINT32( MF_MT_INTERLACE_MODE, MFVideoInterlace_Progressive )
+MFSetAttributeSize( pVideoTypeIn.Get(), MF_MT_FRAME_SIZE, params.m_nWidth, params.m_nHeight )
+MFSetAttributeRatio( pVideoTypeIn.Get(), MF_MT_FRAME_RATE, params.m_nVideoFrameRate, params.m_nVideoFrameScale )
+MFSetAttributeRatio( pVideoTypeIn.Get(), MF_MT_PIXEL_ASPECT_RATIO, 1, 1 )
+pSinkWriter->SetInputMediaType( *pVideoStreamIndex, pVideoTypeIn.Get(), NULL )
+MFCreateMediaType( &pAudioTypeOut )
+pAudioTypeOut->SetGUID( MF_MT_MAJOR_TYPE, MFMediaType_Audio )
+pAudioTypeOut->SetGUID( MF_MT_SUBTYPE, MFAudioFormat_AAC )
+pAudioTypeOut->SetUINT32( MF_MT_AUDIO_BITS_PER_SAMPLE, params.m_nAudioSampleBits )
+pAudioTypeOut->SetUINT32( MF_MT_AUDIO_SAMPLES_PER_SECOND, params.m_nAudioSampleRate )
+pAudioTypeOut->SetUINT32( MF_MT_AUDIO_NUM_CHANNELS, params.m_nAudioNumChannels )
+pAudioTypeOut->SetUINT32( MF_MT_AUDIO_AVG_BYTES_PER_SECOND, params.m_nAudioBytesPerSec )
+pSinkWriter->AddStream( pAudioTypeOut.Get(), ( DWORD* )pAudioStreamIndex )
+MFCreateMediaType( &pAudioTypeIn )
+pAudioTypeIn->SetGUID( MF_MT_MAJOR_TYPE, MFMediaType_Audio )
+pAudioTypeIn->SetGUID( MF_MT_SUBTYPE, MFAudioFormat_PCM )
+pAudioTypeIn->SetUINT32( MF_MT_AUDIO_BITS_PER_SAMPLE, params.m_nAudioSampleBits )
+pAudioTypeIn->SetUINT32( MF_MT_AUDIO_SAMPLES_PER_SECOND, params.m_nAudioSampleRate )
+pAudioTypeIn->SetUINT32( MF_MT_AUDIO_NUM_CHANNELS, params.m_nAudioNumChannels )
+pSinkWriter->SetInputMediaType( *pAudioStreamIndex, pAudioTypeIn.Get(), NULL )
+c:\buildslave\source2_win64\build\src\valve_wmf\mediafoundation.cpp
+CMediaFoundation::Shutdown
+m_pSinkWriter == NULL
+CMediaFoundation::StartEncoding
+CMediaFoundation::AppendVideoFrame
+( m_params.m_nWidth & 1 ) == 0
+c:\buildslave\source2_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\source2_win64\build\src\public\ordered_constructor.h
+MemAllocClassName
+Unaccounted
+CUtlMemory<unsigned char,int>::Grow
+c:\buildslave\source2_win64\build\src\public\tier1\utlmemory.h
+valve_wmf
+CUtlMemory::Grow
+purecall
+invalid_parameter
+Release
+valve_wmf
+Intentionally vague touch behavior for %p
+DependencyClass::m_pDependencyLL == NULL
+Ordered object did not begin in a zeroed state
+COrderedConstructor_DependencyManagement<void>::Release
+(m_nRefCount & (uint32)INTERNAL_REFCOUNT_MASK) > 0
+COrderedConstructor_Create<void,class CResolveOrderedFunc<void,&void __cdecl ResolveOrderedSystem_EarlyInit_Common(class COrderedConstructor_DependencyManagement<void> &)>,0>::AddRef
+valve_wmf.dll
+memoverride MallocUnattributed
+c:\buildslave\source2_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VDataCache003
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\source2_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\source2_win64\build\src\tier1\strtools.cpp
+_V_strncpy
+maxLen >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+_V_strncat
+destBufferSize >= 0
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\source2_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\source2_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\source2_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+c:\buildslave\source2_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+()$^.*+?[]|\-{},:=!
+generic
+unknown error
+iostream
+iostream stream error
+string too long
+invalid string position
+VScript
+VScriptDbg
+c:\buildslave\source2_win64\build\src\tier2\schemabindings.cpp
+InstallSchemaBindings
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+Unknown exception
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+bad exception
+_nextafter
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+<unknown>
+wchar_t
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+c:\buildslave\source2_win64\build\src\valve_wmf\Release\win64\valve_wmf.pdb
+valve_wmf.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+CoUninitialize
+CoInitializeEx
+ole32.dll
+MFCreateSinkWriterFromURL
+MFReadWrite.dll
+MFStartup
+MFShutdown
+MFCreateMemoryBuffer
+MFCreateSample
+MFCreateMediaType
+MFFrameRateToAverageTimePerFrame
+MFPlat.DLL
+AssertMsg_ConditionFailed
+Warning
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+g_pMemAlloc
+g_pGlobalMiniProfilers
+Plat_IsInDebugSession
+Plat_ExitProcess
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+ThreadYield
+Plat_ShouldCollectMiniDumpsForFatalErrors
+LoggingSystem_IsChannelEnabled
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+LOG_GENERAL
+tier0.dll
+CloseHandle
+GetCurrentProcessId
+GetProcAddress
+MultiByteToWideChar
+WideCharToMultiByte
+LCMapStringW
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+EncodePointer
+DecodePointer
+GetStringTypeW
+GetLastError
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+GetCurrentThreadId
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+GetCPInfo
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+ExitProcess
+GetModuleHandleExW
+IsValidCodePage
+GetOEMCP
+GetStdHandle
+GetFileType
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+OutputDebugStringW
+FlushFileBuffers
+SetStdHandle
+WriteConsoleW
+ReadFile
+ReadConsoleW
+CreateFileW
+KERNEL32.dll
+LoggingSystem_RegisterLoggingChannel
+0123456789ABCDEF
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AV?$CUtlMemory@EH@@
+.?AV?$CUtlVectorBase@EV?$CUtlMemory@EH@@@@
+.?AVIMediaFoundation@@
+.?AVIAppSystem@@
+.?AVCMediaFoundation@@
+.?AV?$CTier3AppSystem@VIMediaFoundation@@$0A@@@
+.?AV?$CTier2AppSystem@VIMediaFoundation@@$0A@@@
+.?AV?$CTier1AppSystem@VIMediaFoundation@@$0A@@@
+.?AV?$CTier0AppSystem@VIMediaFoundation@@@@
+.?AV?$CBaseAppSystem@VIMediaFoundation@@@@
+.?AVCPostConnectCallback@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AVexception@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVCSchemaInstallCallback@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@

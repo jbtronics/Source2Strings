@@ -1,0 +1,1370 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@_RDATA
+@.reloc
+|$ ATAVAWH
+ A_A^A\
+UWAVAWI
+UVWAVAWH
+pA_A^_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+A(D;A@|
+USWAVAWI
+A_A^_[]
+UVWATAUAVAWH
+8\$Ut9M
+8T$Qu$H
+A_A^A]A\_^]
+d$ UAVAWH
+@USVWATAUAVAWH
+8\$Qt(8\$rt
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+@A_A^A]A\_
+UVWATAUAVAWH
+@8|$0t%E3
+A_A^A]A\_^]
+A;u uRI
+L$ SVWH
+@USVWATAUAVAWH
+?D8D$UH
+D8l$Rt+L
+A_A^A]A\_^[]
+WATAUAVAWH
+@A_A^A]A\_
+@USVWAUAVAWH
+A_A^A]_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+USWATAWI
+A_A\_[]
+[ UWAVI
+UWAUAVI
+USWAVAWI
+A_A^_[]
+@SUVWATAVAWH
+0A_A^A\_^][
+UWATAVAWI
+A_A^A\_]
+@USWAVH
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+ A_A^A]A\_
+L$ SVWH
+A0t#H9I8u
+@UAVAWH
+e A_A^]
+@SAVAWH
+l$@HckxH
+D$<9T$0wR9T$4wL9T$8wF;
+)t$PH9[8t
+)|$PH9[8t
+|$ ATAVAWH
+ A_A^A\
+ATAVAWH
+ A_A^A\
+fffffff
+L$ USWH
+fffffff
+.ffffff
+0ffffff
+fffffff
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+VWATAVAWH
+A_A^A\_^
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+USVWAVH
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+@ffffff
+SVWATAUAVAWUH
+]A_A^A]A\_^[
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+t$ WAVAWH
+t$ WATAUAVAWH
+0A_A^A]A\_
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+UVWATAUAVAWH
+$tPH9\$@t>
+A_A^A]A\_^]
+UWATAVAWH
+uMM9'tHH
+uQM91tLH
+A_A^A\_]
+<1~-<3~ <4t5<5t
+UATAUAVAWH
+A_A^A]A\]
+D8t$HuD
+(D$@L9t$ t0H
+D$(D8t$(u\H
+x UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+,0<	w!A
+SATAUAWUH
+]A_A]A\[
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+@SUVWATAVAWH
+PA_A^A\_^][
+AUAVAWH
+0A_A^A]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+H(H9J(u
+Release
+renderingpipelines
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\stronghandle.h
+GaussianBloomBlurManifest
+GameStartup
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\gaussian_bloom_blur.cpp
+materials/dev/gaussian_bloom_blur.vmat
+g_pResourceHandleUtils
+Encountered too many releases for resource "%s"
+CStrongHandle<struct InfoForResourceTypeIMaterial2>::Shutdown
+?renderingpipelines.dll
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\vertexdata.h
+PostProcessManifest
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\postprocess.cpp
+materials/dev/post_process.vmat
+r_post_fxaa
+r_post_colorcorrection
+r_post_bloom
+r_post_vignette
+r_post_film_grain
+CPostProcessRenderer needs to use a layer which has had a render attribute called "ColorBuffer" set!
+postprocess
+CVertexDataBase<struct VertexPos2DTex2D_t>::AdvanceVertex
+CVertexDataBase - No storage!
+CVertexDataBase - Tried to advance past the last vertex (%d)
+CDynamicVertexData<struct VertexPos2DTex2D_t>::Lock
+this->m_bOkToLock
+WARNING: Trying to create a CRenderContextPtr without a valid context.
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\scenesystem\iscenelayer.h
+ISceneLayer::SetClearColor
+nRenderTargetIndex < ARRAYSIZE( m_vecClearColor )
+texcoord
+RenderPipelineVr
+RenderingPipelineVrGroup
+RenderingPipelineVrStartup
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\renderingpipeline_vr.cpp
+RenderingPipelineVrManifest
+materials/dev/visualize_depth.vmat
+VrQuadLayout
+CVrQuadRenderer
+vr_shadows_debug
+0=Off, 1=DebugWireframe, 2=DebugSolidBlink
+vr_stencil_debug
+vr_depth_prepass
+vr_depth_prepass_alphatested
+vr_depth_prepass_cull_threshold
+vr_render_opaque
+vr_render_opaque_notzprepassed
+vr_render_translucent
+ERROR! Cannot load RenderingPipelineVrStartup resource manifest for the vr render pipeline!
+LightBinnerVr
+Clear Color Depth Stencil
+vr_warp
+vr_warp_debug
+vr_stencil_hidden_pixels
+VrWriteStencilMaskLeftEye
+VrWriteSubviewStencilMaskLeftEye
+VrWriteStencilMaskRightEye
+VrWriteSubviewStencilMaskRightEye
+Depth Pre-pass
+Opaque Forward Not Depth Pre-passed
+Opaque Forward
+ToolsUtil Opaque
+Translucent Forward
+ToolsUtil Translucent
+ShadowVisLayer
+DebugVrStencilLeftEye
+CVertexDataBase<struct VrQuadVertex_t>::AdvanceVertex
+CDynamicVertexData<struct VrQuadVertex_t>::Lock
+ISceneLayer::SetAttr
+ssao_usenormals
+Deferred
+RenderingPipelineDeferredManifest
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\renderingpipelinedeferred.cpp
+materials/rendertargetops/bilateral_blur_horz.vmat
+materials/rendertargetops/bilateral_blur_vert.vmat
+materials/deferred_lights/ssao_strong.vmat
+materials/deferred_lights/ssao_med.vmat
+scratchoutputcolor
+scratchoutputdepth
+outputcolor
+outputdepth
+GBufferNormalSpecExp
+DeferredDepth
+GBuffer
+GBufferDecals
+QuarterResNormal
+LBuffer
+SBuffer
+ClearLighting
+LowResDeferredLightingDiffuse
+LowResDeferredLightingSpecular
+BlitLowResLightingToHighResDiffuse
+BlitLowResLightingToHighResSpecular
+DirectLighting
+IrradianceProbe
+TranslucentLight
+LightProbe
+ssaoBlurTemp0
+ssaoBlurTemp1
+SSAOBlurVert
+SSAOBlurHoriz
+Combine
+CombineDecals
+LPVDebug
+Translucent
+IrradianceProbeParam
+DebugRenderTarget
+BlitMSAATarget
+DeferredLowRes
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\renderingpipelinedeferredlowres.cpp
+CRenderingPipelineDeferredLowres::SuggestViewportAndRtInfo
+pOutViewport
+pOutRtInfo
+CRenderingPipelineDeferredLowres::AddLayersToView
+hLowResGBufferDepth != SCENE_VIEW_RENDER_TARGET_INVALID
+hLowResGBufferNormals != SCENE_VIEW_RENDER_TARGET_INVALID
+hLowResLBuffer != SCENE_VIEW_RENDER_TARGET_INVALID
+LowResDeferredLighting_Accum
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\mathlib\camera.h
+CFrustum::SetCameraPosition
+origin.IsValid() && origin.IsReasonable()
+Forward
+RenderingPipelineForwardManifest
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\renderingpipelineforward.cpp
+materials/deferred_fog/ground_fog_accumulate.vmat
+materials/deferred_fog/fog_apply.vmat
+materials/dev/generalfilter_additive.vmat
+ViewModel
+sc_ground_fog_top
+sc_ground_fog_depth
+ReflectionTemplate
+3D Skybox
+depthprepass
+DepthPrePassNormals
+DepthPrePass
+DepthPrePassDecals
+PostDecalPrepassDynamic
+PostDecalPrepassNoDecals
+GBufferSSAO
+GBufferSSAOTemp
+PostDecalForwardDynamic
+Dynamic Decals
+PostDecalForwardNoDecals
+ViewModelForward
+OcclusionQueryIssueLayer
+3DSkyboxForward
+3DSkyboxForwardProxy
+OuterSky
+OuterSkyProxy
+SkyProxy
+InnerSky
+InnerSkyProxy
+fogAccumulation
+GroundFog
+FogObjects
+ApplyFog
+ToolsUtil Translucent pre-pass
+3DSkyboxTranslucent
+3DSkyboxTranslucentProxy
+ViewModelTranslucent
+AfterTranslucent3D
+ViewModelForwardProxy
+ViewModelTranslucentProxy
+RenderingPipelineHybridManifest
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\renderingpipelinehybrid.cpp
+materials/dev/deferredfogtonemapsrgb.vmat
+materials/rendertargetops/reconstruct_normals.vmat
+materials/dev/deferredupsampleindirect.vmat
+CreateLowResGBuffer
+hGBufferDepth != SCENE_VIEW_RENDER_TARGET_INVALID
+LowResGBufferDepth
+LowResGBufferNormals
+LowResGBuffer_ReconstructNormals
+0 - SSAO affects all surfaces equally. 1 - SSAO Affects indirectly only (No SSAO on directly lit surfaces).
+r_ssaoAffectsIndirectOnly
+1 - Use quarter res gbuffers for SSAO calculation. 0 - Use full res gbuffers for SSAO calculations.
+r_ssaoLowRes
+0 - render forward only objects in the forward layers. 1 - do not render forward only objects.
+r_skipForwardOnlyObjects
+GBuffer_LinearDepth
+GBuffer_NormalAndFresnel
+GBuffer_Albedo
+GBuffer_RoughnessReflectanceMetalnessMask
+HDRColorBuffer
+DepthPrepass
+StaticGBuffer
+DeferredStaticDecals
+DynamicGBuffer
+DeferredDynamicDecals
+ApplyIndirectLighting
+LowResDeferredLightingDiffuseSSAOOnly
+ClearLightingFromSSAO
+ApplyLowResSSAO
+ToneMapping
+ForwardOpaque
+ForwardDecals
+LightSetup
+ForwardLightSetup
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\mathlib\vector4d.h
+Vector4D::Vector4D
+PostProcessPipeline
+PostProcess
+RenderingPipelinePostProcessManifest
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\renderingpipelinepostprocess.cpp
+BloomManifest
+TonemapManifest
+r_post_bloom_kawase_steps
+materials/dev/bloom.vmat
+CBloomRenderer::Render(69): Need to use a layer which has a render attribute called "InputBuffer" set!
+postprocessBloom
+CRenderingPipelinePostProcess::AddLayersToView expects 'tonemapRenderer' attribute! (Explicitly set to NULL to disable tonemapping.)
+Tonemap
+QuarterResColor
+BloomDownsample
+BloomKawaseBlur%d
+PostProcessing
+RenderingPipelines_001
+SceneSystem_002
+scenesystem
+SceneUtils_001
+PostProcessingSystem_001
+materialsystem2
+RenderPipelineAliases
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+MemAllocClassName
+CUtlMemory::Grow
+Unaccounted
+CUtlMemory<class IRenderingPipeline *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+renderingpipelines
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\fmtstr.h
+SlimDeferred
+r_deferred_debugvis
+r_deferred_cubemap_diffuse
+r_transmissive_lighting
+r_paint_post
+r_expensive_draws_last
+RenderingPipelineSlimDeferredManifest
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\renderingpipelineslimdeferred.cpp
+materials/dev/deferredshading.vmat
+materials/dev/hdrpostprocessing.vmat
+materials/dev/paintpostprocessing.vmat
+textures/dev/ggx_integrate_brdf_lut.vtex
+GBufferAlbedo
+GBufferNormal
+GBufferDepth
+ViewModelGBuffer
+GBuffer_Expensive
+DeferredMod2x
+NoDecalGBuffer
+WaterSurfaceStencil
+WaterBottomShading
+WaterSurfaceGBuffer
+WaterSurfaceGBuffer2
+CameraDepth
+ScreenSpaceReflBuffer
+PrevFrameHDRBuffer
+ScreenSpaceReflections
+DeferredShadingAndLighting
+DeferredShadingAndTransmissiveLighting
+HDRColorBufferCopy
+CopyRefractTexture
+WaterSurface
+CopyHDRBackBuffer
+FogVolumeBackfaces
+FogVolume
+OpaqueForward
+TranslucentViewModel
+BloomBuffer
+HDRBloom
+PaintTemp0
+PaintTemp1
+PaintTemp2
+HDRPostProcess
+PaintPost0
+PaintPost1
+PaintPost2
+PaintPost3
+ClearOutputDepth
+prevframe_swapchain%p_%dx%d
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CFmtStrN<256,0>::CFmtStrN
+FmtStrVSNPrintf truncated without QUIET_TRUNCATION specified!
+CStrongHandle<struct InfoForResourceTypeCTextureBase>::Shutdown
+RenderingPipelineSSAOManifest
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\renderingpipelinessao.cpp
+CRenderingPipelineSSAO::AddLayersToView
+hSSAOOutput != SCENE_VIEW_RENDER_TARGET_INVALID
+hDepth != SCENE_VIEW_RENDER_TARGET_INVALID
+ssaoBlurTemp2
+hNormals != SCENE_VIEW_RENDER_TARGET_INVALID
+SSAOBlurV
+SSAOBlurH
+r_ssao_radius
+r_ssao_bias
+r_ssao_strength
+r_ssao_blur
+SSAOManifest
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\scalable_ambient_obscurance.cpp
+materials/dev/ssao_convert_depth.vmat
+materials/dev/ssao_downsample_depth.vmat
+materials/dev/ssao_scalable_ao.vmat
+materials/dev/ssao_blur.vmat
+VertexPostProcess_t
+ScreenSpaceReflectionsManifest
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\screenspace_reflections.cpp
+materials/dev/screenspacereflections.vmat
+materials/dev/screenspacereflectionblur.vmat
+ScreenSpaceReflectionsRenderer
+CVertexDataBase<struct VertexPostProcess_t>::AdvanceVertex
+CDynamicVertexData<struct VertexPostProcess_t>::Lock
+ATI_DST16
+ATI_DST24
+X360_DST16
+X360_DST24
+X360_DST24F
+LINEAR_BGRX8888
+LINEAR_RGBA8888
+LINEAR_ABGR8888
+LINEAR_ARGB8888
+LINEAR_BGRA8888
+LINEAR_RGB888
+LINEAR_BGR888
+LINEAR_BGRX5551
+LINEAR_I8
+LINEAR_RGBA16161616
+LE_BGRX8888
+LE_BGRA8888
+RG1616F
+RG3232F
+RGBX8888
+NV_NULL
+RGBA1010102
+BGRA1010102
+LINEAR_D24S8
+D24X4S4
+D16_SHADOW
+D24X8_SHADOW
+RGBA16161616_EDRAM
+RGBA1010102F_EDRAM
+R16F_EXPAND
+RG1616F_EXPAND
+RGBA16161616F_EXPAND
+RGBA16161616F_EDRAM_RGBA1010102F
+RGBA16161616F_EXPAND_EDRAM_RGBA1010102F
+RGBA16161616_EDRAM_RGBA16161616
+DXT5_NM
+RGBA8888_LINEAR
+BGRA8888_LINEAR
+BGRX8888_LINEAR
+RGBX555
+UNKNOWN
+RGBA8888
+ABGR8888
+RGB888_BLUESCREEN
+BGR888_BLUESCREEN
+ARGB8888
+BGRA8888
+BGRX8888
+BGRX5551
+BGRA4444
+DXT1_ONEBITALPHA
+BGRA5551
+UVWQ8888
+RGBA16161616F
+RGBA16161616
+UVLX8888
+RGB323232F
+RGBA32323232F
+NV_DST16
+NV_DST24
+NV_INTZ
+NV_RAWZ
+c:\buildslave\vrgdc2015_staging_win64\build\src\bitmap\imageformat.cpp
+ImageLoader::ImageFormatInfo
+fmt >= IMAGE_FORMAT_UNKNOWN && fmt < NUM_IMAGE_FORMATS
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+@fff>fff>fff>fff>
+c:\buildslave\vrgdc2015_staging_win64\build\src\mathlib\mathlib_base.cpp
+_VectorNormalizeFast
+fabs( vec.LengthSqr() - 1.0f ) < 1e-3
+MathLib_Init
+SSE and SSE2 are required.
+r?333333
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_stristr
+pSearch
+_V_strncpy
+maxLen >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+V_vsnprintfRet
+Unaccounted
+CUtlMemory<class CUtlString,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+()$^.*+?[]|\-{},:=!
+generic
+unknown error
+iostream
+iostream stream error
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+string too long
+invalid string position
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+ConVarRef %s doesn't point to an existing ConVar
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+GUPDATE_STRING_TOKEN_DATABASE
+unknown
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\keyvalues.cpp
+CKeyValues_Data::Internal_SetSubKey::<lambda_dfee2f515a6a5adff42b5f68583e88d3>::operator ()
+m_iDataType == TYPE_NONE
+CKeyValues_Data::Internal_ClearData
+!m_bStoredSubKey
+KeyValues::GetName
+Member function called on NULL KeyValues
+KeyValues::FindKey
+KeyValues::FindKey called on NULL pointer!
+!bCreate
+size >= 0
+size < 1024 * 1024
+KeyValues::GetFirstValue
+KeyValues::GetNextValue
+CKeyValues_Data::Internal_GetString
+Unaccounted
+CUtlMemory<char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+D"A/oyu
+	6RtcZO"
+z`%1Is}
+)VScript
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\schemabindings.cpp
+InstallSchemaBindings
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+AUUUUUU
+?UUUUUU
+?E=$% B
+?49HoKC
+?UUUUUU
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+Unknown exception
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+@^8U)zj
+?8bunz8
+?@En[vP
+-9D	/9a
+?UUUUUU
+?3ScR.>
+?gibQ^AX>
+WR_l%2>
+)2STud>
+J\;5yTb
+<8bunz8
+<@En[vP
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+bad exception
+_nextafter
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+<unknown>
+wchar_t
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+c:\buildslave\vrgdc2015_staging_win64\build\src\renderingpipelines\Release\win64\renderingpipelines.pdb
+renderingpipelines.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+AssertMsg_ConditionFailed
+Plat_IsInDebugSession
+Plat_ExitProcess
+LoggingSystem_RegisterLoggingChannel
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+g_pMemAlloc
+Warning
+LoggingSystem_IsChannelEnabled
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+??0CThreadMutex@@QEAA@XZ
+??1CThreadMutex@@QEAA@XZ
+?Lock@CThreadMutex@@QEAAXXZ
+LoggingSystem_Log
+CMemAllocSystemInitialize
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+g_pGlobalMiniProfilers
+Plat_ShouldCollectMiniDumpsForFatalErrors
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+LOG_GENERAL
+GetCPUInformation
+CommandLine
+tier0.dll
+RegisterStringToken
+KeyValuesSystem
+vstdlib.dll
+LeaveCriticalSection
+MultiByteToWideChar
+WideCharToMultiByte
+LCMapStringW
+CloseHandle
+GetCurrentProcessId
+GetProcAddress
+GetCurrentThreadId
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+GetLastError
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+ExitProcess
+GetModuleHandleExW
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetStringTypeW
+EnterCriticalSection
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+OutputDebugStringW
+SetStdHandle
+WriteConsoleW
+ReadFile
+ReadConsoleW
+FlushFileBuffers
+CreateFileW
+KERNEL32.dll
+Plat_GetEnv
+position
+DXT1DXT3DXT5
+INTZRAWZDF16DF24ATI2ATI1
+0'>0c*>
+pb>pAf>
+-?[`/?291?
+RD?4KF?=GH?9FJ?8HL?
+a?y#c?sIe?
+0123456789ABCDEFH{
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AVIProceduralLayerRenderer@@
+.?AVIRenderingPipeline@@
+.?AVCRenderingPipeline@@
+.?AVIRenderingPipelineFactory@@
+.?AVCBaseRenderingPipelineFactory@@
+.?AVCVrQuadRenderer@@
+.?AVCRenderingPipelineVr@@
+.?AV?$CRenderingPipelineFactory@VCRenderingPipelineVr@@@@
+.?AVCRenderingPipelineDeferred@@
+.?AV?$CRenderingPipelineFactory@VCRenderingPipelineDeferred@@@@
+.?AVCSHLobeVisualizationLayerRenderer@@
+.?AVCRenderingPipelineDeferredLowres@@
+.?AV?$CRenderingPipelineFactory@VCRenderingPipelineDeferredLowres@@@@
+.?AVCRenderingPipelineForward@@
+.?AVCScalableAORenderer@@
+.?AV?$CRenderingPipelineFactory@VCRenderingPipelineForward@@@@
+.?AVCRenderingPipelineHybrid@@
+.?AV?$CRenderingPipelineFactory@VCRenderingPipelineHybrid@@@@
+.?AVCRenderingPipelineLightSetup@@
+.?AV?$CRenderingPipelineFactory@VCRenderingPipelineLightSetup@@@@
+.?AVCRenderingPipelinePostProcess@@
+.?AVCPostProcessRenderer@@
+.?AV?$CRenderingPipelineFactory@VCRenderingPipelinePostProcess@@@@
+.?AVCBloomRenderer@@
+.?AV?$CUtlMemory@VCUtlString@@H@@
+.?AV?$CUtlVectorBase@PEAVIRenderingPipeline@@V?$CUtlMemory@PEAVIRenderingPipeline@@H@@@@
+.?AV?$CUtlMemory@PEAVIRenderingPipeline@@H@@
+.?AVIAppSystem@@
+.?AVCRenderingPipelines@@
+.?AV?$CTier3AppSystem@VIAppSystem@@$0A@@@
+.?AV?$CTier2AppSystem@VIAppSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VIAppSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VIAppSystem@@@@
+.?AV?$CBaseAppSystem@VIAppSystem@@@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@PEAUSwapChainHandle_t__@@UFrameBufferCopyInfo_t@CRenderingPipelineSlimDeferred@@@@H@@
+.P6AXPEAVCSceneObject@@@Z
+.?AVCRenderingPipelineSlimDeferred@@
+.?AVCScreenSpaceReflectionsRenderer@@
+.?AVCGaussianBloomBlurRenderer@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AV?$CRenderingPipelineFactory@VCRenderingPipelineSlimDeferred@@@@
+.?AV?$_Func_base@XPEAVCSceneObject@@@std@@
+.?AV?$_Func_impl@U?$_Callable_obj@P6AXPEAVCSceneObject@@@Z$0A@@std@@V?$allocator@V?$_Func_class@XPEAVCSceneObject@@@std@@@2@XPEAVCSceneObject@@@std@@
+.?AVCRenderingPipelineSSAO@@
+.?AV?$CRenderingPipelineFactory@VCRenderingPipelineSSAO@@@@
+.?AVCPostConnectCallback@@
+.?AV?$CUtlVectorBase@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@
+.?AVexception@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AV?$CUtlMemory@DH@@
+.?AV?$CUtlVectorBase@DV?$CUtlMemory@DH@@@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+?UUUUUU
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z

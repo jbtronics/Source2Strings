@@ -1,0 +1,1242 @@
+`.rdata
+@.reloc
+|$ ATAVAWH
+0A_A^A\
+AWAVAUATWVUSH
+UVWAVAW
+A_A^_^]
+UATAUAVAWH
+U`;Z(}&
+A_A^A]A\]
+@UWATAVAWH
+e@A_A^A\_]
+@UAVAWH
+USVWATAUAVAWH
+A_A^A]A\_^[]
+@VATAVH
+xM;_$}HL
+8L$4tLH
+@UAVAWH
+@UATAUAVAWH
+A_A^A]A\]
+wVD85+e
+ATAUAWH
+WATAUAVAWH
+ A_A^A]A\_
+@SWATAVAWH
+A_A^A\_[
+WATAUAVAWH
+A_A^A]A\_
+<\t!</t
+VATAUAVAWH
+0A_A^A]A\^
+|$ ATAVAWH
+<\t </t
+L$ SVWH
+<\t </t
+L$ UVAUAVAWH
+ A_A^A]^]
+.u%@8|+
+UVWATAUAVAWH
+0A_A^A]A\_^]
+ Hc\$PI
+UVWATAUAVAWH
+ A_A^A]A\_^]
+@UAVAWH
+D8|$:t;IcE
+<\t?</t;H
+@UAVAWH
+</t%<\t&L
+L$ SVWH
+t$@t(H+
+L$ UVWH
+AUAVAWH
+@A_A^A]
+\$ UWAVH
+l$ WAVAWH
+t$ WAVAWH
+ta</t]H
+@SUVATAWH
+0A_A\^][
+UATAUAVAWH
+A_A^A]A\]
+@SVATAVH
+8A^A\^[
+ATAVAWH
+ A_A^A\
+fffffff
+L$ USWH
+p WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+@A_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+AUAVAWH
+0A_A^A]
+` AUAVAWH
+t$8Hc0I
+\$0D9=J
+VWAUAVAWH
+0A_A^A]_^
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+USVWAVH
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+UVWATAUAVAWH
+9D$LupE
+A_A^A]A\_^]
+UVWATAUAVAWH
+T$`fE;"
+|$<9L$Pt
+8T$4u]E
+\$x9D$Pt
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+VWATAVAWH
+ A_A^A\_^
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+t$ WATAUAVAWH
+0A_A^A]A\_
+t$ WAVAWH
+@UATAUAVAWH
+A_A^A]A\]
+` AUAVAWH
+0A_A^A]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+l$ VWAVH
+9\$ ~>L
+l$ VWAUAVAWH
+u$HcG$H;
+A_A^A]_^
+\$ UVWATAUAVAWH
+fD9 t	H
+A_A^A]A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWATAVAWH
+PA_A^A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+x AUAVAWH
+ A_A^A]
+m_Memory
+commandline.cpp
+Assertion Failed: m_hParam != -1
+Parameter file '%s' not found, skipping...
+Assertion Failed: m_nParmCount < MAX_PARAMETERS
+Assertion Failed: (nIndex >= 0) && (nIndex < m_nParmCount)
+Assertion Failed: iOption != m_listCommandLineOption.InvalidIndex()
+----------------------------------------
+console
+Command line options:
+"%s" : %s
+CommandLine
+m_listCommandLineOption
+c:\buildslave\steam_rel_client_win64\build\src\public\tier1/utllinkedlist.h
+Assertion Failed: IsValidIndex(elem)
+Assertion Failed: IsInList(before)
+Assertion Failed: m_TotalElements != InvalidIndex()
+%s overflow!
+Assertion Failed: %s
+c:\buildslave\steam_rel_client_win64\build\src\public\tier1/utlvector.h
+Assertion Failed: (&src < Base()) || (&src >= (Base() + Count()) )
+Assertion Failed: (elem == Count()) || IsValidIndex(elem)
+Assertion Failed: IsValidIndex(elem) || ( m_Size == 0 ) || ( num == 0 )
+coroutine.cpp
+Assertion Failed: m_pStackHigh
+Assertion Failed: m_pSavedStack
+Restoring saved stack over RestoreStackFrame (%p, %p, %p, %p)
+Assertion Failed: m_cubSavedStack < k_cubMaxCoroutineStackSize
+CCoroutine
+(no name set)
+Assertion Failed: m_VecCoroutineStack.Count() > 1
+CCoroutineMgr
+m_ListCoroutines
+m_ListCoroutines[iRoutine]
+m_VecCoroutineStack
+Unknown
+Not continuing coroutine due to g_bPreventCoroutineContinue, %s
+Assertion Failed: GCoroutineMgr().IsValidCoroutine(hCoroutine)
+Assertion Failed: coroutine.m_pStackHigh <= coroutinePrev.m_pStackHigh
+Assertion Failed: Coroutine_IsActive()
+test string
+Assertion Failed: coroutines.Base() == NULL
+Assertion Failed: GCoroutineMgr().IsAnyCoroutineActive()
+g_VecPCoroutineMgr[i]
+g_VecPCoroutineMgr
+Assertion Failed: (&src < Base()) || (&src >= (Base() + Count()))
+VEngineCvar002
+WARNING: unable to link %s and %s because one or more is a ConCommand.
+CDefaultCvar cvar
+cvar.cpp
+Assertion Failed: !m_fnGlobalChangeCallback || !callback
+debugstatssystem.cpp
+String pool bytes used %u, max %u, %u pools
+Total number of strings %u, longest string size %u, avg size %u
+Total of %u buckets with %u hash collisions
+Bucket size : count
+%u : %u
+nTotal number of strings %u, longest string size %u, avg size %u
+Leaked KeyValues (%u):
+%s (%u)
+keyvaluessystem.cpp
+Assertion Failed: size < INT_MAX
+CKeyValuesSystem::AddStringToPool: key name too long (%u chars)
+CKeyValuesSystem::AddStringToPool: out of memory
+Fatal Assertion Failed: %s
+CKeyValuesSystem::AddStringToPool: running out of memory (%u bytes left)
+CKeyValuesSystem
+m_HashItemMemPool
+m_LeakTrack
+m_mapConditionalSymbolTable
+KeyValuesSystem()
+c:\buildslave\steam_rel_client_win64\build\src\public\tier1\utlrbtree.h
+Assertion Failed: m_LessFunc
+m_Elements
+Assertion Failed: IsValidIndex( elem )
+Assertion Failed: 0
+Assertion Failed: _IsValidIndex( elem, unNodeSize, pMemBase )
+Assertion Failed: _IsValidIndex( y, unNodeSize, pMemBase )
+unknown
+memoverride.cpp
+PureClass
+InvalidParameterHandler
+Windows
+Windows 3.11
+Windows 95
+Windows 98
+Windows ME
+Windows NT
+Windows 2000
+Windows XP
+Windows 2003
+Windows Vista
+Windows 7
+Windows 2008
+Windows 2012
+Windows 2012 R2
+Windows 8
+Windows 8.1
+Windows 10
+MacOS 10.4
+MacOS 10.5
+MacOS 10.5.8
+MacOS 10.6
+MacOS 10.6.3
+MacOS 10.6.4 with Apple's Snow Leopard Graphics Update
+MacOS 10.6.7
+MacOS 10.7
+MacOS 10.8
+MacOS 10.9
+MacOS 10.10
+MacOS 10.11
+Linux 2.2
+Linux 2.4
+Linux 2.6
+Linux 3.2
+Linux 3.5
+Linux 3.6
+Linux 3.10
+windows
+c:\buildslave\steam_rel_client_win64\build\src\public\tier1\utlstring.h
+parseurl.cpp
+Assertion Failed: pchURL != NULL
+Assertion Failed: pchStart
+Assertion Failed: pchEnd
+stringnormalize.cpp
+Assertion Failed: pwchSrc != NULL
+Assertion Failed: pwchDest != NULL
+CStringNormalize is full of quirks that need fixing. You just hit one. Don't pass buffers > 1kb.
+CStringNormalize is full of quirks that need fixing. You just hit one. Error return due to string truncation.
+CStringNormalization statics
+g_mapPairs
+0x%4.4X is both the source and destination of a normalization mapping
+out of order normalization entry
+   ! " % & ' : < G H I 
+0;0A0C0E0G0I0c0
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+c:\buildslave\steam_rel_client_win64\build\src\public\tier1/utlstring.h
+Assertion Failed: !pszString || pszString[nChars] == '\0'
+strtools.cpp
+Assertion Failed: dest != NULL
+Assertion Failed: src != NULL
+Assertion Failed: count >= 0
+Assertion Failed: count == 0 || s1 != NULL
+Assertion Failed: count == 0 || s2 != NULL
+Assertion Failed: n >= 0
+Assertion Failed: n == 0 || s1 != NULL
+Assertion Failed: n == 0 || s2 != NULL
+vstdlib_wcstoi64
+%s not implemented
+vstdlib_wcstoui64
+Assertion Failed: s1 != NULL
+Assertion Failed: s2 != NULL
+NULL buffer passed to V_atoi()
+NULL buffer passed to V_atof()
+Assertion Failed: pStr != NULL
+Assertion Failed: pSearch != NULL
+Assertion Failed: maxLen == 0 || pDest != NULL
+Assertion Failed: pSrc != NULL
+Assertion Failed: maxLenInBytes >= 0
+Assertion Failed: maxLenInBytes == 0 || pDest != NULL
+Assertion Failed: maxLen > 0
+Assertion Failed: bufferLen > 0
+Assertion Failed: pDest != NULL
+Assertion Failed: pFormat != NULL
+Assertion Failed: bufferLen == 0 || pDest != NULL
+Assertion Failed: pBuffer <= pDest
+Assertion Failed: pBuffer != NULL
+Assertion Failed: pString <= pDest
+Assertion Failed: destBufferSize == 0 || pDest != NULL
+Assertion Failed: destBufferSize == 0 || pString != NULL
+%%.%if%s
+ &   ! 
+%$%a%b%V%U%c%Q%W%]%\%[%
+%<%^%_%Z%T%i%f%`%P%l%g%h%d%e%Y%X%R%S%k%j%
+e"d" #!#
+Assertion Failed: outsize >= ( inputbytes * 2 ) + 1
+0123456789abcdef
+Assertion Failed: outsize >= 1
+Assertion Failed: maxlen >= 1
+Assertion Failed: in
+Assertion Failed: out
+Assertion Failed: ppath
+Assertion Failed: path
+Assertion Failed: pathStringLength >= 1
+Assertion Failed: extension
+Assertion Failed: extension[0] == '.'
+Assertion Failed: len < maxlen
+Assertion Failed: destSize >= 1
+\/:*?"<>|
+Assertion Failed: pchFileName
+Assertion Failed: ccMax >= 1
+Assertion Failed: pchOut
+V_AppendSlash: ran out of space on %s.
+V_MakeAbsolutePath: _getcwd failed.
+V_RemoveDotSlashes failed for "%s".
+Assertion Failed: V_IsAbsolutePath( pPath )
+Assertion Failed: pStr1 != NULL
+Assertion Failed: pStr2 != NULL
+Assertion Failed: pchHaystack != NULL
+Assertion Failed: pchNeedle != NULL
+Assertion Failed: false
+Assertion Failed: nDestSize == 0 || pDest != NULL
+</script>
+steam://openurl/
+steam://openurl_external/
+Assertion Failed: nValue >= 0 && nValue <= 15
+0123456789ABCDEF
+Target buffer for V_URLEncode should be 3x source length, plus one for terminating null
+Target buffer too short
+Target buffer too short to terminate
+V_URLDecode needs a dest buffer at least as large as the source
+Assertion Failed: components.Count() == 0
+Assertion Failed: parms.Count() == 0
+{%8X-%4X-%4X-%2X%2X-%2X%2X%2X%2X%2X%2X}
+%8X-%4X-%4X-%2X%2X-%2X%2X%2X%2X%2X%2X
+%8X%4X%4X%2X%2X%2X%2X%2X%2X%2X%2X
+V_ConvertStringToUUID
+Invalid flags in %s
+{%0.8X-%0.4X-%0.4X-%0.2X%0.2X-%0.2X%0.2X%0.2X%0.2X%0.2X%0.2X}
+%0.8X-%0.4X-%0.4X-%0.2X%0.2X-%0.2X%0.2X%0.2X%0.2X%0.2X%0.2X
+%0.8X%0.4X%0.4X%0.2X%0.2X%0.2X%0.2X%0.2X%0.2X%0.2X%0.2X
+V_ConvertUUIDToString
+Assertion Failed: str != NULL
+Assertion Failed: prefix != NULL
+\/:"<>|?*
+?0,/1a,
+strtools_unicode.cpp
+Assertion Failed: in != out
+Assertion Failed: !(nStringCaseFlags & STRINGCASE_FLAG_TURKISH)
+Assertion Failed: !pToCopy || (pToCopy + num <= Base()) || (pToCopy >= (Base() + Count()) )
+invalid input pointer
+Assertion Failed: elem >= 0 && num >= 0 && INT_MAX - elem >= num
+Assertion Failed: elem + num <= Count()
+ACADEMY
+ACCOUNTANTS
+AIRFORCE
+ASSOCIATES
+ATTORNEY
+AUCTION
+BARGAINS
+BLACKFRIDAY
+BOUTIQUE
+BRUSSELS
+BUILDERS
+CANCERRESEARCH
+CAPETOWN
+CAPITAL
+CAREERS
+CATERING
+CHRISTMAS
+CLEANING
+CLOTHING
+COLLEGE
+COLOGNE
+COMMUNITY
+COMPANY
+COMPUTER
+CONSTRUCTION
+CONSULTING
+CONTRACTORS
+COOKING
+COUNTRY
+CREDITCARD
+CRUISES
+CUISINELLA
+DEMOCRAT
+DENTIST
+DIAMONDS
+DIGITAL
+DIRECTORY
+DISCOUNT
+DOMAINS
+EDUCATION
+ENGINEER
+ENGINEERING
+ENTERPRISES
+EQUIPMENT
+EXCHANGE
+EXPOSED
+FEEDBACK
+FINANCE
+FINANCIAL
+FISHING
+FITNESS
+FLIGHTS
+FLORIST
+FOUNDATION
+FROGANS
+FURNITURE
+GALLERY
+GRAPHICS
+GUITARS
+HAMBURG
+HOLDINGS
+HOLIDAY
+IMMOBILIEN
+INDUSTRIES
+INSTITUTE
+INTERNATIONAL
+INVESTMENTS
+KITCHEN
+LACAIXA
+LIGHTING
+LIMITED
+MANAGEMENT
+MARKETING
+MELBOURNE
+MORTGAGE
+MOTORCYCLES
+NEUSTAR
+OKINAWA
+ORGANIC
+PARTNERS
+PHOTOGRAPHY
+PICTURES
+PLUMBING
+PRODUCTIONS
+PROPERTIES
+RECIPES
+RENTALS
+REPUBLICAN
+REVIEWS
+SAARLAND
+SCHMIDT
+SERVICES
+SHIKSHA
+SINGLES
+SOFTWARE
+SOLUTIONS
+SPIEGEL
+SUPPLIES
+SUPPORT
+SURGERY
+SYSTEMS
+TECHNOLOGY
+TRAINING
+UNIVERSITY
+VACATIONS
+VENTURES
+VERSICHERUNG
+VLAANDEREN
+WEBSITE
+WHOSWHO
+WILLIAMHILL
+XN--3BST00M
+XN--3DS443G
+XN--3E0B707E
+XN--45BRJ9C
+XN--4GBRIM
+XN--55QW42G
+XN--55QX5D
+XN--6FRZ82G
+XN--6QQ986B3XL
+XN--80ADXHKS
+XN--80AO21A
+XN--80ASEHDB
+XN--80ASWG
+XN--90A3AC
+XN--C1AVG
+XN--CG4BKI
+XN--CLCHC0EA0B2G2A9GCD
+XN--CZR694B
+XN--CZRU2D
+XN--D1ACJ3B
+XN--FIQ228C5HS
+XN--FIQ64B
+XN--FIQS8S
+XN--FIQZ9S
+XN--FPCRJ9C3D
+XN--FZC2C9E2C
+XN--GECRJ9C
+XN--H2BRJ9C
+XN--I1B6B1A6A2E
+XN--IO0A7I
+XN--J1AMH
+XN--J6W193G
+XN--KPRW13D
+XN--KPRY57D
+XN--KPUT3I
+XN--L1ACC
+XN--LGBBAT1AD8J
+XN--MGB9AWBF
+XN--MGBA3A4F16A
+XN--MGBAAM7A8H
+XN--MGBAB2BD
+XN--MGBAYH7GPA
+XN--MGBBH1A71E
+XN--MGBC0A9AZCG
+XN--MGBERP4A5D4AR
+XN--MGBX4CD0AB
+XN--NGBC5AZD
+XN--NQV7F
+XN--NQV7FS00EMA
+XN--O3CW4H
+XN--OGBPF8FL
+XN--P1AI
+XN--PGBS0DH
+XN--Q9JYB4C
+XN--RHQV96G
+XN--S9BRJ9C
+XN--SES554G
+XN--UNUP4Y
+XN--WGBH1C
+XN--WGBL6A
+XN--XKC2AL3HYE2A
+XN--XKC2DL3A5EE0H
+XN--YFRO4I67O
+XN--YGBI2AMMX
+XN--ZFR164B
+YOKOHAMA
+%.*s://%s
+gCURLUtils_hashTLDs
+gCURLUtils_hashTLDs.Element( i )
+c:\buildslave\steam_rel_client_win64\build\src\public\tier1/utlhash.h
+Assertion Failed: IsValidHandle( handle )
+m_Buckets
+c:\buildslave\steam_rel_client_win64\build\src\public\tier1\utlvector.h
+vstdlib_s.dll
+IVALIDATE001
+[-&LMb#{'
+)\ZEo^m/
+H*0"ZOW
+30!]^JV
+KeyValues::RecursiveSaveToFile: TODO, missing code for TYPE_COLOR.
+<empty>
+Memory leak: mempool blocks left in memory: %d
+..\tier1\mempool.cpp
+CMemoryPool::AddNewBlob: mode == GROW_NONE
+Fatal Assertion Failed: pBlob
+Assertion Failed: m_pHeadOfFreeList
+CMemoryPool::Alloc: ran out of memory
+Assertion Failed: k_nMemPoolMagic_Free == *(( (int *) returnBlock) - 1)
+CMemoryPool
+..\tier1\utlbuffer.cpp
+Assertion Failed: info.m_pReplacementString == 0
+..\tier1\utlmemory.cpp
+Assertion Failed: m_unSizeOfElements > 0
+Assertion Failed: nGrowSize >= 0
+Assertion Failed: m_unSizeOfElements == mem.m_unSizeOfElements
+Assertion Failed: !IsExternallyAllocated()
+Assertion Failed: nSize >= 0
+nBytesItem is %d in UtlMemory_CalcNewAllocationCount
+Assertion Failed: num > 0
+..\tier1\utlstring.cpp
+Assertion Failed: len <= mlen
+Assertion Failed: len > 0
+Assertion failed: length > k_cchMaxString
+Assertion Failed: nMinCapacity > Capacity()
+Assertion Failed: nMinCapacity >= nChars
+Assertion Failed: nMinCapacity <= k_nMaxStringSize
+Error State on string being set.
+CorExitProcess
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+UTF-16LE
+UNICODE
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+-9D	/9a
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+_nextafter
+CreateFile2
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+RSDSi^(
+c:\buildslave\steam_rel_client_win64\build\src\vstdlib\win64\Release\vstdlib_s64.pdb
+vstdlib_s64.dll
+??0CCommandLineParam@@QEAA@PEBD0@Z
+??0CGaussianRandomStream@@QEAA@PEAVIUniformRandomStream@@@Z
+??0CUniformRandomStream@@QEAA@AEBV0@@Z
+??0CUniformRandomStream@@QEAA@XZ
+??1CCommandLineParam@@QEAA@XZ
+??4CCommandLineParam@@QEAAAEAV0@AEBV0@@Z
+??4CGaussianRandomStream@@QEAAAEAV0@AEBV0@@Z
+??4CStringNormalization@@QEAAAEAV0@AEBV0@@Z
+??4CURLUtils@@QEAAAEAV0@AEBV0@@Z
+??4CUniformRandomStream@@QEAAAEAV0@AEBV0@@Z
+??_7CUniformRandomStream@@6B@
+??_FCGaussianRandomStream@@QEAAXXZ
+?AttachToStream@CGaussianRandomStream@@QEAAXPEAVIUniformRandomStream@@@Z
+?Exists@CCommandLineParam@@QEAA_NXZ
+?FixupSeparatorScheme@CURLUtils@@SAXAEAVCUtlString@@@Z
+?Fold@CStringNormalization@@SAHPEBGPEAGH@Z
+?GenerateRandomNumber@CUniformRandomStream@@AEAAHXZ
+?GetHParam@CCommandLineParam@@QEAAHXZ
+?Initialize@CStringNormalization@@SAXXZ
+?IsTLD@CURLUtils@@SA_NPEBD@Z
+?Normalize@CStringNormalization@@SAH_NPEBDPEADH@Z
+?Normalize@CStringNormalization@@SAH_NPEBGPEAGH@Z
+?RandomChar@CUniformRandomStream@@UEAADXZ
+?RandomFillMemory@CUniformRandomStream@@UEAAXPEAX_K@Z
+?RandomFloat@CGaussianRandomStream@@QEAAMMM@Z
+?RandomFloat@CUniformRandomStream@@UEAAMMM@Z
+?RandomInt@CUniformRandomStream@@UEAAHHH@Z
+?SetSeed@CUniformRandomStream@@UEAAXH@Z
+?Test_BValidateStructures@CStringNormalization@@SA_NXZ
+?V_ConvertStringToUUID@@YA_NPEBDW4EUUIDStringFlags@@PEAUV_UUID@@@Z
+?V_ConvertStringToUUID@@YA_NPEBGW4EUUIDStringFlags@@PEAUV_UUID@@@Z
+?V_ConvertUUIDToString@@YA_NPEBUV_UUID@@W4EUUIDStringFlags@@PEADH@Z
+?V_ConvertUUIDToString@@YA_NPEBUV_UUID@@W4EUUIDStringFlags@@PEAGH@Z
+?V_SplitString2@@YAXPEBDPEBQEBDHAEAV?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@@@@@_N@Z
+?V_SplitString@@YAXPEBD0AEAV?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@@@@@_N@Z
+?V_UnicodeAdvance@@YAPEADPEADH@Z
+?V_UnicodeAdvance@@YAPEAGPEAGH@Z
+?V_UnicodeAdvance@@YAPEAIPEAIH@Z
+?V_UnicodeCaseConvert@@YAHAEAV?$CUtlVector@GV?$CUtlMemory@G@@@@HW4EStringConvertErrorPolicy@@@Z
+?V_UnicodeCaseConvert@@YAHAEAVCUtlString@@HW4EStringConvertErrorPolicy@@@Z
+?V_UnicodeCaseConvert@@YAHAEAVCUtlStringBuilder@@HW4EStringConvertErrorPolicy@@@Z
+?V_UnicodeCaseConvert@@YAHPEBDPEADHHW4EStringConvertErrorPolicy@@@Z
+?V_UnicodeCaseConvert@@YAHPEBGPEAGHHW4EStringConvertErrorPolicy@@@Z
+?V_UnicodeCaseConvert@@YAHPEBIPEAIHHW4EStringConvertErrorPolicy@@@Z
+?V_UnicodeLength@@YAHPEBD@Z
+?V_UnicodeLength@@YAHPEBG@Z
+?V_UnicodeLength@@YAHPEBI@Z
+?V_UnicodeRepair@@YAHPEADW4EStringConvertErrorPolicy@@@Z
+?V_UnicodeRepair@@YAHPEAGW4EStringConvertErrorPolicy@@@Z
+?V_UnicodeRepair@@YAHPEAIW4EStringConvertErrorPolicy@@@Z
+?V_UnicodeValidate@@YA_NPEBD@Z
+?V_UnicodeValidate@@YA_NPEBG@Z
+?V_UnicodeValidate@@YA_NPEBI@Z
+?V_stristr@@YAPEBDPEBD0@Z
+?ValidateStatics@CStringNormalization@@SAXAEAVCValidator@@PEBD@Z
+?ValidateStatics@CURLUtils@@SAXAEAVCValidator@@PEBD@Z
+?m_Mutex@CURLUtils@@0VCThreadMutex@@A
+?m_bInitialized@CStringNormalization@@0_NA
+?m_bInitialized@CURLUtils@@0_NA
+BHanIdeograph
+CanBeginLine
+CanBreakBetween
+CanBreakRepeated
+CanEndLine
+CommandLine
+Coroutine_Cancel
+Coroutine_Continue
+Coroutine_Create
+Coroutine_DebugBreak
+Coroutine_GetCurrentlyActive
+Coroutine_GetStackDepth
+Coroutine_IsActive
+Coroutine_IsAddressInOurStack
+Coroutine_ReleaseThreadMemory
+Coroutine_Test
+Coroutine_ValidateGlobals
+Coroutine_YieldToMain
+CreateInterface
+DebugStatsSystem
+GetNameFromOSType
+GetOSDetailString
+GetOSType
+GetPlatformFromOS
+GetPlatformName
+GetPlatformNameFromEPlatformType
+GetPortableOsVersionInformation
+InstallUniformRandomStream
+KeyValuesSystemSteam
+OSTypesAreCompatible
+StringAfterPrefix
+StringAfterPrefixCaseSensitive
+StringHasSuffix
+VStdLib_GetICVarFactory
+V_AggressiveStripPrecedingAndTrailingWhitespace
+V_AggressiveStripPrecedingAndTrailingWhitespaceW
+V_AppendParamToURL
+V_AppendSlash
+V_BasicHtmlEntityEncode
+V_CP437CharsToUTF8
+V_CbMakeAbsolutePath
+V_ComposeFileName
+V_CopyAndFixSlashes
+V_DefaultExtension
+V_ExtractDomainFromURL
+V_ExtractFileExtension
+V_ExtractFilePath
+V_FileBase
+V_FixDoubleSlashes
+V_FixSlashes
+V_FixupPathName
+V_FormatAndAppend
+V_FormatAndAppendTail
+V_FormatAndAppendV
+V_GetCurrentDirectory
+V_GetFileExtension
+V_HtmlEntityDecodeToUTF8
+V_IsAbsolutePath
+V_IsDeprecatedW
+V_IsMeanSpaceW
+V_IsTLD
+V_IsValidDomainNameCharacter
+V_IsValidUChar32
+V_IsValidURLCharacter
+V_JoinNumbers
+V_JoinNumbersUint
+V_LocaleSpecificANSIToUTF8
+V_MakeAbsolutePath
+V_MakeFileSafeName
+V_MakeRelativePath
+V_MatchWildcardDNSName
+V_MatchWildcardString
+V_NormalizeUTF8
+V_NormalizeUTF8Old
+V_RemoveDotSlashes
+V_ReplaceBadFilenameCharacters
+V_ReplaceBadFilenameCharactersInPlace
+V_SetCurrentDirectory
+V_SetExtension
+V_SetURLParam
+V_SplitNumbers
+V_SplitNumbersUint
+V_SplitString
+V_SplitString2
+V_StrLeft
+V_StrReplaceChar
+V_StrRight
+V_StrSkipArticles
+V_StrSlice
+V_StrSubst
+V_StrSubstInPlace
+V_StrTrim
+V_StripAndPreserveHTML
+V_StripAndPreserveHTMLCore
+V_StripBBCode
+V_StripExtension
+V_StripFilename
+V_StripLastDir
+V_StripPrecedingAndTrailingWhitespace
+V_StripPrecedingAndTrailingWhitespaceW
+V_StripTrailingSlash
+V_StripUnprintable
+V_StripUnprintableW
+V_TruncateAbsolutePathToDiskIdentity
+V_UChar32ToUTF16
+V_UChar32ToUTF16Len
+V_UChar32ToUTF8
+V_UChar32ToUTF8Len
+V_URLContainsDomain
+V_URLCracker
+V_URLDecode
+V_URLDecodeRaw
+V_URLEncode
+V_URLEncodeRaw
+V_URLParse
+V_URLPartsToString
+V_UTF16ToUChar32
+V_UTF16ToUTF32
+V_UTF16ToUTF8
+V_UTF32CharsToUTF16
+V_UTF32CharsToUTF8
+V_UTF32ToUTF16
+V_UTF32ToUTF8
+V_UTF8ToUChar32
+V_UTF8ToUTF16
+V_UTF8ToUTF32
+V_UnqualifiedFileName
+V_WcsSkipArticles
+V_Windows1252CharsToUTF8
+V_binarytohex
+V_hextobinary
+V_isbreakablewspace
+V_isnumeric
+V_isstrlower
+V_isvalidhex
+V_memcpy_nocache
+V_pretifymem
+V_pretifynum
+V_snprintf
+V_snwprintf
+V_strcat
+V_strcmp_prefix
+V_stricmp_prefix
+V_strlower_fast
+V_strnappend
+V_strnappend_strlen
+V_strncat
+V_strnchr
+V_strncmp
+V_strncpy
+V_strnicmp
+V_strnistr
+V_strnlen
+V_strristr
+V_strtoi64
+V_strtoui64
+V_strupper_fast
+V_tolower
+V_toupper
+V_towlower32
+V_towupper32
+V_vsnprintf
+V_vsnprintfRet
+V_vsnwprintf
+V_wcscat
+V_wcsncat
+V_wcsncpy
+V_wcstoi64
+V_wcstoui64
+V_whextobinary
+WeakRandomChar
+WeakRandomFillMemory
+WeakRandomFloat
+WeakRandomGaussianFloat
+WeakRandomInt
+WeakRandomSeed
+WeakRandomUint32
+vstdlib_wcsicmp
+vstdlib_wcsnicmp
+vstdlib_wcstoi64
+vstdlib_wcstoui64
+VirtualQuery
+HeapAlloc
+GetProcessHeap
+GetCurrentThreadId
+GetModuleFileNameA
+VerSetConditionMask
+GetVersionExA
+VerifyVersionInfoW
+EnterCriticalSection
+LeaveCriticalSection
+FoldStringW
+MultiByteToWideChar
+WideCharToMultiByte
+GetProcAddress
+GetLastError
+WriteFile
+ReadFile
+FlushFileBuffers
+SetEndOfFile
+SetFilePointerEx
+CloseHandle
+GetDriveTypeW
+CreateFileW
+LoadLibraryExW
+GetModuleHandleW
+GetCurrentProcess
+KERNEL32.dll
+CharLowerBuffW
+USER32.dll
+Plat_GetCommandLine
+AssertMsgImplementation
+?Push@CValidator@@QEAAXPEBDPEAX0@Z
+?Pop@CValidator@@QEAAXXZ
+?ClaimMemory@CValidator@@QEAAXPEAX@Z
+g_pMemAllocSteam
+ThreadGetCurrentId
+ThreadGetCurrentRunningRef
+??0CThreadLocalBase@@QEAA@XZ
+??1CThreadLocalBase@@QEAA@XZ
+?Get@CThreadLocalBase@@QEBAPEAXXZ
+?Set@CThreadLocalBase@@QEAAXPEAX@Z
+??0CThreadMutex@@QEAA@XZ
+??1CThreadMutex@@QEAA@XZ
+?Lock@CThreadMutex@@QEAAXXZ
+?Unlock@CThreadMutex@@QEAAXXZ
+?GetParent@CVProfNode@@QEAAPEAV1@XZ
+?GetProfile@CVProfNode@@QEAAPEAVCVProfile@@XZ
+?GetCurrentScope@CVProfNode@@QEAAPEAXXZ
+?GetName@CVProfNode@@QEAAPEBDXZ
+?GetBudgetGroupID@CVProfNode@@QEBA?AW4EVProfBugdetGroup@@XZ
+?EnterScope@CVProfile@@QEAA_NPEBDHW4EVProfBugdetGroup@@_NPEAX@Z
+?ExitScope@CVProfile@@QEAAXXZ
+?IsEnabled@CVProfile@@QEBA_NXZ
+?GetCurrentNode@CVProfile@@QEAAPEAVCVProfNode@@XZ
+?GetCurrentScope@CVProfile@@QEAAPEAXXZ
+?SetThreadEntry@CVProfile@@QEAAXPEAVCVProfileThreadEntry@@@Z
+?AddProfileForThread@CVProfManager@@QEAAPEAVCVProfileThreadEntry@@PEAVCVProfile@@II@Z
+CreateVProfile
+g_VProfManager
+g_VProfile
+Warning
+Plat_OutputDebugString
+??0CThreadSpinRWLock@@QEAA@XZ
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?LockForWrite@CThreadSpinRWLock@@QEAAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+Plat_ExitProcess
+Plat_IsInDebugSession
+WriteMiniDump
+g_dwDllEntryThreadId
+Is64BitOS
+ThreadGetCurrentProcessId
+getcwd_utf8
+Plat_OutputDebugStringRaw
+tier0_s64.dll
+EncodePointer
+DecodePointer
+RtlUnwindEx
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetFullPathNameA
+SetEnvironmentVariableA
+SetCurrentDirectoryA
+GetCurrentDirectoryA
+GetSystemTimeAsFileTime
+GetCommandLineA
+ExitProcess
+GetModuleHandleExW
+AreFileApisANSI
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+SetLastError
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetStartupInfoW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStringTypeW
+GetCurrentDirectoryW
+GetConsoleMode
+ReadConsoleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+LCMapStringW
+GetModuleFileNameW
+SetStdHandle
+GetConsoleCP
+RaiseException
+OutputDebugStringW
+WriteConsoleW
+HeapFree
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AV?$CUtlLinkedList@UCommandLineParam_t@CCommandLine@@H@@
+.?AVICommandLine@@
+.?AVCCommandLine@@
+.?AV?$CUtlLinkedList@VCCoroutine@@H@@
+.?AV?$CUtlVector@HV?$CUtlMemory@H@@@@
+.?AV?$CUtlVector@PEAVCCoroutineMgr@@V?$CUtlMemory@PEAVCCoroutineMgr@@@@@@
+.?AVCDefaultCvar@@
+.?AVICvar@@
+.?AVIUniformRandomStream@@
+.?AVCUniformRandomStream@@
+.?AVIDebugStatsSystem@@
+.?AVCDebugStatsSystem@@
+.?AV?$CUtlMap@I_NHV?$CDefLess@I@@@@
+.?AV?$CUtlMap@PEAXHHV?$CDefLess@PEAX@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@I_NHV?$CDefLess@I@@@@HVCKeyLess@2@V?$CDefRBTreeBalanceListener@H@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEAXHHV?$CDefLess@PEAX@@@@HVCKeyLess@2@V?$CDefRBTreeBalanceListener@H@@@@
+.?AVIKeyValuesSystem@@
+.?AVCKeyValuesSystem@@
+.?AV?$CUtlMap@GPEBGHV?$CDefLess@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@GPEBGHV?$CDefLess@G@@@@HVCKeyLess@2@V?$CDefRBTreeBalanceListener@H@@@@
+.?AVCUtlString@@
+.?AV?$CUtlHash@VCUtlString@@VCDefCaselessUtlStringEquals@@V?$CDefHashKey@VCUtlString@@@@@@
+.?AV?$CUtlVector@V?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@@@@@V?$CUtlMemory@V?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@@@@@@@@@
+.?AV?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@@@@@
+.?AVIValidate@@
+.?AVCVStdLibDLLValidate@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AVCUtlMemoryBase@@
+.?AVtype_info@@
+3426166P
+PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+160503201638Z0#

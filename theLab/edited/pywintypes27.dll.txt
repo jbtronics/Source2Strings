@@ -1,0 +1,1180 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+@UVATAUAVH
+ A^A]A\^]
+@WATAUAVH
+HA^A]A\_
+L$ SUVATAUAVAWH
+`A_A^A]A\^][
+@UVATAUAVH
+A^A]A\^]
+@&L9D$8~ H
+@FL9D$8~ H
+HcD$@HcL$0H
+HcD$@Lc\$0I
+9t$@w	H
+UVWATAUAVAWH
+pA_A^A]A\_^]
+@UVWATH
+l$ VWATH
+R0I9<$@
+|$ ATAUAVH
+0A^A]A\
+@VATAVH
+WATAUAVAWH
+A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+0A_A^A]A\_^]
+@UAUAVAWH
+(A_A^A]]
+H9D$0~bH
+` AUAVAWH
+ A_A^A]
+|ii:ACL
+The object is not a PyACL object
+:Initialize
+InitializeAcl
+:IsValid
+Error reordering ACL: Unable to allocate acl of size %d
+ReorderACL
+Ace type %d is not supported yet
+ReorderACL
+Object must be a mapping (dictionary, class instance, etc
+__dict__
+MultipleTrusteeOperation
+MultipleTrustee
+Identifier
+TrusteeType
+TrusteeForm
+Trustee must be a dictionary containing {MultipleTrustee,MultipleTrusteeOperation,TrusteeForm,TrusteeType,Identifier}
+MultipleTrustee
+{s:O,s:l,s:l,s:l,s:N}
+Identifier must be PySID object when TrusteeForm = TRUSTEE_IS_SID
+TrusteeForm not yet supported
+Trustee
+Identifier must be string/unicode when TrusteeForm = TRUSTEE_IS_NAME
+Invalid value for TrusteeForm
+TrusteeForm not yet supported
+Invalid value for TrusteeForm
+Identifier
+TrusteeType
+TrusteeForm
+MultipleTrusteeOperation
+Inheritance
+AccessMode
+AccessPermissions
+EXPLICIT_ACCESS must be a dictionary containing {AccessPermissions:int,AccessMode:int,Inheritance:int,Trustee:<o PyTRUSTEE>}
+Trustee
+Inheritance
+AccessMode
+AccessPermissions
+{s:l,s:l,s:l,s:N}
+GetExplicitEntriesFromAcl
+%s not supported by this version of Windows
+%s: unable to allocated %d bytes
+lO:AddAccessAllowedAce
+llO:AddAccessAllowedAce
+AddAccesAllowedAce
+lO:AddAccessDeniedAce
+llO:AddAccessDeniedAce
+AddAccesDeniedAce
+%s not supported by this version of Windows
+%s: unable to allocated %d bytes
+lllO:AddAccessAllowedAceEx
+AddAccessAllowedAceEx
+lllO:AddAccessDeniedAceEx
+AddAccessDeniedAceEx
+kkkO:AddMandatoryAce
+AddMandatoryAce
+%s not supported by this version of Windows
+%s: unable to allocated %d bytes
+lllOOO:AddAccessAllowedObjectAce
+AddAccessAllowedObjectAce
+lllOOO:AddAccessDeniedObjectAce
+AddAccessDeniedObjectAce
+llOii:AddAuditAccessAce
+AddAuditAccessAce
+AddAuditAccessAce: unable to allocated %d bytes
+AddAuditAccessAce
+AddAuditAccessAceEx not supported by this version of Windows
+lllOii:AddAuditAccessAceEx
+AddAuditAccessAceEx
+AddAuditAccessAceEx: unable to allocated %d bytes
+AddAuditAccessAceEx
+AddAuditAccessObjectAce not supported by this version of Windows
+lllOOOii:AddAuditAccessObjectAce
+AddAuditAccessObjectAce
+AddAuditAccessObjectAce: unable to allocated %d bytes
+AddAuditAccessObjectAce
+:GetAclSize
+:GetAceCount
+l:GetAce
+(ll)lNNN
+Ace type %d is not supported yet
+l:DeleteAce
+DeleteAce
+O:SetEntriesInAcl
+Parm must be a list of EXPLICIT_ACCESS dictionaries
+SetEntriesInAcl: unable to allocate EXPLICIT_ACCESS_W
+SetEntriesInAcl
+O:GetEffectiveRightsFromAcl
+GetEffectiveRightsFromAcl
+O:GetAuditedPermissionsFromAcl
+GetAuditedPermissionsFromAcl
+Initialize
+IsValid
+AddAccessAllowedAce
+AddAccessAllowedAceEx
+AddAccessAllowedObjectAce
+AddAccessDeniedAce
+AddAccessDeniedAceEx
+AddMandatoryAce
+AddAccessDeniedObjectAce
+AddAuditAccessAce
+AddAuditAccessAceEx
+AddAuditAccessObjectAce
+GetAclSize
+GetAclRevision
+GetAceCount
+DeleteAce
+GetExplicitEntriesFromAcl
+SetEntriesInAcl
+GetEffectiveRightsFromAcl
+GetAuditedPermissionsFromAcl
+PyHANDLE
+SetACL: Unable to reallocate ACL to size %d
+SpecVersion
+Should always be set to DM_SPECVERSION
+DriverVersion
+Version nbr assigned to printer driver by vendor
+Size of structure
+DriverExtra
+Number of extra bytes allocated for driver data, can only be set when new object is created
+Bitmask of win32con.DM_* constants indicating which members are set
+Orientation
+Only applies to printers, DMORIENT_PORTRAIT or DMORIENT_LANDSCAPE
+PaperSize
+Use 0 if PaperWidth and PaperLength are set, otherwise win32con.DMPAPER_* constant
+PaperLength
+Specified in 1/10 millimeters
+PaperWidth
+Specified in 1/10 millimeters
+Position_x
+Position of display relative to desktop
+Position_y
+Position of display relative to desktop
+DisplayOrientation
+Display rotation: DMDO_DEFAULT,DMDO_90, DMDO_180, DMDO_270
+DisplayFixedOutput
+DMDFO_DEFAULT, DMDFO_CENTER, DMDFO_STRETCH
+Specified as percentage, eg 50 means half size of original
+Nbr of copies to print
+DefaultSource
+DMBIN_* constant, or can be a printer-specific value
+PrintQuality
+DMRES_* constant, interpreted as DPI if positive
+DMCOLOR_COLOR or DMCOLOR_MONOCHROME
+For printers that do two-sided printing: DMDUP_SIMPLEX, DMDUP_HORIZONTAL, DMDUP_VERTICAL
+YResolution
+Vertical printer resolution in DPI - if this is set, PrintQuality indicates horizontal DPI
+TTOption
+TrueType options: DMTT_BITMAP, DMTT_DOWNLOAD, DMTT_DOWNLOAD_OUTLINE, DMTT_SUBDEV
+Collate
+DMCOLLATE_TRUE or DMCOLLATE_FALSE
+LogPixels
+Pixels per inch (only for display devices)
+BitsPerPel
+Color resolution in bits per pixel
+PelsWidth
+Pixel width of display
+PelsHeight
+Pixel height of display
+DisplayFlags
+Combination of DM_GRAYSCALE and DM_INTERLACED
+DisplayFrequency
+Refresh rate
+ICMMethod
+Intent of ICM, one of win32con.DMICM_* values
+Dithering options, win32con.DMDITHER_*
+Indicates where ICM is performed, one of win32con.DMICMMETHOD_* values
+ICMIntent
+MediaType
+DitherType
+Reserved, use only 0
+win32con.DMMEDIA_*, can also be a printer-specific value greater then DMMEDIA_USER
+Reserved1
+Reserved2
+Reserved, use only 0
+Controls printing of multiple logical pages per physical page, DMNUP_SYSTEM or DMNUP_ONEUP
+PanningWidth
+Not used, leave as 0
+PanningHeight
+Not used, leave as 0
+Attributes of PyDEVMODE can't be deleted
+DeviceName must be a string of length %d or less
+Attributes of PyDEVMODE can't be deleted
+FormName must be a string of length %d or less
+Attributes of PyDEVMODE can't be deleted
+DeviceName
+Name of form as returned by EnumForms, at most 32 chars
+Length of DriverData cannot be longer that DriverExtra (%d bytes)
+String of at most 32 chars
+FormName
+DriverData
+Driver data appended to end of structure
+PyDEVMODEA
+PyDEVMODEA::PyDEVMODE - Unable to allocate DEVMODE of size %d
+Object must be a PyDEVMODE
+DriverExtra
+PyDEVMODE cannot be None in this context
+DEVMODE structure of size %d greater than supported size of %d
+SpecVersion
+Should always be set to DM_SPECVERSION
+DriverVersion
+Version nbr assigned to printer driver by vendor
+Size of structure
+DriverExtra
+Number of extra bytes allocated for driver data, can only be set when new object is created
+Bitmask of win32con.DM_* constants indicating which members are set
+Orientation
+Only applies to printers, DMORIENT_PORTRAIT or DMORIENT_LANDSCAPE
+PaperSize
+PaperLength
+Use 0 if PaperWidth and PaperLength are set, otherwise win32con.DMPAPER_* constant
+Specified in 1/10 millimeters
+PaperWidth
+Specified in 1/10 millimeters
+Position_x
+Position of display relative to desktop
+Position_y
+Position of display relative to desktop
+DisplayOrientation
+Display rotation: DMDO_DEFAULT,DMDO_90, DMDO_180, DMDO_270
+DisplayFixedOutput
+DMDFO_DEFAULT, DMDFO_CENTER, DMDFO_STRETCH
+Specified as percentage, eg 50 means half size of original
+Nbr of copies to print
+DefaultSource
+DMBIN_* constant, or can be a printer-specific value
+PrintQuality
+DMRES_* constant, interpreted as DPI if positive
+DMCOLOR_COLOR or DMCOLOR_MONOCHROME
+YResolution
+For printers that do two-sided printing: DMDUP_SIMPLEX, DMDUP_HORIZONTAL, DMDUP_VERTICAL
+Vertical printer resolution in DPI - if this is set, PrintQuality indicates horizontal DPI
+TTOption
+TrueType options: DMTT_BITMAP, DMTT_DOWNLOAD, DMTT_DOWNLOAD_OUTLINE, DMTT_SUBDEV
+Collate
+DMCOLLATE_TRUE or DMCOLLATE_FALSE
+LogPixels
+Pixels per inch (only for display devices)
+BitsPerPel
+Color resolution in bits per pixel
+PelsWidth
+Pixel width of display
+PelsHeight
+Pixel height of display
+DisplayFlags
+Combination of DM_GRAYSCALE and DM_INTERLACED
+DisplayFrequency
+Refresh rate
+ICMMethod
+Intent of ICM, one of win32con.DMICM_* values
+Dithering options, win32con.DMDITHER_*
+Indicates where ICM is performed, one of win32con.DMICMMETHOD_* values
+ICMIntent
+MediaType
+DitherType
+Reserved, use only 0
+win32con.DMMEDIA_*, can also be a printer-specific value greater then DMMEDIA_USER
+Reserved1
+Reserved2
+Reserved, use only 0
+Controls printing of multiple logical pages per physical page, DMNUP_SYSTEM or DMNUP_ONEUP
+PanningWidth
+Not used, leave as 0
+PanningHeight
+Not used, leave as 0
+Attributes of PyDEVMODEW can't be deleted
+DeviceName must be a string of length %d or less
+Attributes of PyDEVMODEW can't be deleted
+FormName must be a string of length %d or less
+Attributes of PyDEVMODEW can't be deleted
+DeviceName
+Name of form as returned by EnumForms, at most 32 chars
+Length of DriverData cannot be longer that DriverExtra (%d bytes)
+String of at most 32 chars
+FormName
+DriverData
+Driver data appended to end of structure
+PyDEVMODEW
+PyDEVMODEA::PyDEVMODE - Unable to allocate DEVMODE of size %d
+Object must be a PyDEVMODEW
+DriverExtra
+PyDEVMODE cannot be None in this context
+DEVMODE structure of size %d greater than supported size of %d
+|O:HANDLE
+The object is not a PyHANDLE object
+CloseHandle
+:Detach
+PyHANDLE
+CloseHandle
+<%hs at %Id (%Id)>
+bad operand type
+|O:HANDLERegistry
+HANDLE must be a PyHKEY
+RegCloseKey
+object must be a read-buffer to read the CLSID bytes
+string too small - must be at least %d bytes (got %d)
+Only strings and iids can be converted to a CLSID.
+allocating new PyIID object
+The string is too long
+accessing non-existent IID segment
+Support for passing 2 integers to create a 64bit value is deprecated - pass a long instead
+LARGE_INTEGER must be 'int', or '(int, int)'
+ULARGE_INTEGER must be 'int', or '(int, int)'
+Support for passing 2 integers to create a 64bit value is deprecated - pass a long instead
+:OVERLAPPED
+The object is not a PyOVERLAPPED object
+Allocating pOverlapped
+PyOVERLAPPED
+OffsetHigh
+Internal
+InternalHigh
+Internal
+InternalHigh
+can't delete OVERLAPPED attributes
+Internal
+InternalHigh
+:SECURITY_ATTRIBUTES
+The object is not a PySECURITY_ATTRIBUTES object
+A Python object, representing a SECURITY_ATTRIBUTES structure
+PySECURITY_ATTRIBUTES
+bInheritHandle
+SECURITY_DESCRIPTOR
+can't delete SECURITY_ATTRIBUTES attributes
+SECURITY_DESCRIPTOR
+|l:SECURITY_DESCRIPTOR
+Security descriptors are not supported on this platform
+O:SECURITY_DESCRIPTOR
+Data is not a valid security descriptor
+Security descriptor created from a buffer must be self relative
+The object is not a PySECURITY_DESCRIPTOR object
+Invalid Security descriptor
+Unable to allocate %d bytes
+MakeSelfRelativeSD
+Unable to allocate %d bytes
+MakeSelfRelativeSD
+Unable to allocate %d bytes
+MakeAbsoluteSD
+:Initialize
+InitializeSecurityDescriptor
+iOi:SetSecurityDescriptorDacl
+SetSecurityDescriptorDacl
+iOi:SetSacl
+SetSecurityDescriptorSacl
+:GetSecurityDescriptorOwner
+GetSecurityDescriptorOwner
+Oi:SetSecurityDescriptorOwner
+SetSecurityDescriptorOwner
+Oi:SetSecurityDescriptorOwner
+SetSecurityDescriptorGroup - invalid sid
+SetSecurityDescriptorGroup
+:GetSecurityDescriptorGroup
+GetSecurityDescriptorGroup - invalid sd
+GetSecurityDescriptorGroup
+:GetSecurityDescriptorDacl
+SetSecurityDescriptorGroup - invalid sd
+GetSecurityDescriptorDacl
+:GetSecurityDescriptorSacl
+GetSecurityDescriptorSacl - invalid sd
+GetSecurityDescriptorSacl
+:GetSecurityDescriptorControl
+GetSecurityDescriptorControl - invalid sd
+GetSecurityDescriptorControl
+SetSecurityDescriptorControl does not exist on this platform
+ll:SetSecurityDescriptorControl
+SetSecurityDescriptorControl
+:IsValid
+:GetLength
+Initialize
+GetSecurityDescriptorOwner
+GetSecurityDescriptorGroup
+GetSecurityDescriptorDacl
+GetSecurityDescriptorSacl
+GetSecurityDescriptorControl
+SetSecurityDescriptorOwner
+SetSecurityDescriptorGroup
+SetDacl
+SetSecurityDescriptorDacl
+SetSecurityDescriptorSacl
+IsValid
+GetLength
+IsSelfRelative
+SetSecurityDescriptorControl
+accessing non-existent SID segment
+PySECURITY_DESCRIPTOR
+(bbbbbb)O:SID
+sub authorities must be a sequence of integers.
+sub authorities sequence size must be <= 8
+|llllllll:SID
+sub authorities must be a sequence of integers.
+AllocateAndInitializeSid
+The object is not a PySID object
+(bbbbbb)b:Initialize
+InitializeSid
+:IsValid
+i:GetSubAuthority
+The index is out of range
+:GetLength
+:GetSubAuthorityCount
+The index is out of range
+GetSidIdentifierAuthority: Invalid SID in object
+(BBBBBB)
+Initialize
+IsValid
+SetSubAuthority
+GetLength
+GetSubAuthorityCount
+GetSubAuthority
+GetSidIdentifierAuthority
+accessing non-existent SID segment
+0x%02hx%02hx%02hx%02hx%02hx%02hx
+PySID: Invalid SID
+timetuple
+win32timezone
+TimeZoneInfo
+|O:Format
+can't format dates this early
+VariantTimeToSystemTime
+SystemTimeToFileTime
+VariantTimeToSystemTime
+Invalid richcompare operation
+illegal internal value
+illegal time value
+!illegal internal value!
+!GetDateFormat failed (%ld)!
+!GetTimeFormat failed (%ld)!
+<PyTime:%s %s>
+VariantTimeToSystemTime
+weekday
+bad operand type
+iiiiiiiii|i
+year out of range
+timetuple
+time tuple must have at least 6 elements
+Objects of type '%s' can not be used as a time object
+TimeType
+@None is not a valid string in this context
+<NULL!!>
+Objects of type '%s' can not be converted to Unicode.
+Allocating WCHAR
+None is not a valid string in this context
+The object must be a string or unicode object (got '%s')
+No memory for wide string buffer
+allocating BSTR
+None is not a valid string in this context
+<NULL!!>
+Objects of type '%s' can not be converted to Unicode.
+Allocating BSTR
+No memory for wide string buffer
+Allocating WCHAR array
+None is not a valid string in this context
+<NULL!!>
+Objects of type '%s' can not be converted to Unicode.
+Unable to allocate %d bytes
+:WAVEFORMATEX
+The object is not a PyWAVEFORMATEX object
+PyWAVEFORMATEX
+wFormatTag
+Format as an integer. WAVE_FORMAT_PCM (1) is very common.
+nChannels
+Number of channels
+nSamplesPerSec
+Sample rate in seconds
+nAvgBytesPerSec
+Required average data-transfer rate, in bytes per second, for the format tag. If wFormatTag is WAVE_FORMAT_PCM, nAvgBytesPerSec should be equal to the product of nSamplesPerSec and nBlockAlign.
+nBlockAlign
+Block alignment, in bytes. The block alignment is the minimum atomic unit of data for the wFormatTag format type. If wFormatTag is WAVE_FORMAT_PCM, nBlockAlign should be equal to the product of nChannels and wBitsPerSample divided by 8 (bits per byte).
+wBitsPerSample
+Bits per sample for the wFormatTag format type. If wFormatTag is WAVE_FORMAT_PCM, then wBitsPerSample should be equal to 8 or 16.
+Unhandled exception detected before entering Python.
+Expected a socket object or numeric socket handle
+Out of memory allocating thread state.
+pywintypes: can not setup interpreter state, as current state is invalid
+Can not setup thread state, as have no interpreter state
+Out of memory allocating thread state.
+No error message is available
+COM Error 0x%x
+:CreateGuid
+DosDateTimeToFileTime
+lNNNNNNNss
+lNNNNNNNuu
+POINT must be a tuple of 2 ints (x,y)
+ll;POINT must be a tuple of 2 ints (x,y)
+OtherTransferCount
+WriteTransferCount
+ReadTransferCount
+OtherOperationCount
+WriteOperationCount
+ReadOperationCount
+{s:N,s:N,s:N,s:N,s:N,s:N}
+Sequence of dwords cannot be None
+Unable to allocate %d bytes
+Unable to convert %s to pointer-sized value
+Resource id/name must be string or int in the range 0-65536
+Resource id/name must be unicode or int in the range 0-65536
+WPARAM must be a String, int, or buffer object (got %s)
+RECT must be a tuple of 4 ints (left, top, right, bottom)
+llll;RECT must be a tuple of 4 ints (left, top, right, bottom)
+Buffer cannot be None
+Buffer length can be at most %d characters
+Buffer cannot be None
+Buffer length can be at most %d characters
+Sequence can contain at most %d items
+OiOOi(ii):MSG param
+NiNNi(ii)
+DosDateTimeToTime
+Unicode
+UnicodeFromRaw
+IsTextUnicode
+OVERLAPPED
+CreateGuid
+SECURITY_ATTRIBUTES
+SECURITY_DESCRIPTOR
+WAVEFORMATEX
+pywintypes
+Exception
+__name__
+__builtin__
+__builtins__
+class error(Exception):
+  def __init__(self, *args, **kw):
+    nargs = len(args)
+    if nargs > 0: self.winerror = args[0]
+    else: self.winerror = None
+    if nargs > 1: self.funcname = args[1]
+    else: self.funcname = None
+    if nargs > 2: self.strerror = args[2]
+    else: self.strerror = None
+    Exception.__init__(self, *args, **kw)
+class com_error(Exception):
+  def __init__(self, *args, **kw):
+    nargs = len(args)
+    if nargs > 0: self.hresult = args[0]
+    else: self.hresult = None
+    if nargs > 1: self.strerror = args[1]
+    else: self.strerror = None
+    if nargs > 2: self.excepinfo = args[2]
+    else: self.excepinfo = None
+    if nargs > 3: self.argerror = args[3]
+    else: self.argerror = None
+    Exception.__init__(self, *args, **kw)
+com_error
+pywintypes
+Could not initialise the error objects
+com_error
+WAVE_FORMAT_PCM
+UnicodeType
+IIDType
+SECURITY_DESCRIPTORType
+SECURITY_ATTRIBUTESType
+SIDType
+ACLType
+HANDLEType
+OVERLAPPEDType
+DEVMODEAType
+DEVMODEWType
+DEVMODEType
+WAVEFORMATEXType
+AdvAPI32.dll
+AddAccessAllowedAce
+AddAccessDeniedAce
+AddAccessAllowedAceEx
+AddMandatoryAce
+AddAccessAllowedObjectAce
+AddAccessDeniedAceEx
+AddAccessDeniedObjectAce
+AddAuditAccessAceEx
+AddAuditAccessObjectAce
+SetSecurityDescriptorControl
+cStringIO
+<Error getting traceback - cant import cStringIO>
+traceback
+<Error getting traceback - cant import traceback>
+StringIO
+<Error getting traceback - cant find cStringIO.StringIO>
+<Error getting traceback - cStringIO.StringIO() failed>
+print_exception
+<Error getting traceback - cant find traceback.print_exception>
+<Error getting traceback - traceback.print_exception() failed>
+<Error getting traceback - cant find getvalue function>
+<Error getting traceback - cant make print_exception arguments>
+getvalue
+<Error getting traceback - getvalue() failed.>
+<Error getting traceback - getvalue() did not return a string>
+E:\dev\python\2.7\packages\pywin32\pywin32-217\build\temp.win-amd64-2.7\Release\pywintypes.pdb
+InitializeAcl
+IsValidAcl
+GetExplicitEntriesFromAclW
+GetLengthSid
+AddAuditAccessAce
+DeleteAce
+SetEntriesInAclW
+GetEffectiveRightsFromAclW
+GetAuditedPermissionsFromAclW
+RegCloseKey
+GetSecurityDescriptorDacl
+GetSecurityDescriptorSacl
+GetSecurityDescriptorOwner
+GetSecurityDescriptorGroup
+GetAclInformation
+GetSecurityDescriptorControl
+MakeSelfRelativeSD
+GetSecurityDescriptorLength
+IsValidSecurityDescriptor
+MakeAbsoluteSD
+InitializeSecurityDescriptor
+SetSecurityDescriptorDacl
+SetSecurityDescriptorSacl
+SetSecurityDescriptorOwner
+SetSecurityDescriptorGroup
+IsValidSid
+InitializeSid
+GetSidSubAuthority
+GetSidSubAuthorityCount
+GetSidIdentifierAuthority
+CopySid
+EqualSid
+AllocateAndInitializeSid
+IsTextUnicode
+ADVAPI32.dll
+wsprintfA
+wsprintfW
+USER32.dll
+CLSIDFromProgID
+CLSIDFromString
+StringFromGUID2
+CoTaskMemAlloc
+CoTaskMemFree
+CoCreateGuid
+ole32.dll
+OLEAUT32.dll
+PyErr_Format
+PyExc_MemoryError
+PyErr_SetString
+PyExc_TypeError
+_Py_NoneStruct
+PyArg_ParseTuple
+PyInt_FromLong
+PyExc_NotImplementedError
+PyObject_GetAttrString
+PyErr_Clear
+PyDict_SetItem
+PyTuple_GetItem
+PySequence_GetItem
+PySequence_Size
+PyDict_New
+PyObject_CallMethod
+PyMapping_Check
+PyExc_ValueError
+PyArg_ParseTupleAndKeywords
+PyTuple_New
+Py_BuildValue
+PyTuple_SetItem
+PySequence_Check
+PyObject_GenericGetAttr
+PyType_Type
+PyString_FromStringAndSize
+PyString_FromString
+PyString_AsStringAndSize
+PyExc_AttributeError
+PyExc_WindowsError
+PyEval_RestoreThread
+PyEval_SaveThread
+_Py_TrueStruct
+_Py_ZeroStruct
+_Py_NotImplementedStruct
+_Py_HashPointer
+PyObject_Print
+PyErr_Restore
+PyErr_Fetch
+PyObject_GenericSetAttr
+PyExc_SystemError
+PyObject_AsReadBuffer
+PyObject_CheckReadBuffer
+PyErr_WarnEx
+PyExc_PendingDeprecationWarning
+PyLong_AsLongLong
+PyErr_Occurred
+PyLong_AsUnsignedLongLong
+PyLong_FromLongLong
+PyLong_FromUnsignedLongLong
+PyString_AsString
+PyBool_FromLong
+PyErr_NoMemory
+PySequence_Tuple
+PyObject_HasAttrString
+PyFloat_FromDouble
+PyInt_AsLong
+PyDict_SetItemString
+PyType_Ready
+PyErr_BadArgument
+PyNumber_Check
+PyEval_CallObjectWithKeywords
+PyString_Size
+PyUnicode_EncodeMBCS
+PyMem_Malloc
+PyMem_Free
+PyUnicodeUCS2_FromWideChar
+PyUnicodeUCS2_AsWideChar
+PyUnicodeUCS2_AsUnicode
+PyList_Append
+PyList_New
+Py_MakePendingCalls
+Py_FatalError
+PyThreadState_Swap
+PyThreadState_New
+PyEval_AcquireThread
+PyEval_ReleaseThread
+PyThreadState_Delete
+PyThreadState_Clear
+PyErr_SetObject
+PyUnicode_DecodeMBCS
+PyLong_FromUnsignedLong
+PyObject_AsWriteBuffer
+PyDict_GetItemString
+PyRun_StringFlags
+PyImport_ImportModule
+PyExc_Exception
+PyEval_InitThreads
+PyUnicode_Type
+PyModule_AddIntConstant
+PyModule_GetDict
+Py_InitModule4_64
+PyObject_CallObject
+PyCallable_Check
+python27.dll
+??3@YAXPEAX@Z
+realloc
+??2@YAPEAX_K@Z
+_snwprintf
+__CxxFrameHandler3
+_localtime64
+_mktime64
+strftime
+wcsncpy
+strncpy
+fprintf
+__iob_func
+MSVCR100.dll
+?terminate@@YAXXZ
+__C_specific_handler
+_malloc_crt
+_initterm
+_initterm_e
+_encoded_null
+_amsg_exit
+__CppXcptFilter
+?_type_info_dtor_internal_method@type_info@@QEAAXXZ
+__clean_type_info_names_internal
+_unlock
+__dllonexit
+_onexit
+LocalFree
+GetLastError
+CloseHandle
+lstrlenA
+SetLastError
+GetTimeZoneInformation
+FileTimeToSystemTime
+SystemTimeToFileTime
+GetTimeFormatA
+GetDateFormatA
+MultiByteToWideChar
+TlsSetValue
+LocalAlloc
+TlsGetValue
+FormatMessageA
+DosDateTimeToFileTime
+EnterCriticalSection
+LeaveCriticalSection
+TlsFree
+DeleteCriticalSection
+TlsAlloc
+InitializeCriticalSection
+GetProcAddress
+LoadLibraryA
+GetModuleHandleA
+EncodePointer
+DecodePointer
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+KERNEL32.dll
+_strdup
+pywintypes27.dll
+??0PyACL@@QEAA@HH@Z
+??0PyACL@@QEAA@PEAU_ACL@@@Z
+??0PyDEVMODEA@@QEAA@G@Z
+??0PyDEVMODEA@@QEAA@PEAU_devicemodeA@@@Z
+??0PyDEVMODEA@@QEAA@XZ
+??0PyDEVMODEW@@QEAA@G@Z
+??0PyDEVMODEW@@QEAA@PEAU_devicemodeW@@@Z
+??0PyDEVMODEW@@QEAA@XZ
+??0PyHANDLE@@QEAA@AEBV0@@Z
+??0PyHANDLE@@QEAA@PEAX@Z
+??0PyHKEY@@QEAA@AEBV0@@Z
+??0PyHKEY@@QEAA@PEAX@Z
+??0PyIID@@QEAA@AEBU_GUID@@@Z
+??0PyOVERLAPPED@@QEAA@PEBVsMyOverlapped@0@@Z
+??0PyOVERLAPPED@@QEAA@XZ
+??0PySECURITY_ATTRIBUTES@@QEAA@AEBU_SECURITY_ATTRIBUTES@@@Z
+??0PySECURITY_ATTRIBUTES@@QEAA@XZ
+??0PySECURITY_DESCRIPTOR@@QEAA@PEAX@Z
+??0PySECURITY_DESCRIPTOR@@QEAA@_J@Z
+??0PySID@@QEAA@HPEAX@Z
+??0PySID@@QEAA@PEAX@Z
+??0PyTime@@QEAA@AEBU_FILETIME@@@Z
+??0PyTime@@QEAA@AEBU_SYSTEMTIME@@@Z
+??0PyTime@@QEAA@N@Z
+??0PyTime@@QEAA@_J@Z
+??0PyWAVEFORMATEX@@QEAA@AEBUtWAVEFORMATEX@@@Z
+??0PyWAVEFORMATEX@@QEAA@XZ
+??0PyWin_AutoFreeBstr@@QEAA@PEA_W@Z
+??0sMyOverlapped@PyOVERLAPPED@@QEAA@AEBU_OVERLAPPED@@@Z
+??0sMyOverlapped@PyOVERLAPPED@@QEAA@XZ
+??1PyACL@@QEAA@XZ
+??1PyDEVMODEA@@IEAA@XZ
+??1PyDEVMODEW@@IEAA@XZ
+??1PyHANDLE@@UEAA@XZ
+??1PyHKEY@@UEAA@XZ
+??1PyOVERLAPPED@@QEAA@XZ
+??1PySECURITY_ATTRIBUTES@@QEAA@XZ
+??1PySECURITY_DESCRIPTOR@@QEAA@XZ
+??1PySID@@QEAA@XZ
+??1PyWAVEFORMATEX@@QEAA@XZ
+??1PyWin_AutoFreeBstr@@QEAA@XZ
+??4PyACL@@QEAAAEAV0@AEBV0@@Z
+??4PyDEVMODEA@@QEAAAEAV0@AEBV0@@Z
+??4PyDEVMODEW@@QEAAAEAV0@AEBV0@@Z
+??4PyHANDLE@@QEAAAEAV0@AEBV0@@Z
+??4PyHKEY@@QEAAAEAV0@AEBV0@@Z
+??4PyIID@@QEAAAEAV0@AEBV0@@Z
+??4PyOVERLAPPED@@QEAAAEAV0@AEBV0@@Z
+??4PySECURITY_ATTRIBUTES@@QEAAAEAV0@AEBV0@@Z
+??4PySECURITY_DESCRIPTOR@@QEAAAEAV0@AEBV0@@Z
+??4PySID@@QEAAAEAV0@AEBV0@@Z
+??4PyTime@@QEAAAEAV0@AEBV0@@Z
+??4PyWAVEFORMATEX@@QEAAAEAV0@AEBV0@@Z
+??4PyWin_AutoFreeBstr@@QEAAAEAV0@AEBV0@@Z
+??4sMyOverlapped@PyOVERLAPPED@@QEAAAEAV01@AEBV01@@Z
+??BPyHANDLE@@QEAAPEAXXZ
+??BPyWin_AutoFreeBstr@@QEAAPEA_WXZ
+??_7PyHANDLE@@6B@
+??_7PyHKEY@@6B@
+??_FPyIID@@QEAAXXZ
+??_FPySECURITY_DESCRIPTOR@@QEAAXXZ
+??_FPyWin_AutoFreeBstr@@QEAAXXZ
+?AddAccessAllowedAce@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?AddAccessAllowedAceEx@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?AddAccessAllowedObjectAce@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?AddAccessDeniedAce@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?AddAccessDeniedAceEx@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?AddAccessDeniedObjectAce@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?AddAuditAccessAce@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?AddAuditAccessAceEx@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?AddAuditAccessObjectAce@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?AddMandatoryAce@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?Clear@PyDEVMODEA@@SAPEAU_object@@PEAU2@0@Z
+?Clear@PyDEVMODEW@@SAPEAU_object@@PEAU2@0@Z
+?Close@PyHANDLE@@SAPEAU_object@@PEAU2@0@Z
+?Close@PyHANDLE@@UEAAHXZ
+?Close@PyHKEY@@UEAAHXZ
+?DeleteAce@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?Detach@PyHANDLE@@SAPEAU_object@@PEAU2@0@Z
+?Format@PyTime@@SAPEAU_object@@PEAU2@0@Z
+?FreeAbsoluteSD@@YAXPEAX@Z
+?GetACL@PyACL@@QEAAPEAU_ACL@@XZ
+?GetAce@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?GetAceCount@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?GetAclRevision@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?GetAclSize@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?GetDEVMODE@PyDEVMODEA@@QEAAPEAU_devicemodeA@@XZ
+?GetDEVMODE@PyDEVMODEW@@QEAAPEAU_devicemodeW@@XZ
+?GetLength@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?GetLength@PySID@@SAPEAU_object@@PEAU2@0@Z
+?GetOverlapped@PyOVERLAPPED@@QEAAPEAU_OVERLAPPED@@XZ
+?GetPythonTraceback@@YAPEADPEAU_object@@00@Z
+?GetSA@PySECURITY_ATTRIBUTES@@QEAAPEAU_SECURITY_ATTRIBUTES@@XZ
+?GetSD@PySECURITY_DESCRIPTOR@@QEAAPEAXXZ
+?GetSID@PySID@@QEAAPEAXXZ
+?GetSecurityDescriptorControl@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?GetSecurityDescriptorDacl@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?GetSecurityDescriptorGroup@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?GetSecurityDescriptorOwner@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?GetSecurityDescriptorSacl@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?GetSidIdentifierAuthority@PySID@@SAPEAU_object@@PEAU2@0@Z
+?GetSubAuthority@PySID@@SAPEAU_object@@PEAU2@0@Z
+?GetSubAuthorityCount@PySID@@SAPEAU_object@@PEAU2@0@Z
+?GetTime@PyTime@@QEAAHPEAN@Z
+?GetTime@PyTime@@QEAAHPEAU_FILETIME@@@Z
+?GetTime@PyTime@@QEAAHPEAU_SYSTEMTIME@@@Z
+?GetTypeName@PyHANDLE@@UEAAPEBDXZ
+?GetTypeName@PyHKEY@@UEAAPEBDXZ
+?Initialize@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?Initialize@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?Initialize@PySID@@SAPEAU_object@@PEAU2@0@Z
+?IsEqual@PyIID@@QEAAHAEAV1@@Z
+?IsEqual@PyIID@@QEAAHAEBU_GUID@@@Z
+?IsEqual@PyIID@@QEAAHPEAU_object@@@Z
+?IsSelfRelative@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?IsValid@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?IsValid@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?IsValid@PySID@@SAPEAU_object@@PEAU2@0@Z
+?PyACLType@@3U_typeobject@@A
+?PyDEVMODEAType@@3U_typeobject@@A
+?PyDEVMODEWType@@3U_typeobject@@A
+?PyGetAuditedPermissionsFromAcl@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?PyGetEffectiveRightsFromAcl@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?PyGetExplicitEntriesFromAcl@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?PyHANDLEType@@3U_typeobject@@A
+?PyIIDType@@3U_typeobject@@A
+?PyOVERLAPPEDType@@3U_typeobject@@A
+?PyObject_FromWIN32_FIND_DATAA@@YAPEAU_object@@PEAU_WIN32_FIND_DATAA@@@Z
+?PyObject_FromWIN32_FIND_DATAW@@YAPEAU_object@@PEAU_WIN32_FIND_DATAW@@@Z
+?PySECURITY_ATTRIBUTESType@@3U_typeobject@@A
+?PySECURITY_DESCRIPTORType@@3U_typeobject@@A
+?PySIDType@@3U_typeobject@@A
+?PySetEntriesInAcl@PyACL@@SAPEAU_object@@PEAU2@0@Z
+?PySocket_AsSOCKET@@YAHPEAU_object@@PEA_K@Z
+?PyTimeType@@3U_typeobject@@A
+?PyWAVEFORMATEXType@@3U_typeobject@@A
+?PyWinCoreString_FromIID@@YAPEAU_object@@AEBU_GUID@@@Z
+?PyWinCoreString_FromString@@YAPEAU_object@@PEBD_J@Z
+?PyWinCoreString_FromString@@YAPEAU_object@@PEB_W_J@Z
+?PyWinExc_ApiError@@3PEAU_object@@EA
+?PyWinExc_COMError@@3PEAU_object@@EA
+?PyWinGlobals_Ensure@@YAHXZ
+?PyWinGlobals_Free@@YAXXZ
+?PyWinInterpreterLock_Acquire@@YAXXZ
+?PyWinInterpreterLock_Release@@YAXXZ
+?PyWinLong_AsVoidPtr@@YAHPEAU_object@@PEAPEAX@Z
+?PyWinLong_FromHANDLE@@YAPEAU_object@@PEAX@Z
+?PyWinLong_FromVoidPtr@@YAPEAU_object@@PEBX@Z
+?PyWinMethod_NewACL@@YAPEAU_object@@PEAU1@0@Z
+?PyWinMethod_NewHANDLE@@YAPEAU_object@@PEAU1@0@Z
+?PyWinMethod_NewIID@@YAPEAU_object@@PEAU1@0@Z
+?PyWinMethod_NewOVERLAPPED@@YAPEAU_object@@PEAU1@0@Z
+?PyWinMethod_NewSECURITY_ATTRIBUTES@@YAPEAU_object@@PEAU1@0@Z
+?PyWinMethod_NewSECURITY_DESCRIPTOR@@YAPEAU_object@@PEAU1@0@Z
+?PyWinMethod_NewSID@@YAPEAU_object@@PEAU1@0@Z
+?PyWinMethod_NewTime@@YAPEAU_object@@PEAU1@0@Z
+?PyWinMethod_NewWAVEFORMATEX@@YAPEAU_object@@PEAU1@0@Z
+?PyWinObject_AsACL@@YAHPEAU_object@@PEAPEAU_ACL@@H@Z
+?PyWinObject_AsBstr@@YAHPEAU_object@@PEAPEA_WHPEAK@Z
+?PyWinObject_AsCharArray@@YAHPEAU_object@@PEAPEAPEADPEAKH@Z
+?PyWinObject_AsDATE@@YAHPEAU_object@@PEAN@Z
+?PyWinObject_AsDEVMODE@@YAHPEAU_object@@PEAPEAU_devicemodeA@@H@Z
+?PyWinObject_AsDEVMODE@@YAHPEAU_object@@PEAPEAU_devicemodeW@@H@Z
+?PyWinObject_AsDWORDArray@@YAHPEAU_object@@PEAPEAKPEAKH@Z
+?PyWinObject_AsFILETIME@@YAHPEAU_object@@PEAU_FILETIME@@@Z
+?PyWinObject_AsHANDLE@@YAHPEAU_object@@PEAPEAX@Z
+?PyWinObject_AsHKEY@@YAHPEAU_object@@PEAPEAUHKEY__@@@Z
+?PyWinObject_AsIID@@YAHPEAU_object@@PEAU_GUID@@@Z
+?PyWinObject_AsLARGE_INTEGER@@YAHPEAU_object@@PEAT_LARGE_INTEGER@@@Z
+?PyWinObject_AsMSG@@YAHPEAU_object@@PEAUtagMSG@@@Z
+?PyWinObject_AsMultipleString@@YAHPEAU_object@@PEAPEADHPEAK@Z
+?PyWinObject_AsMultipleString@@YAHPEAU_object@@PEAPEA_WHPEAK@Z
+?PyWinObject_AsOVERLAPPED@@YAHPEAU_object@@PEAPEAU_OVERLAPPED@@H@Z
+?PyWinObject_AsPARAM@@YAHPEAU_object@@PEA_K@Z
+?PyWinObject_AsPOINT@@YAHPEAU_object@@PEAUtagPOINT@@@Z
+?PyWinObject_AsPfnAllocatedWCHAR@@YAHPEAU_object@@P6APEAXK@ZPEAPEA_WHPEAK@Z
+?PyWinObject_AsPyOVERLAPPED@@YAHPEAU_object@@PEAPEAVPyOVERLAPPED@@H@Z
+?PyWinObject_AsRECT@@YAHPEAU_object@@PEAUtagRECT@@@Z
+?PyWinObject_AsReadBuffer@@YAHPEAU_object@@PEAPEAXPEAKH@Z
+?PyWinObject_AsResourceIdA@@YAHPEAU_object@@PEAPEADH@Z
+?PyWinObject_AsResourceIdW@@YAHPEAU_object@@PEAPEA_WH@Z
+?PyWinObject_AsSECURITY_ATTRIBUTES@@YAHPEAU_object@@PEAPEAU_SECURITY_ATTRIBUTES@@H@Z
+?PyWinObject_AsSECURITY_DESCRIPTOR@@YAHPEAU_object@@PEAPEAXH@Z
+?PyWinObject_AsSID@@YAHPEAU_object@@PEAPEAXH@Z
+?PyWinObject_AsSYSTEMTIME@@YAHPEAU_object@@PEAU_SYSTEMTIME@@@Z
+?PyWinObject_AsString@@YAHPEAU_object@@PEAPEADHPEAK@Z
+?PyWinObject_AsTaskAllocatedWCHAR@@YAHPEAU_object@@PEAPEA_WHPEAK@Z
+?PyWinObject_AsULARGE_INTEGER@@YAHPEAU_object@@PEAT_ULARGE_INTEGER@@@Z
+?PyWinObject_AsWAVEFORMATEX@@YAHPEAU_object@@PEAPEAUtWAVEFORMATEX@@H@Z
+?PyWinObject_AsWCHAR@@YAHPEAU_object@@PEAPEA_WHPEAK@Z
+?PyWinObject_AsWCHARArray@@YAHPEAU_object@@PEAPEAPEA_WPEAKH@Z
+?PyWinObject_AsWriteBuffer@@YAHPEAU_object@@PEAPEAXPEAKH@Z
+?PyWinObject_CloseHANDLE@@YAHPEAU_object@@@Z
+?PyWinObject_CloseHKEY@@YAHPEAU_object@@@Z
+?PyWinObject_FreeBstr@@YAXPEA_W@Z
+?PyWinObject_FreeCharArray@@YAXPEAPEADK@Z
+?PyWinObject_FreeMultipleString@@YAXPEAD@Z
+?PyWinObject_FreeMultipleString@@YAXPEA_W@Z
+?PyWinObject_FreeResourceId@@YAXPEAD@Z
+?PyWinObject_FreeResourceId@@YAXPEA_W@Z
+?PyWinObject_FreeString@@YAXPEAD@Z
+?PyWinObject_FreeString@@YAXPEA_W@Z
+?PyWinObject_FreeTaskAllocatedWCHAR@@YAXPEA_W@Z
+?PyWinObject_FreeWCHAR@@YAXPEA_W@Z
+?PyWinObject_FreeWCHARArray@@YAXPEAPEA_WK@Z
+?PyWinObject_FromBstr@@YAPEAU_object@@QEA_WH@Z
+?PyWinObject_FromDATE@@YAPEAU_object@@N@Z
+?PyWinObject_FromDEVMODE@@YAPEAU_object@@PEAU_devicemodeA@@@Z
+?PyWinObject_FromDEVMODE@@YAPEAU_object@@PEAU_devicemodeW@@@Z
+?PyWinObject_FromFILETIME@@YAPEAU_object@@AEBU_FILETIME@@@Z
+?PyWinObject_FromHANDLE@@YAPEAU_object@@PEAX@Z
+?PyWinObject_FromHKEY@@YAPEAU_object@@PEAUHKEY__@@@Z
+?PyWinObject_FromIID@@YAPEAU_object@@AEBU_GUID@@@Z
+?PyWinObject_FromIO_COUNTERS@@YAPEAU_object@@PEAU_IO_COUNTERS@@@Z
+?PyWinObject_FromLARGE_INTEGER@@YAPEAU_object@@AEAT_LARGE_INTEGER@@@Z
+?PyWinObject_FromMSG@@YAPEAU_object@@PEBUtagMSG@@@Z
+?PyWinObject_FromMultipleString@@YAPEAU_object@@PEAD@Z
+?PyWinObject_FromMultipleString@@YAPEAU_object@@PEA_W@Z
+?PyWinObject_FromOLECHAR@@YAPEAU_object@@PEB_W@Z
+?PyWinObject_FromOLECHAR@@YAPEAU_object@@PEB_WH@Z
+?PyWinObject_FromOVERLAPPED@@YAPEAU_object@@PEBU_OVERLAPPED@@@Z
+?PyWinObject_FromRECT@@YAPEAU_object@@PEAUtagRECT@@@Z
+?PyWinObject_FromSECURITY_ATTRIBUTES@@YAPEAU_object@@AEBU_SECURITY_ATTRIBUTES@@@Z
+?PyWinObject_FromSECURITY_DESCRIPTOR@@YAPEAU_object@@PEAX@Z
+?PyWinObject_FromSID@@YAPEAU_object@@PEAX@Z
+?PyWinObject_FromSYSTEMTIME@@YAPEAU_object@@AEBU_SYSTEMTIME@@@Z
+?PyWinObject_FromTCHAR@@YAPEAU_object@@PEBD_J@Z
+?PyWinObject_FromTimeStamp@@YAPEAU_object@@AEBT_LARGE_INTEGER@@@Z
+?PyWinObject_FromULARGE_INTEGER@@YAPEAU_object@@AEAT_ULARGE_INTEGER@@@Z
+?PyWinSequence_Tuple@@YAPEAU_object@@PEAU1@PEAK@Z
+?PyWinThreadState_Clear@@YAXXZ
+?PyWinThreadState_Ensure@@YAHXZ
+?PyWinThreadState_Free@@YAXXZ
+?PyWinTimeObject_Fromtime_t@@YAPEAU_object@@_J@Z
+?PyWinTime_Check@@YAHPEAU_object@@@Z
+?PyWin_AcquireGlobalLock@@YAXXZ
+?PyWin_CopyString@@YAPEADPEBD@Z
+?PyWin_CopyString@@YAPEA_WPEB_W@Z
+?PyWin_GetErrorMessageModule@@YAPEAUHINSTANCE__@@K@Z
+?PyWin_InterpreterState@@3PEAU_is@@EA
+?PyWin_MakePendingCalls@@YAXXZ
+?PyWin_NewUnicode@@YAPEAU_object@@PEAU1@0@Z
+?PyWin_RegisterErrorMessageModule@@YAHKKPEAUHINSTANCE__@@@Z
+?PyWin_ReleaseGlobalLock@@YAXXZ
+?PyWin_SetAPIError@@YAPEAU_object@@PEADJ@Z
+?PyWin_SetBasicCOMError@@YAPEAU_object@@J@Z
+?SetACL@PyACL@@QEAAHPEAU_ACL@@@Z
+?SetBstr@PyWin_AutoFreeBstr@@QEAAXPEA_W@Z
+?SetSD@PySECURITY_DESCRIPTOR@@QEAAHPEAX@Z
+?SetSecurityDescriptorControl@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?SetSecurityDescriptorDacl@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?SetSecurityDescriptorGroup@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?SetSecurityDescriptorOwner@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?SetSecurityDescriptorSacl@PySECURITY_DESCRIPTOR@@SAPEAU_object@@PEAU2@0@Z
+?SetSubAuthority@PySID@@SAPEAU_object@@PEAU2@0@Z
+?_MakeAbsoluteSD@@YAHPEAXPEAPEAX@Z
+?asLong@PyTime@@QEAAJXZ
+?asStr@PyHANDLE@@QEAAPEAU_object@@XZ
+?binaryFailureFunc@PyHANDLE@@SAPEAU_object@@PEAU2@0@Z
+?binaryFailureFunc@PyTime@@SAPEAU_object@@PEAU2@0@Z
+?compare@PyTime@@QEAAHPEAU_object@@@Z
+?compareFunc@PyTime@@SAHPEAU_object@@0@Z
+?deallocFunc@PyACL@@SAXPEAU_object@@@Z
+?deallocFunc@PyDEVMODEA@@SAXPEAU_object@@@Z
+?deallocFunc@PyDEVMODEW@@SAXPEAU_object@@@Z
+?deallocFunc@PyHANDLE@@SAXPEAU_object@@@Z
+?deallocFunc@PyIID@@SAXPEAU_object@@@Z
+?deallocFunc@PyOVERLAPPED@@SAXPEAU_object@@@Z
+?deallocFunc@PySECURITY_ATTRIBUTES@@SAXPEAU_object@@@Z
+?deallocFunc@PySECURITY_DESCRIPTOR@@SAXPEAU_object@@@Z
+?deallocFunc@PySID@@SAXPEAU_object@@@Z
+?deallocFunc@PyTime@@SAXPEAU_object@@@Z
+?deallocFunc@PyWAVEFORMATEX@@SAXPEAU_object@@@Z
+?floatFunc@PyTime@@SAPEAU_object@@PEAU2@@Z
+?get_DeviceName@PyDEVMODEA@@SAPEAU_object@@PEAU2@PEAX@Z
+?get_DeviceName@PyDEVMODEW@@SAPEAU_object@@PEAU2@PEAX@Z
+?get_DriverData@PyDEVMODEA@@SAPEAU_object@@PEAU2@PEAX@Z
+?get_DriverData@PyDEVMODEW@@SAPEAU_object@@PEAU2@PEAX@Z
+?get_FormName@PyDEVMODEA@@SAPEAU_object@@PEAU2@PEAX@Z
+?get_FormName@PyDEVMODEW@@SAPEAU_object@@PEAU2@PEAX@Z
+?get_handle@PyHANDLE@@SAPEAU_object@@PEAU2@PEAX@Z
+?getattro@PyOVERLAPPED@@SAPEAU_object@@PEAU2@0@Z
+?getattro@PySECURITY_ATTRIBUTES@@SAPEAU_object@@PEAU2@0@Z
+?getattro@PyTime@@SAPEAU_object@@PEAU2@0@Z
+?getreadbuf@PySECURITY_DESCRIPTOR@@SA_JPEAU_object@@_JPEAPEAX@Z
+?getreadbuf@PySID@@SA_JPEAU_object@@_JPEAPEAX@Z
+?getsegcount@PySECURITY_DESCRIPTOR@@SA_JPEAU_object@@PEA_J@Z
+?getsegcount@PySID@@SA_JPEAU_object@@PEA_J@Z
+?getset@PyDEVMODEA@@2PAUPyGetSetDef@@A
+?getset@PyDEVMODEW@@2PAUPyGetSetDef@@A
+?getset@PyHANDLE@@2PAUPyGetSetDef@@A
+?hash@PyHANDLE@@QEAAJXZ
+?hash@PyIID@@QEAAJXZ
+?hash@PyTime@@QEAAJXZ
+?hashFunc@PyHANDLE@@SAJPEAU_object@@@Z
+?hashFunc@PyIID@@SAJPEAU_object@@@Z
+?hashFunc@PyOVERLAPPED@@SAJPEAU_object@@@Z
+?hashFunc@PyTime@@SAJPEAU_object@@@Z
+?intFunc@PyHANDLE@@SAPEAU_object@@PEAU2@@Z
+?intFunc@PyTime@@SAPEAU_object@@PEAU2@@Z
+?longFunc@PyHANDLE@@SAPEAU_object@@PEAU2@@Z
+?members@PyDEVMODEA@@2PAUPyMemberDef@@A
+?members@PyDEVMODEW@@2PAUPyMemberDef@@A
+?members@PyOVERLAPPED@@2PAUPyMemberDef@@A
+?members@PySECURITY_ATTRIBUTES@@2PAUPyMemberDef@@A
+?members@PyWAVEFORMATEX@@2PAUPyMemberDef@@A
+?methods@PyACL@@2PAUPyMethodDef@@A
+?methods@PyDEVMODEA@@2PAUPyMethodDef@@A
+?methods@PyDEVMODEW@@2PAUPyMethodDef@@A
+?methods@PyHANDLE@@2PAUPyMethodDef@@A
+?methods@PySECURITY_ATTRIBUTES@@2PAUPyMethodDef@@A
+?methods@PySECURITY_DESCRIPTOR@@2PAUPyMethodDef@@A
+?methods@PySID@@2PAUPyMethodDef@@A
+?methods@PyTime@@2PAUPyMethodDef@@A
+?modify_in_place@PyDEVMODEA@@QEAAXXZ
+?modify_in_place@PyDEVMODEW@@QEAAXXZ
+?nonzeroFunc@PyHANDLE@@SAHPEAU_object@@@Z
+?nonzeroFunc@PyTime@@SAHPEAU_object@@@Z
+?print@PyHANDLE@@QEAAHPEAU_iobuf@@H@Z
+?printFunc@PyHANDLE@@SAHPEAU_object@@PEAU_iobuf@@H@Z
+?repr@PyIID@@QEAAPEAU_object@@XZ
+?repr@PyTime@@QEAAPEAU_object@@XZ
+?reprFunc@PyIID@@SAPEAU_object@@PEAU2@@Z
+?reprFunc@PyTime@@SAPEAU_object@@PEAU2@@Z
+?richcompare@PyHANDLE@@QEAAPEAU_object@@PEAU2@H@Z
+?richcompare@PyIID@@QEAAPEAU_object@@PEAU2@H@Z
+?richcompare@PySID@@QEAAPEAU_object@@PEAU2@H@Z
+?richcompare@PyTime@@QEAAPEAU_object@@PEAU2@H@Z
+?richcompareFunc@PyHANDLE@@SAPEAU_object@@PEAU2@0H@Z
+?richcompareFunc@PyIID@@SAPEAU_object@@PEAU2@0H@Z
+?richcompareFunc@PyOVERLAPPED@@SAPEAU_object@@PEAU2@0H@Z
+?richcompareFunc@PySID@@SAPEAU_object@@PEAU2@0H@Z
+?richcompareFunc@PyTime@@SAPEAU_object@@PEAU2@0H@Z
+?set_DeviceName@PyDEVMODEA@@SAHPEAU_object@@0PEAX@Z
+?set_DeviceName@PyDEVMODEW@@SAHPEAU_object@@0PEAX@Z
+?set_DriverData@PyDEVMODEA@@SAHPEAU_object@@0PEAX@Z
+?set_DriverData@PyDEVMODEW@@SAHPEAU_object@@0PEAX@Z
+?set_FormName@PyDEVMODEA@@SAHPEAU_object@@0PEAX@Z
+?set_FormName@PyDEVMODEW@@SAHPEAU_object@@0PEAX@Z
+?setattro@PyOVERLAPPED@@SAHPEAU_object@@00@Z
+?setattro@PySECURITY_ATTRIBUTES@@SAHPEAU_object@@00@Z
+?str@PyIID@@QEAAPEAU_object@@XZ
+?str@PyTime@@QEAAPEAU_object@@XZ
+?strFunc@PyHANDLE@@SAPEAU_object@@PEAU2@@Z
+?strFunc@PyIID@@SAPEAU_object@@PEAU2@@Z
+?strFunc@PySID@@SAPEAU_object@@PEAU2@@Z
+?strFunc@PyTime@@SAPEAU_object@@PEAU2@@Z
+?ternaryFailureFunc@PyHANDLE@@SAPEAU_object@@PEAU2@00@Z
+?ternaryFailureFunc@PyTime@@SAPEAU_object@@PEAU2@00@Z
+?tp_new@PyDEVMODEA@@SAPEAU_object@@PEAU_typeobject@@PEAU2@1@Z
+?tp_new@PyDEVMODEW@@SAPEAU_object@@PEAU_typeobject@@PEAU2@1@Z
+?unaryFailureFunc@PyHANDLE@@SAPEAU_object@@PEAU2@@Z
+?unaryFailureFunc@PyTime@@SAPEAU_object@@PEAU2@@Z
+DllMain
+initpywintypes
+.?AVPyHANDLE@@
+.?AU_object@@
+.?AVPyHKEY@@
+.?AVtype_info@@

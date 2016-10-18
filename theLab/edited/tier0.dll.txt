@@ -1,0 +1,2860 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+L$ SVWH
+TUUUUUU
+ATAVAWH
+L$0M9a sBI
+L9g saH
+M;a s?H
+PA_A^A\
+ATAVAWH
+$L;0u8H
+PA_A^A\
+H9C s+H
+@USVWATAVAWH
+A_A^A\_^[]
+SWATAUH
+XA]A\_[
+&@88tdH
+ A_A^_H
+@SUVWAV
+H;S sUH
+8t0H9+u&
+|$ ATAVAWH
+ A_A^A\
+L$ USVWATAUAVAWH
+A_A^A]A\_^[]
+@UATAUAVAWH
+A_A^A]A\]
+@UVWATAUAVAW
+A_A^A]A\_^]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+t$ UWATAVAWH
+A_A^A\_]
+@UVWAVAWH
+A_A^_^]
+D$8H+D$@H;D$0|
+\$ UVWATAUAVAWH
+ineIu{D
+u*D8wHt
+0A_A^A]A\_^]
+ineItSA
+L$8H9L$0t#H
+9D$4t"H
+EXHcEXL
+D$XHc@,Hk
+HcD$PHk
+0HcL$PHk
+E`HcE H
+|$xH;1t
+(HcD$8H
+D$@H9D$ u6H
+H9D$Hu%
+D$@H9D$ u7H
+(HcD$8H
+@SUVWATAVAWH
+pA_A^A\_^][
+H+C(H+{0H=
+StakRaw8H
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+L$ SUVWH
+SUVWAVH
+K SUVWH
+L$ SUVWH
+K SUVWH
+t$ WAVAWH
+UWATAUH
+(A]A\_]
+L$ SVWH
+\$ UVWH
+G(H;O0v
+t$ WATAUAVAWH
+L)~ L)~
+A_A^A]A\_
+S(D+C,H
+S0D+C4H
+@UATAUAVAWH
+rSL;3sN3
+A_A^A]A\]
+@UATAUAVAWH
+rSL;3sN3
+A_A^A]A\]
+@UATAUAVAWH
+e@A_A^A]A\]
+@UATAUAVAWH
+e@A_A^A]A\]
+t$ WATAUAVAWH
+ A_A^A]A\_
+t$ WATAUAVAWH
+ A_A^A]A\_
+@UATAUAVAWH
+e0A_A^A]A\]
+@UATAUAVAWH
+e0A_A^A]A\]
+p WATAUAVAWH
+A_A^A]A\_
+t$ WAVAWH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+\$ VWATH
+@UAVAWH
+t$ WAVAWH
+@UVWATAUAVAWH
+A_A^A]A\_^]
+D$pH+D$PHi
+D$`H+D$(Hi
+t$ WATAUAVAWH
+A_A^A]A\_
+H9{ u,H
+H9K u!H
+|$ UAVAWH
+UVWATAWI
+A_A\_^]
+TUUUUUU
+ATAVAWH
+L$0M9a sBI
+L9g saH
+M;a s?H
+PA_A^A\
+H9C s+H
+|$ ATAVAWH
+H;s sIH
+u(H9B s
+D$0I;@ s
+@SUVWAVH
+PA^_^][
+@SVWAVAWH
+@A_A^_^[
+D$(+D$ 
+D$,+D$$
+D$P8QhtGH
+ATAVAWH
+PA_A^A\
+H;K t9H
+t$@H;{ 
+@USVWATAVAWH
+A_A^A\_^[]
+UVWATAUAVAWH
+t>L;cHt
+pA_A^A]A\_^]
+H;K t&H
+H;K t#H
+H;K t&H
+H;K t#H
+H;K t&H
+H;K t/H
+H;K t&H
+D$8VMSM
+D$@L;D$Hu
+@UATAUAVAWH
+e A_A^A]A\]
+D90v1ff
+@USVWAVH
+H;L$Ht$H
+H;L$Ht+H
+H;L$Ht#H
+H;T$Ht#H
+|$ Hcy4HcA0A
+|$ UAVAWH
+uHH9-^Q	
+@SATAUAVAWH
+@A_A^A]A\[
+|$ ATAVAWH
+tGH9.u-I
+l$PHcG 
+0A_A^A\
+\$ VWAVH
+@SUVAVH
+\$ UVWH
+|$8Hc>Hi
+|$ ATAVAWH
+ A_A^A\
+@SUWAWH
+tEH9s(u
+@UATAUAVAWH
+e0A_A^A]A\]
+s WATAUAVAWH
+A_A^A]A\_
+UWATAVAWH
+A_A^A\_]
+l$ VWATAVAWH
+ A_A^A\_^
+\$ UWAVH
+l$ VWAVH
+H9D$`uIH;
+t HcD$0;
+\$ UWAVH
+VWATAUAWH
+ A_A]A\_^
+TUUUUUU
+H9C s+H
+VATAVAWH
+gfffffffM
+XA_A^A\^
+ATAVAWH
+gfffffffL+
+ A_A^A\
+gfffffffI
+gfffffffH
+gfffffffH+
+gfffffffI
+WATAUAVAWH
+gfffffffL+
+ A_A^A]A\_
+gfffffffH
+H;X@upE
+H;X@t!H
+gfffffffL+
+L$0H;Q s
+gfffffff
+@UVWATAUAVAWH
+A_A^A]A\_^]
+fffffff
+gfffffffL+
+fffffff
+gfffffffH
+gfffffffL+
+fffffff
+D$@L;D$Hu
+gfffffffH
+gfffffffH+M/H
+UVWATAUAVAWH
+ A_A^A]A\_^]
+KH;C(uEL
+@SVWAUAVH
+H;w(u$L
+0A^A]_^[
+H;w u+L
+0A^A]_^[
+@WATAWH
+VWATAUAVH
+ A^A]A\_^
+tMH9\$ uFH9\$(u?
+u5H9|$8w.3
+\$8H+|$8u
+L;s u H
+4>H;{ u H
+L;s u H
+4>H;{ u H
+t$ WATAUAVAWH
+0A_A^A]A\_
+I9A(wBI
+H9G(weH
+H9C(w+H
+@SUWATAUAVAWH
+A_A^A]A\_][
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+|$ ATAVAWH
+@UVAVAWH
+@UATAUAVAWH
+e A_A^A]A\]
+l$ VAUAWH
+I;P rjM
+L$8L;Q w
+@SUVWAVH
+ A^_^][
+@UAVAWH
+D$HL9A(w
+J H9L$Pv
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+l$ VWAV
+@SUVWATAV
+A^A\_^][
+@USVWATAUAVAW
+A_A^A]A\_^[]
+@USVWAVAWH
+A_A^_^[]
+@USVWATAUAVAWH
+0H9t$Pu	M
+A_A^A]A\_^[]
+l$ VWATAVAW
+A_A^A\_^
+T$XH9o u	9W(
+@SUVWAVAW
+A_A^_^][
+Wh9Wlt	H
+l$ ATAVAWH
+ A_A^A\
+ATAVAWH
+ A_A^A\
+H SVWAVH
+L$ UVWATAUAVAWH
+ A_A^A]A\_^]
+t$ WATAUAVAW
+A_A^A]A\_
+L$ USVWH
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+fffffff
+t+<.t"H
+UVWATAUAVAWH
+<\t	<.u	H
+ A_A^A]A\_^]
+AUAVAWH
+0A_A^A]
+@UAVAWH
+@UATAVH
+l$ VAVAWH
+L$ USWH
+x ATAVAWH
+0A_A^A\
+ATAVAWH
+ A_A^A\
+WATAUAVAWH
+A_A^A]A\_
+\$ UVWATAUAVAWH
+fD9 t	H
+A_A^A]A\_^]
+UVWATAUAVAWH
+<\t	<.u	H
+ A_A^A]A\_^]
+~`HcE H
+|$ ATAVAWH
+ A_A^A\
+WATAUAVAWH
+ A_A^A]A\_
+` AUAVAWH
+0A_A^A]
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+WATAUAVAWH
+@A_A^A]A\_
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+p WATAUAVAWH
+A_A^A]A\_
+VWATAVAWH
+A_A^A\_^
+VWAUAVAWH
+0A_A^A]_^
+` AUAVAWH
+t$8Hc0I
+\$0D9=B
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+VWATAVAWH
+ A_A^A\_^
+VWATAVAWH
+ A_A^A\_^
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+t$ WAVAWH
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+p WAVAWH
+SVWATAUAVAWH
+PA_A^A]A\_^[
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+UVWATAUAVAWH
+G D9d$lu
+A_A^A]A\_^]
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+t$ WATAUAVAWH
+0A_A^A]A\_
+@UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@SUVWATAVAWH
+tcH95-0
+PA_A^A\_^][
+WATAUAVAWH
+0A_A^A]A\_
+D9t$htrH
+@USVWATAUAVAWH
+eHA_A^A]A\_^[]
+t$ WATAUAVAWH
+G 9\$tu
+A_A^A]A\_
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWAVH
+@A^_^][
+x AUAVAWH
+ A_A^A]
+UVWATAVH
+0A^A\_^]
+WATAUAVAWH
+0A_A^A]A\_
+D9t$htpH
+fD93tSH
+u"HcMHH
+H(H9J(u
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\threadtools.h
+OwnedByCurrentThread()
+CThreadSpinRWLock::CThreadSpinRWLock
+(intp)this % 8 == 0
+CThreadMutex::Lock()
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\tier0_strtools.cpp
+V_tier0_strncpy
+n >= sizeof( *a )
+V_tier0_strncat
+destBufferSize >= 0
+-noassert
+-debugbreak
+-clearassertstate
+.\LocalSystem
+ignored_assertions.txt
+%llu,%u,%u,%s
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\assert_dialog.cpp
+tooltips_class32
+Code Assertion Failed
+Content Assertion Failed
+%s (%d)
+Minidump Notes
+Ignores this assertion for 24 hours.
+This can be undone by running with -clearassertstate on the command line.
+Ignores this assertion until you quit the program.
+Captures data about the assertion failure and sends it out to the team for diagnosis.
+You should do this for any new assertions you see. (Distinguished by "Location" and "Assert" above)
+Broadcasting a minidump will also stop bothering you about this assertion for 24 hours.
+An assertion has failed!
+To help diagnose the problem:
+    -type up a short description of what you were doing
+    -press "Broadcast Minidump"
+To do nothing, press "Ignore For This Session"
+The full assertion description is...
+<assertion dialog internal error>
+Assertion Information
+Minidump summary missing
+To broadcast a minidump, you must provide a summary of what you were doing.
+Assertion Dialog could not be created. Breaking in debugger.
+Assertion Dialog could not be created. Ignoring assertion. Run under the debugger to break instead.
+AssertionDialog
+-mpi_worker
+GetAssertionResponseFlags
+BroadcastAssertionMiniDumpContext_t
+DoAssertDialog: invalid Assert response returned from dialog/vxconsole - breaking to debugger
+Assertion Failed
+%s (%d) : %s
+AssertMsg_ConditionFailed_Internal
+ret == LR_DEBUGGER
+::<lambda_
+>::operator ()
+::_CAssertFastInternal::AssertionFailed
+Assertion Failed in function %s():
+AssertionFailureListenerMiniDumpContext_t
+map/set<T> too long
+Release
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\commandline.cpp
+_stristr
+pSearch
+Parameter file '%s' not found, skipping...
+game\..\autoargs
+Found Application AutoArgs file '%s'
+autoargs
+noautoargs
+CCommandLine::CreateCmdLine
+pReplacementSectionsIter->pStart >= pSrc
+pDst == (m_pszCmdLine + nFinalStringLength)
+CCommandLine::AddArgument: exceeded %d parameters
+CCommandLine::AddArgument
+CCommandLine::GetParm
+(nIndex >= 0) && (nIndex < m_nParmCount)
+CCommandLine::SetParm
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\cpu.cpp
+GenuineIntel
+AuthenticAMD
+Generic_x86
+VALVE_DISABLE_CLOCK_SPEED_CALCULATION
+GetCPUInformation
+!"Sergiy: apparently I didn't fix some CPU detection code completely. Let me know and I'll do my best to fix it soon."
+Unable to determine CPU Frequency
+Plat_GetCPUFrequency
+NtQuerySystemInformation
+AGenuineIntel
+AuthenticAMD
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\cputopology.cpp
+`anonymous-namespace'::GlpiImpl::GlpiImpl
+IsSupported()
+kernel32
+VerifyVersionInfoA
+VerSetConditionMask
+`anonymous-namespace'::GlpiImpl::VerifyGlpiFn_
+GetLogicalProcessorInformation
+`anonymous-namespace'::CpuidImpl::CpuidImpl
+Cpuid::IsVendor( AuthenticAMD )
+1 == nLogProcsPerPkg
+0 == m_nItems
+m_nItems > 0
+`anonymous-namespace'::CpuidImpl::CoreAffinityMask
+m_nItems <= ARRAYSIZE(m_apicIds)
+coreIdx < ARRAYSIZE(pkgCoreIds)
+`anonymous-namespace'::CpuidImpl::AddUniquePkgCoreId_
+idx < m_nItems
+NULL != pkgCoreIds
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\vprof.h
+CVProfile::PushGroup
+m_GroupIDStackDepth > 0
+m_GroupIDStackDepth < MAX_GROUP_STACK_DEPTH
+CVProfile::PopGroup
+CVProfNode::GetVParent
+m_pParent
+CVProfile::GetBudgetGroupName
+budgetGroupID >= 0 && budgetGroupID < m_nBudgetGroupNames
+CVProfile::GetBudgetGroupFlags
+LOADING
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\dbg.cpp
+_AssertValidReadPtr
+!IsBadReadPtr( ptr, count )
+_AssertValidWritePtr
+!IsBadWritePtr( ptr, count )
+_AssertValidReadWritePtr
+!( IsBadWritePtr(ptr, count) || IsBadReadPtr(ptr,count))
+AssertValidStringPtr
+!IsBadStringPtr( ptr, maxchar )
+AssertValidWStringPtr
+!IsBadStringPtrW( ptr, maxchar )
+Call Stack:
+SeriousWarning
+-profile
+-etwprofile
+timestamped.log
+%8.4f / %9.2f:  Writing profile data to '%s'
+%8.4f / %9.2f:  %s
+FreeMinidumpContext(): AssertionMiniDumpContext_t instance not created by AllocateAssertionMinidumpContext()
+FreeMinidumpContext
+assertion
+content_assertion
+BroadcastAssertionMiniDumpHandler
+BroadcastAssertionMiniDumpHandler - [Invoking crashdumpmailer]
+-assert_content
+-assert
+%s -contextstart %d -codefile "%s" -codeline %d
+ -codemsg "
+IAssertionFailureListener::AssertionFailure()
+RegisterAssertionFailureListener
+((IAssertionFailureListener_Tier0Manipulator *)pListener)->GetRegisteredVar()
+!((IAssertionFailureListener_Tier0Manipulator *)pListener)->GetRegisteredVar()
+UnregisterAssertionFailureListener
+CThreadFastMutex::AssertOwnedByCurrentThread::<lambda_128034437d158910bd6e61ce515613d1>::operator ()
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\debugdraw.cpp
+CTier0DebugDraw::LockedQueryLine
+index >= 0 && index < m_nLineCount
+Advapi32.dll
+EventRegister
+EventWrite
+EventUnregister
+Main thread
+Valve input provider initialized.
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\etwprof.cpp
+ETWRenderFrameMark
+bIsServerProcess == false || bIsServerProcess == true
+ETWSimFrameMark
+generic
+unknown error
+iostream
+iostream stream error
+HangWatchdog
+ERROR: Hang watchdog thread exceeded the maximum number of allowed nested scopes!
+CWatchdogThread::M_BeginHangScope
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\hangwatchdogthread.cpp
+ERROR: Hang watchdog thread scope underrun! (Did someone forget to call EndWatchdogHangScope?)
+CWatchdogThread::M_EndHangScope
+g_pWatchdogThread->m_ScopeStack[nPrevScopeIndex] == pScope
+m_nDetectionDisableCount >= 0
+WatchdogThreadWndClass
+Watchdog Window
+CWatchdogThread::T_CreateWatchdogWindow
+Watchdog Thread: Window Registration Failed!
+Watchdog Thread: Window Creation Failed!
+Hang Detected
+HangStackCapture
+Hang detected: '%s' [Unable to capture callstack for thread %llu]
+Hang detected: '%s'
+Hang Detected: %.1fs
+(Unknown Cause)
+Hang Detected: %s (%.1fs)
+HangWatchdogInternal_InMainThread
+g_pWatchdogThread != NULL
+Hang watchdog thread is disabled in VR mode.
+-disablehangwatchdog
+Hang watchdog thread was requested, but is being suppressed due to the '-disablehangwatchdog' flag.
+Hang watchdog thread was requested, but is being suppressed due to the '-testmode' flag.
+HangWatchdog_Initialize
+g_hWatchdogDataMutex == NULL
+g_pWatchdogThread == NULL
+WatchdogThreadDataMutex
+HangWatchdogInternal_InMainThread()
+HangWatchdog_Shutdown
+(g_hWatchdogDataMutex != NULL) || Plat_IsInTestMode()
+(g_pWatchdogThread != NULL) || Plat_IsInTestMode()
+HangWatchdog_SetMainThreadWindow
+HangWatchdog_SetHangImageRGBA
+string too long
+invalid string position
+General
+Console
+Developer
+DeveloperConsole
+DeveloperVerbose
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\logging.cpp
+CLoggingSystem::CLoggingSystem
+!g_bEnforceLoggingSystemSingleton
+Out of logging channels.
+CLoggingSystem::RegisterLoggingChannel
+defaultFlags == 0 || defaultFlags == m_RegisteredChannels[i].m_DefaultFlags
+Non-zero or mismatched flags specified in logging channel re-registration!
+defaultVerbosity == LV_DEFAULT || defaultVerbosity == m_RegisteredChannels[i].m_DefaultVerbosity
+Non-default or mismatched verbosity specified in logging channel re-registration!
+spewColor == UNSPECIFIED_LOGGING_COLOR || spewColor == m_RegisteredChannels[i].m_SpewColor || (m_RegisteredChannels[i].m_nModifiedFields & (uint8)LoggingChannel_t::MODIFIED_SPEWCOLOR)
+Non-default or mismatched color specified in logging channel re-registration!
+CLoggingSystem::PushLoggingState
+nNewState != -1
+CLoggingSystem::PopLoggingState
+nCurrentState > 0
+CLoggingSystem::RegisterLoggingListener
+CLoggingSystem::RegisterBackdoorLoggingListener
+detailed
+message
+warning
+GetSeverityDescriptionString
+CLoggingSystem::LogDirect
+channelID >= 0 && channelID < m_nChannelCount
+Exiting due to logging LR_ABORT request.
+AbortMessage({
+MiniDumpAdditionalStringData_t
+CLoggingSystem::GetChannel
+CLoggingSystem::GetCurrentState
+nState > 0 && nState < MAX_LOGGING_STATE_COUNT
+m_nGlobalStateIndex >= 0 && m_nGlobalStateIndex < MAX_LOGGING_STATE_COUNT
+CLoggingSystem::AllocTag
+m_nChannelTagCount < MAX_LOGGING_TAG_COUNT
+CLoggingSystem::AllocTag overflowed!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\mem.cpp
+MemAllocScratch
+nMemSize <= 384000
+s_nBufDepth < MAX_STACK_DEPTH
+MemFreeScratch
+s_nBufDepth >= 0
+unknown
+tier0.dll
+InitializeToFeeFee
+%s(%d bytes)
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\mem_helpers.cpp
+-NOINITMEMORY
+-RANDOMIZEMEMORY
+-USINGLMD
+DetermineMemoryInitializationMode
+g_pMemoryInitializationFunc != DetermineMemoryInitializationMode
+CBottomMemoryManager::Reserve
+!bNeedToKeepBookmark
+CBottomMemoryManager::Reserve::<lambda_29830c108c07998f1b1bb07d5d7fc35e>::operator ()
+Plat_VirtualFree( pIter, sizeof( AllocationChunkLL_t ), PLAT_VIRTUAL_DECOMMIT )
+CBottomMemoryManager::Reserve::<lambda_6189d85452927491db47e5f17ba12a4c>::operator ()
+Plat_VirtualAlloc( pNewChunk, sizeof( AllocationChunkLL_t ), PLAT_VIRTUAL_COMMIT, PLAT_VIRTUAL_ACCESS_READ | PLAT_VIRTUAL_ACCESS_WRITE )
+PageHeap is on. Memory use will be larger than normal.
+PageHeap is off. Memory use will be normal.
+  HEAP_ZERO_MEMORY is specified.
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\memprocessheap.cpp(280):***** OUT OF MEMORY! attempted allocation size: %I64d ****
+Sorry -- no stats saved to file memstats.txt when the heap allocator is enabled.
+%u MB allocated.
+%u MB memory used assuming maximum PageHeap overhead.
+%u MB address space used assuming maximum PageHeap overhead.
+%u outstanding allocations (%d delta).
+%u lifetime allocations (%u delta).
+Trailing space on executable name! This will cause Application Verifier and ETW Heap tracing to fail!
+Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\%s
+PageHeapFlags
+TracingFlags
+-RESERVELOWMEM
+-PROCESSHEAP
+-PROCESSHEAPZEROMEM
+-NOPROCESSHEAP
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\tslist.h
+Mixed Block Heap Stats:
+Heap#    Cur Alloced    Max Alloced           Free      Trimmable
+----- -------------- -------------- -------------- --------------
+%-5d %12uKB %12uKB %12uKB %12uKB
+ (DISABLED)
+%s specified, allocating %d MB%s
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\memstd.cpp
+SearchForCustomSBHSize::<lambda_d0aff500503e3802032d3d3af682d354>::operator ()
+nTotalSizeMB >= 0
+-USELMD
+-USEMEMTRACKING
+-nosbh specified. SBH is off.
+-PRIMARYSBH
+-FALLBACKSBH
+Small block heap is corrupt (primary)
+Small block heap is corrupt (fallback)
+memstats
+%s_%d.txt
+IMemAlloc::DumpStats: could not open output file %s
+dlmalloc mspace %d footprint: %llu (max %llu)
+Fixed Page SBH:
+Fixed Page SBH
+Fallback SBH:
+Fallback SBH
+***** OUT OF MEMORY! attempted allocation size: %llu ****
+Pool %-2i: Size: %-4u Allocated: %-7i Free: %-5i Committed: %-7i CommittedSize: %-8i FreeList: %-5i
+Totals (%s): 
+ TotalSize: %u kb ( %u %u kb pages )
+ Committed: %u kb ( %u pages ) 
+ Allocated: %u kb 
+ Available: %u kb ( %u kb unallocated, %u kb in %u free pages ) 
+ FreeList : %u kb 
+Pool %i: (size: %u) blocks: allocated:%i free:%i committed:%i (committed size:%u kb)
+Totals (%s): Committed:%u kb Allocated:%u kb
+CStdMemAlloc<struct MemoryAllocationHeader_t<struct MemConfig<1,1,struct RuntimeAdditionalProperties> > >::NoteAlloc
+pHeader->GetPayloadSize() == nPayloadSize
+Double free
+Warning: Fell out of small block heap!
+Head sentinel corrupt
+Tail sentinel corrupt
+Write after free
+virtual
+physical
+***** HEAP IS CORRUPT (free compromised for block size %d,in %s heap, possible write after free *****)
+HEAP IS CORRUPT: %s (block 0x%llx, %u bytes)
+HEAP IS CORRUPT: %s
+CSmallBlockPool<class CFixedAllocator<1> >::RemovePagesFromFreeList
+(pNextAlloc >= pPages[i]) && (pNextAlloc < pLimits[i])
+m_pNextAlloc should not be capable of acquiring a new page while we hold the commit mutex
+CSmallBlockPool<class CVirtualAllocator>::RemovePagesFromFreeList
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\memoryallocationheader.h
+PrePayloadLayer_Sentinel_t<1,struct MemConfig<1,1,struct RuntimeAdditionalProperties> >::~PrePayloadLayer_Sentinel_t
+TestSentinel()
+Layer_Debug<1,0,struct MemConfig<1,1,struct RuntimeAdditionalProperties> >::~Layer_Debug
+m_nStatus < LWD_DEAD
+FooterLayer_Sentinel_t<1,struct MemConfig<1,1,struct RuntimeAdditionalProperties> >::~FooterLayer_Sentinel_t
+***FATAL ERROR*** Attempting to use the same small block heap allocator in multiple small block heaps
+CStdMemAlloc<struct MemoryAllocationHeader_t<struct MemConfig<1,1,struct DefaultAdditionalProperties> > >::NoteAlloc
+PrePayloadLayer_Sentinel_t<1,struct MemConfig<1,1,struct DefaultAdditionalProperties> >::~PrePayloadLayer_Sentinel_t
+Layer_Debug<1,0,struct MemConfig<1,1,struct DefaultAdditionalProperties> >::~Layer_Debug
+FooterLayer_Sentinel_t<1,struct MemConfig<1,1,struct DefaultAdditionalProperties> >::~FooterLayer_Sentinel_t
+Tier0GenericMiniDumpHandlerEx: %s
+Tier0GenericMiniDumpHandlerExError
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\minidump.cpp
+Tier0GenericMiniDumpHandlerEx
+Tier0GenericMiniDumpHandlerEx - Skipping due to MINIDUMP_ADDITIONAL_DONT_CATCH_EXCEPTIONS.
+Tier0GenericMiniDumpHandlerEx - Failed to load DbgHelp.dll
+failed to load DbgHelp.dll.
+MiniDumpWriteDump
+OVERRIDE_MINIDUMP_PATH
+%s%s_%d_%02d%02d_%02d%02d%02d_%d%s%s.mdmp
+Tier0GenericMiniDumpHandlerEx - GetProcAddress failed for "MiniDumpWriteDump"
+GetProcAddress failed.
+Tier0GenericMiniDumpHandlerUsingExceptionInfo - Writing dump "%s"
+Tier0GenericMiniDumpHandlerEx - CreateFile failed
+CreateFile failed.
+(failed)%s
+---------------------------------------------------------
+Encountered %s.
+Wrote minidump to %s
+---------------------------------------------------------
+Exception
+Tier0GenericMiniDumpHandlerUsingExceptionInfo - [Invoking crashdumpmailer]
+Tier0GenericMiniDumpHandlerUsingExceptionInfo - [Exiting process]
+Tier0GenericMiniDumpHandler
+Tier0GenericMiniDumpHandler - Full memory attempt failed, trying smaller dump.
+Tier0GenericMiniDumpHandler - Data segment attempt failed, trying smaller dump.
+VMINIDUMP_EXCEPTION_CODE
+-vminidump_exception_code
+disable
+disabled
+InvokeMiniDump
+CatchAndWriteContext_t::Set w/o a function pointer!
+CatchAndWriteContext_t::Set
+CatchAndWriteContext_t::Invoke with bogus argc/argv
+CatchAndWriteContext_t::Invoke
+CatchAndWriteContext_t::Invoke with bogus void *ptr
+accessviolation
+arrayboundsexceeded
+breakpoint
+datatypemisalignment
+fltdenormaloperand
+fltdividebyzero
+fltinexactresult
+fltinvalidoperation
+fltoverflow
+fltstackcheck
+fltunderflow
+intdividebyzero
+intoverflow
+noncontinuableexception
+privinstruction
+singlestep
+MINIDUMP_FULL
+-full_memory_dumps
+-minidump_full
+Primary_Handler_Crashed
+MiniDumpExceptionHandler_Internal
+-break_on_crash
+-nominidumps
+MiniDumpExceptionHandler
+MinidumpUnhandledExceptionFilter
+SetDefaultMiniDumpHandler( %p )
+vfbasics.dll
+vrfcore.dll
+psapi.dll
+-nodump
+-minidump_log_path
+source2_minidump_log.txt
+c:\source2_minidump_log.txt
+------------ Minidump diagnostic log (feel free to delete this file) ------------
+-disable_minidump_log
+-enable_minidump_log
+[PID:%d TIME:%s EXE:%s CWD:%s] 
+-emaildumps
+%s\bin\built_from_cl.txt
+crashdumpmailer
+crashdumpmailer -localanalysis -exe "%s" -team source2 -dumpfile "%s" -delete -buildtime %lld
+ -buildchangelist %d
+ -cmdline "
+ -notes "
+InvokeCrashDumpMailer - crashdumpmailer command: %s
+kernel32.dll
+GetProcessUserModeExceptionPolicy
+SetProcessUserModeExceptionPolicy
+DummyRoot
+visualstudioautomation.exe -attachtoprocessid %d
+vsjitdebugger.exe -p %d
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\platform.cpp
+Warning: Found a reparse point (ntfs symlink) for %s but CreateFile failed
+Plat_TranslateSymbolicLinks
+DEBUG_EXITPROCESS
+-debug_exitprocess
+exitprocess_%d
+Plat_GetUserName
+pBuffer
+vtuneapi.dll
+VTResume
+VTPause
+-stealthdebugger
+Unable to get Version
+Windows NT 
+Windows 2000 
+Windows XP 
+Windows XP Professional x64 
+Windows Vista 
+Windows 7 
+Windows 8.0 
+Windows 8.1 
+%s (Build %d) version %d.%d (LimitedUser: %s)
+Win32s 
+Plat_GetModuleFilename: The buffer given is too small (%d bytes).
+Plat_GetModuleFilename
+LdrLockLoaderLock
+LdrUnlockLoaderLock
+-noloaderlockprobe
+LdrLockLoaderLock() probe error. Unable to unlock the loader lock. Please report this to Dave K. You can run with "-noloaderlockprobe" to work around this issue.
+CSafeToLoadModulesTester::Test
+Plat_GetProcAddresses
+%s: invalid pointer byte count
+%s: different number of names and pointers
+%s: invalid flag byte count
+%s: different number of names and flags
+%s: unable to load '%s'
+%s: unable to find %s in '%s'
+NtAllocateVirtualMemory
+<unable to get local hostname>
+-testmode
+VALVE_TESTMODE
+-retail
+-ignorecontentasserts
+vrfcore
+visualstudioautomation.exe -appverifier_setup %d
+%8.8x-%4.4x-%4.4x-%2.2x%2.2x-%2.2x%2.2x%2.2x%2.2x%2.2x%2.2x
+%8x-%4x-%4x-%2x%2x-%2x%2x%2x%2x%2x%2x
+GetProcessMemoryInfo
+Plat_GlobalMemoryStatus
+pMemoryStatus
+Software\Classes\%s
+URL:%s protocol
+URL Protocol
+%s\DefaultIcon
+%s\Shell\Open\Command
+"%s" +url_execute "%%1"
+CSDL_Init
+SDL_Quit
+SDL_InitSubSystem
+SDL_QuitSubSystem
+SDL_WasInit
+SDL_SetHint
+SDL_GetError
+SDL_iconv_string
+SDL_wcslen
+SDL_free
+SDL_getenv
+SDL_setenv
+SDL_RWFromFile
+SDL_GetDesktopDisplayMode
+SDL_GetNumVideoDisplays
+SDL_GetDisplayBounds
+SDL_GetDisplayDPI
+SDL_GetDisplayName
+SDL_CreateWindow
+SDL_DestroyWindow
+SDL_GetWindowFlags
+SDL_GetWindowDisplayIndex
+SDL_SetWindowTitle
+SDL_SetWindowIcon
+SDL_SetWindowBordered
+SDL_SetWindowFullscreen
+SDL_ShowWindow
+SDL_HideWindow
+SDL_RaiseWindow
+SDL_MinimizeWindow
+SDL_RestoreWindow
+SDL_GetWindowPosition
+SDL_SetWindowPosition
+SDL_GetWindowSize
+SDL_SetWindowSize
+SDL_GetWindowGrab
+SDL_GetGrabbedWindow
+SDL_SetWindowGrab
+SDL_GetWindowWMInfo
+SDL_LoadBMP_RW
+SDL_GetModState
+SDL_ShowMessageBox
+SDL_GetKeyboardFocus
+SDL_GetNumAudioDevices
+SDL_GetAudioDeviceName
+SDL_OpenAudioDevice
+SDL_CloseAudioDevice
+SDL_PauseAudioDevice
+SDL_QueueAudio
+SDL_GetQueuedAudioSize
+SDL_ClearQueuedAudio
+SDL2.dll
+Unable to load SDL2
+Plat_RequireSDL
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\platform_sdl.cpp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\platwindow.cpp
+Plat_CreateWindow
+pSDLFuncs->pSDL_WasInit( SDL_INIT_VIDEO ) != 0
+Plat_CreateWindow:  Could not create SDL window: %s
+Plat_ShowWindow
+Plat_IsWindowVisible
+Plat_SetWindowTitle
+Plat_SetWindowTitleW
+!"Plat_SetWindowTitleW SDL_iconv_string failed."
+Couldn't window icon! %s
+Plat_SetForegroundWindow
+Plat_SetActiveWindow
+Plat_IsWindowFocused
+Plat_SetWindowPos
+Plat_SetWindowSize
+Plat_GetWindowBounds
+SDL_VIDEO_MINIMIZE_ON_FOCUS_LOSS
+Plat_SetDefaultMonitorIndex
+nMonitor >= 0
+nMonitor < Plat_RequireSDL()->pSDL_GetNumVideoDisplays()
+Plat_GetWindowClientBounds
+Plat_MinimizeWindow
+Plat_IsWindowMinimized
+Plat_WindowToOsSpecificHandle
+BSQ_cache_reference
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\pmelib.cpp
+\\.\GDPERF
+\\.\GDPERF.VXD
+PME Initialized.
+PME Uninitialized.
+STUB_GetStatStructName
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\stackstats.cpp
+CCallStackStatsGatherer_DumpHelperVars_t::BufferedFwrite
+(fwrite( pData, 1, iDataSize, m_pFile )) == (iDataSize)
+(size_t)ftell( m_pFile ) == m_nWrittenBytes
+CCallStackStatsGatherer_DumpHelperVars_t::BufferedFwrite_AtFilePosition
+(m_nWrittenBytes + m_nWriteMarker) >= (nFileWritePosition + iDataSize)
+(fwrite( pData, 1, nRewritePortion, m_pFile )) == (nRewritePortion)
+nFileWritePosition == m_nWrittenBytes
+nRewritePortion < iDataSize
+CCallStackStatsGatherer_DumpHelperVars_t::FlushBuffer
+(fwrite( m_pWriteBuffer, 1, m_nWriteMarker, m_pFile )) == (m_nWriteMarker)
+_CCallStackStatsGatherer_Internal_DumpTree
+iUniqueAddresses > 0
+_CCallStackStatsGatherer_Internal_DumpTree::<lambda_a11d51a319248fe83edddf837a126489>::operator ()
+TreesAlreadyDumped.m_nCount < TreesAlreadyDumped.m_nMaxCount
+Can't verify that we're not in a recursive loop of tree dumping
+BasicStatStructFieldDesc::DescribeField
+iWriteOffset == iOutputLength
+CCallStackStatsGathererSharedGlobalInstanceManager::GetInstance
+pCreateNewFunc
+CCallStackStatsGathererSharedGlobalInstanceManager::ReleaseInstance
+pGatherer == indexMapIter->second.pGatherer
+StackStats_EnumerateRegisteredInstances
+i < allGatherers.Count()
+bContinue ? (nEnumeratedInstances == allGatherers.Count()) : (nEnumeratedInstances <= allGatherers.Count())
+StackStats_GathererRegistration
+pGatherer != &StatsGatherer
+nGathererIndex != -1
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\stackstats_base.h
+marker.m_pMarker != STACK_MARKER_DEFERRED_PROXY
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\stacktools.cpp
+CStackTop_CopyParentStack::CStackTop_CopyParentStack
+CStackTop_ReferenceParentStack::CStackTop_ReferenceParentStack
+CAnnotationPackager::InternalString
+nIndexArg < m_nEntireCapturedStackCount
+Annotation markers are packaging out of order
+StackToolsNotify_EndLoadingModule
+s_nLoadingLibraryCount >= 0
+CModuleMappingListenerManager::EnumerateKnownLoadedModules
+HistoryEntry.pModule->nGUIDBufferSize < ARRAYSIZE( tempModuleInfo.MoreBuffer )
+StackTrace_ModificationPass
+((pReplacementTop->m_pParentStackTrace + pReplacementTop->m_nParentStackTraceLength) <= pReturnAddressesOut) || ((pReturnAddressesOut + nArrayCount) <= pReplacementTop->m_pParentStackTrace)
+Stack capture writing to stack top's replacement capture. Results will be inconsistent
+CDeferredMarkerResolutionGroup::CDeferredMarkerResolutionGroup
+(pDeferredMarkers == NULL) || (this < pDeferredMarkers->m_pMarker)
+Dangling deferred call stack marker
+ntdll.dll
+IsWow64Process
+Out of thread ids. Decrease the number of threads or increase MAX_THREAD_IDS
+AllocateThreadID
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\threadtools.cpp
+ThreadInitOnce
+nState == THREAD_INIT_ONCE_INIT_DONE
+ThreadInitOnceCall initialization failed
+ThreadInitOnceCall
+ThreadHandleToIDMap overflow.
+AddThreadHandleToIDMap
+ThreadHandleToIDMap underflow.
+RemoveThreadHandleToIDMap
+LookupThreadIDFromHandle couldn't find thread ID for handle.
+ThreadSleep
+MainThrd
+ThreadJoin
+hThread
+ThreadSetProcessPriority
+Unknown priority class!
+CThreadSyncObject::AssertUseable
+m_hSyncObject
+Thread synchronization object is unuseable
+CThreadSyncObject::Wait
+Unhandled WAIT_ABANDONED in WaitForMultipleObjects
+DoWaitForMultipleObjects
+Unknown return value (%lu) from WaitForMultipleObjects
+CThreadSyncObject::WaitForMultiple
+WaitForMultiple: %d exceeded maximum of %d
+CThreadEvent::WaitForMultiple
+CThreadEvent::CThreadEvent
+Failed to create event (error 0x%x)
+CThreadSemaphore::CThreadSemaphore
+maxValue > 0
+Invalid max value for semaphore
+initialValue >= 0 && initialValue <= maxValue
+Invalid initial value for semaphore
+!bAllAccess
+Failed to create semaphore (error 0x%x)
+Global\
+CThreadFullMutex::CThreadFullMutex
+bValidName
+%s is not a valid CThreadFullMutex name
+Failed to create mutex (error 0x%x)
+Failed to acquire mutex ownership
+ThreadMultiWait
+nItems > 0 && nItems <= THREAD_MAX_MULTI_WAIT
+nFlags == 0
+nMillis <= INT_MAX || nMillis == TT_INFINITE
+Unable to create semaphore, error %d
+CThreadMultiWaitSemaphore::CThreadMultiWaitSemaphore
+Unable to create event, error %d
+CThreadMultiWaitEvent::CThreadMultiWaitEvent
+Out of thread local storage!
+GenericThreadLocals::CThreadLocalBase::CThreadLocalBase
+TryEnterCriticalSection
+Kernel32.dll
+CThreadFastMutex::Lock(full) this = %p, nSpinSleepTime = %d
+Changing nSpinSleepTime to 1
+CThreadRWLock_FastRead::UnlockWrite_LockForRead
+m_nWritingThreadLockCount == 1
+DefaultWaitFunc
+CWorkerThread::Call
+!m_EventSend.Check()
+Cannot perform call if there's an existing call pending
+CWorkerThread::WaitForReply
+timeout != TT_INFINITE || result != TW_TIMEOUT
+Possible hung thread, call to thread timed out
+Thread failed to respond, probably exited
+CWorkerThread::WaitForCall
+Thread(%p/%p)
+CThread::Start
+Tried to create a thread that has already been created!
+Failed to create thread (error 0x%x)
+Thread failed to initialize
+CThread::Join
+GetCurrentCThread() != this
+Thread cannot be joined with self
+!m_bAlive
+CThread::Stop
+Stop has been called on %p
+Only thread can stop self: Use a higher-level protocol
+CThread::Suspend
+ThreadGetCurrentId() == (ThreadId_t)m_threadId
+Cannot call CThread::Suspend from outside thread
+Called Resume() on a thread that is not suspended!
+CThread::WaitForCreateComplete
+Probably deadlock or failure waiting for thread to initialize.
+CThread::ThreadProcWrapped
+MINIDUMP_WRAP_CODE: Entering [%s(%u):%s:]
+MINIDUMP_WRAP_CODE: Wrapped execution
+MINIDUMP_WRAP_CODE: In __except block
+GetProcessId
+ZwQueryInformationProcess
+shell32.dll
+ShellExecuteExW
+Test bucket %d has an invalid value %d
+PopThread
+PushThread
+FAIL: Not all items popped
+FAIL: !IsEmpty()
+FAIL: !Validate()
+%s test: single thread push/pop, in order... 
+%s test: single thread push/pop, interleaved... 
+PushPopThread
+distributed...
+no affinity...
+%s test: single thread push, multithread pop, %s
+%s test: multithread push, single thread pop, %s
+%s test: multithread push, multithread pop, %s
+%s test: multithread interleaved push/pop, %s
+%s test: multithread push, sequential pop, %s
+%s test: sequential push, multithread pop, %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\tslist.cpp
+Testing %d threads:
+TSList cannot hold more that %d nodes
+CTSList
+Tests done, purging test memory...
+CTSQueue
+CTSQueue: Misaligned queue
+CTSQueue<int,1>::CTSQueue
+CTSQueue<int,1>::~CTSQueue
+m_Count == 0
+m_Head.value.pNode == m_Tail.value.pNode
+m_Head.value.pNode->pNext == End()
+CTSQueue<int,1>::Purge
+Bad node link detected
+list<T> too long
+c:\buildslave\vrgdc2015_staging_win64\build\src\unitlib\unitlib.cpp
+CTestCase::CTestCase
+CTestSuite::AddTest
+UnitTestInstallTestCase
+GetUnitTest
+i < s_TestCount
+*******************************************************************
+                      ***  ERROR  ***                              
+VATOM index %d out of range, recompile tier0 with larger atom table
+*******************************************************************
+|  |  |  
+|  |  |  |  
+|  |  |  |  |  
+|  |  |  |  |  |  
+|  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  |  |  
+|  |  |  |  |  |  |  |  |  |  |  |  |  
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\vprof.cpp
+VProf spike "%s" from %f to %f ms
+ Avg Time/Frame (ms)
+[ func+child      func ]       Count
+  ---------- ---------      --------
+       Sum (ms)            Avg Time/Frame (ms)     Avg Time/Call (ms)
+[ func+child      func ]  [ func+child   func ]  [ func+child   func ]    Count   Peak
+  ---------- ---------      ---------- ------      ---------- ------   -------- ------
+  %10.3f %9.2f      %8d
+  %10.3f %9.2f      %10.3f %6.2f      %10.3f %6.2f   %8d %6.2f
+  Scope                                                      Calls Calls/Frame  Time+Child    Pct        Time    Pct   Avg/Frame    Avg/Call Avg-NoChild        Peak
+  ---------------------------------------------------- ----------- ----------- ----------- ------ ----------- ------ ----------- ----------- ----------- -----------
+  %52.52s%12d%12.3f%12.3f%7.2f%12.3f%7.2f%12.3f%12.3f%12.3f%12.3f
+******** BEGIN VPROF REPORT ********
+No samples
+-- Summary --
+%d frames sampled for %.2f seconds
+Average %.2f fps, %.2f ms per frame
+Peak %.2f ms frame
+%.0f pct of time accounted for
+WARNING: total wall clock time was %.2f seconds, results may be invalid
+-- Hierarchical Call Graph --
+-- Profile scopes sorted by time (including children) --
+-- Profile scopes sorted by time (without children) --
+-- Profile scopes sorted by average time (including children) --
+-- Profile scopes sorted by average time (without children) --
+-- Profile scopes sorted by peak --
+-- Profile scopes sorted by peak over average (including children) --
+******** END VPROF REPORT ********
+Unaccounted
+Server Simulation
+Server Animation
+Server Physics
+Server Game
+Client Input/Output
+Client Rendering
+Client Simulation
+Client_Animation
+Client Physics
+Client Game
+Networking
+Frame Boundary
+Particle Simulation
+Particle/Effect_Rendering
+FileSystem
+Prediction
+Interpolation
+Swap_Buffers
+Texture_Cache
+Jobs/Coroutines
+Client VScript
+Server VScript
+Other VScript
+CVProfile::FindOrCreateCounter
+m_NumCounters+1 < MAXCOUNTERS
+CVProfile::GetCounterName
+index >= 0 && index < m_NumCounters
+CVProfile::GetCounterValue
+CVProfile::GetCounterNameAndValue
+CVProfile::GetCounterGroup
+CVProfile::AddDeferredFunction
+Shouldn't add a deferred function to vprof; it's not currently enabled.
+CVProfile's deferred function count is overfull; cannot add function at %p this frame.
+CTelemetryModuleMappingListener::UpdateTelemetryModuleMapping
+$*pdb%d
+%s|%s|%llx|%x|{%08x-%04x-%04x-%02x %02x-%02x %02x %02x %02x %02x %02x},
+GetThreadId
+TelemetryInit() failed: tmStartup() returned %d, tmLoadTelemetry() returned %d.
+TelemetryInit() failed: tmInitializeContext() returned %d.
+source2
+localhost
+TELEMETRY: Calling tmOpen( %s:%d )...
+Sep 10 201519:35:25
+TelemetryInitialize() failed: tmOpen returned %d.
+Telemetry initialized at level %u.
+Telemetry initialized at level %u
+Shutting down telemetry.
+Using lazy telemetry shutdown stub functions
+	Arena: %p, Context: %p
+TelemetrySetLevel changed from 0x%x to 0x%x (ZoneFilterVal:%d)
+WorkingSetSize
+PlaybackTick
+DotaTime
+Start render frame
+Level:0x%x ZoneFilterVal:%d
+stack dump: %t
+vector<T> too long
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\vprof_database.h
+CVProfReporter::GetElement
+m_pRows && m_numRows > n
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\vprof_database.cpp
+CVProfReporter::OnFrameBoundaryExecuteCallback
+userdata
+Somehow OnFrameBoundaryExecuteCallback got registered without a CVProfReporter pointer
+AttachConsole
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\dlmalloc\malloc.c
+mmap_alloc
+(((size_t)((((void*)((char*)(p) + ((sizeof(size_t))<<1))))) & ((((size_t)16U) - ((size_t)1)))) == 0)
+prepend_alloc
+(char*)oldfirst > (char*)q
+((oldfirst)->head & (((size_t)1)))
+qsize >= (((sizeof(mchunk)) + (((size_t)16U) - ((size_t)1))) & ~(((size_t)16U) - ((size_t)1)))
+oldfirst != B
+oldfirst != F
+((oldfirst)->head & ~(((((size_t)1))|(((size_t)2))|(((size_t)4))))) == ((I) << (3U))
+add_segment
+(((size_t)((ss)) & ((((size_t)16U) - ((size_t)1)))) == 0)
+nfences >= 2
+psize >= (((sizeof(mchunk)) + (((size_t)16U) - ((size_t)1))) & ~(((size_t)16U) - ((size_t)1)))
+release_unused_segments
+((char*)((char*)sp) >= sp->base && (char*)((char*)sp) < sp->base + sp->size)
+tmalloc_large
+((v)->head & ~(((((size_t)1))|(((size_t)2))|(((size_t)4))))) == rsize + nb
+tmalloc_small
+(((DVS) >> (3U)) < (32U))
+DVS >= (((sizeof(mchunk)) + (((size_t)16U) - ((size_t)1))) & ~(((size_t)16U) - ((size_t)1)))
+dlmalloc
+((p)->head & ~(((((size_t)1))|(((size_t)2))|(((size_t)4))))) == ((idx) << (3U))
+((p)->head & ~(((((size_t)1))|(((size_t)2))|(((size_t)4))))) == ((i) << (3U))
+((p)->head & ~(((((size_t)1))|(((size_t)2))|(((size_t)4))))) == ((I) << (3U))
+next != B
+next != F
+((next)->head & ~(((((size_t)1))|(((size_t)2))|(((size_t)4))))) == ((I) << (3U))
+mspace_malloc
+mspace_free
+unknown_module
+(%d) + %d bytes
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\stackhelpers_virtualmachine_capture.cpp
+GetVMEncodingIndexAndOffset
+TODO: Virtual machine address space migration.
+Virtual Machine "%s"
+Virtual Machine
+CVirtualMachineCallStackTranslationEncoder::~CVirtualMachineCallStackTranslationEncoder
+s_pVirtualMachineEncoderList != NULL
+CVirtualMachineCallStackTranslationEncoder::EncodeAsNativePointer
+(nEncodedIndex & m_pInternalData->m_nIndexBitMask) == nEncodedIndex
+(nEncodedOffset & m_pInternalData->m_nLineOffsetBitMask) == nEncodedOffset
+StackTools_LocalVirtualMachines_GetTranslationData
+c:\buildslave\vrgdc2015_staging_win64\build\src\common\stackhelpers\stackhelpers_windows_capture.cpp
+Unable to acquire handle for module "%s" at base 0x%llX and size %d
+CSemiAutoRWLockT<class CThreadRWLock_FastRead>::LockForWrite
+CSemiAutoRWLockT<class CThreadRWLock_FastRead>::Unlock
+c:\buildslave\vrgdc2015_staging_win64\build\src\common\stackhelpers\stackhelpers_windows_common.cpp
+_NT_SYMCACHE_PATH
+_NT_SYMBOL_PATH
+_NT_ALTERNATE_SYMBOL_PATH
+_NT_SYMBOL_PATH=
+_NT_ALTERNATE_SYMBOL_PATH=
+;%s\bin\win64
+;%s\bin\win32
+;%s\bin\win64\tools
+;%s\bin\win32\tools
+;%s\sdktools\bin\win64
+;%s\sdktools\bin\win32
+;%s\%s\bin\win64
+;%s\%s\bin\win32
+;%s\..\src\devtools\bin\win64
+;%s\..\src\devtools\bin\win32
+;%s\bin
+;%s\bin\tools
+;%s\sdktools\bin
+;%s\%s\bin
+;%s\..\src\devtools\bin
+srv*http://symbols/windows
+KERNEL32.DLL
+CreateSymbolicLinkA
+\v_dbghelp_home_linked
+\v_dbghelp_home_unlinked
+Unsupported codeview debug record type %s
+winhttp.dll
+DBGHELP_SERVICE=1
+dbghelp.dll
+VPLATFORM
+\dbghelp.dll
+SymInitialize
+SymInitializeW
+SymCleanup
+SymGetOptions
+SymSetOptions
+SymSetSearchPath
+SymSetSearchPathW
+SymGetSearchPath
+SymGetSearchPathW
+SymEnumerateModules64
+SymEnumerateModulesW64
+EnumerateLoadedModules64
+EnumerateLoadedModulesW64
+SymLoadModule64
+SymLoadModuleEx
+SymLoadModuleExW
+SymUnloadModule64
+SymFunctionTableAccess64
+SymGetModuleBase64
+SymSrvGetFileIndexes
+SymSrvGetFileIndexesW
+SymSrvGetFileIndexInfo
+SymSrvGetFileIndexInfoW
+SymFindFileInPath
+SymFindFileInPathW
+SymRegisterCallback64
+SymRegisterCallbackW64
+SymSetHomeDirectory
+SymSetHomeDirectoryW
+SymFromAddr
+SymFromAddrW
+SymGetLineFromAddr64
+SymGetLineFromAddrW64
+SymGetModuleInfo64
+SymGetModuleInfoW64
+StackWalk64
+SymRefreshModuleList
+K32GetModuleInformation
+GetModuleInformation
+Ordered constructor wrapped type has no default constructor.
+	You must construct it with ORDERED_CONSTRUCT_PARAMETERS macro in the dependency resolution function.
+COrderedConstructor_Create<struct NonPseudoHandleHolder_t,class COrderedResolve_NoResolve>::FirstReference
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\ordered_constructor.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\common\stackhelpers\stackhelpers_windows_translation.cpp
+CStackTranslationHelper_DbgHelp::SetSymbolSearchPath
+%WinDir%\SysWOW64\
+\system32\
+VerifyFileIndexes
+CStackTranslationHelper_DbgHelp::ReturnToMapping
+mappingMarker <= m_NewestMappingMarker
+CStackTranslationHelper_DbgHelp::GetTranslationData
+Telemetry Warning/Error! %s version %d.%d.%d.%d,
+  but you linked with Telemetry64.dll version %d.%d.%d.%d!
+  This might work, but it will probably just crash!
+The Telemetry DLL is
+tmGetAPI
+Unable to load the Telemetry DLL: 
+Telemetry Warning! Unable to load the Telemetry debug DLL, so the release DLL was loaded instead.
+ instead 
+Telemetry: Trying to load from 
+Telemetry: Could not load 
+ipc.dll
+Your application is compiled with Telemetry.h
+Telemetry64
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+Unknown exception
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+UTF-16LE
+UNICODE
+bad exception
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+_nextafter
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+CreateFile2
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier0\Release\win64\tier0.pdb
+tier0.dll
+??0BasicStatStructFieldDesc@@QEAA@AEBV0@@Z
+??0BasicStatStructFieldDesc@@QEAA@W4BasicStatStructFieldTypes_t@@W4BasicStatStructFieldCombineMethods_t@@@Z
+??0CCallStackCapture@@QEAA@P6AHPEAPEAXHH@ZII@Z
+??0CCallStackMarker@@QEAA@_N@Z
+??0CCallStackMarker_ThisLine@@QEAA@_N@Z
+??0CDbgHelpFunctionsLoader@@QEAA@XZ
+??0CPSApiFunctionsLoader@@QEAA@XZ
+??0CRecursionCallStackMarker@@QEAA@_N@Z
+??0CStackTop_Base@@IEAA@XZ
+??0CStackTop_CopyParentStack@@QEAA@PEBQEBXHAEBVCCallStackMarkerBase@@@Z
+??0CStackTop_CopyParentStack@@QEAA@PEBVCCallStackCapture@@AEBVCCallStackMarkerBase@@@Z
+??0CStackTop_ReferenceParentStack@@QEAA@PEBQEBXHAEBVCCallStackMarkerBase@@@Z
+??0CStackTop_ReferenceParentStack@@QEAA@PEBVCCallStackCapture@@AEBVCCallStackMarkerBase@@@Z
+??0CTestCase@@QEAA@AEBV0@@Z
+??0CTestCase@@QEAA@PEBDPEAVITestSuite@@@Z
+??0CTestSuite@@QEAA@AEBV0@@Z
+??0CTestSuite@@QEAA@PEBDPEAVITestSuite@@@Z
+??0CThread@@QEAA@XZ
+??0CThreadEvent@@QEAA@PEAX@Z
+??0CThreadEvent@@QEAA@PEBD_N1@Z
+??0CThreadEvent@@QEAA@_N@Z
+??0CThreadFullMutex@@QEAA@_NPEBD00@Z
+??0CThreadLocalBase@GenericThreadLocals@@QEAA@XZ
+??0CThreadMultiWaitEvent@@QEAA@_N@Z
+??0CThreadMultiWaitObject@@QEAA@XZ
+??0CThreadMultiWaitSemaphore@@QEAA@XZ
+??0CThreadMutex@@QEAA@XZ
+??0CThreadRWLock@@QEAA@XZ
+??0CThreadRWLock_FastRead@@QEAA@XZ
+??0CThreadSemaphore@@QEAA@HHPEBD_N@Z
+??0CThreadSpinRWLock@@QEAA@XZ
+??0CThreadSyncObject@@IEAA@XZ
+??0CVProfNode@@QEAA@PEBDHPEAV0@0H@Z
+??0CVProfReporter@@IEAA@PEBDH@Z
+??0CVProfReporter@@QEAA@AEBV0@@Z
+??0CVProfile@@QEAA@XZ
+??0CValidatableThread@@QEAA@XZ
+??0CVirtualMachineCallStackTranslationEncoder@@QEAA@PEBD@Z
+??0CWorkerThread@@QEAA@XZ
+??0CallStackStatStructDescFuncs@@QEAA@AEBV0@@Z
+??0CallStackStatStructDescFuncs@@QEAA@XZ
+??0IStack_Annotation@@QEAA@AEBV0@@Z
+??0IStack_Annotation@@QEAA@AEBVCCallStackMarkerBase@@@Z
+??0IStack_VM_Segment_Marker@@QEAA@AEBV0@@Z
+??0IStack_VM_Segment_Marker@@QEAA@AEBVCCallStackMarkerBase@@@Z
+??0ReportHeader_t@CVProfReporter@@QEAA@HNNN@Z
+??0ReportHeader_t@CVProfReporter@@QEAA@XZ
+??1CDbgHelpFunctionsLoader@@QEAA@XZ
+??1CPSApiFunctionsLoader@@QEAA@XZ
+??1CStackTop_Base@@IEAA@XZ
+??1CStackTop_CopyParentStack@@QEAA@XZ
+??1CStackTop_ReferenceParentStack@@QEAA@XZ
+??1CTestCase@@QEAA@XZ
+??1CTestSuite@@QEAA@XZ
+??1CThread@@UEAA@XZ
+??1CThreadEvent@@QEAA@XZ
+??1CThreadFullMutex@@QEAA@XZ
+??1CThreadLocalBase@GenericThreadLocals@@QEAA@XZ
+??1CThreadMultiWaitEvent@@QEAA@XZ
+??1CThreadMultiWaitObject@@QEAA@XZ
+??1CThreadMultiWaitSemaphore@@QEAA@XZ
+??1CThreadMutex@@QEAA@XZ
+??1CThreadRWLock@@QEAA@XZ
+??1CThreadSemaphore@@QEAA@XZ
+??1CThreadSyncObject@@QEAA@XZ
+??1CVProfNode@@QEAA@XZ
+??1CVProfReporter@@UEAA@XZ
+??1CVProfile@@QEAA@XZ
+??1CValidatableThread@@UEAA@XZ
+??1CVirtualMachineCallStackTranslationEncoder@@QEAA@XZ
+??1CWorkerThread@@UEAA@XZ
+??1IStack_Annotation@@UEAA@XZ
+??1IStack_VM_Segment_Marker@@UEAA@XZ
+??4BasicStatStructFieldDesc@@QEAAAEAV0@AEBV0@@Z
+??4CPSApiFunctionsLoader@@QEAAAEAV0@AEBV0@@Z
+??4CTestCase@@QEAAAEAV0@AEBV0@@Z
+??4CTestSuite@@QEAAAEAV0@AEBV0@@Z
+??4CThreadLocalBase@GenericThreadLocals@@QEAAAEAV01@AEBV01@@Z
+??4CThreadMultiWaitEvent@@QEAAAEAV0@AEBV0@@Z
+??4CThreadMultiWaitObject@@QEAAAEAV0@AEBV0@@Z
+??4CThreadMultiWaitSemaphore@@QEAAAEAV0@AEBV0@@Z
+??4CVProfNode@@QEAAAEAV0@AEBV0@@Z
+??4CVProfReporter@@QEAAAEAV0@AEBV0@@Z
+??4CVirtualMachineCallStackTranslationEncoder@@QEAAAEAV0@AEBV0@@Z
+??4CallStackStatStructDescFuncs@@QEAAAEAV0@AEBV0@@Z
+??4IStack_Annotation@@QEAAAEAV0@AEBV0@@Z
+??4IStack_VM_Segment_Marker@@QEAAAEAV0@AEBV0@@Z
+??4ProfileRow_t@CVProfReporter@@QEAAAEAU01@AEBU01@@Z
+??4ReportHeader_t@CVProfReporter@@QEAAAEAU01@AEBU01@@Z
+??7CThreadSyncObject@@QEBA_NXZ
+??ACVProfReporter@@QEBAAEBUProfileRow_t@0@I@Z
+??BCThreadSyncObject@@QEAAPEAXXZ
+??_7BasicStatStructFieldDesc@@6B@
+??_7CTestCase@@6B@
+??_7CTestSuite@@6B@
+??_7CThread@@6B@
+??_7CVProfReporter@@6B@
+??_7CValidatableThread@@6B@
+??_7CWorkerThread@@6B@
+??_7CallStackStatStructDescFuncs@@6B@
+??_7IStack_Annotation@@6B@
+??_7IStack_VM_Segment_Marker@@6B@
+??_FCCallStackCapture@@QEAAXXZ
+??_FCCallStackMarker@@QEAAXXZ
+??_FCCallStackMarker_ThisLine@@QEAAXXZ
+??_FCRecursionCallStackMarker@@QEAAXXZ
+??_FCStackTop_ReferenceParentStack@@QEAAXXZ
+??_FCThreadEvent@@QEAAXXZ
+??_FCThreadFullMutex@@QEAAXXZ
+??_FCThreadMultiWaitEvent@@QEAAXXZ
+??_FCVProfReporter@@QEAAXXZ
+?AddBudgetGroupName@CVProfile@@IEAAHPEBDH@Z
+?AddDeferredFunction@CVProfile@@QEAA_NP6AXPEAX@Z0@Z
+?AddTest@CTestSuite@@UEAAXPEAVITestCase@@@Z
+?AssertOwnedByCurrentThread@CThreadFullMutex@@QEBA_NXZ
+?AssertOwnedByCurrentThread@CThreadMutex@@QEBA_NXZ
+?AssertUseable@CThreadSyncObject@@IEAAXXZ
+?AssignIf@CThreadSpinRWLock@@AEAA_NAEBTLockInfo_t@1@0@Z
+?AtRoot@CVProfile@@QEBA_NXZ
+?AttemptToLoad@CDbgHelpFunctionsLoader@@AEAAXXZ
+?AttemptToLoad@CPSApiFunctionsLoader@@AEAAXXZ
+?BoostPriority@CWorkerThread@@QEAAHXZ
+?BudgetGroupNameToBudgetGroupID@CVProfile@@QEAAHPEBD@Z
+?BudgetGroupNameToBudgetGroupID@CVProfile@@QEAAHPEBDH@Z
+?BudgetGroupNameToBudgetGroupIDNoCreate@CVProfile@@QEAAHPEBD@Z
+?CalcBudgetGroupL2CacheMisses_Recursive@CVProfile@@QEAAXPEAVCVProfNode@@PEAIHM@Z
+?CalcBudgetGroupLHS_Recursive@CVProfile@@QEAAXPEAVCVProfNode@@PEAIHM@Z
+?CalcBudgetGroupTimes_Recursive@CVProfile@@QEAAXPEAVCVProfNode@@PEAIHM@Z
+?CalcStackDepth@CThread@@QEAA_KPEAX@Z
+?Call@CWorkerThread@@IEAAHII_NP6AIIPEAPEAVCThreadEvent@@HI@Z@Z
+?CallMaster@CWorkerThread@@QEAAHII@Z
+?CallWorker@CWorkerThread@@QEAAHII_N@Z
+?Capture@CCallStackCapture@@QEAAXP6AHPEAPEAXHH@ZII@Z
+?ChangeCopiedStack@CStackTop_CopyParentStack@@QEAAXPEBQEBXH@Z
+?ChangeMarker@CStackTop_Base@@QEAAXAEBVCCallStackMarkerBase@@@Z
+?ChangeReferencedStack@CStackTop_ReferenceParentStack@@QEAAXPEBQEBXH@Z
+?Check@CThreadEvent@@QEAA_NXZ
+?Check@CThreadMultiWaitObject@@QEAA_NXZ
+?CheckNamedEvent@CThreadEvent@@SA?AW4NamedEventResult_t@@PEBDI@Z
+?Clear@CVProfReporter@@AEAAXXZ
+?ClearPrevTime@CVProfNode@@QEAAXXZ
+?ConColorMsg@@YAXAEBVColor@@PEBDZZ
+?ConMsg@@YAXPEBDZZ
+?Count@CVProfReporter@@QEBAIXZ
+?CreateSimpleThread@@YAPEAUThreadHandle_t__@@P6A_KPEAX@Z0PEAII@Z
+?DecodeFromNativePointer@CVirtualMachineCallStackTranslationEncoder@@QEAAIPEBXPEADI1IPEAH@Z
+?DescribeField@BasicStatStructFieldDesc@@UEAA_KPEAE_K@Z
+?DevMsg@@YAXPEBDZZ
+?DevWarning@@YAXPEBDZZ
+?DisableVTuneGroup@CVProfile@@QEAAXXZ
+?DumpNodes@CVProfile@@IEAAXPEAVCVProfNode@@H_NAEAUCVProfSummingContext@@@Z
+?EnableVTuneGroup@CVProfile@@QEAAXPEBD@Z
+?EncodeAsNativePointer@CVirtualMachineCallStackTranslationEncoder@@QEAAPEAXPEBD0I@Z
+?EnsureReady@CDbgHelpFunctionsLoader@@QEAAXXZ
+?EnsureReady@CPSApiFunctionsLoader@@AEAAXXZ
+?EnterScope@CVProfNode@@QEAAXXZ
+?EnterScope@CVProfile@@QEAAXPEBDH0_N@Z
+?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
+?EnumerateEncodingIndices@CVirtualMachineCallStackTranslationEncoder@@QEAAXP6A_NPEAV1@IPEBD1IPEAX@Z2@Z
+?EnumerateLoadedModules64_@CDbgHelpFunctionsLoader@@QEAAHPEAXP6AHPEBD_KK0@Z0@Z
+?EnumerateLoadedModules64_@CDbgHelpFunctionsLoader@@QEAAHPEAXP6AHPEB_W_KK0@Z0@Z
+?ExecuteDeferredFunctions@CVProfile@@AEAAXXZ
+?ExitScope@CVProfNode@@QEAA_NXZ
+?ExitScope@CVProfile@@QEAAXXZ
+?FindBudgetGroupName@CVProfile@@IEAAHPEBD@Z
+?FindNode@CVProfile@@QEAAPEAVCVProfNode@@PEAV2@PEBD@Z
+?FindOrCreateCounter@CVProfile@@QEAAPEAHPEBDW4CounterGroup_t@@@Z
+?FreeNodes_R@CVProfile@@IEAAXPEAVCVProfNode@@@Z
+?GatherDataAndReport@CVProfReporter@@AEAAXXZ
+?Get@CThreadLocalBase@GenericThreadLocals@@QEBAPEAXXZ
+?GetBudgetGroupColor@CVProfile@@QEAAXHAEAH000@Z
+?GetBudgetGroupFlags@CVProfile@@QEBAHH@Z
+?GetBudgetGroupID@CVProfNode@@QEAAHXZ
+?GetBudgetGroupName@CVProfile@@QEAAPEBDH@Z
+?GetCallHandle@CWorkerThread@@QEAAAEAVCThreadEvent@@XZ
+?GetCallParam@CWorkerThread@@QEBAIXZ
+?GetClientData@CVProfNode@@QEBAHXZ
+?GetCounterGroup@CVProfile@@QEBA?AW4CounterGroup_t@@H@Z
+?GetCounterName@CVProfile@@QEBAPEBDH@Z
+?GetCounterNameAndValue@CVProfile@@QEBAPEBDHAEAH@Z
+?GetCounterValue@CVProfile@@QEBAHH@Z
+?GetCurCalls@CVProfNode@@QEAAHXZ
+?GetCurTime@CVProfNode@@QEAANXZ
+?GetCurTimeLessChildren@CVProfNode@@QEAANXZ
+?GetCurrentCThread@CThread@@SAPEAV1@XZ
+?GetCurrentIndexCount@CVirtualMachineCallStackTranslationEncoder@@QEAAIXZ
+?GetCurrentNode@CVProfile@@QEAAPEAVCVProfNode@@XZ
+?GetCurrentTop@CStackTop_Base@@SAPEAV1@_N@Z
+?GetDetailLevel@CVProfile@@QEBAHXZ
+?GetElement@CVProfReporter@@QEBAAEBUProfileRow_t@1@I@Z
+?GetHandle@CThreadSyncObject@@QEBAQEAXXZ
+?GetIndexBitMask@CVirtualMachineCallStackTranslationEncoder@@QEAA_KXZ
+?GetIndexBitShift@CVirtualMachineCallStackTranslationEncoder@@QEAAIXZ
+?GetL2CacheMisses@CVProfNode@@QEAAHXZ
+?GetLineOffsetBitMask@CVirtualMachineCallStackTranslationEncoder@@QEAA_KXZ
+?GetLineOffsetBitShift@CVirtualMachineCallStackTranslationEncoder@@QEAAIXZ
+?GetLineOffsetPostShiftedSignBitMask@CVirtualMachineCallStackTranslationEncoder@@QEAA_KXZ
+?GetMappingBaseAddress@CVirtualMachineCallStackTranslationEncoder@@QEAA_KXZ
+?GetMappingSize@CVirtualMachineCallStackTranslationEncoder@@QEAAIXZ
+?GetModuleInformation_@CPSApiFunctionsLoader@@QEAAHPEAXPEAUHINSTANCE__@@PEAU_MODULEINFO@@K@Z
+?GetName@CTestCase@@UEAAPEBDXZ
+?GetName@CTestSuite@@UEAAPEBDXZ
+?GetName@CThread@@QEAAPEBDXZ
+?GetName@CVProfNode@@QEAAPEBDXZ
+?GetName@CVirtualMachineCallStackTranslationEncoder@@QEAAPEBDXZ
+?GetNumBudgetGroups@CVProfile@@QEAAHXZ
+?GetNumCounters@CVProfile@@QEBAHXZ
+?GetPeakFrameTime@CVProfile@@QEAANXZ
+?GetPeakTime@CVProfNode@@QEAANXZ
+?GetPrevCalls@CVProfNode@@QEAAHXZ
+?GetPrevL2CacheMissLessChildren@CVProfNode@@QEAAHXZ
+?GetPrevLoadHitStoreLessChildren@CVProfNode@@QEAAHXZ
+?GetPrevTime@CVProfNode@@QEAANXZ
+?GetPrevTimeLessChildren@CVProfNode@@QEAANXZ
+?GetPriority@CThread@@QEBAHXZ
+?GetResult@CThread@@QEAAHXZ
+?GetRoot@CVProfile@@QEAAPEAVCVProfNode@@XZ
+?GetSTUBFunctionTable@CCallStackStatsGatherer_Base@@SAPEBU?$CallStackGatherer_FunctionTable_Template@VCCallStackStatsGatherer_Base@@@detail@@XZ
+?GetScopeProfiler@CVProfile@@QEBAAEBVCMicroProfiler@@XZ
+?GetStackMarker@IStack_VM_Segment_Marker@@QEBAAEBVCCallStackMarkerBase@@XZ
+?GetSubNode@CVProfNode@@QEAAPEAV1@PEBDH0@Z
+?GetSubNode@CVProfNode@@QEAAPEAV1@PEBDH0H@Z
+?GetTargetThreadId@CVProfile@@QEAAIXZ
+?GetThreadHandle@CThread@@IEBAQEAUThreadHandle_t__@@XZ
+?GetThreadHandle@CThread@@QEAAPEAUThreadHandle_t__@@XZ
+?GetThreadID@CThread@@QEBAIXZ
+?GetThreadProc@CThread@@MEAAP6AIPEAX@ZXZ
+?GetTimeLastFrame@CVProfile@@QEAANXZ
+?GetTotalCalls@CVProfNode@@QEAAHXZ
+?GetTotalSecondsSampled@CVProfile@@QEAANXZ
+?GetTotalTime@CVProfNode@@QEAANXZ
+?GetTotalTimeLessChildren@CVProfNode@@QEAANXZ
+?GetTotalTimeSampled@CVProfile@@QEAANXZ
+?GetTotalWallClockSecondsSampled@CVProfile@@QEAANXZ
+?GetUniqueNodeID@CVProfNode@@AEBAHXZ
+?GetVChild@CVProfNode@@QEAAPEAV1@XZ
+?GetVMID@CVirtualMachineCallStackTranslationEncoder@@QEAA_KXZ
+?GetVParent@CVProfNode@@QEAAPEAV1@XZ
+?GetVPrevSibling@CVProfNode@@QEAAPEAV1@XZ
+?GetVSibling@CVProfNode@@QEAAPEAV1@XZ
+?GetWaitItem@CThreadMultiWaitObject@@QEBAXPEAPEAXPEAUThreadMultiWaitExtra_t@@@Z
+?HandleFirstWriteLockTransition@CThreadRWLock_FastRead@@IEAAXXZ
+?HandlerQueueHeartBeat@MiniDumpStandardData_t@@QEBAXXZ
+?Header@CVProfReporter@@QEBAAEBUReportHeader_t@1@XZ
+?HideBudgetGroup@CVProfile@@QEAAXH_N@Z
+?HideBudgetGroup@CVProfile@@QEAAXPEBD_N@Z
+?InTargetThread@CVProfile@@QEAA_NXZ
+?Init@CThread@@MEAA_NXZ
+?Insert@CDeferredCallStackMarker@@QEAAXXZ
+?IsAlive@CThread@@QEAA_NXZ
+?IsCreator@CThreadFullMutex@@QEBA_NXZ
+?IsEnabled@CVProfile@@QEBA_NXZ
+?IsFlaggedForDeletion@CVProfReporter@@QEBA_NXZ
+?IsOwnedByCurrentThread_DebugOnly@CThreadMutex@@QEAA_NXZ
+?IsSuspended@CThread@@QEAA_NXZ
+?IsThreadRunning@CThread@@MEAA_NXZ
+?IsValid@CThreadSyncObject@@QEBA_NXZ
+?IsValid@CVProfReporter@@QEBA_NXZ
+?Join@CThread@@QEAA_NI@Z
+?KillMe@CVProfReporter@@IEAAXXZ
+?LocalSymCleanup@CDbgHelpFunctionsLoader@@QEAAXXZ
+?LocalSymInitialize@CDbgHelpFunctionsLoader@@QEAAXPEBD@Z
+?LocalSymInitialize@CDbgHelpFunctionsLoader@@QEAAXPEB_W@Z
+?Lock@CThreadFastMutex@@AECAXII@Z
+?Lock@CThreadFullMutex@@QEAA_NI@Z
+?Lock@CThreadFullMutex@@QEAA_NXZ
+?Lock@CThreadMutex@@QEAAXXZ
+?Lock@CThreadMutex@@QEBAXXZ
+?Lock@CThreadRWLock@@QEAAXXZ
+?Lock@CThreadSpinRWLock@@QEAAXXZ
+?LockForRead@CThreadMutex@@QEAAXXZ
+?LockForRead@CThreadRWLock@@QEAAXXZ
+?LockForRead@CThreadRWLock@@QEBAXXZ
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?LockForRead@CThreadSpinRWLock@@QEBAXXZ
+?LockForWrite@CThreadMutex@@QEAAXXZ
+?LockForWrite@CThreadRWLock@@QEAAXXZ
+?LockForWrite@CThreadRWLock@@QEBAXXZ
+?LockForWrite@CThreadSpinRWLock@@QEAAXXZ
+?LockForWrite@CThreadSpinRWLock@@QEBAXXZ
+?LockMutex@CDbgHelpFunctionsLoader@@QEAAXXZ
+?LockSilent@CThreadMutex@@QEAAXXZ
+?LoggingSystem_IsChannelEnabled@@YA_NHW4LoggingVerbosity_t@@@Z
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBULoggingMetaData_t@@PEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBULoggingMetaData_t@@VColor@@PEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@VColor@@PEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@PEBULoggingMetaData_t@@PEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@PEBULoggingMetaData_t@@VColor@@PEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+?LoggingSystem_LogDirect@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBD@Z
+?LoggingSystem_LogDirect@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBULoggingMetaData_t@@PEBD@Z
+?LoggingSystem_LogDirect@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@VColor@@PEBD@Z
+?LoggingSystem_LogDirect@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@VColor@@PEBULoggingMetaData_t@@PEBD@Z
+?LoggingSystem_LogDirect@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@PEBULoggingMetaData_t@@PEBD@Z
+?LoggingSystem_LogDirect@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBD@Z
+?LoggingSystem_LogDirect@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBULoggingMetaData_t@@PEBD@Z
+?MarkFrame@CVProfNode@@QEAAXXZ
+?MarkFrame@CVProfile@@QEAAXXZ
+?NumElements@CVProfReporter@@QEBAIXZ
+?NumFramesSampled@CVProfile@@QEAAHXZ
+?OnExit@CThread@@MEAAXXZ
+?OnFrameBoundaryExecuteCallback@CVProfReporter@@CAXPEAX@Z
+?OutputReport@CVProfile@@QEAAXHPEBDH@Z
+?OwnedByCurrentThread@CThreadMutex@@QEBA_NXZ
+?PMEEnable@CVProfile@@QEAAX_N@Z
+?PMEInitialized@CVProfile@@QEAAX_N@Z
+?Pause@CVProfNode@@QEAAXXZ
+?Pause@CVProfile@@QEAAXXZ
+?PeekCall@CWorkerThread@@QEAA_NPEAI@Z
+?PopGroup@CVProfile@@QEAAXXZ
+?PushGroup@CVProfile@@QEAAXH@Z
+?RegisterNumBudgetGroupsChangedCallBack@CVProfile@@QEAAXP6AXXZ@Z
+?Release@CThreadFullMutex@@QEAA_NXZ
+?Release@CThreadMultiWaitSemaphore@@QEAAXXZ
+?Release@CThreadSemaphore@@QEAA_NHPEAH@Z
+?ReleaseParentStackReferences@CStackTop_ReferenceParentStack@@QEAAXXZ
+?Remove@CDeferredCallStackMarker@@QEAAXXZ
+?RemoveDeferredFunction@CVProfile@@QEAA_NP6AXPEAX@Z0@Z
+?Reply@CWorkerThread@@QEAAXI@Z
+?Reset@CThreadEvent@@QEAA_NXZ
+?Reset@CThreadMultiWaitEvent@@QEAAXXZ
+?Reset@CVProfNode@@QEAAXXZ
+?Reset@CVProfile@@QEAAXXZ
+?ResetCounters@CVProfile@@QEAAXW4CounterGroup_t@@@Z
+?ResetPeak@CVProfNode@@QEAAXXZ
+?ResetPeaks@CVProfile@@QEAAXXZ
+?Resume@CThread@@QEAAIXZ
+?Resume@CVProfNode@@QEAAXXZ
+?Resume@CVProfile@@QEAAXXZ
+?RunTest@CTestSuite@@UEAAXXZ
+?STUB_EvaluateGathererLinkage@CCallStackStatsGatherer_Base@@IEAAXAEAV1@@Z
+?STUB_GetCapturedCallStackDepth@CCallStackStatsGatherer_Base@@IEBAIXZ
+?STUB_GetStatStructName@CCallStackStatsGatherer_Base@@IEBAPEBDXZ
+?STUB_GetStatStructSize@CCallStackStatsGatherer_Base@@IEBAIXZ
+?STUB_GetVectorData_StatEntries@CCallStackStatsGatherer_Base@@IEBAXAEAPEBXAEAI@Z
+?STUB_GetVectorData_StoredSubTrees@CCallStackStatsGatherer_Base@@IEBAXAEAPEBQEBV1@AEAI@Z
+?STUB_LockEntry@CCallStackStatsGatherer_Base@@IEAAPEAXI@Z
+?STUB_OnGathererRemoved@CCallStackStatsGatherer_Base@@IEAAXAEBV1@@Z
+?STUB_OnLinkedGathererPopped@CCallStackStatsGatherer_Base@@IEAAXAEBV1@@Z
+?STUB_OnLinkedGathererPushed@CCallStackStatsGatherer_Base@@IEAAXAEBV1@AEBVCCallStackMarkerBase@@@Z
+?STUB_PopFromLinkedGatherers@CCallStackStatsGatherer_Base@@IEBAXXZ
+?STUB_RemoveSharedInstanceData@CCallStackStatsGatherer_Base@@IEAAXAEBUCallStackStatsGatherer_SharedInstanceData_t@@@Z
+?STUB_UnlockEntry@CCallStackStatsGatherer_Base@@IEAAXI@Z
+?ScheduleVProfQuery@CVProfReporter@@QEAA_NXZ
+?ScheduleVProfQuery@CVProfReporter@@SA_NPEAV1@@Z
+?SeriousWarning@@YAXHPEBDZZ
+?SeriousWarning@@YAXHVColor@@PEBDZZ
+?Set@CThreadEvent@@QEAA_NXZ
+?Set@CThreadLocalBase@GenericThreadLocals@@QEAAXPEAX@Z
+?Set@CThreadMultiWaitEvent@@QEAAXXZ
+?SetBudgetGroupID@CVProfNode@@QEAAXH@Z
+?SetClientData@CVProfNode@@QEAAXH@Z
+?SetCurFrameTime@CVProfNode@@QEAAXK@Z
+?SetName@CThread@@QEAAXPEBD@Z
+?SetOutputStream@CVProfile@@QEAAXP6AXPEBDZZ@Z
+?SetPriority@CThread@@QEAA_NH@Z
+?SetTargetThreadId@CVProfile@@QEAAXI@Z
+?SetTrace@CThreadFullMutex@@QEAAX_N@Z
+?SetTrace@CThreadMutex@@QEAAX_N@Z
+?SetUniqueNodeID@CVProfNode@@AEAAXH@Z
+?Sleep@CThread@@SAXI@Z
+?SpinLockForWrite@CThreadSpinRWLock@@AEAAXI@Z
+?StackWalk64_@CDbgHelpFunctionsLoader@@QEAAHKPEAX0PEAU_tagSTACKFRAME64@@0P6AH0_K0KPEAK@ZP6APEAX02@ZP6A_K02@ZP6A_K00PEAU_tagADDRESS64@@@Z@Z
+?Start@CThread@@UEAA_NIW4ThreadPriorityEnum_t@@@Z
+?Start@CVProfile@@QEAAXXZ
+?Stop@CThread@@QEAAXH@Z
+?Stop@CVProfile@@QEAAXXZ
+?SumTimes@CVProfile@@IEAAXPEAVCVProfNode@@HAEAUCVProfSummingContext@@@Z
+?SumTimes@CVProfile@@IEAAXPEBDHAEAUCVProfSummingContext@@@Z
+?Suspend@CThread@@QEAAIXZ
+?SymCleanup_@CDbgHelpFunctionsLoader@@QEAAHPEAX@Z
+?SymEnumerateModules64_@CDbgHelpFunctionsLoader@@QEAAHPEAXP6AHPEBD_K0@Z0@Z
+?SymEnumerateModules64_@CDbgHelpFunctionsLoader@@QEAAHPEAXP6AHPEB_W_K0@Z0@Z
+?SymFindFileInPath_@CDbgHelpFunctionsLoader@@QEAAHPEAXPEBD10KKKPEADP6AH10@Z0@Z
+?SymFindFileInPath_@CDbgHelpFunctionsLoader@@QEAAHPEAXPEB_W10KKKPEA_WP6AH10@Z0@Z
+?SymFromAddr_@CDbgHelpFunctionsLoader@@QEAAHPEAX_KPEA_KPEAU_SYMBOL_INFO@@@Z
+?SymFromAddr_@CDbgHelpFunctionsLoader@@QEAAHPEAX_KPEA_KPEAU_SYMBOL_INFOW@@@Z
+?SymFunctionTableAccess64_@CDbgHelpFunctionsLoader@@QEAAPEAXPEAX_K@Z
+?SymGetLineFromAddr64_@CDbgHelpFunctionsLoader@@QEAAHPEAX_KPEAKPEAU_IMAGEHLP_LINE64@@@Z
+?SymGetLineFromAddr64_@CDbgHelpFunctionsLoader@@QEAAHPEAX_KPEAKPEAU_IMAGEHLP_LINEW64@@@Z
+?SymGetModuleBase64_@CDbgHelpFunctionsLoader@@QEAA_KPEAX_K@Z
+?SymGetModuleInfo64_@CDbgHelpFunctionsLoader@@QEAAHPEAX_KPEAU_IMAGEHLP_MODULE64@@@Z
+?SymGetModuleInfo64_@CDbgHelpFunctionsLoader@@QEAAHPEAX_KPEAU_IMAGEHLP_MODULEW64@@@Z
+?SymGetOptions_@CDbgHelpFunctionsLoader@@QEAAKXZ
+?SymGetSearchPath_@CDbgHelpFunctionsLoader@@QEAAHPEAXPEADK@Z
+?SymGetSearchPath_@CDbgHelpFunctionsLoader@@QEAAHPEAXPEA_WK@Z
+?SymInitialize_@CDbgHelpFunctionsLoader@@QEAAHPEAXPEBDH@Z
+?SymInitialize_@CDbgHelpFunctionsLoader@@QEAAHPEAXPEB_WH@Z
+?SymLoadModule64_@CDbgHelpFunctionsLoader@@QEAA_KPEAX0PEBD1_KK@Z
+?SymLoadModule64_@CDbgHelpFunctionsLoader@@QEAA_KPEAX0PEB_W1_KK@Z
+?SymLoadModuleEx_@CDbgHelpFunctionsLoader@@QEAA_KPEAX0PEBD1_KKPEAU_MODLOAD_DATA@@K@Z
+?SymLoadModuleEx_@CDbgHelpFunctionsLoader@@QEAA_KPEAX0PEB_W1_KKPEAU_MODLOAD_DATA@@K@Z
+?SymRefreshModuleList_@CDbgHelpFunctionsLoader@@QEAAHPEAX@Z
+?SymRegisterCallback64_@CDbgHelpFunctionsLoader@@QEAAHPEAXP6AH0K_K1@Z0@Z
+?SymRegisterCallbackW64_@CDbgHelpFunctionsLoader@@QEAAHPEAXP6AH0K_K1@Z1@Z
+?SymSetHomeDirectory_@CDbgHelpFunctionsLoader@@QEAAPEADPEAXPEBD@Z
+?SymSetHomeDirectory_@CDbgHelpFunctionsLoader@@QEAAPEA_WPEAXPEB_W@Z
+?SymSetOptions_@CDbgHelpFunctionsLoader@@QEAAKK@Z
+?SymSetSearchPath_@CDbgHelpFunctionsLoader@@QEAAHPEAXPEBD@Z
+?SymSetSearchPath_@CDbgHelpFunctionsLoader@@QEAAHPEAXPEB_W@Z
+?SymSrvGetFileIndexInfo_@CDbgHelpFunctionsLoader@@QEAAHPEBDPEAUSYMSRV_INDEX_INFO@@K@Z
+?SymSrvGetFileIndexInfo_@CDbgHelpFunctionsLoader@@QEAAHPEB_WPEAUSYMSRV_INDEX_INFOW@@K@Z
+?SymSrvGetFileIndexes_@CDbgHelpFunctionsLoader@@QEAAHPEBDPEAU_GUID@@PEAK2K@Z
+?SymSrvGetFileIndexes_@CDbgHelpFunctionsLoader@@QEAAHPEB_WPEAU_GUID@@PEAK2K@Z
+?SymUnloadModule64_@CDbgHelpFunctionsLoader@@QEAAHPEAX_K@Z
+?Term@CVProfile@@QEAAXXZ
+?Terminate@CThread@@QEAA_NH@Z
+?TestMarkerAgainstCapturedStackIndex@CCallStackMarkerBase@@QEBA_NPEBQEBXHH@Z
+?ThreadProc@CThread@@KAIPEAX@Z
+?ThreadProcWrapped@CThread@@KAIPEAX@Z
+?TryLock@CThreadMutex@@QEAA_NXZ
+?TryLock@CThreadMutex@@QEBA_NXZ
+?TryLock@CThreadRWLock@@QEAA_NXZ
+?TryLock@CThreadSpinRWLock@@QEAA_NXZ
+?TryLockForRead@CThreadMutex@@QEAA_NXZ
+?TryLockForRead@CThreadRWLock@@QEAA_NXZ
+?TryLockForRead@CThreadRWLock@@QEBA_NXZ
+?TryLockForRead@CThreadSpinRWLock@@QEAA_NXZ
+?TryLockForRead@CThreadSpinRWLock@@QEBA_NXZ
+?TryLockForWrite@CThreadMutex@@QEAA_NXZ
+?TryLockForWrite@CThreadRWLock@@QEAA_NXZ
+?TryLockForWrite@CThreadRWLock@@QEBA_NXZ
+?TryLockForWrite@CThreadSpinRWLock@@AEAA_NI@Z
+?TryLockForWrite@CThreadSpinRWLock@@QEAA_NXZ
+?TryLockForWrite@CThreadSpinRWLock@@QEBA_NXZ
+?Unlock@CThreadFullMutex@@QEAAXXZ
+?Unlock@CThreadMutex@@QEAAXXZ
+?Unlock@CThreadMutex@@QEBAXXZ
+?Unlock@CThreadRWLock@@QEAAXXZ
+?Unlock@CThreadSpinRWLock@@QEAAXXZ
+?UnlockMutex@CDbgHelpFunctionsLoader@@QEAAXXZ
+?UnlockRead@CThreadMutex@@QEAAXXZ
+?UnlockRead@CThreadRWLock@@QEAAXXZ
+?UnlockRead@CThreadRWLock@@QEBAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEBAXXZ
+?UnlockRead_LockForWrite@CThreadMutex@@QEAA?AW4RWLockTranstionResult_t@@XZ
+?UnlockRead_LockForWrite@CThreadRWLock@@QEAA?AW4RWLockTranstionResult_t@@XZ
+?UnlockRead_LockForWrite@CThreadRWLock@@QEBA?AW4RWLockTranstionResult_t@@XZ
+?UnlockRead_LockForWrite@CThreadRWLock_FastRead@@QEAA?AW4RWLockTranstionResult_t@@XZ
+?UnlockRead_LockForWrite@CThreadSpinRWLock@@QEAA?AW4RWLockTranstionResult_t@@XZ
+?UnlockRead_LockForWrite@CThreadSpinRWLock@@QEBA?AW4RWLockTranstionResult_t@@XZ
+?UnlockSilent@CThreadMutex@@QEAAXXZ
+?UnlockWrite@CThreadMutex@@QEAAXXZ
+?UnlockWrite@CThreadRWLock@@QEAAXXZ
+?UnlockWrite@CThreadRWLock@@QEBAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEBAXXZ
+?UnlockWrite_LockForRead@CThreadMutex@@QEAA?AW4RWLockTranstionResult_t@@XZ
+?UnlockWrite_LockForRead@CThreadRWLock@@QEAA?AW4RWLockTranstionResult_t@@XZ
+?UnlockWrite_LockForRead@CThreadRWLock@@QEBA?AW4RWLockTranstionResult_t@@XZ
+?UnlockWrite_LockForRead@CThreadRWLock_FastRead@@QEAA?AW4RWLockTranstionResult_t@@XZ
+?UnlockWrite_LockForRead@CThreadSpinRWLock@@QEAA?AW4RWLockTranstionResult_t@@XZ
+?UnlockWrite_LockForRead@CThreadSpinRWLock@@QEBA?AW4RWLockTranstionResult_t@@XZ
+?UsePME@CVProfile@@QEAA_NXZ
+?VTuneGroupEnabled@CVProfile@@IEAA_NXZ
+?VTuneGroupID@CVProfile@@IEAAHXZ
+?Wait@CThreadMultiWaitObject@@QEAA_NI@Z
+?Wait@CThreadSyncObject@@QEAA_NI@Z
+?WaitForCall@CWorkerThread@@QEAA_NIPEAI@Z
+?WaitForCall@CWorkerThread@@QEAA_NPEAI@Z
+?WaitForCreateComplete@CThread@@MEAA_NPEAVCThreadEvent@@@Z
+?WaitForMultiple@CThreadEvent@@SAIHPEAPEAV1@_NI@Z
+?WaitForMultiple@CThreadEvent@@SAIHPEAV1@_NI@Z
+?WaitForMultiple@CThreadSyncObject@@SAIHPEAPEAV1@_NI@Z
+?WaitForMultiple@CThreadSyncObject@@SAIHPEAV1@_NI@Z
+?WaitForRead@CThreadRWLock@@AEAAXXZ
+?WaitForReadLockTransition@CThreadRWLock_FastRead@@IEAAXH@Z
+?WaitForReply@CWorkerThread@@IEAAHIP6AIIPEAPEAVCThreadEvent@@HI@Z@Z
+?WaitForReply@CWorkerThread@@QEAAHI@Z
+?Yield@CThread@@SAXXZ
+?_FooHacked_DontEverCallMe@Hack_WatchWindow_t@@SAPEBU1@PEBX@Z
+?_assertionConstants@?7???0CThreadSpinRWLock@@QEAA@XZ@4U_AssertCompileTimeConstantStruct_t@@B
+?_assertionConstants@?7??GetBudgetGroupFlags@CVProfile@@QEBAHH@Z@4U_AssertCompileTimeConstantStruct_t@@B
+?_assertionConstants@?7??GetBudgetGroupName@CVProfile@@QEAAPEBDH@Z@4U_AssertCompileTimeConstantStruct_t@@B
+?_assertionConstants@?7??GetElement@CVProfReporter@@QEBAAEBUProfileRow_t@2@I@Z@4U_AssertCompileTimeConstantStruct_t@@B
+?_assertionConstants@?7??GetVParent@CVProfNode@@QEAAPEAV2@XZ@4U_AssertCompileTimeConstantStruct_t@@B
+?_assertionConstants@?7??PopGroup@CVProfile@@QEAAXXZ@4U_AssertCompileTimeConstantStruct_t@@B
+?_assertionConstants@?7??PushGroup@CVProfile@@QEAAXH@Z@4U_AssertCompileTimeConstantStruct_t@@B
+?_assertionConstants@?BB@??PushGroup@CVProfile@@QEAAXH@Z@4U_AssertCompileTimeConstantStruct_t@@B
+?_assertionStatics@?2???0CThreadSpinRWLock@@QEAA@XZ@4U_AssertStaticVariableStruct_t@@A
+?_assertionStatics@?2??GetBudgetGroupFlags@CVProfile@@QEBAHH@Z@4U_AssertStaticVariableStruct_t@@A
+?_assertionStatics@?2??GetBudgetGroupName@CVProfile@@QEAAPEBDH@Z@4U_AssertStaticVariableStruct_t@@A
+?_assertionStatics@?2??GetElement@CVProfReporter@@QEBAAEBUProfileRow_t@2@I@Z@4U_AssertStaticVariableStruct_t@@A
+?_assertionStatics@?2??GetVParent@CVProfNode@@QEAAPEAV2@XZ@4U_AssertStaticVariableStruct_t@@A
+?_assertionStatics@?2??PopGroup@CVProfile@@QEAAXXZ@4U_AssertStaticVariableStruct_t@@A
+?_assertionStatics@?2??PushGroup@CVProfile@@QEAAXH@Z@4U_AssertStaticVariableStruct_t@@A
+?_assertionStatics@?M@??PushGroup@CVProfile@@QEAAXH@Z@4U_AssertStaticVariableStruct_t@@A
+?oldValue@?4??TryLockForWrite@CThreadSpinRWLock@@AEAA_NI@Z@4TLockInfo_t@2@B
+?s_iCurrentUniqueNodeID@CVProfNode@@0HA
+?tm_fmt@?2??Lock@CThreadMutex@@QEAAXXZ@4U_TmFormatCode@@A
+AllocateThreadID
+AppendMiniProfilerToList
+AssertMsg_ConditionFailed
+AssertValidStringPtr
+AssertValidWStringPtr
+BinaryProperties_GetValue
+CMemAllocSystemInitialize
+COM_TimestampedLog
+CatchAndWriteMiniDump
+CatchAndWriteMiniDumpEx
+CatchAndWriteMiniDumpExForVoidPtrFn
+CatchAndWriteMiniDumpExReturnsInt
+CatchAndWriteMiniDumpForVoidPtrFn
+ClearHardwareBreakpoint
+CommandLine
+ConDMsg
+CrackSmokingCompiler
+CreateCommandLine
+CreateSimpleProcess
+CreateSimpleThread
+DeclareCurrentThreadIsMainThread
+DevWarning
+ETWBegin
+ETWGetRenderFrameNumber
+ETWIsTracingEnabled
+ETWKeyDown
+ETWMark
+ETWMark1F
+ETWMark1I
+ETWMark1S
+ETWMark2F
+ETWMark2I
+ETWMark2S
+ETWMark3F
+ETWMark3I
+ETWMark4F
+ETWMark4I
+ETWMarkPrintf
+ETWMouseDown
+ETWMouseMove
+ETWMouseUp
+ETWMouseWheel
+ETWOverlayFrameMark
+ETWReadPacket
+ETWRenderFrameMark
+ETWResourceFrameMark
+ETWSendPacket
+ETWSimFrameMark
+ETWThrottled
+FreeCommandLine
+FreeThreadID
+GetAddressTranslationData
+GetCPUFrequencyResults
+GetCPUInformation
+GetDefaultMiniDumpHandler
+GetDefaultMiniDumpTypeFlags
+GetFileAndLineFromAddress
+GetHardwareClockReliably
+GetInstructionPointer
+GetLocalHostname
+GetModuleNameFromAddress
+GetSymbolNameFromAddress
+GetThreadedLoadLibraryFunc
+GetUnitTest
+GetVAtom
+GetWin32ConsoleCursorColumnIndex
+HangWatchdogInternal_BeginScope
+HangWatchdogInternal_EndScope
+HangWatchdog_IndicateActivity
+HangWatchdog_Initialize
+HangWatchdog_SetHangImageRGBA
+HangWatchdog_SetMainThreadWindow
+HangWatchdog_Shutdown
+InitPME
+InitWin32ConsoleColorContext
+InstallProgressReportHandler
+InvokeMiniDumpHandler
+IterateCapturedStackAnnotations
+LOG_GENERAL
+LoadDbgHelpFromKnownPath
+LoggingSystem_AddTagToChannel
+LoggingSystem_CurrentStateIndex
+LoggingSystem_EnableBackdoorLoggingListeners
+LoggingSystem_FindChannel
+LoggingSystem_FirstTag
+LoggingSystem_GetChannel
+LoggingSystem_GetChannelColor
+LoggingSystem_GetChannelCount
+LoggingSystem_GetChannelFlags
+LoggingSystem_GetChannelVerbosity
+LoggingSystem_GetFirstChannelID
+LoggingSystem_GetNextChannelID
+LoggingSystem_HasTag
+LoggingSystem_InvalidTag
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+LoggingSystem_LogAssert
+LoggingSystem_LogDirect
+LoggingSystem_NextTag
+LoggingSystem_PopLoggingState
+LoggingSystem_PushLoggingState
+LoggingSystem_RegisterBackdoorLoggingListener
+LoggingSystem_RegisterLoggingChannel
+LoggingSystem_RegisterLoggingListener
+LoggingSystem_ResetBackdoorLoggingState
+LoggingSystem_ResetCurrentLoggingState
+LoggingSystem_SetChannelColor
+LoggingSystem_SetChannelFlags
+LoggingSystem_SetChannelVerbosity
+LoggingSystem_SetChannelVerbosityByName
+LoggingSystem_SetChannelVerbosityByTag
+LoggingSystem_SetLoggingResponsePolicy
+LoggingSystem_TagName
+LoggingSystem_UnregisterLoggingListener
+MemAllocScratch
+MemFreeScratch
+MemZeroMemory
+MicroProfilerAddTS
+MiniDumpExceptionHandler
+MiniDumpRegisterForUnhandledExceptions
+MinidumpLog
+MinidumpSetMiniDumpComment
+MinidumpUserStreamInfoAppend
+MinidumpUserStreamInfoGet
+MinidumpUserStreamInfoSetHeader
+Plat_ApproximateProcessMemoryUsage
+Plat_AttachDebuggerToProcess
+Plat_BeginWatchdogTimer
+Plat_ChangeCurrentFrame
+Plat_CheckSDL
+Plat_CollectMiniDumpsForFatalErrors
+Plat_ConvertToLocalTime
+Plat_CreateUUIDImpl
+Plat_CreateWindow
+Plat_DebugPrint
+Plat_DebugString
+Plat_DesktopNotify
+Plat_DestroyWindow
+Plat_DestroyWindowOsSpecific
+Plat_DisableIOBuffering
+Plat_EnableCustomerMachineMode
+Plat_EnableHeadlessMode
+Plat_EndWatchdogTimer
+Plat_ExitProcess
+Plat_FastVerifyHardwareKey
+Plat_FileExists
+Plat_FileIsReadOnly
+Plat_FileSize
+Plat_FlashWindow
+Plat_FloatTime
+Plat_GetCPUFrequency
+Plat_GetCPUUsage
+Plat_GetClockStart
+Plat_GetCommandLine
+Plat_GetCommandLineA
+Plat_GetComputerName
+Plat_GetCurrentDate
+Plat_GetCurrentFrame
+Plat_GetDefaultMonitorIndex
+Plat_GetDesktopBounds
+Plat_GetDesktopResolution
+Plat_GetEnv
+Plat_GetExecutablePath
+Plat_GetExecutablePathUTF8
+Plat_GetLocalTime
+Plat_GetMemPageSize
+Plat_GetModuleFilename
+Plat_GetModuleProcAddress
+Plat_GetMonitorBounds
+Plat_GetMonitorIndexFromName
+Plat_GetMonitorName
+Plat_GetMonitorResolution
+Plat_GetOSDescriptionString
+Plat_GetOSVersion
+Plat_GetPagedPoolInfo
+Plat_GetPlatformError
+Plat_GetProcAddress
+Plat_GetProcAddresses
+Plat_GetShellWindow
+Plat_GetTime
+Plat_GetTimeString
+Plat_GetUserName
+Plat_GetWindowBounds
+Plat_GetWindowClientBounds
+Plat_GetWindowClientSize
+Plat_GetWindowClientSizeOsSpecific
+Plat_GetWindowMonitorIndex
+Plat_GlobalMemoryStatus
+Plat_HasDefaultMonitorIndexChanged
+Plat_IgnoreContentAsserts
+Plat_InitializeCOM
+Plat_InstallControlCHandler
+Plat_InstallUrlHandler
+Plat_Is64BitOS
+Plat_IsConsoleApplication
+Plat_IsDirectory
+Plat_IsHighDPI
+Plat_IsInBenchmarkMode
+Plat_IsInDebugSession
+Plat_IsInHeadlessMode
+Plat_IsInTestMode
+Plat_IsModuleLoaded
+Plat_IsRunningOnCustomerMachine
+Plat_IsSafeToLoadModules
+Plat_IsWindowFocused
+Plat_IsWindowMinimized
+Plat_IsWindowMinimizedOsSpecific
+Plat_IsWindowVisible
+Plat_LoadModule
+Plat_LoadModuleRaw
+Plat_LoadSDL
+Plat_MSTime
+Plat_MessageBox
+Plat_MinimizeWindow
+Plat_NeedsLowFragmentation
+Plat_OsSpecificHandleToPlatWindow
+Plat_Printf
+Plat_PutEnv
+Plat_ReleaseMouseCapture
+Plat_RequireSDL
+Plat_ScreenToWindowCoords
+Plat_SetActiveWindow
+Plat_SetActiveWindowOsSpecific
+Plat_SetBenchmarkMode
+Plat_SetClipboardText
+Plat_SetCurrentFrame
+Plat_SetDefaultMonitorIndex
+Plat_SetForegroundWindow
+Plat_SetFullscreenMinimizeOnFocusLoss
+Plat_SetIsConsoleApplication
+Plat_SetModuleFilename
+Plat_SetMouseCapture
+Plat_SetWatchdogHandlerFunction
+Plat_SetWindowBorder
+Plat_SetWindowFullscreenState
+Plat_SetWindowIcon
+Plat_SetWindowPos
+Plat_SetWindowSize
+Plat_SetWindowTitle
+Plat_SetWindowTitleW
+Plat_SetupFPUControlWord
+Plat_ShouldCollectMiniDumpsForFatalErrors
+Plat_ShowWindow
+Plat_ShutdownCOM
+Plat_TranslateSymbolicLinks
+Plat_USTime
+Plat_UUIDFromString
+Plat_UUIDToString
+Plat_UnloadModule
+Plat_UnloadSDL
+Plat_VerifyHardwareKey
+Plat_VerifyHardwareKeyDriver
+Plat_VerifyHardwareKeyPrompt
+Plat_VirtualAccessFlags
+Plat_VirtualAlloc
+Plat_VirtualFree
+Plat_VirtualProtect
+Plat_WindowToOsSpecificHandle
+Plat_WindowToScreenCoords
+Plat_chdir
+Plat_ctime
+Plat_getwd
+Plat_gmtime
+Plat_localtime
+Plat_timegm
+PopMiniProfilerTS
+PushMiniProfilerTS
+Qt_GetCustomAllocators
+RegisterAssertionFailureListener
+ReleaseThreadHandle
+RemoveMiniProfilerFromList
+ReportProgress
+RestoreWin32ConsoleColor
+RunTSListTests
+RunTSQueueTests
+SeriousWarning
+SetAssertionPrompt
+SetCPUMonitoringInterval
+SetDefaultMiniDumpHandler
+SetHardwareBreakpoint
+SetThreadedLoadLibraryFunc
+SetWin32ConsoleColor
+SetupWin32ConsoleIO
+ShutdownPME
+StackHelpers_GetLocalProcessHandle_NonPseudo
+StackHelpers_Windows_AllocateDbgHelpUniqueID
+StackHelpers_Windows_FreeDbgHelpUniqueID
+StackHelpers_Windows_GetDbgHelpWrapper
+StackHelpers_Windows_GetPSApiWrapper
+StackMarkup_RestoreState
+StackMarkup_SaveState
+StackStats_DumpNamedInstance
+StackStats_EnumerateRegisteredInstances
+StackStats_GathererRegistration
+StackStats_GetSymbolTranslationDefault
+StackToolsNotify_BeginLoadingModule
+StackToolsNotify_EndLoadingModule
+StackToolsNotify_LoadedModule
+StackToolsNotify_SetSymbolSearchPath
+StackToolsNotify_UnloadedModule
+StackTools_EnumerateKnownLoadedModules
+StackTools_EnumerateVirtualMachineEncoders
+StackTools_InstallModuleMappingListener
+StackTools_RemoveModuleMappingListener
+StackTools_VerifyLoadedModuleMappings
+TelemetrySetContextState
+TelemetrySetLevel
+TelemetryShutdown
+TelemetryTick
+ThreadCloseProcess
+ThreadFinishInitOnce
+ThreadGetCurrentHandle
+ThreadGetCurrentProcessId
+ThreadGetPriority
+ThreadGetProcessExitCode
+ThreadInMainThread
+ThreadInitOnce
+ThreadInitOnceCall
+ThreadInterlockedExchange64
+ThreadIsProcessActive
+ThreadIsProcessIdActive
+ThreadJoin
+ThreadMultiWait
+ThreadNanoSleep
+ThreadSetAffinity
+ThreadSetDebugNameS2
+ThreadSetPriority
+ThreadSetProcessPriority
+ThreadShellExecute
+ThreadShellExecuteEx
+ThreadSleep
+ThreadTerminateProcessCode
+ThreadWaitForProcessExit
+ThreadYield
+Tier0DebugDraw3DLine
+Tier0DebugDrawAge
+Tier0DebugDrawLockLines
+Tier0DebugDrawLockedQueryLine
+Tier0DebugDrawUnlockLines
+Tier0GenericMiniDumpHandler
+Tier0GenericMiniDumpHandlerEx
+Tier0GenericMiniDumpHandler_SetFilenamePrefix
+Tier0GenericMiniDumpHandler_SetOptions
+Tier0GenericMiniDumpHandler_SetPreHandlerCallback
+TranslateStackInfo
+UnitTestCount
+UnitTestInstallTestCase
+UnregisterAssertionFailureListener
+V_tier0_snprintf
+V_tier0_stricmp
+V_tier0_strncat
+V_tier0_strncpy
+V_tier0_vsnprintf
+ValveTelemetryExtension_StackDump
+Warning
+_AssertValidReadPtr
+_AssertValidReadWritePtr
+_AssertValidWritePtr
+_CCallStackStatsGatherer_GetSharedGlobalInstance
+_CCallStackStatsGatherer_Internal_DumpStatsToFile
+_CCallStackStatsGatherer_ReleaseSharedGlobalInstance
+_CCallStackStatsGatherer_Write_FieldDescriptions
+_Error_AlwaysSpewCallStack_Enable
+_Error_AlwaysSpewCallStack_Length
+_GetCallStack
+_GetCallStackForThread
+_GetCallStackForThread_Fast
+_GetCallStack_Fast
+_Warning_AlwaysSpewCallStack_Enable
+_Warning_AlwaysSpewCallStack_Length
+g_ClockSpeed
+g_ClockSpeedMicrosecondsMultiplier
+g_ClockSpeedMillisecondsMultiplier
+g_ClockSpeedSecondsMultiplier
+g_Telemetry
+g_VProfCurrentProfile
+g_VProfNodeSpikeMinimumMs
+g_VProfNodeSpikeMultiplier
+g_VProfNodeSpikeReporting
+g_VProfSignalSpike
+g_dwClockSpeed
+g_nMiniProfilerFrame
+g_nThreadID
+g_pAssertMiniProfilers
+g_pGlobalMiniProfilers
+g_pLastMiniProfiler
+g_pMemAlloc
+g_pPerfTraceDepot
+g_pRootMiniProfiler
+SendMessageA
+DefWindowProcA
+CreateWindowExA
+DestroyWindow
+SetWindowPos
+DialogBoxParamA
+EndDialog
+GetDlgItem
+SetDlgItemInt
+GetDlgItemInt
+SetDlgItemTextA
+GetDlgItemTextA
+EnableWindow
+GetForegroundWindow
+SetWindowTextA
+GetWindowRect
+MessageBoxA
+GetWindowLongA
+GetWindowLongPtrA
+SetWindowLongPtrA
+GetDesktopWindow
+GetTopWindow
+GetWindowThreadProcessId
+LoadIconA
+LoadImageA
+GetMessageA
+TranslateMessage
+DispatchMessageA
+SendMessageTimeoutA
+PostQuitMessage
+RegisterClassExA
+ShowWindow
+SetTimer
+GetSystemMetrics
+DrawTextA
+UpdateWindow
+BeginPaint
+EndPaint
+InvalidateRect
+GetClientRect
+LoadCursorA
+OpenClipboard
+CloseClipboard
+SetClipboardData
+EmptyClipboard
+FlashWindow
+IsIconic
+SetActiveWindow
+SetForegroundWindow
+USER32.dll
+GetUserNameA
+RegCloseKey
+RegOpenKeyA
+RegQueryValueExA
+AllocateAndInitializeSid
+CheckTokenMembership
+FreeSid
+RegCreateKeyExA
+RegDeleteKeyA
+RegSetValueExA
+InitializeSecurityDescriptor
+SetSecurityDescriptorDacl
+ADVAPI32.dll
+CreateFontA
+CreateSolidBrush
+DeleteObject
+SelectObject
+SetBkColor
+CreateCompatibleDC
+DeleteDC
+SetBkMode
+StretchBlt
+SetTextColor
+CreateDIBSection
+GetObjectA
+GDI32.dll
+WS2_32.dll
+timeBeginPeriod
+WINMM.dll
+EnterCriticalSection
+LeaveCriticalSection
+GetCurrentThreadId
+GetCurrentProcessId
+CreateThread
+GetExitCodeThread
+QueryPerformanceCounter
+QueryPerformanceFrequency
+GetSystemInfo
+GetModuleHandleA
+GetProcAddress
+GetCurrentProcess
+GetCurrentThread
+GetProcessAffinityMask
+SetProcessAffinityMask
+SetThreadAffinityMask
+CloseHandle
+SetEvent
+WaitForSingleObject
+CreateEventA
+OpenThread
+SuspendThread
+ResumeThread
+GetThreadContext
+SetThreadContext
+IsBadReadPtr
+IsBadWritePtr
+IsBadStringPtrA
+IsBadStringPtrW
+ReleaseMutex
+CreateMutexA
+GetTickCount
+OutputDebugStringA
+HeapAlloc
+HeapReAlloc
+HeapFree
+HeapSize
+HeapValidate
+GetProcessHeap
+HeapSetInformation
+VirtualAlloc
+GetModuleFileNameA
+VirtualFree
+GetCurrentDirectoryA
+CreateFileA
+RaiseException
+SetUnhandledExceptionFilter
+AddVectoredExceptionHandler
+RemoveVectoredExceptionHandler
+FreeLibrary
+WinExec
+LoadLibraryA
+GetStdHandle
+GetCommandLineA
+GetFileAttributesA
+GetFileType
+IsDebuggerPresent
+GetLastError
+DeviceIoControl
+TerminateProcess
+CreateProcessA
+GlobalMemoryStatusEx
+GetComputerNameExW
+GetVersionExA
+VirtualProtect
+GetModuleFileNameW
+GlobalAlloc
+GlobalLock
+GlobalUnlock
+WideCharToMultiByte
+SetConsoleCtrlHandler
+SetThreadPriority
+SetPriorityClass
+RtlCaptureContext
+RtlVirtualUnwind
+SetLastError
+InitializeCriticalSectionAndSpinCount
+DeleteCriticalSection
+ResetEvent
+ReleaseSemaphore
+OpenEventA
+GetExitCodeProcess
+GetThreadPriority
+TerminateThread
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+OpenProcess
+WaitForMultipleObjects
+CreateSemaphoreA
+MultiByteToWideChar
+GetConsoleScreenBufferInfo
+SetConsoleTextAttribute
+AllocConsole
+VirtualQuery
+RtlLookupFunctionEntry
+ReadProcessMemory
+ExpandEnvironmentStringsA
+CreateDirectoryA
+DuplicateHandle
+lstrcatA
+lstrcpyA
+EncodePointer
+DecodePointer
+ReadFile
+RtlPcToFileHeader
+RtlUnwindEx
+IsProcessorFeaturePresent
+GetSystemTimeAsFileTime
+AreFileApisANSI
+GetDriveTypeW
+GetFullPathNameA
+SetEnvironmentVariableA
+SetCurrentDirectoryA
+SetStdHandle
+UnhandledExceptionFilter
+GetStartupInfoW
+GetModuleHandleW
+ExitProcess
+GetModuleHandleExW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetConsoleMode
+ReadConsoleW
+SetFilePointerEx
+DeleteFileW
+WriteFile
+FlushFileBuffers
+GetConsoleCP
+MoveFileExW
+GetTimeZoneInformation
+GetCurrentDirectoryW
+FindClose
+FindFirstFileExW
+SystemTimeToTzSpecificLocalTime
+FileTimeToSystemTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+CompareStringW
+LCMapStringW
+LoadLibraryExW
+GetStringTypeW
+OutputDebugStringW
+WriteConsoleW
+FileTimeToLocalFileTime
+GetFileInformationByHandle
+PeekNamedPipe
+GetFullPathNameW
+CreateFileW
+SetEndOfFile
+KERNEL32.dll
+wsprintfA
+LoadStringA
+SetEnvironmentVariableW
+unknown
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVCValidatableThread@@
+.?AVCThread@@
+.?AVIStack_VM_Segment_Marker@@
+.?AVICommandLine@@
+.?AVCCommandLine@@
+.?AVICpuTopology@@
+.?AVDefaultImpl@?A0x27d35523@@
+.?AVGlpiImpl@?A0x27d35523@@
+.?AVCpuidImpl@?A0x27d35523@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVILoggingListener@@
+.?AVILoggingResponsePolicy@@
+.?AVCSimpleLoggingListener@@
+.?AVCColorizedLoggingListener@@
+.?AVCDefaultLoggingResponsePolicy@@
+.?AVIMemAlloc@@
+.?AVCallStackStatStructDescFuncs@@
+.?AVBasicStatStructFieldDesc@@
+.?AVCHeapMemAlloc@@
+.?AV?$CStdMemAlloc@U?$MemoryAllocationHeader_t@U?$MemConfig@$00$00URuntimeAdditionalProperties@@@@@@@@
+.?AV?$CStdMemAlloc@U?$MemoryAllocationHeader_t@U?$MemConfig@$00$00UDefaultAdditionalProperties@@@@@@@@
+.?AV?$CStdMemAlloc@U?$MemoryAllocationHeader_t@U?$MemConfig@$0A@$00URuntimeAdditionalProperties@@@@@@@@
+.?AV?$CStdMemAlloc@U?$MemoryAllocationHeader_t@U?$MemConfig@$0A@$0A@URuntimeAdditionalProperties@@@@@@@@
+.?AVIPerfTraceDepot@@
+.?AVCPerfTraceDepotDefault@@
+.?AVIStack_Annotation@@
+.?AVCStackTranslationHelper@@
+.?AVIAnnotationPackager@@
+.?AVCStackTranslationHelper_DbgHelp_Local@@
+.?AVCStackTranslationHelper_DbgHelp@@
+.?AVCAnnotationPackager@@
+.?AVCStackTranslationHelper_Local@@
+.?AVCWorkerThread@@
+.?AVCTestOps@TSListTests@@
+.?AVCQueueOps@TSListTests@@
+.?AVCListOps@TSListTests@@
+.?AVITestCase@@
+.?AVITestSuite@@
+.?AVCTestCase@@
+.?AVCTestSuite@@
+.?AVIModuleMappingListener@@
+.?AVCTelemetryModuleMappingListener@@
+.?AVCVProfReporter@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+96ID3h*

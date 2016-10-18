@@ -1,0 +1,2632 @@
+!This program cannot be run in DOS mode.
+@.reloc
+Invalid parameter passed to C runtime function.
+ADVAPI32.dll
+***globals***
+***DIA***
+Module %d
+vfunctab
+Microsoft
+ Program Database
+10.00.20921.00
+Cannot access 32-bit type pool with 16-bit APIs
+0123456789abcdef
+vfunctab
+S_ENVBLOCK
+S_COMPILE3
+S_DISCARDED
+S_FRAMECOOKIE
+S_CALLSITEINFO
+S_EXPORT
+S_COFFGROUP
+S_SECTION
+S_DEFRANGE_REGISTER_REL
+S_DEFRANGE_FRAMEPOINTER_REL_FULL_SCOPE
+S_DEFRANGE_FRAMEPOINTER_REL
+S_DEFRANGE_REGISTER
+S_DEFRANGE_SUBFIELD_REGISTER
+S_DEFRANGE_SUBFIELD
+S_DEFRANGE
+S_LOCAL
+S_SEPCODE
+S_ATTR_MANYREG
+S_ATTR_REGREL
+S_ATTR_REGISTER
+S_ATTR_FRAMEREL
+S_MANCONSTANT
+S_TRAMPOLINE
+S_LMANPROC
+S_GMANPROC
+S_TOKENREF
+S_ANNOTATIONREF
+S_LPROCREF
+S_DATAREF
+S_PROCREF
+S_UNAMESPACE
+S_MANMANYREG2
+S_MANREGREL
+S_MANMANYREG
+S_MANSLOT
+S_MANREGISTER
+S_MANFRAMEREL
+S_GMANDATA
+S_LMANDATA
+S_PARAMSLOT
+S_LOCALSLOT
+S_GPROCIA64
+S_LPROCIA64
+S_MANYREG2
+S_COMPILE2
+S_GPROCMIPS
+S_LPROCMIPS
+S_GTHREAD32
+S_LTHREAD32
+S_REGREL32
+S_GPROC32
+S_LPROC32
+S_PUB32
+S_GDATA32
+S_LDATA32
+S_BPREL32
+S_MANYREG
+S_COBOLUDT
+S_CONSTANT
+S_REGISTER
+S_LABEL32
+S_WITH32
+S_BLOCK32
+S_THUNK32
+S_OBJNAME
+S_UNAMESPACE_ST
+S_MANTYPREF
+S_MANMANYREG2_ST
+S_MANREGREL_ST
+S_MANMANYREG_ST
+S_MANSLOT_ST
+S_MANREGISTER_ST
+S_MANFRAMEREL_ST
+S_GMANDATA_ST
+S_LMANDATA_ST
+S_RESERVED4
+S_RESERVED3
+S_RESERVED2
+S_RESERVED1
+S_LMANPROC_ST
+S_GMANPROC_ST
+S_ANNOTATION
+S_PARAMSLOT_ST
+S_LOCALSLOT_ST
+S_GPROCIA64_ST
+S_LPROCIA64_ST
+S_MANYREG2_ST
+S_COMPILE2_ST
+S_FRAMEPROC
+S_GPROCMIPS_ST
+S_LPROCMIPS_ST
+S_GTHREAD32_ST
+S_LTHREAD32_ST
+S_REGREL32_ST
+S_VFTABLE32
+S_GPROC32_ST
+S_LPROC32_ST
+S_PUB32_ST
+S_GDATA32_ST
+S_LDATA32_ST
+S_BPREL32_ST
+S_MANYREG_ST
+S_COBOLUDT_ST
+S_UDT_ST
+S_CONSTANT_ST
+S_REGISTER_ST
+S_LPROCREF_ST
+S_ALIGN
+S_DATAREF_ST
+S_PROCREF_ST
+S_GPROCMIPS_16t
+S_LPROCMIPS_16t
+S_SLINK32
+S_GTHREAD32_16t
+S_LTHREAD32_16t
+S_REGREL32_16t
+S_VFTABLE32_16t
+S_CEXMODEL32
+S_LABEL32_ST
+S_WITH32_ST
+S_BLOCK32_ST
+S_THUNK32_ST
+S_GPROC32_16t
+S_LPROC32_16t
+S_PUB32_16t
+S_GDATA32_16t
+S_LDATA32_16t
+S_BPREL32_16t
+S_REGREL16
+S_VFTABLE16
+S_CEXMODEL16
+S_LABEL16
+S_WITH16
+S_BLOCK16
+S_THUNK16
+S_GPROC16
+S_LPROC16
+S_PUB16
+S_GDATA16
+S_LDATA16
+S_BPREL16
+S_ENTRYTHIS
+S_RETURN
+S_MANYREG_16t
+S_COBOLUDT_16t
+S_ENDARG
+S_OBJNAME_ST
+S_CVRESERVE
+S_SSEARCH
+S_UDT_16t
+S_CONSTANT_16t
+S_REGISTER_16t
+S_COMPILE
+LF_MEMBERMODIFY
+LF_NESTTYPEEX
+LF_NESTTYPE_16t
+LF_ONEMETHOD_16t
+LF_METHOD_16t
+LF_VFUNCOFF_16t
+LF_VFUNCTAB_16t
+LF_STMEMBER_16t
+LF_MEMBER_16t
+LF_FRIENDFCN_16t
+LF_FRIENDCLS_16t
+LF_IVBCLASS_16t
+LF_VBCLASS_16t
+LF_BCLASS_16t
+LF_INDEX_16t
+LF_DIMVARLU_16t
+LF_DIMVARU_16t
+LF_DIMCONLU_16t
+LF_DIMCONU_16t
+LF_BITFIELD_16t
+LF_METHODLIST_16t
+LF_FIELDLIST_16t
+LF_DEFARG_16t
+LF_DERIVED_16t
+LF_ARGLIST_16t
+LF_SKIP_16t
+LF_OEM_16t
+LF_PRECOMP_16t
+LF_VFTPATH_16t
+LF_DIMARRAY_16t
+LF_BARRAY_16t
+LF_COBOL0_16t
+LF_MFUNCTION_16t
+LF_PROCEDURE_16t
+LF_ENUM_16t
+LF_UNION_16t
+LF_STRUCTURE_16t
+LF_CLASS_16t
+LF_ARRAY_16t
+LF_POINTER_16t
+LF_MODIFIER_16t
+LF_MEMBERMODIFY_ST
+LF_NESTTYPEEX_ST
+LF_ONEMETHOD_ST
+LF_NESTTYPE_ST
+LF_METHOD_ST
+LF_STMEMBER_ST
+LF_MEMBER_ST
+LF_FRIENDFCN_ST
+LF_DEFARG_ST
+LF_PRECOMP_ST
+LF_DIMARRAY_ST
+LF_MANAGED_ST
+LF_ALIAS_ST
+LF_ENUM_ST
+LF_UNION_ST
+LF_STRUCTURE_ST
+LF_CLASS_ST
+LF_ARRAY_ST
+LF_ENUMERATE_ST
+LF_TYPESERVER_ST
+LF_NESTTYPE
+LF_ENUMERATE
+LF_ONEMETHOD
+LF_METHOD
+LF_VFUNCOFF
+LF_VFUNCTAB
+LF_STMEMBER
+LF_MEMBER
+LF_FRIENDFCN
+LF_FRIENDCLS
+LF_IVBCLASS
+LF_VBCLASS
+LF_BCLASS
+LF_INDEX
+LF_REFSYM
+LF_DIMVARLU
+LF_DIMVARU
+LF_DIMCONLU
+LF_DIMCONU
+LF_BITFIELD
+LF_METHODLIST
+LF_FIELDLIST
+LF_LIST
+LF_DEFARG
+LF_DERIVED
+LF_ARGLIST
+LF_SKIP
+LF_TYPESERVER2
+LF_TYPESERVER
+LF_OEM2
+LF_ENDPRECOMP
+LF_PRECOMP
+LF_VFTPATH
+LF_DIMARRAY
+LF_NULL
+LF_LABEL
+LF_BARRAY
+LF_COBOL1
+LF_COBOL0
+LF_VTSHAPE
+LF_MFUNCTION
+LF_PROCEDURE
+LF_MANAGED
+LF_ALIAS
+LF_ENUM
+LF_UNION
+LF_STRUCTURE
+LF_CLASS
+LF_ARRAY
+LF_POINTER
+LF_MODIFIER
+vfunctab
+/LinkInfo
+vfunctab
+Microsoft C/C++ program database 2.00
+Microsoft C/C++ MSF 7.00
+vfunctab
+SymbolServerSetOptions
+SymbolServer
+vfunctab
+@ILT+%d(
+vfunctab
+'%s'!'%s'
+ (ordinal)
+vfunctab
+::<unnamed-tag>
+::__unnamed
+vfunctab
+RPCRT4.dll
+Reserved
+COR20 Header
+Delay Import
+Import Address Table
+Bound Import
+Load Configuration
+Thread Storage
+Special
+Description
+Base Relocation
+Security
+Exception
+Posix CUI
+Windows CUI
+Windows GUI
+PowerPC Big-Endian 32-bit
+ARM NT (Thumb-2)
+ARM 32-bit (Thumb)
+ARM 32-bit
+Intel IA64
+Alpha AXP64
+Alpha AXP
+Unknown
+Resource
+Fortran
+loaded memory
+debugger
+image header
+symbol server
+dbg file path
+image path
+symbol search path
+VIRTUAL
+DIA PDB
+DEFERRED
+RESERVED10
+OMAP FROM SRCBORLAND
+OMAP TO SRC
+EXCEPTION
+CODEVIEW
+POWERPCBE
+TRICORE
+ALPHA64
+MIPSFPU16
+MIPSFPU
+POWERPCFP
+POWERPC
+WCEMIPSV2
+UNKNOWN
+No error - symbol load deferred
+Pdb read access denied
+Cvinfo is corrupt
+Unrecognized pdb format
+Image header paged out
+DBGHELP Out of memory
+Error in load symbols
+DBG not found
+PDB not found
+Unmatched PDB
+Symbols loaded successfully
+VC7 FPO - Enabled
+VC7 FPO - Disabled
+Stack debugging is off
+debug output
+callback
+Stack debugging mask is 0x%08x, output via %s
+VC7 FPO - %sabled
+LOP frame unwind - %sabled, symbol info %sabled, return search %sabled
+Force LOP frame unwind - %sabled
+Removed all force-ebp regions
+Removed force-ebp region containing %I64x
+No force-ebp region contains %I64x
+Added force-ebp region %I64x:%x
+Unable to add force-ebp region %I64x:%x
+prompts off
+prompts
+!sym <noisy/quiet - prompts/prompts off> - 
+noisy mode
+quiet mode
+ - symbol prompts off
+ - symbol prompts on
+symbol server client has been closed
+!symsrv close - closes the symbol server client so it can be updated
+%08x`%08x
+Couldn't get process handle
+Couldn't find process 0x%x
+%d loaded modules...
+               base -                 end   name
+      base -        end   name
+0x%s - 
+0x%s   
+You must specify a module
+Loaded Module Info: [%s] 
+couldn't get process handle
+Couldn't find process 0x%x while looking for %s
+%s not found
+%I64lx is not a valid address
+    Load Report: %s
+Module does not have base address
+Cannot read Image header @ %p
+Cannot read Image NT header @ %p
+Unknown NT Image signature
+Cannot read Image Debug header @ %p
+Unknown image
+%08X-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X
+ - stripped
+    Timestamp: %X
+  SizeOfImage: %X
+          dbg: %s
+          pdb: %s
+      pdb sig: %X
+      pdb sig: %s
+          age: %X
+Couldn't load %s
+Loaded pdb is %s
+MATCH: %s and %s
+MISMATCH: %s and %s
+MATCH: %s and %s
+MISMATCH: %s and %s
+age MISMATCH: %s and %s
+sig MISMATCH: %s and %s
+%s <module> [symbol]
+%s tests the validity of a module against a symbol file.
+The module can be specified by either its name or base address.
+If a symbol file is not specified, then the loaded symbol is tested.
+Otherwise, if a pdb or dbg symbol file path is specified, it is tested
+against the loaded module.
+!IToldYouSo
+Could not find module %s
+!chksym
+Omap Block: [%s] 
+error 0x%x looking for block
+%I64x - %I64x
+Dump OMAP: [%s] 
+OMAP FROM:
+%8x <-%8x
+OMAP TO:
+0x%I64x: %8x ->%8x
+Home directory is %s
+error 0x%x setting home directory to  %s
+Source Files: [%s]
+Cannot allocate memory for reading sections
+Can't read section headers
+*** Some section headers may be missing ***
+Debug Data Dirs: Type  Size     VA  Pointer
+%5lx, %5lx, %7lx 
+ [Debug data not mapped]
+ - Can't validate symbols, if present.
+[Data not mapped]
+%c%c%c%c - 
+[Debug data not mapped] - can't validate symbols, if present.
+               
+Sig: %lx, Age: %lx,%sPdb: %s
+GUID: {%08X-%04X-%04X-%02X%02X-%02X%02X%02X%02X%02X%02X}
+               Age: %lx, Pdb: %s
+unrecognized symbol format ID
+[Data paged out] - unable to load COFF info.
+NumSyms %#lx, Numlines %#lx
+BBT Optimized
+         Module: %s
+ is INVALID
+   Base Address: %p%s
+     Image Name: %s
+   Machine Type: %d
+     Time Stamp: %lx
+           Size: %x
+       CheckSum: %lx
+stripped
+Characteristics: %lx %s %s
+Debug Directories not present
+     Image Type: %-9s
+- Image read successfully from %s.
+                 %s
+    Symbol Type: %-9s
+ from %s.
+       Compiler: %s - front end [%d.%d bld %d] - back end [%d.%d bld %d]
+Usage: dh [options] address
+Dumps headers from an image based at address
+Options:
+   -a      Dump everything
+   -f      Dump file headers
+   -s      Dump section headers
+Invalid extra argument
+Can't read file header: error == %d
+No file header
+Bad file header
+Cannot allocate memory for dumping sections
+File Type: COFF OBJECT
+File Type: DLL
+File Type: EXECUTABLE IMAGE
+File Type: ROM IMAGE
+File Type: UNKNOWN
+FILE HEADER VALUES
+%8hX machine (%s)
+%8hX number of sections
+%8lX time date stamp
+%8lX file pointer to symbol table
+%8lX number of symbols
+%8hX size of optional header
+%8hX characteristics
+Relocations stripped
+Executable
+Line numbers stripped
+Symbols stripped
+App can handle >2gb addresses
+Bytes reversed
+32 bit word machine
+Debug information stripped
+RESERVED - UNKNOWN
+            %s
+%u.%02u
+OPTIONAL HEADER VALUES
+%8hX magic #
+%8s linker version
+%8lX size of code
+%8lX size of initialized data
+%8lX size of uninitialized data
+%8lX address of entry point
+%8lX base of code
+         ----- rom -----
+%8lX base of bss
+%8lX gpr mask
+         cpr mask
+         %08lX %08lX %08lX %08lX
+%8hX gp value
+%hu.%02hu
+         ----- new -----
+%p image base
+%8lX section alignment
+%8lX file alignment
+%8hX subsystem (%s)
+%8s operating system version
+%8s image version
+%8s subsystem version
+%8lX size of image
+%8lX size of headers
+%8lX checksum
+%p size of stack reserve
+%p size of stack commit
+%p size of heap reserve
+%p size of heap commit
+%8lX  DLL characteristics
+Dynamic base
+Check integrity
+NX compatible
+Isolation disabled
+No structured exception handler
+Do not bind
+WDM driver
+Terminal server aware
+%8lX [%8lX] address [size] of %s Directory
+SECTION HEADER #%hX
+%8.8s name
+physical address
+virtual size
+%8lX %s
+%8lX virtual address
+%8lX size of raw data
+%8lX file pointer to raw data
+%8lX file pointer to relocation table
+%8lX file pointer to line numbers
+%8hX number of relocations
+%8hX number of line numbers
+%8lX flags
+Regular
+Init Code
+Literal 8
+Literal 4
+GP Init Data
+GP Uninit Data
+Uninit Data
+Library
+Non-Relocatable overlay
+         %s
+Initialized Data
+Uninitialized Data
+Communal
+Discardable
+Not Cached
+Not Paged
+Far Data
+Sys Heap
+Purgeable or 16-Bit
+Preload
+Protected
+(no align specified)
+1 byte align
+2 byte align
+4 byte align
+8 byte align
+16 byte align
+32 byte align
+64 byte align
+Execute Only
+Read Only
+Execute Read
+Write Only
+Execute Write
+Read Write
+Execute Read Write
+Unknown Memory Flags
+	coff   
+	cv     
+	fpo    
+	misc   
+	fixup  
+	-> src 
+	src -> 
+	pdata  
+	(%6lu)
+%8x    %8x %8x
+ [Debug data not mapped]
+Can't read debug data
+	Image Name: %s
+	Can't read debug data cb=%lx
+	Format: NB09
+	Format: NB11
+	Format: NB10, %x, %x, %s
+	Format: RSDS, guid, %x, %s
+	Format: UNKNOWN - sig = 0x%x
+Can't read debug dir
+Debug Directories(%d)
+	Type       Size     Address  Pointer
+kernel32.dll
+not srcsrv
+%s - %S
+SymbolServerW
+SymbolServerClose
+SymbolServerSetOptionsW
+SymbolServerPingW
+SymbolServerDeltaNameW
+SymbolServerGetSupplementW
+SymbolServerStoreSupplementW
+SymbolServerGetIndexStringW
+SymbolServerStoreFileW
+SymbolServerIsStoreW
+SymbolServerGetOptions
+;internal_package
+SrcSrvInitW
+SrcSrvCleanup
+SrcSrvSetTargetPathW
+SrcSrvSetOptions
+SrcSrvGetOptions
+SrcSrvLoadModuleW
+SrcSrvUnloadModule
+SrcSrvRegisterCallback
+SrcSrvGetFileW
+SrcSrvGetTokenW
+SrcSrvExecTokenW
+SrcSrvResolveTokenVarW
+SrcSrvSetParentWindow
+SrcSrvEnumTokens
+NtfsFastIo
+closing session: %s
+closing session:
+SHGetSpecialFolderPathW
+EnumProcessModules
+GetModuleFileNameExW
+GetModuleInformation
+Module is not fully loaded into memory.
+Searching for symbols using debugger-provided data.
+NtfsFastIoCheckIfPossibl
+ntdll.dll
+NtQueryInformationProcess
+NtQueryObject
+RtlEqualUnicodeString
+Module32Next
+Module32First
+CreateToolhelp32Snapshot
+RtlQueryProcessDebugInformation
+RtlCreateQueryDebugBuffer
+RtlDestroyQueryDebugBuffer
+Creating FPO for %08x from DIA
+DBGHELP: 
+[_:][_:]
+Ordinal
+Invalid SWD_DECODE.SegSize %d
+success
+alt success known
+alt success unknown
+invalid instruction
+unanalyzeable instruction
+overcomplex analysis
+invalid unwind context
+analysis failed
+partial copy
+! Stack unknown ind target
+! Unknown call analysis
+! Unknown size override
+! Unknown lea ebp
+! Stack unknown lea esp
+! Unknown double ebp update
+! Unknown mov esp
+! Unknown mov ebp
+! Unknown leave plus ebp update
+! Unknown add al, 0
+      processed a user callback, args %u
+      processed an exception dispatch, ret %x
+      call search %x to %x for call to %x
+        %x: potential call ret-addr %x, scan %x:%x
+          direct call %x: %s
+        stack %x, found direct call %x to %x
+          indirect call %x: %s
+        stack %x, found indirect call %x to %x
+          unk indirect call %x
+        stack %x, guessing likely direct call
+        stack %x, guessing likely indirect call
+        stack %x, guessing likely unk indirect call
+        stack %x, guessing direct call
+        stack %x, guessing indirect call
+        stack %x, guessing unk indirect call
+    accum failed, %s
+    accum frame: ebp %d, eip %d, esp %d, frame %d, unk %d, fp %d, uebp %d
+WriteAtOffset.Seek(0x%x) failed, 0x%08x
+WriteAtOffset.Write(0x%x) failed, 0x%08x
+WriteMemoryFromProcess.Read(0x%I64x, 0x%x) failed, 0x%08x
+WriteStringToPool.Write(0x%x) failed, 0x%08x
+WriteFunctionTableList.Seek(0x%x) failed, 0x%08x
+WriteFunctionTableList.DumpTable.Write(0x%x) failed, 0x%08x
+WriteFunctionTable.RawTable.Write(0x%x) failed, 0x%08x
+WriteFunctionTable.RawEntries.Write(0x%x) failed, 0x%08x
+WriteTokenInformation.Write(0x%x,%d,%d) failed, 0x%08x
+WriteTokenInformation.ProcessToken(%d,%d) failed, 0x%08x
+WriteTokenInformation.ThreadToken(%d,%d) failed, 0x%08x
+WriteTokenInformation.Write(%d,%d)(%d,%d) error.
+WriteDirectoryEntry.Write(0x%x) failed, 0x%08x
+Module(0x%I64x, %ws) callback returned FALSE
+Thread(0x%x) callback returned FALSE
+WriteSystemInfo.GetCpuInfo failed, 0x%08x
+WriteSystemInfo.GetOsCsdString failed, 0x%08x
+CalculateSizeForSystemInfo.GetOsCsdString failed, 0x%08x
+Full memory minidump produced memory blocks
+WriteHeader.GetCurrentTimeDate failed, 0x%08x
+WriteDirectoryTable.Seek(0x%x) failed, 0x%08x
+Memory info stream RVA overflowed
+WriteMemoryInfo.QueryVirtual(0x%I64x) failed, 0x%08x
+Memory info stream overflowed
+WriteMemoryInfo.Write(0x%x) failed, 0x%08x
+Full memory stream RVA overflowed
+WriteFullMemory.QueryVirtual(0x%I64x) for info failed, 0x%08x
+Full memory stream overflowed
+WriteFullMemory.Desc.Write(0x%x) failed, 0x%08x
+WriteFullMemory.QueryVirtual(0x%I64x) for data failed, 0x%08x
+WriteFullMemory.Memory.Read(0x%I64x, 0x%x) failed 0x%08x, skip.
+WriteFullMemory.Memory.Read(0x%I64x, 0x%x) failed 0x%08x, ABORT.
+WriteFullMemory.Memory.Write(0x%x) failed, 0x%08x
+Too many inaccessible memory blocks, bail out.
+WriteFullMemory virtual memory layout changed, retries %d, 0x%I64x (0x%I64x:0x%I64x) vs. 0x%I64x (0x%I64x:0x%I64x)
+Could not update MINIDUMP_MEMORY_DESCRIPTOR64::DataSize value for range# %I64d at RVA 0x%016I64X
+Kernel minidump write failed, 0x%08x
+MarshalExceptionPointers.ExRecord.Read(0x%I64x, 0x%x) failed, 0x%08x
+MarshalExceptionPointers.CxRecord.Read(0x%I64x, 0x%x) failed, 0x%08x
+Invalid exception record size (0x%x)
+Invalid context size (0x%x)
+Invalid exception record parameter count (0x%x)
+GetSystemType.GetCpuType failed, 0x%08x
+GetSystemType.GetOsInfo failed, 0x%08x
+Invalid pointer size (0x%x)
+Invalid page size (0x%x)
+Invalid function table size (0x%x)
+Invalid function table entry size (0x%x)
+Invalid instruction window size (0x%x)
+Invalid CPU type (0x%x)
+Invalid dump type 0x%x
+Dump type requires streaming but output provider does not support streaming
+Write.Start failed, 0x%08x
+MiniDumpWriteDump
+MiniDumpReadDumpStream
+Alloc(0x%x) failed
+Thread(0x%x) will not be included
+Module(0x%I64x) will not be included
+Dump generation cancelled by CancelCallback
+Memory read failure at %I64x:%x ignored by callback
+GenGetImageSections.Read(0x%I64x, 0x%x) failed, 0x%08x
+GenGetImageSections.GenImageNtHeader(0x%I64x) failed
+GenGetImageSections.Section.Read(0x%I64x, 0x%x) failed, 0x%08x
+GenAllocateThreadObject.Open(0x%x) failed, 0x%08x
+GenAllocateThreadObject.GetContext(0x%x) failed, 0x%08x
+GenAllocateThreadObject.GetTebInfo(0x%x) failed, 0x%08x
+ThreadToken(%d,%I64x,%d,%d)
+ThreadToken_SessionId(0x%08X,%d,%d,%d)
+ThreadToken_User(0x%08X,%d,%d,%d)
+ThreadToken_Group(0x%08X,%d,%d,%d)
+ThreadToken_PrimaryGroup(0x%08X,%d,%d,%d)
+ThreadToken_Privileges(0x%08X,%d,%d,%d)
+ThreadToken_Statistics(0x%08X,%d,%d,%d)
+ThreadToken_RestrictedSids(0x%08X,%d,%d,%d)
+GenReadTlsDirectory.Read(0x%I64x, %ws) failed, 0x%08x
+GenReadTlsDirectory(0x%I64x, %ws) unknown machine 0x%x
+GenReadTlsDirectory.Index(0x%I64x, %ws) failed, 0x%08x
+GenReadTlsDirectory(0x%I64x, %ws) size overflow
+GenAllocateModuleObject.GetVersion(0x%I64x, %ws) failed, 0x%08x
+GenAllocateModuleObject.GetImageHeaderInfo(0x%I64x, %ws) failed, 0x%08x
+GenAllocateModuleObject.GenImageNtHeader(0x%I64x, %ws) failed, 0x%08x
+GenAllocateModuleObject.GenDebugRecord(0x%I64x, %ws) failed, 0x%08x
+GenAllocateProcessObject.GetPeb(0x%x) failed, 0x%08x
+GenAllocateProcessObject.GetCpuPowerInfo(0x%x) failed, 0x%08x; possibly debugging LSASS process?
+ProcessToken(%d,%I64x,%d,%d)
+ProcessToken_SessionId(0x%08X,%d,%d,%d)
+ProcessToken_User(0x%08X,%d,%d,%d)
+ProcessToken_Groups(0x%08X,%d,%d,%d)
+ProcessToken_PrimaryGroup(0x%08X,%d,%d,%d)
+ProcessToken_Privileges(0x%08X,%d,%d,%d)
+ProcessToken_Statistics(0x%08X,%d,%d,%d)
+ProcessToken_RestrictedSids(0x%08X,%d,%d,%d)
+GenIncludeUnwindInfoMemory.Enum(0x%I64x, 0x%x) failed, 0x%08x
+GenAddMemoryBlock total size overflow
+GenGenTebMemory.TLS(0x%I64x) failed, 0x%08x
+GenScanAddressSpace.QueryVirtual(0x%I64x) failed, 0x%08x
+GenGetAuxMemory(%ws) failed, 0x%08x
+GenGetProcessInfo.Start(0x%x) failed, 0x%08x
+GenGetProcessInfo.EnumThreads(0x%x) looped
+GenGetProcessInfo.EnumThreads(0x%x) failed, 0x%08x
+GenGetProcessInfo.EnumModules(0x%x) looped
+GenGetProcessInfo.EnumModules(0x%x) failed, 0x%08x
+GenGetProcessInfo.EnumFunctionTables(0x%x) looped
+GenGetProcessInfo.EnumFunctionTables(0x%x) failed, 0x%08x
+GenGetProcessInfo.EnumFunctionTableEntries(0x%I64x, 0x%x) failed, 0x%08x
+GenGetProcessInfo.EnumUnloadedModules(0x%x) looped
+GenGetProcessInfo.EnumUnloadedModules(0x%x) failed, 0x%08x
+GenWriteHandleData stream RVA overflow
+GenWriteHandleData.Seek(0x%x) failed, 0x%08x
+GenWriteHandleData.Start(0x%x) failed, 0x%08x
+GenWriteHandleData.TypeNameLen.Write(0x%x) failed, 0x%08x
+GenWriteHandleData.TypeName.Write(0x%x) failed, 0x%08x
+GenWriteHandleData.ObjectNameLen.Write(0x%x) failed, 0x%08x
+GenWriteHandleData.ObjectName.Write(0x%x) failed, 0x%08x
+GenWriteHandleData.InfoHdr.Write(0x%I64x) failed, 0x%08x
+GenWriteHandleData.Info.Write(0x%I64x) failed, 0x%08x
+GenWriteHandleData.Header.Write(0x%x) failed, 0x%08x
+GenWriteHandleData.Desc.Write(0x%x) failed, 0x%08x
+GenWriteHandleOperations stream RVA overflow
+GenWriteHandleOperations.Seek(0x%x) failed, 0x%08x
+GenWriteHandleOperations.List.Write(0x%x) failed, 0x%08x
+GenWriteHandleOperations.Ops.Write(0x%x) failed, 0x%08x
+OpenThread
+Thread32First
+Thread32Next
+Module32FirstW
+Module32NextW
+GetLongPathNameA
+GetLongPathNameW
+GetProcessTimes
+GetTimeZoneInformation
+Software\Microsoft\Windows NT\CurrentVersion
+CurrentType
+checked
+Software\Microsoft\Windows NT\CurrentVersion\MiniDumpAuxiliaryDlls
+Software\Microsoft\Windows NT\CurrentVersion\KnownManagedDebuggingDlls
+CLRDataCreateInstance
+powrprof.dll
+CallNtPowerInformation
+verifier.dll
+VerifierEnumerateResource
+psapi.dll
+version.dll
+GetFileVersionInfoSizeA
+GetFileVersionInfoSizeW
+GetFileVersionInfoA
+GetFileVersionInfoW
+VerQueryValueA
+VerQueryValueW
+NtOpenThread
+NtQuerySystemInformation
+NtQueryInformationThread
+NtQueryMutant
+NtSystemDebugControl
+RtlFreeHeap
+RtlGetFunctionTableListHead
+RtlGetUnloadEventTrace
+RtlGetUnloadEventTraceEx
+NtOpenProcessToken
+NtOpenThreadToken
+NtQueryInformationToken
+NtClose
+advapi32.dll
+OpenProcessToken
+GetTokenInformation
+GetSidSubAuthority
+GetSidSubAuthorityCount
+Software\Microsoft\Windows NT\CurrentVersion\KnownFunctionTableDlls
+OutOfProcessFunctionTableCallback
+netmsg.dll
+GetFileVersionInfoExW
+GetFileVersionInfoSizeExW
+HttpQueryInfoA
+InternetQueryDataAvailable
+InternetCloseHandle
+InternetReadFile
+InternetOpenUrlA
+InternetOpenA
+WNetAddConnection2W
+WNetAddConnection2A
+StartServiceW
+StartServiceA
+OpenServiceW
+OpenServiceA
+OpenSCManagerW
+OpenSCManagerA
+LookupAccountSidW
+GetEventLogInformation
+EnumServicesStatusExW
+EnumServicesStatusExA
+DeleteService
+CreateServiceW
+CreateServiceA
+ControlService
+CloseServiceHandle
+CryptStringToBinaryA
+CryptBinaryToStringA
+CertVerifyCertificateChainPolicy
+CertOpenSystemStoreW
+CertOpenSystemStoreA
+CertOpenStore
+CertGetEnhancedKeyUsage
+CertGetCertificateContextProperty
+CertGetCertificateChain
+CertFreeCertificateContext
+CertFreeCertificateChain
+CertFindChainInStore
+CertFindCertificateInStore
+CertCloseStore
+shlwapi.dll
+PathFindFileNameA
+PathIsDirectoryA
+PathCreateFromUrlW
+VariantInit
+VariantCopy
+VariantClear
+SysFreeString
+SysAllocStringLen
+SysAllocString
+CreateStreamOnHGlobal
+CoUnmarshalInterface
+CoUninitialize
+CoReleaseMarshalData
+CoMarshalInterThreadInterfaceInStream
+CoMarshalInterface
+CoInitializeSecurity
+CoInitializeEx
+CoFreeUnusedLibrariesEx
+CoCreateInstance
+CoCreateGuid
+CLSIDFromString
+CloseDesktop
+SwitchDesktop
+GetThreadDesktop
+PrivateKDBreakPoint
+Wow64GetThreadSelectorEntry
+DuplicateHandle
+SetProcessShutdownParameters
+ProcessIdToSessionId
+Process32NextW
+Process32Next
+Process32FirstW
+Process32First
+DebugSetProcessKillOnExit
+DebugBreakProcess
+DebugBreak
+DebugActiveProcessStop
+CloseProfileUserMapping
+RtlUnicodeStringToAnsiString
+RtlTryEnterCriticalSection
+RtlInitUnicodeString
+RtlInitAnsiString
+RtlFreeUnicodeString
+RtlFindMessage
+RtlDosPathNameToNtPathName_U
+RtlDestroyProcessParameters
+RtlCreateUserProcess
+RtlCreateProcessParameters
+RtlAnsiStringToUnicodeString
+NtWaitForDebugEvent
+NtSetInformationProcess
+NtSetInformationDebugObject
+NtResumeThread
+NtRemoveProcessDebug
+NtOpenProcess
+NtFreeVirtualMemory
+NtDebugContinue
+NtDebugActiveProcess
+NtCreateFile
+NtCreateDebugObject
+NtAllocateVirtualMemory
+DbgUiSetThreadDebugObject
+DbgUiIssueRemoteBreakin
+DbgUiGetThreadDebugObject
+DbgUiConvertStateChangeStructure
+DbgPrompt
+DbgPrint
+DbgBreakPoint
+CsrGetProcessId
+  Unable to read basic unwind info at %I64X
+Unable to get basic symbol unwind info at %I64X:%X
+    Got unwind info length %X from symbols
+Invalid unwind info at %I64X
+Insufficient unwind info in symbols for %I64X:%X
+Unable to allocate memory for unwind info
+Unable to read unwind info at %I64X
+Cross-func call instr, back up return addr
+Dbh-%s  in: PC %8X, SP %8X, FP %8X, RA %8X
+Dbh-%s  in: PC %I64X, SP %I64X, FP %I64X, RA %I64X
+Dbh-%s out: status %X, PC %8X, SP %8X, FP %8X, RA %8X
+Dbh-%s out: status %X, PC %I64X, SP %I64X, FP %I64X, RA %I64X
+      DIA search %x (%x) %s loc %x regs %x callee params %x
+        Frame override searching from ebp %x
+Stack pointer out of bounds
+Zero eip, assuming stack end
+Invalid eip, assuming bad stack
+Eip equals ebp, assuming idle loop
+Unwound to matching eip+esp+ebp, ending
+      GetUserExceptionDispatcherContext(%X) = %X
+    taking smaller analysis prologue push count, %d < %d
+      RecoverFrame: func %X, bytes %X, prologue %x
+        unable to read code at %X
+        SEH prologue
+        EH prologue
+        unknown code sequence %02X at %X
+        unknown out-prologue code %02X at %X
+invalid
+        esp changed to %d (%s)
+        moved ebp to stack at %d
+        moved esp+%X to ebp
+        esp invalidated
+        push reg, num prologue %d
+        pop reg, num prologue %d
+        ebps %d:%d, ebpf %d, ebpesp %d
+  Applying SWU for eip %X esp %X ebp %X args %X
+  Result eip %X esp %X ebp %X args %X
+  Apply failed, %08x
+        ignoring invalid managed indirect call %X at %X
+        ignoring cross-image indirect call %X at %X
+      SearchForReturnAddress: stack %X, func %X:%X, guess %d:%X
+        can't read stack
+        accepted zero return addr at %X
+        BOP, use %X
+        unreadable call site, use %X
+        swu found call %X for stack %X
+          dircall from %X to %X at %X
+        found function, use %X
+        found funclet call, use %X
+        found hot-patch function, use %X
+        direct call reaches %X, use %X
+        exact function, use %X
+        quick accept call to unreadable ind jmp, use %X
+        found unknown jmp/call, use %X
+          indcall from %X to %X at %X
+        exact ind call, use %X
+        found ind hot-patch function, use %X
+        ind call reaches %X, use %X
+        quick accept ind call, use %X
+        found ind call, use %X
+        found unk slot 0 call, use %X
+        found call to unreadable ind jmp, use %X
+        found unknown jmp/call in guess region, use %X
+        found call to invalid ind jmp, use %X
+        no potential return addresses found, use %X
+        validated raw known ebp %X at %X
+        unable to read stack to validate ebp
+        validated raw ebp %X at %X
+        raw ebp at %X does not appear to be valid
+      SearchForFramePointer: regs %X, ret esp %X, non-fpo %X, numregs %d
+        moved ebp to stack at %X
+        unknown frame, guess for ebp
+  Unwinding trap frame for eip %X esp %X ebp %X
+  Unwinding TSS frame for eip %X
+  KiUserCallbackDispatcher(%X, %X) at %X, ret eip %X
+  Applying frame data program for eip %X esp %X ebp %X
+    Program: %ws
+    ! Ignoring known-bad unwind program '%ws'
+  Result eip %X esp %X ebp %X
+  Apply failed, 0x%08x
+  No code memory, guessing ebp prologue
+  Unwinding standard ebp prologue
+  Unwinding raw body with bad ebp
+  Unwinding standard ebp body
+    ! Found non-FPO prologue for supposed FPO frame
+    ! Found FPO prologue for supposed non-FPO frame
+  Unwind%s: eip %X, esp %X, ebp %X, func %X, first %d, FPO [%d,%d,%d]
+  UnwindUnknown: eip %X, esp %X, ebp %X, first %d
+    ! Ignoring invalid ebp %X (%X), using esp %X
+      Unknown code, restore ebp from %X (%X)
+! Unable to read ebp from %X, using %X
+      ! Ignoring ebp %X
+Prol: RIP %I64X, 0x%X bytes in function at %I64X
+Prol: Read unwind info at %I64X
+Prol: Unable to read unwind info
+  Unwind info has 0x%X codes
+  %02X: Code %X offs %03X, RSP %I64X
+Prol: Invalid unwind op %X at index %X
+Prol: Op %X memory read failed at %I64X
+Prol: Op %X memory read 1 failed at %I64X
+Prol: Op %X memory read 2 failed at %I64X
+  Chain with entry at %I64X
+Prol: Returning with RIP %I64X, RSP %I64X
+Prol: Unwind failed, 0x%08X
+Unable to read instruction stream at %I64X
+Unable to read stack at %I64X
+Zero rip, assuming stack end
+Leaf %I64X RSP %I64X
+ARM (NT) Thumb-2
+m_CallPointer = %08X, PC = %08X, SP = %08X, FuncStart = %08X, HaveRfe = %d
+X86 16-bit
+<invalid>
+ERROR: Invalid GR!
+WARNING: Target register is not a stacked GR!
+Body region desc B1: copy=%d, label_num=%d
+Epilog desc B2: ecount=%d, LEB128(slot)=%d
+Epilog desc B3: ecount=%d, LEB128 val=%d
+Body region desc B4: copy=%d, label_num=%d
+Undefined Label %d
+Trap frame read from 0x%I64x
+Read context from 0x%I64x
+Can't get unwind info at %I64x:%x, 0x%08x
+Region R1 format: body=%x, length=%d
+Region R2: body=0, length=%d
+Region R3: body=%x, length=%d
+Invalid unwind descriptor!
+Restored IntSp to %I64x
+MiscMask = 0x%x
+Restored %s to %I64x
+FrMask = 0x%x
+GrMask = 0x%x
+NextPc = 0x%I64x, PSP = 0x%I64x, BSP = 0x%I64x
+Duplicate descriptors,
+unwinder may produce incorrect result!
+Prolog P7: type=%d slot= %d
+Invalid record type for descriptor P7!
+Prolog P8: type=%d slot= %d
+Invalid record type for descriptor P8!
+Format P9 not supported yet!
+Unknown ABI unwind descriptor
+Region R2: rmask=%x,grsave=%d,length=%d
+Prolog P1: brmask=%x
+Prolog P2: brmask=%x reg base=%d
+Prolog P3: type=%d reg=%d
+Prolog P5: grmask = %x, frmask = %x
+Prolog P6: is_gr = %d, mask = %x
+Prolog P7: type=%d spoff = %d
+Prolog P7: type=%d pspoff= %d
+Prolog P7: type=%d Slot=%d FrameSize=%d
+Prolog P7: type=%d, spillbase=%d
+invalid unwind descriptors
+Unsupported Unwind Descriptor!
+Prolog P8: type=%d spoff= %d
+Prolog P8: type=%d pspoff= %d
+Invalid descriptor!
+spilled register FS%lx
+spilled register S%lx
+spilled register BS%lx
+AddFixupRegion: Table overflow
+AddFixup: IP %016I64x, %016I64x - %016I64x -> %016I64x
+FixAddress: Look for %016I64x
+  Fix to %016I64x
+Unwind leaf at %I64X, BrRp %I64X
+Can't find runtime function entry info for %08x`%08x, results might be unreliable!
+Func %X start %X size %X
+Leaf %X LR %X
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+wchar_t
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+dbghelp.pdb
+D$,9D$$|i
+D$(HcD$(H
+D$p9D$lw
+D$p9D$lr
+D$p9D$Xs
+H9D$`uY
+D$h9D$@
+D$(HcD$
+(9D$0}@HcD$0Hk
+u$HcD$0Hk
+D$0HcD$0Hk
+HcD$0Hk
+tIHcD$0Hk
+HcL$0Hk
+D$@HcD$0Hk
+u+HcD$0Hk
+I0HcT$XL
+@ 9D$0r
+Ip9HXs H
+L$X9H8u
+H9D$(tzH
+D$(HcD$(Hc
+D$(HcD$(H
+|$@2w:HcD$@H
+}eHcD$`H
+PHcD$`H
+HcT$`LcD$`L
+wzHcD$lH
+D$L9D$hr
+9D$ s&H
+D$(9D$ r
+UUUUUUU
+@(9D$@srH
+H9H uLH
+	H9H(u6H
+9D$lr(H
+D$h9D$\
+D$\9D$h~
+@(9D$0s@H
+L$xH9H urH
+H9H(uTH
+L$HH+A(H
+L$P;Alr
+L$P;A\r
+9D$(s;H
+D$ Hc@<H
+D$(Hc@<H
+D$ H9D$(u'H
+9D$(s4H
+9D$(sRH
+9D$(sHH
+H;D$Ps9H
+9D$8uBH
+@(9D$0sbH
+D$h9D$,s
+H9D$ t]H
+$HcL$(H
+D$hHcD$hH
+D$lHcD$lH
+s0HcD$ H
+(HcD$0H
+H9D$(t8
+9D$ s*H
+D$T9D$`s'
+D$49D$@s'
+D$49D$ 
+D$0HcD$0Hk
+D$49D$ 
+D$0HcD$0Hk
+3333333
+H+D$ H;D$(s
+D$h9D$0t
+D$PH9D$Ht
+@89D$hs
+D$@HcD$@H
+D$L9D$0r
+H9D$0t(H
+H9D$0tG
+9D$ s6H
+H9D$ t>H
+I8H9H8s
+@0H9D$(r
+A0H9D$(s
+@0H9D$(u
+D$`H9D$ 
+D$hH9D$(
+D$49D$0t
+D$hH9D$(s
+D$`H9D$ 
+D$hH9D$(
+D$49D$0t
+D$hH9D$(s
+|$HNB10t
+|$HRSDSt,
+D$ 9D$(t	
+H9D$ t5H
+D$x9D$hs
+fffffff
+NB10ukH
+D$@9D$0
+|$8NB10t
+|$8RSDStO
+9D$@s`H
+D$09D$(|c
+9D$@s	H
+9D$@s6H
+9D$@s	H
+H9D$ t:H
+D$x9D$ s
+H9D$(tO
+L$PH9H0u
+D$P9D$(r
+D$P9D$$
+D$P9D$(r
+D$P9D$$
+D$8H9D$(s
+H9D$(tIH
+D$(H=333
+D$XH+D$`
+8NB10twH
+8RSDStg
+9D$ sPH
+D$ HcD$ H
+7HcD$ H
+D$h9D$(s(H
+9D$(slH
+D$X9D$hs
+9D$(s8H
+9D$(syH
+D$HHc@<H
+9D$`sIH
+D$`9D$$v
+D$09D$ r
+|$0NB10t
+|$0RSDStO
+D$`Hc@<H
+D$\9D$hsOH
+D$8Hc@<H
+|$TNB10t
+|$TRSDSt(
+D$ HcL$$H
+D$`9D$0t
+D$`USER
+D$dDU64E3
+D$0H9D$
+D$8H9D$
+D$HH9D$ rjH
+D$@H9D$ r H
+D$@H9D$ u
+H9D$(uzH
+L$P9APs
+L$@9A@s
+H9D$(rMH
+@`9D$\rDH
+@`9D$dr_H
+@89D$Xv
+@<9D$Xw
+@,9D$0s
+@(9D$0s
+@(9D$<r
+@,9D$<r
+9D$0u0H
+9D$8u-H
+9D$Hu+H
+D$09D$@u
+D$89D$@u
+D$H9D$@u
+D$D9D$xs
+9D$ s!L
+9D$ s;L
+9D$ s4H
+9D$ s=H
+H;D$ r!H
+VWATAUAVH
+A^A]A\_^
+H9D$8r1H
+H9D$8r(H
+D$@9D$Ds
+H9D$(tIH
+D$d9D$Pu
+D$`9D$@tXH
+D$@9D$Ds
+D$x9D$ s
+D$0MDMP
+D$X9D$$s
+H9D$`w0H
+@L9D$@skH
+D$(MDMPH
+@x9D$ s
+D$ 9D$(
+D$XH9D$`w&H
+D$@H9D$ vBH
+8HcD$hH
+D$@HcD$lH
+D$HHcD$pH
+D$PHcD$tH
+H9D$0t.H
+pH9D$0t.H
+H9D$0t,H
+H9D$0t(H
+D$8H9D$0v
+H9D$hs	H
+D$@H9D$hv
+D$pH9D$xs
+D$hH9D$xr
+D$XH9D$Pu
+D$XH9D$8w
+H9D$8s4H
+D$XH9D$`v7H
+H9D$ t@H
+H9D$0toH
+D$p9D$0t
+D$8H9D$psQH
+D$8H9D$pr
+D$8H9D$@r
+|$@xu}H
+D$`9D$0t
+D$@Hc@4H
+D$PHc@<H
+L$`;Atr
+@T9D$ s
+D$PH9D$0
+9D$HuFH
+D$x9D$|s
+D$@9D$P
+L$x9HPuJH
+D$L9D$hv
+D$L9D$X
+L$0H9APt
+L$0H9APtJH
+D$H9D$ u
+	HcD$ H
+9D$Pv^H
+D$P9D$hsA
+H9D$Xwu
+D$0H;D$ r
+D$h9D$0s
+D$0HcD$XH
+D$8HcD$hH
+D$ HcD$XH
+D$ HcD$HH
+9D$0u=H
+9D$4u,H
+9D$ uPH
+9D$$u?H
+9D$,u.H
+D$0H+D$8H=
+P8HcD$0H
+D$@H9D$ u
+D$(H9D$ u
+D$8H9D$ u
+D$XH9D$ t
+D$PH9D$ u
+XHcD$hH
+9D$Ds}H
+9D$Ds=H
+9D$DsLH
+9D$Ds=H
+9D$DsKH
+D$8H9D$x
+H9D$xsS
+D$0H9D$8t8H
+yHcD$,A
+H9D$`uIH
+H9D$HuTH
+D$PH9D$`vNH
+@9D$pwA
+D$0H9D$(t
+uMHcD$DH
+H9D$HuQH
+H9D$hrJH
+H9D$xrJH
+H9D$HrqH
+H9D$Hu%H
+D$@H9D$8u
+H9D$Pu4H
+D$ HcD$HA
+D$ HcD$XA
+D$ HcD$PD
+L$`9A8v
+D$`9D$(
+;D$hu:H
+D$`9D$0
+D$`9D$4r7
+D$`9D$4s
+@,9D$@u
+H9D$0u1H
+|$L s*H
+D$t9D$@
+$H9D$(r
+HcD$ Hk
+vpHcD$ Hk
+ HcL$ Hk
+@pH9D$Xu(H
+H9Hxu(H
+HHcD$XH
+D$$HcD$$H
+D$$HcD$$A
+D$$HcD$$H
+D$$HcD$$A
+D$4HcD$4H
+D$4HcD$4A
+D$hHc@0H
+D$ HcD$ H
+D$(HcD$(H
+D$xHcD$xH
+D$@H9D$Xu
+D$HH9D$Pu
+L$@H9Hpu
+H9D$ vEH
+H9D$ wHH
+H9D$ sEH
+H9D$ rEH
+H9D$(s:Hc
+D$@H9D$H
+D$HH9D$ w
+D$(H9D$ tXH
+																																			
+											
+												
+wfHcD$@H
+											
+|$ )uqH
+L$XH9H 
+D$pHcD$pE3
+D$0HcD$4H
+t\HcD$PE3
+VWATAUAVH
+ A^A]A\_^
+UVWATAUAVAWH
+<\t	<.u	H
+0A_A^A]A\_^]
+fA98t	I
+tPfA99tJI
+t=f99t8
+UVWATAUAVAWH
+0A_A^A]A\_^]
+@SUVWATH
+PA\_^][
+\$ UVWATAUAVAWH
+9D$Xt`E
+A_A^A]A\_^]
+9L$8|0H
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+(A]A\[]
+WATAUAVH
+A^A]A\_]
+VWATAUAVAWH
+A_A^A]A\_^]
+VWATAUAVAWH
+A_A^A]A\_^]
+VWATAUH
+A]A\_^]
+ATAUAVAWH
+ A_A^A]A\]
+SVAUAWH
+ A_A]^[]
+t$`D9+sD
+ A_A]^[]
+SVAUAWH
+ A_A]^[]
+t$`D9+sD
+ A_A]^[]
+SVAUAWH
+ A_A]^[]
+t$`D9+sD
+ A_A]^[]
+SWATAUH
+t-<.t)<$t%L
+A]A\_[]
+w>f;>s9H
+SWATAVAWH
+ugHc|$p
+8A_A^A\_[]
+D$hD+D$`E
+ATAUAVAWH
+A_A^A]A\]
+vifD9d$TH
+(A_A]^]
+SVAUAWH
+ A_A]^[]
+VWATAUH
+PA]A\_^]
+F0+F(Hc
+D$8A+D$0
+D$0A+D$(Hc
+VATAUAVH
+@A^A]A\^]
+VWATAUAVAWH
+@A_A^A]A\_^]
+WATAUAVH
+A^A]A\_]
+;L$0u|H
+WATAUAVH
+ A^A]A\_]
+\$PD9\$ u
+D$$+D$(
+\$PD9\$ u
+D$$+D$(
+VWATAUH
+@A]A\_^]
+VATAUAVH
+@A^A]A\^]
+VWATAUH
+@A]A\_^]
+@A\_^[]
+SVATAUAWH
+A_A]A\^[]
+A$;A s	
+SVATAUAVH
+A^A]A\^[]
+WATAVAWH
+ A_A^A\_]
+8A_A^[]
+H9APs:ffff
+ATAUAVAWH
+ A_A^A]A\]
+ATAUAVAWH
+ A_A^A]A\]
+ATAUAVAWH
+ A_A^A]A\]
+ATAUAVAWH
+ A_A^A]A\]
+ATAUAVAWH
+ A_A^A]A\]
+ATAUAVAWH
+ A_A^A]A\]
+ATAUAVAWH
+ A_A^A]A\]
+SATAUAVH
+ A^A]A\[]
+WATAUAVH
+@A^A]A\_]
+WATAUAVH
+@A^A]A\_]
+WATAUAVH
+@A^A]A\_]
+WATAUAVH
+@A^A]A\_]
+WATAUAVH
+A^A]A\_]
+WATAUAVH
+A^A]A\_]
+WATAUAVH
+A^A]A\_]
+\$@H9>L
+ATAUAVAWH
+@A_A^A]A\]
+WATAUAVH
+ A^A]A\_]
+SATAUAVH
+ A^A]A\[]
+SATAUAVH
+ A^A]A\[]
+SATAUAVH
+ A^A]A\[]
+SATAUAVH
+ A^A]A\[]
+WATAUAWH
+pA_A]A\_]
+WATAUAWH
+0A_A]A\_]
+SATAUAVH
+pA^A]A\[]
+AH+A@Hc
+VATAUAVH
+ A^A]A\^]
+8A]A\^]
+VWAUAVH
+ A^A]_^]
+VWAUAVH
+ A^A]_^]
+t$8HcwP
+ATAUAVAWH
+CPL9c`s,H
+ A_A^A]A\]
+u-H9K8L
+WATAUAWH
+ A_A]A\_]
+H9|$Pt?
+H9|$PtB
+H9|$PtM
+H9|$PtL
+ A\_^[]
+VWATAUH
+A]A\_^]
+SWAUAVH
+\$HH;D$p
+A^A]_[]
+ATAUAVAWH
+=D9}0t%
+A_A^A]A\]
+D$(H9D$0
+u19D$8u+H
+SATAUAVAWH
+P8D8(u+H
+HA_A^A]A\[]
+VWATAUH
+PA]A\_^]
+Dt$hu5H
+AUAVAWH
+HA_A^A]]
+VWATAUAVH
+(A^A]A\_^]
+SVWATAUAVAWH
+(A_A^A]A\_^[]
+VWAVAWH
+ A_A^_^]
+t$@D+[ H
+VWATAUAVAWH
+0A_A^A]A\_^]
+SVWATAUAVAWH
+A_A^A]A\_^[]
+WATAUAVH
+A^A]A\_]
+0A\_^[]
+WATAUAVH
+ A^A]A\_]
+SVATAUAVAWH
+B$8< uf
+pA_A^A]A\^[]
+SVWATAUAVAWH
+A_A^A]A\_^[]
+WATAUAVH
+A^A]A\_]
+VWATAUH
+0A]A\_^]
+VWAUAVH
+`A^A]_^]
+WATAUAVH
+A^A]A\_]
+WATAUAVH
+A^A]A\_]
+SWAUAWH
+A_A]_[]
+WAUAVAWH
+0A_A^A]_]
+VWAUAVH
+PA^A]_^]
+VAUAVAW
+A_A^A]^]
+ATAUAVAWH
+A_A^A]A\]
+ATAUAVAWH
+A_A^A]A\]
+VATAUAVH
+\$HH;\$`sLH
+f9LD8t(H
+A^A]A\^]
+L$ fA93
+d$hfA93u5A
+ATAUAVAWH
+A_A^A]A\]
+SVATAUAVH
+A^A]A\^[]
+D$4A9L$
+A(D;A,r!H
+l$XD9v u
+tk;C ufH
+|$H+s(A
+C@H9O0t
+WATAUAVAWH
+(A_A^A]A\_]
+|$@L9o8
+XA^A]_]
+d$PD9g t
+t$09s t
+ATAUAVAWH
+ A_A^A]A\]
+SWAVAWH
+@A_A^_[]
+l$0;U8s
+@A_A^_[]
+H9OxtUf
+L9g`tHH
+tBH;{8t<
+D$`L9A0
+%H9{(u.
+`A]_^[]
+WATAUAWH
+ A_A]A\_]
+ATAUAVAWH
+A_A^A]A\]
+VWATAUAVAWH
+A_A^A]A\_^]
+VATAUAVH
+A^A]A\^]
+D9}(uBI
+D$<u	A;
+A^A]A\^]
+D$4@8y8t)L
+H;X s	H
+WATAUAVH
+A^A]A\_]
+t$09Chskfffff
+T$ ;T$@tgI
+;D$<r8I
+ATAUAVAWH
+A_A^A]A\]
+'D9t$ u
+CPL9J(t
+C@L9J(t
+SVAVAWH
+ A_A^^[]
+t$@@8s8u
+t$0@8s8u
+@8s8u&H
+x#9t$Xt
+x#9t$`t
+x#9t$ht
+u"9\$ t
+u"9\$(t
+uI9\$ vCH
+u#D9e t
+PA\_^[]
+H@8{8u2H
+u5D9l$0u.H
+r)H;A s#L
+r=I;R s7M
+SVAUAVH
+0A^A]^[]
+|$0Hc8H
+VWATAUAVAWH
+\$8+\$0
+D$0+D$8
+D$0+D$8A
+A_A^A]A\_^]
+L9d$8t H
+D$Df;T$@u
+D;D$Lt%H
+xA_A]^]
+ATAUAVAWH
+A_A^A]A\]
+VWATAUAVAWH
+/HcD$0H
+@A_A^A]A\_^]
+WATAUAWH
+u:HcD$xH
+0A_A]A\_]
+VWATAUAVAWH
+pA_A^A]A\_^]
+SVWATAUAVAW
+A_A^A]A\_^[]
+WATAUAVAW
+A_A^A]A\_]
+|$(H;|$@sMH
+\$(H;\$@r
+SVWATAUAVAWH
+A_A^A]A\_^[]
+VWATAUAVAWH
+HcD$ D+
+A_A^A]A\_^]
+VWATAUAVAWH
+0A_A^A]A\_^]
+VWATAUAVAWH
+A_A^A]A\_^]
+VWATAUAVAWH
+A_A^A]A\_^]
+VWATAUH
+A]A\_^]
+VWATAUH
+A]A\_^]
+VWATAUAVAWH
+0A_A^A]A\_^]
+ATAUAVAWH
+ A_A^A]A\]
+ A\_^[]
+SVWATAUAVH
+A^A]A\_^[]
+VWATAUAVAWH
+Hct$xD8{pu2L
+0A_A^A]A\_^]
+D$x9D$p
+SVWATAUAVH
+A^A]A\_^[]
+SVWATAUAVAWH
+A_A^A]A\_^[]
+SVWATAUAVH
+A^A]A\_^[]
+WAUAVAWH
+ A_A^A]_]
+SVWATAUAVAWH
+A_A^A]A\_^[]
+VWATAUAVAWH
+A_A^A]A\_^]
+A$fA3A f
+A fA3A$f
+SVATAWH
+`A_A\^[]
+ATAUAVAWH
+A_A^A]A\]
+f;Q sXH
+tEfD;C4vUH
+fA;p4s'ffff
+VWATAUAVAWH
+A_A^A]A\_^]
+VWAUAVH
+fD;q sTf
+v8f;{ r
+ A^A]_^]
+tEfD;I s>H
+f;_ sfM
+SVWATAUAVAW
+A_A^A]A\_^[]
+SVWATAUAVAWH
+H9|$@uV
+A_A^A]A\_^[]
+VWATAUAVAWH
+tkfffff
+A_A^A]A\_^]
+t$XHc5P
+SVWATAUAVAWH
+A_A^A]A\_^[]
+WATAVAWH
+ A_A^A\_]
+VWATAUH
+A]A\_^]
+D$(+D$ L
+SVAUAVAWH
+A_A^A]^[]
+VWATAUAVAWH
+A_A^A]A\_^]
+ATAUAVAWH
+A_A^A]A\]
+ATAUAVAWH
+ A_A^A]A\]
+VWATAUH
+ A]A\_^]
+F f9F$r
+fD;c s5fD;c s%H
+WATAUAVH
+ A^A]A\_]
+PA\_^[]
+9t$PteH
+SVWATAUAVAWH
+A_A^A]A\_^[]
+ATAUAVAWH
+A_A^A]A\]
+ATAUAVAWH
+ A_A^A]A\]
+T$8ffff
+VWATAUAVAWH
+0A_A^A]A\_^]
+WATAUAWH
+PA_A]A\_]
+f;Q sjH
+VWATAUH
+ A]A\_^]
+f;Q sGH
+fffffff
+fE;} sXI
+D$ fE;} s
+SVWATAUAVAWH
+fA!D$$fE
+xA_A^A]A\_^[]
+ATAUAVAWH
+tQ9\$\t
+L$8H;L$Pr
+A_A^A]A\]
+SVWATAUAVAWH
+A_A^A]A\_^[]
+t[D9d$`uTA;
+ATAUAVAWH
+ A_A^A]A\]
+SWATAVH
+ A^A\_[]
+tS<at:<ct*<it
+ATAUAVAWH
+ A_A^A]A\]
+\$@Hc\$XL
+ATAUAVAWH
+ A_A^A]A\]
+H9D$@u6H
+VWATAUAVAWH
+@A_A^A]A\_^]
+SVATAUAVAWH
+t'ffffff
+@A_A^A]A\^[]
+VWATAUAVAWH
+@A_A^A]A\_^]
+VATAVAWH
+0A_A^A\^]
+ATAUAVAWH
+H9D$ u4I
+0A_A^A]A\]
+SVAUAVH
+@A^A]^[]
+VWAUAWH
+@A_A]_^]
+SVWATAV
+H9D$8u9H
+A^A\_^[]
+D$09D$pt
+xqD9|$0ujB
+WATAUAVH
+9\$Pt4D
+ A^A]A\_]
+d$X=NB10u2I
+M=RSDSu
+SVWAUAVH
+A^A]_^[]
+SVWATAUAWH
+A_A]A\_^[]
+SVWAUAVAWH
+A_A^A]_^[]
+D$@=NB10t
+SWATAUH
+A]A\_[]
+VWATAVH
+A^A\_^]
+SVATAUH
+A]A\^[]
+fffffff
+WAUAVAWH
+ A_A^A]_]
+WATAUAVH
+ A^A]A\_]
+ATAUAVAWH
+ A_A^A]A\]
+VWATAUH
+ A]A\_^]
+t$`I9<$@
+ A]A\_^]
+(ffffff
+(A]A\^]
+SVATAUAVAWH
+A_A^A]A\^[]
+VWATAUAVAWH
+A_A^A]A\_^]
+SVATAVH
+@A^A\^[]
+VAUAVAWH
+ A_A^A]^]
+r"ffffff
+WATAUAWH
+ A_A]A\_]
+SVAUAVH
+;D$D|WH
+pA^A]^[]
+SVWATAV
+D$0+D$8A
+|$ D+d$0D+l$x
+A^A\_^[]
+VWATAUAVAWH
+A_A^A]A\_^]
+ATAUAWH
+hA_A]A\]
+fA;C sTD
+X(fA;I s
+\$PfE;S s
+H(fE;S s
+B,fE;S s
+\$ D+\$$t
+SVWATAUAVAWH
+A_A^A]A\_^[]
+VWATAUH
+A]A\_^]
+VWATAUH
+A]A\_^]
+VWATAUH
+PA]A\_^]
+SATAVAWH
+A_A^A\[]
+v'fffff
+SVAVAWH
+@A_A^^[]
+WATAVAWH
+`A_A^A\_]
+5fE;S s
+`A_A^A\_]
+E9J(~<fA;P s
+T$ D+D$ H
+VAUAVAWH
+A_A^A]^]
+L$PL9|$@H
+A_A^A]^]
+t$@f;W s
+X(f;W s
+d$XfD;#
+L$pffff
+SATAUAVH
+`A^A]A\[]
+\$0L9}8t
+>fA;P s
+Q,fA;P s
+A^A\_^]
+tsL;w@M
+SVWATAUAVAWH
+A_A^A]A\_^[]
+VWATAUAVAWH
+A_A^A]A\_^]
+L$HH;t$@
+M H;t$@sAH
+ATAUAVAWH
+ A_A^A]A\]
+VWATAUH
+A]A\_^]
+VWATAUH
+A]A\_^]
+VWATAUH
+A]A\_^]
+VWATAUH
+A]A\_^]
+t,fffff
+q0L9q0u
+ATAUAVAWH
+~gfffff
+ A_A^A]A\]
+VWATAUAVAWH
+0A_A^A]A\_^]
+SVWATAUAVH
+A^A]A\_^[]
+VWATAUAVAWH
+A_A^A]A\_^]
+W Ic@<B
+O$Ic@<B
+_(Ic@<B
+ATAUAVH
+8A^A]A\]
+WATAUAVH
+A^A]A\_]
+VWATAUAVAWH
+A_A^A]A\_^]
+ A]A\]H
+t$8+Y8H
+CP;CHx.H
+ fffffff
+tXfffff
+G@;G8x.H
+Gp;Ghx4H
+t,H;C s
+C(HcC(A;B
+{0H9{0u
+SVWATAUAVAWH
+8A_A^A]A\_^[]
+SVATAWH
+D$HH;D$`sQL;
+A_A\^[]
+VATAVAWH
+@A_A^A\^]
+T$(H;T$@
+hA_A][]
+ATAUAVAWH
+ A_A^A]A\]
+RegOpenKeyExW
+RegQueryInfoKeyW
+RegEnumKeyExW
+RegCloseKey
+RegOpenKeyExA
+RegQueryValueExA
+RegQueryValueExW
+UuidCreate
+??2@YAPEAX_K@Z
+??3@YAXPEAX@Z
+wcsncmp
+iswxdigit
+_wcsicmp
+wcsrchr
+_strlwr
+_stricmp
+isspace
+strncmp
+_purecall
+_wcsnicmp
+_strnicmp
+??_V@YAXPEAX@Z
+_wctime
+_wcslwr
+tolower
+towlower
+_wcsdup
+iswspace
+__CxxFrameHandler
+memmove
+_XcptFilter
+_initterm
+_amsg_exit
+__C_specific_handler
+msvcrt.dll
+_ismbblead
+_CxxThrowException
+_unlock
+__dllonexit
+_onexit
+__mb_cur_max
+isleadbyte
+_snprintf
+??1type_info@@UEAA@XZ
+__badioinfo
+__pioinfo
+_fileno
+_lseeki64
+_isatty
+SetLastError
+FindFirstFileW
+FindClose
+FindNextFileW
+LocalAlloc
+EnterCriticalSection
+LeaveCriticalSection
+CreateFileA
+GetFileSize
+ReadFile
+CloseHandle
+GetLastError
+TlsGetValue
+TlsSetValue
+LoadLibraryA
+GetProcAddress
+FreeLibrary
+TlsAlloc
+TlsFree
+GetVersionExA
+InitializeCriticalSection
+HeapCreate
+HeapDestroy
+DeleteCriticalSection
+HeapReAlloc
+HeapAlloc
+HeapFree
+IsDBCSLeadByte
+GetEnvironmentVariableW
+GetModuleFileNameW
+CreateFileW
+CopyFileW
+CreateDirectoryW
+MoveFileW
+DeleteFileW
+SetFilePointer
+ExpandEnvironmentStringsW
+MultiByteToWideChar
+WideCharToMultiByte
+GetFullPathNameW
+GetFileAttributesW
+CreateDirectoryA
+VirtualAlloc
+VirtualProtect
+DuplicateHandle
+GetCurrentProcess
+UnmapViewOfFile
+CreateFileMappingA
+MapViewOfFile
+GetModuleHandleA
+GetCurrentProcessId
+OpenProcess
+VirtualFree
+WriteFile
+OutputDebugStringA
+OutputDebugStringW
+GetVersionExW
+SetErrorMode
+GetFileAttributesA
+GetSystemDirectoryW
+LoadLibraryW
+GetProcessHeap
+ReadProcessMemory
+LoadLibraryExA
+DelayLoadFailureHook
+lstrcmpiW
+GetSystemTimeAsFileTime
+GetSystemInfo
+IsProcessorFeaturePresent
+GetCurrentThreadId
+SuspendThread
+ResumeThread
+GetThreadContext
+GetPriorityClass
+GetThreadPriority
+GetThreadTimes
+VirtualQueryEx
+RtlVirtualUnwind
+RtlLookupFunctionEntry
+RtlCaptureContext
+QueryPerformanceCounter
+GetTickCount
+TerminateProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+KERNEL32.dll
+FormatMessageW
+GetVersion
+LocalFree
+LCMapStringW
+CreateFileMappingW
+__chkstk
+SetFileAttributesW
+DeviceIoControl
+GetFileType
+InitializeCriticalSectionAndSpinCount
+GetCurrentDirectoryW
+MapViewOfFileEx
+FlushViewOfFile
+_vsnwprintf
+iswprint
+fprintf
+__unDName
+iswdigit
+bsearch
+_wfsopen
+??_U@YAPEAX_K@Z
+_time64
+_wfullpath
+_get_osfhandle
+_chsize
+_open_osfhandle
+_memicmp
+_mbscmp
+_wgetenv
+_wsopen
+dbghelp.dll
+SymGetOmapBlockBase
+DbgHelpCreateUserDump
+DbgHelpCreateUserDumpW
+EnumDirTree
+EnumDirTreeW
+EnumerateLoadedModules
+EnumerateLoadedModules64
+EnumerateLoadedModulesEx
+EnumerateLoadedModulesExW
+EnumerateLoadedModulesW64
+ExtensionApiVersion
+FindDebugInfoFile
+FindDebugInfoFileEx
+FindDebugInfoFileExW
+FindExecutableImage
+FindExecutableImageEx
+FindExecutableImageExW
+FindFileInPath
+FindFileInSearchPath
+GetTimestampForLoadedLibrary
+ImageDirectoryEntryToData
+ImageDirectoryEntryToDataEx
+ImageNtHeader
+ImageRvaToSection
+ImageRvaToVa
+ImagehlpApiVersion
+ImagehlpApiVersionEx
+MakeSureDirectoryPathExists
+MiniDumpReadDumpStream
+MiniDumpWriteDump
+SearchTreeForFile
+SearchTreeForFileW
+StackWalk
+StackWalk64
+SymAddSourceStream
+SymAddSourceStreamA
+SymAddSourceStreamW
+SymAddSymbol
+SymAddSymbolW
+SymCleanup
+SymDeleteSymbol
+SymDeleteSymbolW
+SymEnumLines
+SymEnumLinesW
+SymEnumProcesses
+SymEnumSourceFileTokens
+SymEnumSourceFiles
+SymEnumSourceFilesW
+SymEnumSourceLines
+SymEnumSourceLinesW
+SymEnumSym
+SymEnumSymbols
+SymEnumSymbolsForAddr
+SymEnumSymbolsForAddrW
+SymEnumSymbolsW
+SymEnumTypes
+SymEnumTypesByName
+SymEnumTypesByNameW
+SymEnumTypesW
+SymEnumerateModules
+SymEnumerateModules64
+SymEnumerateModulesW64
+SymEnumerateSymbols
+SymEnumerateSymbols64
+SymEnumerateSymbolsW
+SymEnumerateSymbolsW64
+SymFindDebugInfoFile
+SymFindDebugInfoFileW
+SymFindExecutableImage
+SymFindExecutableImageW
+SymFindFileInPath
+SymFindFileInPathW
+SymFromAddr
+SymFromAddrW
+SymFromIndex
+SymFromIndexW
+SymFromName
+SymFromNameW
+SymFromToken
+SymFromTokenW
+SymFunctionTableAccess
+SymFunctionTableAccess64
+SymGetFileLineOffsets64
+SymGetHomeDirectory
+SymGetHomeDirectoryW
+SymGetLineFromAddr
+SymGetLineFromAddr64
+SymGetLineFromAddrW64
+SymGetLineFromName
+SymGetLineFromName64
+SymGetLineFromNameW64
+SymGetLineNext
+SymGetLineNext64
+SymGetLineNextW64
+SymGetLinePrev
+SymGetLinePrev64
+SymGetLinePrevW64
+SymGetModuleBase
+SymGetModuleBase64
+SymGetModuleInfo
+SymGetModuleInfo64
+SymGetModuleInfoW
+SymGetModuleInfoW64
+SymGetOmaps
+SymGetOptions
+SymGetScope
+SymGetScopeW
+SymGetSearchPath
+SymGetSearchPathW
+SymGetSourceFile
+SymGetSourceFileFromToken
+SymGetSourceFileFromTokenW
+SymGetSourceFileToken
+SymGetSourceFileTokenW
+SymGetSourceFileW
+SymGetSourceVarFromToken
+SymGetSourceVarFromTokenW
+SymGetSymFromAddr
+SymGetSymFromAddr64
+SymGetSymFromName
+SymGetSymFromName64
+SymGetSymNext
+SymGetSymNext64
+SymGetSymPrev
+SymGetSymPrev64
+SymGetSymbolFile
+SymGetSymbolFileW
+SymGetTypeFromName
+SymGetTypeFromNameW
+SymGetTypeInfo
+SymGetTypeInfoEx
+SymGetUnwindInfo
+SymInitialize
+SymInitializeW
+SymLoadModule
+SymLoadModule64
+SymLoadModuleEx
+SymLoadModuleExW
+SymMatchFileName
+SymMatchFileNameW
+SymMatchString
+SymMatchStringA
+SymMatchStringW
+SymNext
+SymNextW
+SymPrev
+SymPrevW
+SymRefreshModuleList
+SymRegisterCallback
+SymRegisterCallback64
+SymRegisterCallbackW64
+SymRegisterFunctionEntryCallback
+SymRegisterFunctionEntryCallback64
+SymSearch
+SymSearchW
+SymSetContext
+SymSetHomeDirectory
+SymSetHomeDirectoryW
+SymSetOptions
+SymSetParentWindow
+SymSetScopeFromAddr
+SymSetScopeFromIndex
+SymSetSearchPath
+SymSetSearchPathW
+SymSrvDeltaName
+SymSrvDeltaNameW
+SymSrvGetFileIndexInfo
+SymSrvGetFileIndexInfoW
+SymSrvGetFileIndexString
+SymSrvGetFileIndexStringW
+SymSrvGetFileIndexes
+SymSrvGetFileIndexesW
+SymSrvGetSupplement
+SymSrvGetSupplementW
+SymSrvIsStore
+SymSrvIsStoreW
+SymSrvStoreFile
+SymSrvStoreFileW
+SymSrvStoreSupplement
+SymSrvStoreSupplementW
+SymUnDName
+SymUnDName64
+SymUnloadModule
+SymUnloadModule64
+UnDecorateSymbolName
+UnDecorateSymbolNameW
+WinDbgExtensionDllInit
+dbghelp
+homedir
+itoldyouso
+srcfiles
+stack_force_ebp
+stackdbg
+DBGHELP: 
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+090713230018Z
+101013231018Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+8http://crl.microsoft.com/pki/crl/products/CodeSigPCA.crl0M
+1http://www.microsoft.com/pki/certs/CodeSigPCA.crt0
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+100104211203Z
+130104212203Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+nCipher1'0%
+nCipher DSE ESN:ACD3-AE66-E0B51%0#
+Microsoft Time-Stamp Service0
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+100104211203Z
+130104212203Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+nCipher1'0%
+nCipher DSE ESN:ACD3-AE66-E0B51%0#
+Microsoft Time-Stamp Service0
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+010509231922Z
+210509232813Z0_1
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+070403125309Z
+210403130309Z0w1
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA0
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+1Jv1=+r
+L&*H$_Z
+	microsoft1-0+
+$Microsoft Root Certificate Authority0
+060125232232Z
+170125233232Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+	microsoft1-0+
+$Microsoft Root Certificate Authority
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0v
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+http://www.microsoft.com0
+Washington1
+Redmond1
+Microsoft Corporation1!0
+Microsoft Time-Stamp PCA
+100201202727Z0#

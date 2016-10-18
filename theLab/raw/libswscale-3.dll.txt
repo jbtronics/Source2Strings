@@ -1,0 +1,688 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.idata
+@.rodata
+@_RDATA
+@.reloc
+(t$ [^_
+0Hcl$`I
+0Hcl$pI
+0Hcl$`I
+0Hcl$pI
+0Hcl$`I
+0Hcl$pI
+0Hcl$`I
+0Hcl$pI
+0Hcl$`I
+0Hcl$pI
+0Hcl$`I
+0Hcl$pI
+@WATAUAVAWH
+0A_A^A]A\_
+ATAUAVAWH
+8A_A^A]A\
+|$ ATAVAWH
+0A_A^A\
+@WATAUAVAWH
+0A_A^A]A\_
+ATAUAVAWH
+8A_A^A]A\
+|$ ATAVAWH
+0A_A^A\
+&&&&&&&&&
+ !"&&#&#&#&#&#&#&#&#&#&&&&&&&&&&&
+l$ AVAWL
+l$0A_A^
+0Hcl$`I
+0Hcl$pI
+0Hcl$`I
+0Hcl$pI
+0Hcl$`I
+0Hcl$pI
+0Hcl$`I
+0Hcl$pI
+UVATAUAVH
+@A^A]A\^]
+@SATAUAVH
+hA^A]A\[
+WATAUAVAWH
+A_A^A]A\_
+0Hcl$`I
+0Hcl$pI
+0Hcl$`I
+0Hcl$pI
+@WATAUAVAWH
+0A_A^A]A\_
+ATAUAVAWH
+8A_A^A]A\
+|$ ATAVAWH
+0A_A^A\
+@WATAUAVAWH
+0A_A^A]A\_
+ATAUAVAWH
+8A_A^A]A\
+|$ ATAVAWH
+0A_A^A\
+ATAUAVAWH
+HA_A^A]A\
+ATAUAWH
+PA_A]A\
+WATAUAVAWH
+0A_A^A]A\_
+t$ WAVAWH
+l$ VWAVAW
+l$@A_A^_^
+@SWATAUAVAWH
+(A_A^A]A\_[
+SATAUAVH
+A^A]A\[
+UVWATAVAW
+\$PA_A^A\_^]
+@SVWATAUAVAWH
+A_A^A]A\_^[
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+UVWATAUAVAWH
+`A_A^A]A\_^]
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+UVWATAUAVAWH
+`A_A^A]A\_^]
+D$PLcL$@H
+D$HLcD$8L
+UVWATAUAVAW
+\$PA_A^A]A\_^]
+|$ AVAWLct$8E3
+|$0A_A^
+|$ AVAWLct$8E3
+|$0A_A^
+l$ VWAVAW
+D$XHc\$HA
+Hc\$HL;
+l$@A_A^_^
+t$ WATAVAWLc|$HE3
+t$@A_A^A\_
+t$ WATAVAWLc|$HE3
+t$@A_A^A\_
+t$ ATAUAVAW
+D$XLcl$HA
+t$@A_A^A]A\
+\$ WATAVAWLc|$HE3
+\$@A_A^A\_
+|$ AVAWLct$8E3
+|$0A_A^
+|$ AVAWLct$8E3
+|$0A_A^
+UVWATAUAVAWH
+@A_A^A]A\_^]
+SUVWATAVAWH
+PA_A^A\_^][
+UVWATAUAVAWH
+ A_A^A]A\_^]
+SUVWATAUAVH
+0A^A]A\_^][
+UVWATAUAVAWH
+ A_A^A]A\_^]
+SUVWATAUAVH
+@A^A]A\_^][
+UVWATAVAW
+\$PA_A^A\_^]
+@SUVWATAUAWH
+A_A]A\_^][
+SUVWATAUAVAWH
+\$0L;D$8
+XA_A^A]A\_^][
+UVATAUAVAWH
+L$8H;D$@
+A_A^A]A\^]
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+UVWATAUAVAWH
+`A_A^A]A\_^]
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+SUVWATAVAWH
+PA_A^A\_^][
+UVWATAUAVAWH
+0A_A^A]A\_^]
+SUVWAUAVAWH
+PA_A^A]_^][
+UVWATAUAVAWH
+0A_A^A]A\_^]
+SUVWAUAVAWH
+PA_A^A]_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+SUVATAUAVAWH
+L)t$PI+
+A_A^A]A\^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+SVWATAUAVAWH
+0A_A^A]A\_^[
+AUAVAWH
+0A_A^A]
+UVWATAUAVAWH
+A_A^A]A\_^]
+SVWATAUAVAWH
+0A_A^A]A\_^[
+AUAVAWH
+0A_A^A]
+VWATAUAVAW
+l$PA_A^A]A\_^
+@SUWAUAVAWH
+A_A^A]_][
+VWATAUAVAW
+l$PA_A^A]A\_^
+@SUWAUAVAWH
+A_A^A]_][
+@UVWATAUAVAWH
+A_A^A]A\_^]
+SATAVAWH
+A_A^A\[
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+t$(Lct$HL
+|$0Lc|$P
+t$(Lct$@L
+|$0Lc|$H
+|$HHc|$pL
+Hc|$pHc
+VWATAUAWH
+@A_A]A\_^
+~RHc|$PH
+~OLc\$X
+\$ UVAUAVD
+HcT$XLcD$hH
+L$PHcT$XLcD$hA
+\$@A^A]^]
+\$ UVAUAVD
+HcT$XLcD$hH
+L$PHcT$XLcD$hA
+\$@A^A]^]
+d$@Lcd$hL
+<$Lc|$pA
+VWATAUAWH
+@A_A]A\_^
+@SUWATAVH
+0A^A\_][
+\$ VWATAVAWH
+ A_A^A\_^
+ Hc|$pH
+L$ VAUAVH
+D$XHct$`H
+@USWATAUAVAWH
+LcL$lMc
+A_A^A]A\_[]
+|$ AUAVAWH
+l$@Hcl$`H
+|$ ATAVAWH
+0HcY<Hcy@
+FT9F\uP
+FX9F`uH
+0A_A^A\
+ Hci@Hcq<D
+D$0Lc\$8I
+D$0Lc\$@I
+|$ ATAVAWH
+@A_A^A\
+\$ UATAWH
+L$HLcD$`M
+l$8Lcl$XL
+\$(A^_^]
+WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@SUVWATAUAVH
+A^A]A\_^][
+WATAUAVAWH
+0A_A^A]A\_
+L$ SUVAUAVAWH
+HA_A^A]^][
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+L$ WATAUAVAWH
+@A_A^A]A\_
+USWAUAVAWH
+D$`L;d$H
+A_A^A]_[]
+WATAUAVAWH
+uJD9I@uDD9
+u59q<u0
+@A_A^A]A\_
+UVWATAUAVAWH
+Lck@Lcc<
+D9D$pu=
+$0<0tNA
+C(D9t$x
+LcC$HcC
+C0HcC H
+A_A^A]A\_^]
+WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+SUVWATAUAVAWH
+xA_A^A]A\_^][
+fffffff
+^ffffff
+fffffff
+WATAUAVAWH
+@A_A^A]A\_
+t$ WATAUAVAWH
+0A_A^A]A\_
+D$H9D$ s"
+USVWAVH
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+A_A^A]A\_
+t$ WAVAWH
+ATAVAWH
+ A_A^A\
+@SUVWATAVAWH
+zu|D!t$ E3
+A_A^A\_^][
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+UVWATAUAVAWH
+0A_A^A]A\_^]
+@SUVWATAVAWH
+PA_A^A\_^][
+@UATAUAVAWH
+A_A^A]A\]
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+AUAVAWH
+0A_A^A]
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+;Cu1f9K
+f93t$M;
+L$ SUVWH
+|$ ATAVAWH
+0A_A^A\
+WATAUAVAWH
+0A_A^A]A\_
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+fD9|$bu
+H9L$Ht8H
+UVWATAUAVAWH
+pA_A^A]A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+0A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+s WATAUAVAWH
+9t$P~.8\$vt(H
+9t$P~98\$vt3H
+A_A^A]A\_
+tVf91tQH
+x ATAVAWH
+ A_A^A\
+@SUVWATAVAWH
+A_A^A\_^][
+tSf91tNH
+D;|$0t9
+x ATAVAWH
+ A_A^A\
+@USVWATAVAWH
+tyfD9 tsH
+tHfD9 tB
+@A_A^A\_^[]
+` AUAVAWH
+0A_A^A]
+VWATAVAWH
+ A_A^A\_^
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+u"HcMHH
+c:\buildslave\libav_win32\build\dev\libswscale\swscale_internal.h
+Assertion %s failed at %s:%d
+sws_flags
+scaler flags
+fast_bilinear
+fast bilinear
+bilinear
+bicubic
+experimental
+neighbor
+nearest neighbor
+averaging area
+bicublin
+luma bicubic, chroma bilinear
+gaussian
+lanczos
+natural bicubic spline
+print_info
+print info
+accurate_rnd
+accurate rounding
+full_chroma_int
+full chroma interpolation
+full_chroma_inp
+full chroma input
+bitexact
+source width
+source height
+destination width
+destination height
+src_format
+source format
+dst_format
+destination format
+src_range
+source range
+dst_range
+destination range
+scaler param 0
+scaler param 1
+SWScaler
+swscaler
+$D<\"B:Zd
+4T,L2R*Jt
+ @8X&F>^`
+0P(H6V.Np
+@@@@@@@@
+Warning: dstStride is not aligned!
+         ->cannot do aligned memory accesses anymore
+internal error %s -> %s converter
+unsupported planar RGB conversion %s -> %s
+bad src image pointers
+bad dst image pointers
+Slices start in the middle!
+--prefix=/c/buildslave/libav_win32/build/dev/build_x86_64 --toolchain=msvc --enable-shared --disable-static --enable-runtime-cpudetect --disable-all --enable-avcodec --enable-avutil --enable-avresample --enable-avformat --enable-swscale --arch=x86_64 --enable-parser=h264 --enable-decoder='aac,h264,vp8,vp9,gif,vorbis' --enable-demuxer='aac,matroska,gif,ogg,mov' --enable-hwaccels --enable-dxva2 --disable-decoder=mpeg1video --disable-decoder=mpeg2video --disable-decoder=vc1 --disable-decoder=h263 --enable-libvpx
+libswscale license: LGPL version 2.1 or later
+Unknown format
+libswscale/utils.c
+Cannot allocate memory.
+SwScaler: reducing / aligning filtersize %d -> %d
+%s is not supported as input pixel format
+%s is not supported as output pixel format
+Exactly one scaler algorithm must be chosen
+%dx%d -> %dx%d is invalid scaling dimension
+%s output is not supported with half chroma resolution, switching to full
+full chroma interpolation for destination format '%s' not yet implemented
+using unscaled %s -> %s special converter
+FAST_BILINEAR scaler, 
+BILINEAR scaler, 
+BICUBIC scaler, 
+Experimental scaler, 
+Nearest Neighbor / POINT scaler, 
+Area Averaging scaler, 
+luma BICUBIC / chroma BILINEAR scaler, 
+Gaussian scaler, 
+Sinc scaler, 
+Lanczos scaler, 
+Bicubic spline scaler, 
+ehh flags invalid?! 
+from %s to %s%s 
+using C
+%dx%d -> %dx%d
+lum srcW=%d srcH=%d dstW=%d dstH=%d xInc=%d yInc=%d
+chr srcW=%d srcH=%d dstW=%d dstH=%d xInc=%d yInc=%d
+c:\buildslave\libav_win32\build\dev\libswscale/swscale_internal.h
+No accelerated colorspace conversion found from %s to %s.
+libswscale/yuv2rgb.c
+%ibpp not supported by yuv2rgb
+?UUUUUU
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+?UUUUUU
+CorExitProcess
+@^8U)zj
+?8bunz8
+?@En[vP
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+SystemFunction036
+_nextafter
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+c:\buildslave\libav_win32\build\dev\libswscale\libswscale-3.pdb
+libswscale-3.dll
+sws_addVec
+sws_allocVec
+sws_alloc_context
+sws_cloneVec
+sws_context_class
+sws_convVec
+sws_convertPalette8ToPacked24
+sws_convertPalette8ToPacked32
+sws_format_name
+sws_freeContext
+sws_freeFilter
+sws_freeVec
+sws_getCachedContext
+sws_getCoefficients
+sws_getColorspaceDetails
+sws_getConstVec
+sws_getContext
+sws_getDefaultFilter
+sws_getGaussianVec
+sws_getIdentityVec
+sws_get_class
+sws_init_context
+sws_isSupportedEndiannessConversion
+sws_isSupportedInput
+sws_isSupportedOutput
+sws_normalizeVec
+sws_printVec2
+sws_rgb2rgb_init
+sws_scale
+sws_scaleVec
+sws_setColorspaceDetails
+sws_shiftVec
+sws_subVec
+swscale_configuration
+swscale_license
+swscale_version
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+avpriv_strtod
+avpriv_snprintf
+av_pix_fmt_desc_get
+avpriv_emms_yasm
+av_get_pix_fmt_name
+av_get_cpu_flags
+av_opt_set_defaults
+av_get_bits_per_pixel
+av_pix_fmt_swap_endianness
+av_malloc_tracked
+av_free
+av_mallocz_tracked
+av_freep
+libavutil-54.dll
+IsProcessorFeaturePresent
+GetCommandLineA
+GetCurrentThreadId
+EncodePointer
+DecodePointer
+GetLastError
+ExitProcess
+GetModuleHandleExW
+GetProcAddress
+AreFileApisANSI
+MultiByteToWideChar
+WideCharToMultiByte
+SetConsoleCtrlHandler
+IsDebuggerPresent
+SetLastError
+GetCurrentThread
+GetProcessHeap
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetStartupInfoW
+GetModuleFileNameA
+HeapFree
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+CreateEventW
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetTickCount
+GetModuleHandleW
+CreateSemaphoreW
+RtlUnwindEx
+EnterCriticalSection
+LeaveCriticalSection
+FatalAppExitA
+WriteFile
+GetModuleFileNameW
+FreeLibrary
+LoadLibraryExW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+RaiseException
+HeapAlloc
+HeapReAlloc
+OutputDebugStringW
+HeapSize
+GetDateFormatW
+GetTimeFormatW
+CompareStringW
+LCMapStringW
+GetLocaleInfoW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+GetStringTypeW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetStdHandle
+SetFilePointerEx
+WriteConsoleW
+CloseHandle
+CreateFileW
+KERNEL32.dll

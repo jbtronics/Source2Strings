@@ -1,0 +1,3431 @@
+Release
+rendersystemdx11
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\threadtools.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\colorformatdx11.cpp
+DXGIFormatToImageFormat
+<need "-dev">
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\indexbufferbase.cpp
+CIndexBufferBase::AllocateBackingStore
+!m_pBackingStore
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\indexbufferbase.h
+CIndexBufferBase::GetIndexSize
+GetBufferType() != RENDER_BUFFER_TYPE_DYNAMIC
+CIndexBufferDx11::Allocate
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\indexbufferdx11.cpp
+*** IB "%s": Failed to allocate!
+CIndexBufferDx11::Lock
+!m_bIsLocked && ( nMaxSizeInBytes != 0 ) && ( nMaxSizeInBytes <= m_nBufferSize )
+*** IB "%s": Tried to lock a non integral number of indices!
+*** IB "%s": Tried to lock twice without an unlock!
+*** IB "%s": Tried to lock too much memory (%d>%d)!
+*** IB "%s": Tried to lock a static buffer twice!
+*** IB "%s": Tried to lock a GPU-only buffer!
+CIndexBufferDx11::Lock() pContext->Map()
+*** IB "%s": Failed to lock!
+CIndexBufferDx11::Unlock
+( GetBufferType() == RENDER_BUFFER_TYPE_DYNAMIC ) || ( ( nWrittenSizeInBytes % m_nIndexSize ) == 0 )
+nWrittenSizeInBytes <= m_nBufferSize
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\inputlayoutbase.cpp
+CInputLayoutBase::Release
+m_nRef > 0
+%s_%d_%d_%d_%d
+<unknown layout>
+IL "%s": Unable to create input layout for shader!
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Failed to on-demand compile shader
+ForceLoadShader
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\forceloadshaderdx11.h
+shader thread state machine violation
+trying to bind a deleted shader
+MemAllocClassName
+rendersystemdx11.dll
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\occlusionquerymgr.cpp
+COcclusionQueryMgr::DestroyOcclusionQueryObject
+m_OcclusionQueryObjects.IsValidIndex( h )
+COcclusionQueryMgr::ResetOcclusionQueryObject
+COcclusionQueryMgr::BeginOcclusionQueryDrawing
+blocking issue in occlusion queries! Grab brian!
+COcclusionQueryMgr::EndOcclusionQueryDrawing
+COcclusionQueryMgr::OcclusionQuery_IssueNumPixelsRenderedQuery
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlfixedmemory.h
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> >::operator []
+IsIdxValid(i)
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utllinkedlist.h
+CUtlLinkedList<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> > >::RemoveAll
+m_Head == InvalidIndex()
+m_Tail == InvalidIndex()
+m_FirstFree == InvalidIndex()
+m_ElementCount == 0
+CUtlLinkedList<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> > >::Free
+IsValidIndex(elem) && IndexInRange( elem )
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> >::Next
+IsValidIterator( it )
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> >::GetIndex
+CUtlLinkedList<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> > >::LinkBefore
+IsValidIndex(elem)
+CUtlLinkedList<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> > >::Unlink
+CUtlLinkedList<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> > >::AllocInternal
+m_Memory.IsValidIterator( m_LastAlloc ) || m_ElementCount == 0
+m_Memory.IsValidIterator( it )
+CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> >::IsIdxAfter
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct COcclusionQueryMgr::OcclusionQueryObject_t,__int64> >::Grow
+n * nBlockSize >= num
+( n - 1 ) * nBlockSize < num
+CUtlFixedMemory overflow!
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\tslist.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\commandstreambuilder.h
+CCommandStreamBuilder::EnsureCapacity
+nNumBytes < (int)( CCommandStream::ChunkSize() - sizeof( CommandJump_t ) )
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\rendercontextbase.h
+CRenderContextBase::GetAttributesForModify
+!m_bLockAttributes
+Prevent state leakage: Do not modify rendercontext's attributes when doing local rendering.
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\rendercontextbase.cpp
+CRenderContextBase::SetViewports
+nCount >= 0 && nCount < ARRAYSIZE(m_pViewports)
+CRenderContextBase::GetViewport
+nViewport >= 0 && nViewport < g_pRenderHardwareConfigImp->MaxViewports( )
+CRenderContextBase::SetSamplerStateVS
+nSamplerIndex >= 0 && nSamplerIndex < ARRAYSIZE( m_SamplerStates[0] )
+CRenderContextBase::SetSamplerStatePS
+nSamplerIndex >= 0 && nSamplerIndex < ARRAYSIZE(m_SamplerStates[0])
+CRenderContextBase::GetDynamicConstantBuffer
+Client Rendering
+CRenderContextBase::GetDynamicConstantBuffer
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\rendercontextbase.cpp
+rendersystemdx11
+nBucket < ARRAYSIZE( g_pRenderDeviceBase->m_DynamicConstantBufferPools )
+CRenderContextBase::Present
+CRenderContextBase::Flush
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\renderthreadbase.h
+LoadCmd
+cmd.m_nCmdSizeInBytes >= sizeof(T)
+CUtlMemory::Grow
+Unaccounted
+CUtlMemory<struct CRenderDeviceBase::FencedConstantBufferSet_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<class CDependencyDescriptor *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> >::operator []
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\texturebits.h
+CTextureDesc::GetArrayCount
+( ( m_nFlags & TSPEC_VOLUME_TEXTURE ) == 0 ) || ( ( m_nFlags & TSPEC_TEXTURE_ARRAY ) == 0 )
+( ( m_nFlags & (TSPEC_VOLUME_TEXTURE|TSPEC_TEXTURE_ARRAY) ) != 0 ) || ( m_nDepth == 1 )
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\vertexbufferbase.h
+CVertexBufferBase::GetVertexSize
+D3DOK_NOAUTOGEN
+D3DERR_CONFLICTINGRENDERSTATE
+D3DERR_CONFLICTINGTEXTUREFILTER
+D3DERR_CONFLICTINGTEXTUREPALETTE
+D3DERR_DEVICELOST
+D3DERR_DEVICENOTRESET
+D3DERR_DRIVERINTERNALERROR
+D3DERR_INVALIDCALL
+D3DERR_INVALIDDEVICE
+D3DERR_MOREDATA
+D3DERR_NOTAVAILABLE
+D3DERR_NOTFOUND
+D3DERR_OUTOFVIDEOMEMORY
+D3DERR_TOOMANYOPERATIONS
+D3DERR_UNSUPPORTEDALPHAARG
+D3DERR_UNSUPPORTEDALPHAOPERATION
+D3DERR_UNSUPPORTEDCOLORARG
+D3DERR_UNSUPPORTEDCOLOROPERATION
+D3DERR_UNSUPPORTEDFACTORVALUE
+D3DERR_UNSUPPORTEDTEXTUREFILTER
+D3DERR_WRONGTEXTUREFORMAT
+DXGI_ERROR_DEVICE_REMOVED
+E_INVALIDARG
+E_OUTOFMEMORY
+Undefined D3D Error (0x%08X)!
+ERROR! D3D call failed! hr = %s ( %s )
+*** Run with -dx11debug to see native D3D errors!
+Texture manager doesn't know about texture "%s" - returning error texture in CTextureManagerDx11::GetResourceView
+Bad texture dimension type for texture "%s" - returning error texture in CTextureManagerDx11::GetResourceView
+Texture missing shader resource view - returning error texture in CTextureManagerDx11::GetResourceView
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\texturedx11.h
+CTextureManagerDx11::GetResourceViewForMipLevel
+nDim >= 0 && nDim < ARRAYSIZE( m_pErrorTexture )
+CTextureManagerDx11::GetTextureResource
+nDim >= 0 && nDim < ARRAYSIZE ( m_pErrorTexture )
+returning error texture in CTextureManagerDx11::GetTextureResource
+CTextureManagerDx11::GetRenderTargetViewForArraySlice
+nSlice < pTexture->m_nInternalHandle.GetSpec()->GetArrayCount()
+CTextureManagerDx11::GetDepthStencilViewForArraySlice
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\vertexdata.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\indexdata.h
+CIndexDataBase<unsigned short>::Index2
+m_pMemory
+( m_nIndexIncrement == 0 ) || ( m_nIndexCount < m_nMaxIndexCount - 1 )
+couldn't create deferred context - death!
+CRenderContextDx11::CRenderContextDx11
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\rendercontextdx11.cpp
+CRenderContextDx11::LockDynamicVertexBuffer
+VB "%s" : Attempted to create too big of a dynamic vertex buffer!
+	Max size allowed : %d Requested : %d
+g_pRenderDeviceDx11->GetVertexBuffer( vb.m_hVertexBuffer )
+CRenderContextDx11::FindDynamicVB
+pVertexBufferDx11->GetBufferType() == RENDER_BUFFER_TYPE_DYNAMIC
+CRenderContextDx11::UnlockDynamicVertexBuffer
+CRenderContextDx11::DestroyAllDynamicVertexBuffers
+!vb.m_bLocked
+Forgot to unlock a dynamic vb created by the context!
+CRenderContextDx11::LockDynamicIndexBuffer
+IB "%s" : Attempted to create too big of a dynamic index buffer!
+	Max size allowed : %d Requested : %d
+g_pRenderDeviceDx11->GetIndexBuffer( ib.m_hIndexBuffer )
+CRenderContextDx11::FindDynamicIB
+g_pRenderDeviceDx11->GetIndexBuffer( hIndexBuffer )->GetBufferType() == RENDER_BUFFER_TYPE_DYNAMIC
+CRenderContextDx11::UnlockDynamicIndexBuffer
+CRenderContextDx11::DestroyAllDynamicIndexBuffers
+!ib.m_bLocked
+D3D11::UpdateSubResource(VB)
+D3D11::UpdateSubResource(IB)
+CRenderContextDx11::BeginQuery - Issued a Begin on a non-occlusion query
+CRenderContextDx11::BeginQuery - Bad query or D3D device
+CRenderContextDx11::BeginQuery - Issued on an in-progress query!
+CRenderContextDx11::EndQuery - Bad query or D3D device
+CRenderDeviceDx11::EndQuery - Issued on an in-progress query!
+Attempting to render without calling BindRenderTargets!
+CRenderContextDx11::CheckValidRenderTarget
+CRenderContextDx11_SoftwareCommandLists::BindShader
+CRenderContextDx11::BindShader
+CRenderContextDx11::SetSamplerStatePS
+nSamplerIndex >= 0 && nSamplerIndex < ARRAYSIZE(m_pBoundSamplerStates[0])
+CRenderContextDx11::SetSamplerStateVS
+Incorrect primitive topology for bound shader. Shader expects RENDER_PRIM_%d_CONTROL_POINT_PATCHLIST. Rendering will be corrupt.
+r_draw_first_tri_only
+r_draw_instances
+Unknown primitive type attempted to be drawn - %d
+ComputePrimitiveCount
+CRenderContextDx11::DetachCommandList
+pStream
+D3D::FinishCommandList
+m_pDeferredDeviceContext->FinishCommandList( false, &( pStream->m_pCommandList ) )
+CRenderContextDx11::SetConstantBufferData
+SUCCEEDED( hres )
+HRESULT from ID3D11DeviceContext::Map = %x
+CRenderContextDx11::BindConstantBuffer
+nSlot >= 0 && nSlot < ARRAYSIZE(m_pBoundBuffers[0])
+D3D11::UpdateSubResource(TEX)
+CRenderContextDx11::SetTextureData
+pTextureResource
+NULL pTextureResource passed to SetTextureData!
+( pDataSpec->m_nWidth == nSrcDataWidth || pDataSpec->m_nWidth == pActualSpec->m_nWidth ) && ( pDataSpec->m_nHeight == nSrcDataHeight || pDataSpec->m_nHeight == pActualSpec->m_nHeight ) && ( pDataSpec->m_nDepth == nSrcDataDepth || pDataSpec->m_nDepth == pActualSpec->m_nDepth )
+pDataSpec->m_nWidth == pActualSpec->m_nWidth && pDataSpec->m_nHeight == pActualSpec->m_nHeight && pDataSpec->m_nDepth == pActualSpec->m_nDepth
+nDestSlice < nArrayCount
+bSuccess
+SettextureData failed to convert from format %x to format %x
+LockDynamicTexture not currently implemented in rendersystemdx11
+CRenderContextDx11::ReadTexturePixels
+hTexture != RENDER_TEXTURE_HANDLE_INVALID
+We don't have a custom resolve shader that handles %d samples!
+CRenderContextDx11::ResolveUsingShaders
+resolve
+Don't know how to deal with MSAA!
+CRenderContextDx11::CopyTextureUsingShaders
+CRenderContextDx11:: Cannot resolve from a non-MSAA buffer to an MSAA buffer!
+CRenderContextDx11::CopyTexture
+D3D11ResourceIsTexture( pSrcResource )
+D3D11ResourceIsTexture( pDestResource )
+Texture stats
+r_print_texture_stats
+Textures loaded: %llu
+Texture Memory: %.2f MB
+CVertexDataBase<struct ClearVertex_t>::AdvanceVertex
+CVertexDataBase - No storage!
+CVertexDataBase - Tried to advance past the last vertex (%d)
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\renderthreaddx11.h
+CommandSetViewportsDx11_t::Execute
+m_viewPorts[i].m_nVersion == RENDER_VIEWPORT_VERSION
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlstringmap.h
+CUtlStringMap<class CInputLayoutDx11 *,class CUtlSymbolTable>::operator []
+n <= m_Vector.Count()
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::GeometryShader_t,__int64> >::operator []
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::HullShader_t,__int64> >::operator []
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::DomainShader_t,__int64> >::operator []
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::ComputeShader_t,__int64> >::operator []
+CDynamicVertexData<struct ClearVertex_t>::Lock
+this->m_bOkToLock
+Unaccounted
+CUtlMemory<struct CRenderContextBase::DynamicVB_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct CRenderContextBase::DynamicIB_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+RENDER_MULTISAMPLE_NONE
+RENDER_MULTISAMPLE_2X
+RENDER_MULTISAMPLE_4X
+RENDER_MULTISAMPLE_6X
+RENDER_MULTISAMPLE_8X
+RENDER_MULTISAMPLE_16X
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\convar.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\resourcehandle.h
+g_pResourceSystem
+hResource->m_nDeferredCount < hResource->m_nRefCount
+ResourceReleaseNoDelete
+nRefCount >= 0
+WARNING: Trying to create a CRenderContextPtr without a valid context.
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.h
+CTextureBase::PinInMemory
+ThreadInMainThread()
+CTextureBase::UnpinInMemory
+m_nInternalHandle.GetPinCount() > 0
+CTextureBase::GetPinCount
+CTextureManagerBase::GetNumTextureLoadsInFlight
+m_nTextureLoadsInFlight >= 0
+CVertexBufferBase::GetVertexCapacity
+CIndexBufferBase::GetIndexCapacity
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\renderdevicebase.h
+CRenderDeviceBase::GetDeviceSpecificTexture
+Display GPU memory usage.
+r_gpu_mem_stats
+0: Bilinear, 1: Trilinear, 2: Aniso 2x, 3: Aniso 4x, 4: Aniso 8x, 5: Aniso 16x
+r_texturefilteringquality
+Screen Gamma (only in fullscreen modes)
+r_fullscreen_gamma
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\renderdevicebase.cpp
+CRenderDeviceBase::PerFrameCleanup
+CRenderDeviceBase::OnPresentSubmitted
+CRenderDeviceBase::OnPresentCompleted
+CRenderDeviceBase::ResizeEngineWindow
+actualMode.HasUsageType()
+CRenderDeviceBase::Present
+Present (Frm: %d)
+CRenderDeviceBase::Present(398): 
+CRenderDeviceBase::Flush
+CRenderDeviceBase::Flush(418): 
+CRenderDeviceBase::ForceFlushGPU(435): 
+CRenderDeviceBase::CreateConstantBufferInternal
+Client Rendering
+CRenderDeviceBase::CreateConstantBufferInternal
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\renderdevicebase.cpp
+rendersystemdx11
+nNumBytes <= 256 * ( sizeof( float ) * 4 )
+CRenderDeviceBase::CreateConstantBuffer(663): 
+ Can't specify initial state of dynamic constant buffers at creation time!
+CRenderDeviceBase::CreateConstantBuffer
+CRenderDeviceBase::FindOrCreateTexture
+pResourceName == NULL || V_stristr( pResourceName, ":" ) == NULL
+FindOrCreateTexture: Texture usage is unspecified!
+FindOrCreateTexture: Texture scope is unspecified!
+FindOrCreateTexture: Only dynamic textures can have non-global scope!
+FindOrCreateTexture: Cannot create static textures with no data!
+CRenderDeviceBase::FindOrCreateTexture(750): 
+FindOrCreateTexture: Cannot load multiple mipmaps into cubemap texture: %s
+CRenderDeviceBase::FindOrCreateTexture: Trying to load multiple mipmaps into 3d or array texture: %s
+nSliceSize * nSlices == nDataSize
+RENDER_MULTISAMPLE_INVALID
+<unknown multisample type
+GPU Pipeline statistics: VCONCOMM's outgoing message queue is too large (%u ) - dropping frame.
+VB: %d buffers, %.2f MB
+IB: %d buffers, %.2f MB
+CB: %u buffers, %.2f MB
+TEX: %u textures, %.2f MB
+TOTAL: %.2f MB
+CRenderDeviceBase::GetSwapChainFromTexture
+Hitch alert: Present was waiting for %d iterations and %.1f seconds.
+CSwapChainBase::QueuePresentAndWait
+PresentWait(%d)
+CSwapChainBase::WaitForOutstandingPresents
+CPipelineFence::AddRef
+m_nRefCount.GetRaw() > 0
+CPipelineFence::WaitCompleted
+CRenderDeviceBase::AllocatePooledBackingStore
+( ( poolType == POOLED_BACKING_STORE_VERTEX_BUFFER ) && ( nSize == RENDER_BUFFER_DYNAMIC_VERTEX_FIXED_SIZE ) ) || ( ( poolType == POOLED_BACKING_STORE_INDEX_BUFFER ) && ( nSize == RENDER_BUFFER_DYNAMIC_INDEX_FIXED_SIZE ) )
+m_pOwner && m_Func
+m_pOwner && m_CompletionFunc
+CTSQueue: Misaligned queue
+CTSQueue<class CFunctor *,0>::CTSQueue
+CTSQueue<class CFunctor *,0>::~CTSQueue
+m_Count == 0
+m_Head.value.pNode == m_Tail.value.pNode
+m_Head.value.pNode->pNext == End()
+CTSQueue<struct VertexBufferHandle_t__ *,0>::CTSQueue
+CTSQueue<struct VertexBufferHandle_t__ *,0>::~CTSQueue
+CTSQueue<struct IndexBufferHandle_t__ *,0>::CTSQueue
+CTSQueue<struct IndexBufferHandle_t__ *,0>::~CTSQueue
+CConCommandMemberAccessor<class CRenderDeviceBase>::CommandCallback
+CConCommandMemberAccessor<class CRenderDeviceBase>::CommandCompletionCallback
+CTSQueue<class CFunctor *,0>::Purge
+CTSQueue<struct VertexBufferHandle_t__ *,0>::Purge
+CTSQueue<struct IndexBufferHandle_t__ *,0>::Purge
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\byteswap.h
+CByteswap::SwapBufferToTargetEndian
+count >= 0
+outputBuffer
+CUtlLinkedList<class CSwapChainBase *,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> > >::RemoveAll
+CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> >::Next
+CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> >::GetIndex
+CUtlLinkedList<class CSwapChainBase *,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> > >::Free
+CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> >::IsIdxAfter
+CUtlLinkedList<class CSwapChainBase *,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> > >::LinkBefore
+CUtlLinkedList<class CSwapChainBase *,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> > >::Unlink
+CUtlLinkedList<class CSwapChainBase *,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> > >::AllocInternal
+Unaccounted
+CUtlMemory<class IMaxSwapChainDimensionsChangedListener *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct ConstantBuffer_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+CUtlFixedMemory<struct UtlLinkedListElem_t<class CSwapChainBase *,__int64> >::Grow
+struct VS_INPUT									{														float3 vProjPos					: POSITION0;		float4 vColor					: COLOR0;		};																										struct VS_OUTPUT									{														float4 vColor					: COLOR;			float4 vProjPos					: SV_POSITION;	};																										VS_OUTPUT main( const VS_INPUT v )					{														VS_OUTPUT o = ( VS_OUTPUT )0;																			o.vProjPos.xyz = v.vProjPos;						o.vProjPos.w = 1.0;									o.vColor = v.vColor;								return o;										}													
+struct PS_INPUT									{														float4 vColor					: COLOR;		};																										float4 main( const PS_INPUT i )	: SV_TARGET0	{														return i.vColor;                                }													
+struct PS_INPUT { 	float4 vColor					: COLOR; 	float4 vProjPos					: SV_POSITION; }; Texture2D <float4> g_tSrcTexture : register( t0 );
+cbuffer CopyPixelShaderParams_t
+	uint g_nWidth;
+	uint g_nHeight;
+float4 main( const PS_INPUT i )	: SV_TARGET0
+	int2 vSamplePos = i.vProjPos;
+	int nMipLevel = 0;
+	int3 coord;
+	uint nWidth;
+	nWidth = 512;
+	coord.xy = i.vProjPos.xy;
+	coord.x = g_nWidth - coord.x - 1;
+	coord.z = nMipLevel;
+	return g_tSrcTexture.Load( coord, int2( 0, 0 ) );
+struct PS_INPUT { 	float4 vColor					: COLOR; 	float4 vProjPos					: SV_POSITION; }; Texture2D <float4> g_tSrcTexture : register( t0 );
+cbuffer CopyPixelShaderParams_t
+	uint g_nWidth;
+	uint g_nHeight;
+float4 main( const PS_INPUT i )	: SV_TARGET0
+	int2 vSamplePos = i.vProjPos;
+	int nMipLevel = 0;
+	int3 coord;
+	coord.xy = i.vProjPos.xy;
+	coord.y = g_nHeight - coord.y - 1;
+	coord.z = nMipLevel;
+	return g_tSrcTexture.Load( coord, int2( 0, 0 ) );
+struct PS_INPUT { 	float4 vTexCoordScaleOffset		: COLOR; 	float4 vProjPos					: SV_POSITION; }; Texture2DMS <float4, NUM_SAMPLES> g_tMSAASrctexture : register( t0 );
+float4 main( const PS_INPUT i )	: SV_TARGET0
+    int2 vSamplePos = ( i.vProjPos.xy + i.vTexCoordScaleOffset.zw );
+    float4 vSumOfARGB = float4( 0, 0, 0, 0 );
+    [unroll] for( int nSample = 0; nSample < NUM_SAMPLES; nSample++ )
+		vSumOfARGB += g_tMSAASrctexture.Load( vSamplePos, nSample, int2( 0, 0 ) );
+	return vSumOfARGB * ( 1.0 / NUM_SAMPLES ); 
+struct PS_INPUT { 	float4 vTexCoordScaleOffset		: COLOR; 	float4 vProjPos					: SV_POSITION; }; Texture2D<float4> g_tSrctexture : register( t0 );
+float4 main( const PS_INPUT i )	: SV_TARGET0
+    int2 vSamplePos = ( i.vProjPos.xy + i.vTexCoordScaleOffset.zw );
+    return g_tSrctexture.Load( int3( vSamplePos, 0 ) );
+struct PS_INPUT { 	float4 vTexCoordScaleOffset		: COLOR; 	float4 vProjPos					: SV_POSITION; }; Texture2DMS <float4, NUM_SAMPLES> g_tMSAASrctexture : register( t0 );
+float main( const PS_INPUT i )	: SV_DEPTH
+    int2 vSamplePos = ( i.vProjPos.xy + i.vTexCoordScaleOffset.zw );
+    float fSumOfDepth = 0.0;
+    [unroll] for( int nSample = 0; nSample < NUM_SAMPLES; nSample++ )
+		fSumOfDepth += g_tMSAASrctexture.Load( vSamplePos, nSample, int2( 0, 0 ) ).x;
+	return fSumOfDepth * ( 1.0 / NUM_SAMPLES ); 
+struct PS_INPUT { 	float4 vTexCoordScaleOffset		: COLOR; 	float4 vProjPos					: SV_POSITION; }; Texture2D<float4> g_tSrctexture : register( t0 );
+float main( const PS_INPUT i )	: SV_DEPTH
+    int2 vSamplePos = ( i.vProjPos.xy + i.vTexCoordScaleOffset.zw );
+    return g_tSrctexture.Load( int3( vSamplePos, 0 ) ).x;
+APPLICATION_DEFINED
+MISCELLANEOUS
+INITIALIZATION
+CLEANUP
+COMPILATION
+STATE_CREATION
+STATE_SETTING
+STATE_GETTING
+RESOURCE_MANIPULATION
+EXECUTION
+CORRUPTION!!! 
+ERROR!!! 
+SHADER_MODEL_4
+PLATFORM_WINDOWS
+PLATFORM_WINDOWS_PC
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\functors.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\stronghandle.h
+Job: %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\vstdlib\jobthread.h
+r_multigpu_num_gpus_found
+r_multigpu_num_gpus_used
+-oldtexturestreaming
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\renderdevicedx11.cpp
+-nomultigpu
+-multigpu
+NVIDIA MultiGPU Rendering - Found support, but not enabled yet
+ALVRInit
+AMD LiquidVR MultiGPU Rendering - Hooked dll, but not enabled yet
+CRenderDeviceDx11::SetMode: Previous mode has not been shut down!
+-dx11debug
+-disable_async_shaders
+NVIDIA MultiGPU Rendering - Device created
+NVIDIA MultiGPU Rendering - Enabled!
+NVIDIA MultiGPU Rendering - Found %d GPUs, using %d GPUs
+NVIDIA MultiGPU Rendering - MultiGPUDevice version %d != %d
+NVIDIA MultiGPU Rendering - NvAPI_D3D11_CreateMultiGPUDevice() failed with error %s
+NVIDIA MultiGPU Rendering - Disabled
+AMD LiquidVR MultiGPU Rendering - Enabled!
+AMD LiquidVR MultiGPU Rendering - Found %d GPUs, using %d GPUs
+AMD LiquidVR MultiGPU Rendering - Disabled
+Disable asynchronous shader creation because of an old driver that might crash.
+-noframelatencylimit
+D3D11 maximum frame latency set to %u frames.
+-onethreadpool
+Async Shader Compile
+Error creating the clearing vertex shader!
+CRenderDeviceDx11::CreateDefaultShaders
+Error creating the clearing pixel shader!
+ClearLayout
+-swap_chain_as_is
+CSwapChainDx11::GetClosestMatchingModeDesc
+g_pRenderDeviceDx11 && D3D11Output()
+Error calling IDXGIOutput::FindClosestMatchingMode()!
+CSwapChainDx11::CreateSwapChain
+Error! CreateSwapChain() == DXGI_STATUS_OCCLUDED! Full screen mode is unavailable! This usually happens if you change focus immediately after launching before your window is created.
+Error! CreateSwapChain() == E_OUTOFMEMORY!
+Error! CreateSwapChain() != S_OK. hr = 0x%08x
+pDevice->CreateDepthStencilView( m_pDepthStencilTexture, &descDSV, &pView )
+m_pSwapChain->ResizeTarget( &modeDescClosestMatch )
+m_pSwapChain->ResizeBuffers( m_Mode.m_nBackBufferCount, modeDescClosestMatch.Width, modeDescClosestMatch.Height, modeDescClosestMatch.Format, nFlags )
+CRenderDeviceDx11::UpdatePipelineStats(1288): 
+Failed initializing render pipeline stats!
+Pipeline stats initialized
+Pipeline stats shutdown
+CRenderDeviceDx11::ReadTexturePixels
+CRenderDeviceDx11::ReadTexturePixels(1358): 
+D3D11RenderThread
+SubmitCmdLists(numlists %d)
+Dx10 Driver!
+CRenderDeviceDx11::PerFrameCleanup
+SetHardwareGammaRamp( %f )
+CRenderDeviceDx11::SetHardwareGammaRamp: Unable to set gamma controls!
+Shader compilation failed! Reported the following errors:
+Shader compilation failed! Reported no errors.
+This shader says it isn't in the queue, but we found it there!
+CRenderDeviceDx11::ProcessCompileShaderJob
+!FAILED( hr )
+state machine violation - someone changed status while we were compiling
+Bad state seen for shader in compilation job
+Async shader compile
+Failed to create D3D11 geometry shader!
+CRenderDeviceDx11::DestroyGeometryShader
+(m_GeometryShaderDict[ i ].m_pShader->Release()) == (0)
+(m_GeometryShaderDict[ i ].m_pInfo->Release()) == (0)
+Failed to create D3D11 hull shader!
+CRenderDeviceDx11::DestroyHullShader
+(m_HullShaderDict[ i ].m_pShader->Release()) == (0)
+(m_HullShaderDict[ i ].m_pInfo->Release()) == (0)
+Failed to create D3D11 domain shader!
+CRenderDeviceDx11::DestroyDomainShader
+(m_DomainShaderDict[ i ].m_pShader->Release()) == (0)
+(m_DomainShaderDict[ i ].m_pInfo->Release()) == (0)
+Failed to create D3D11 compute shader!
+CRenderDeviceDx11::DestroyComputeShader
+(m_ComputeShaderDict[ i ].m_pShader->Release()) == (0)
+(m_ComputeShaderDict[ i ].m_pInfo->Release()) == (0)
+CRenderDeviceDx11::GetCopyWithFlipPixelShader
+( nFlags & COPY_TEXTURE_FLAGS_FLIP_X ) || ( nFlags & COPY_TEXTURE_FLAGS_FLIP_Y )
+!( ( nFlags & COPY_TEXTURE_FLAGS_FLIP_X ) && ( nFlags & COPY_TEXTURE_FLAGS_FLIP_Y ) )
+error creating copy/flip shader
+CRenderDeviceDx11::GetResolvePixelShader
+nIndex < ARRAYSIZE( m_hResolvePixelShaders )
+NUM_SAMPLES
+error creating resolve shader for %d sampels
+Failed to create D3D11 pixel shader!
+Failed to create D3D11 vertex shader!
+PooledDynamicVB
+invalid handle
+PooledDynamicIB
+CRenderDeviceDx11::DeleteQueryObject(2906): 
+pDevice->CreateBuffer( &desc, NULL, &( pBuf->m_pBuffer ) )
+D3D11Device()->CreateRasterizerState( &d3dRsDesc, &( pNew->m_pD3DRasterizerStates[nHandedness] ) )
+D3D11Device()->CreateDepthStencilState( &dsDesc, &pDsState )
+D3D11Device()->CreateBlendState( &blendDesc, &pBlendState )
+D3D11Device()->CreateSamplerState( &samplerDesc, &pRet )
+%s%s [%s]
+ID3D11DeviceContext::UpdateSubresource: Empty pDstBox means nothing will get copied.
+ID3D11DeviceContext::UpdateSubresource: UpdateSubresource has been called on a deferred context with a pDstBox starting at a non-zero offset
+(Repeated %dx) 
+TEXTURESTREAMING: Filled %d fallback textures in %.3f ms
+CTSQueue<class CVertexBufferDx11 *,0>::CTSQueue
+CTSQueue<class CVertexBufferDx11 *,0>::~CTSQueue
+CTSQueue<class CIndexBufferDx11 *,0>::CTSQueue
+CTSQueue<class CIndexBufferDx11 *,0>::~CTSQueue
+CSemiAutoRWLockT<class CThreadRWLock_FastRead>::LockForWrite
+CSemiAutoRWLockT<class CThreadRWLock_FastRead>::Unlock
+CTSQueue<class CVertexBufferDx11 *,0>::Purge
+CTSQueue<class CIndexBufferDx11 *,0>::Purge
+CStrongHandle<struct InfoForResourceTypeCTextureBase>::Shutdown
+g_pResourceHandleUtils
+Encountered too many releases for resource "%s"
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\inputlayoutbase.h
+CInputLayoutDict<class CInputLayoutDx11>::CreateInputLayout
+nFieldCount <= RENDER_SYSTEM_MAX_INPUT_LAYOUT_ELEMENTS
+*** IL "%s": Unable to create input layout; layout has %d fields, which is more than %d!
+*** IL "%s": Unable to create input layout, duplicate name encountered!
+CInputLayoutDict<class CInputLayoutDx11>::DestroyInputLayout
+pLayout
+CInputLayoutDict<class CInputLayoutDx11>::ConcatentateInputLayouts
+nTotalFieldCount <= RENDER_SYSTEM_MAX_INPUT_LAYOUT_ELEMENTS - 3
+%s: Can't concatenate input layouts with more than %d fields total!
+nTotalFieldCount == nStaticFieldsUsed
+CreateShader
+tried to delete shader twice
+DestroyShader
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlrbtree.h
+CUtlRBTree<struct CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::Find
+!!m_LessFunc
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlintrusivelist.h
+IntrusiveList::RemoveFromDList
+which->m_pPrev->m_pNext==which
+which->m_pNext->m_pPrev==which
+head->m_pPrev==which
+(void *)m_pObject != NULL
+CMemberFuncProxyBase<class CRenderDeviceDx11 *,void (__cdecl CRenderDeviceDx11::*)(class BaseGPUShader_t *),class CFuncMemPolicyNone>::OnCall
+CUtlLinkedList<struct CRenderDeviceDx11::GeometryShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::GeometryShader_t,__int64> > >::RemoveAll
+CUtlLinkedList<struct CRenderDeviceDx11::GeometryShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::GeometryShader_t,__int64> > >::Free
+CUtlLinkedList<struct CRenderDeviceDx11::HullShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::HullShader_t,__int64> > >::RemoveAll
+CUtlLinkedList<struct CRenderDeviceDx11::HullShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::HullShader_t,__int64> > >::Free
+CUtlLinkedList<struct CRenderDeviceDx11::DomainShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::DomainShader_t,__int64> > >::RemoveAll
+CUtlLinkedList<struct CRenderDeviceDx11::DomainShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::DomainShader_t,__int64> > >::Free
+CUtlLinkedList<struct CRenderDeviceDx11::ComputeShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::ComputeShader_t,__int64> > >::RemoveAll
+CUtlLinkedList<struct CRenderDeviceDx11::ComputeShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::ComputeShader_t,__int64> > >::Free
+CUtlLinkedList<class VertexShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<class VertexShader_t,__int64> > >::RemoveAll
+CUtlRBTree<struct CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+IntrusiveList::AddToDTailWithTailPtr
+IntrusiveList::RemoveFromDListWithTailPtr
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::GeometryShader_t,__int64> >::Next
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::GeometryShader_t,__int64> >::GetIndex
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::HullShader_t,__int64> >::Next
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::HullShader_t,__int64> >::GetIndex
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::DomainShader_t,__int64> >::Next
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::DomainShader_t,__int64> >::GetIndex
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::ComputeShader_t,__int64> >::Next
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::ComputeShader_t,__int64> >::GetIndex
+CUtlFixedMemory<struct UtlLinkedListElem_t<class VertexShader_t,__int64> >::Next
+CUtlFixedMemory<struct UtlLinkedListElem_t<class VertexShader_t,__int64> >::GetIndex
+m_Root == InvalidIndex()
+m_NumElements == 0
+Unaccounted
+CUtlMemory<struct CRenderDeviceDx11::ShaderWaitEntry_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+CUtlLinkedList<struct CRenderDeviceDx11::GeometryShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::GeometryShader_t,__int64> > >::LinkBefore
+CUtlLinkedList<struct CRenderDeviceDx11::GeometryShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::GeometryShader_t,__int64> > >::Unlink
+CUtlLinkedList<struct CRenderDeviceDx11::GeometryShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::GeometryShader_t,__int64> > >::AllocInternal
+CUtlLinkedList<struct CRenderDeviceDx11::HullShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::HullShader_t,__int64> > >::LinkBefore
+CUtlLinkedList<struct CRenderDeviceDx11::HullShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::HullShader_t,__int64> > >::Unlink
+CUtlLinkedList<struct CRenderDeviceDx11::HullShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::HullShader_t,__int64> > >::AllocInternal
+CUtlLinkedList<struct CRenderDeviceDx11::DomainShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::DomainShader_t,__int64> > >::LinkBefore
+CUtlLinkedList<struct CRenderDeviceDx11::DomainShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::DomainShader_t,__int64> > >::Unlink
+CUtlLinkedList<struct CRenderDeviceDx11::DomainShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::DomainShader_t,__int64> > >::AllocInternal
+CUtlLinkedList<struct CRenderDeviceDx11::ComputeShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::ComputeShader_t,__int64> > >::LinkBefore
+CUtlLinkedList<struct CRenderDeviceDx11::ComputeShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::ComputeShader_t,__int64> > >::Unlink
+CUtlLinkedList<struct CRenderDeviceDx11::ComputeShader_t,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::ComputeShader_t,__int64> > >::AllocInternal
+Unaccounted
+CUtlMemory<class CVertexBufferDx11 *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct CRenderDeviceDx11::FencedVertexBufferRelease_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<class CIndexBufferDx11 *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct CRenderDeviceDx11::FencedIndexBufferRelease_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct D3DMsgInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+CUtlRBTree<struct CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+m_Elements.IsValidIterator( m_LastAlloc ) || m_NumElements == 0
+m_Elements.IsValidIterator( it )
+m_Elements.IsValidIterator( m_LastAlloc )
+CUtlRBTree<struct CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::GeometryShader_t,__int64> >::IsIdxAfter
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::HullShader_t,__int64> >::IsIdxAfter
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::DomainShader_t,__int64> >::IsIdxAfter
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::ComputeShader_t,__int64> >::IsIdxAfter
+CUtlFixedMemory<struct UtlLinkedListElem_t<class VertexShader_t,__int64> >::IsIdxAfter
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::GeometryShader_t,__int64> >::Grow
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::HullShader_t,__int64> >::Grow
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::DomainShader_t,__int64> >::Grow
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CRenderDeviceDx11::ComputeShader_t,__int64> >::Grow
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<unsigned char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct ALVRGpuSemaphore *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<class CInputLayoutDx11 *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+RenderSystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\renderdevicemgrbase.cpp
+video.cfg
+VNewAsyncFileSystem001
+filesystem_stdio
+ResourceSystem009
+resourcesystem
+ConfigurationSystem_001
+configurationsystem
+Localize_001
+localize
+EventSystem001
+vstdlib
+CRenderDeviceMgrBase::GetHardwareCaps
+( nAdapter >= 0 ) && ( nAdapter < GetAdapterCount() )
+VendorID
+MinDeviceID
+MaxDeviceID
+min megabytes
+max megabytes
+min megatexels
+max megatexels
+-ignoredxsupportcfg
+dxsupport
+EXECUTABLE_PATH
+dxsupport.cfg
+setting.MaxDXLevel
+setting.MinDXLevel
+setting.DXLevel
+setting.CentroidHack
+setting.DisableShaderOptimizations
+setting.PreferZPrepass
+setting.SuppressPixelShaderCentroidHackFixup
+setting.PreferTexturesInHWMemory
+setting.PreferHardwareSync
+setting.Unsupported
+setting.HasBrokenPipelineStats
+setting.fullscreen
+setting.coop_fullscreen
+setting.nowindowborder
+setting.mat_vsync
+setting.fullscreen_min_on_focus_loss
+setting.defaultres
+setting.defaultresheight
+setting.shaderquality
+setting.
+(%s): Setting %s to %s
+(%s): ADD %s = %s
+min_processor_count
+max_processor_count
+Can't detect memory size on this platform!
+makemelast
+Video Card %s (%04x : %04x)
+setting.maxdxlevel
+FileKeys
+DeviceID
+cfg\moddefaults.txt
+setting.knowndevice
+setting.recommendedwidth
+setting.recommendedheight
+setting.resettodefaults
+cfg\video.txt
+cfg\video_%02d.txt
+_tools.txt
+-autoconfig
+cfg\videodefaults.txt
+Graphics Device changed, resetting video config
+CRenderDeviceMgrBase::ResetVideoConfig
+g_pApplication->GetGameMode( ) == APPLICATION_IS_GAME
+CRenderDeviceMgrBase::AddModeChangeCallback
+func && m_ModeChangeCallbacks.Find( func ) < 0
+CRenderDeviceMgrBase::AddDeviceEventListener
+pObject && m_DeviceEventListeners.Find( pObject ) == m_DeviceEventListeners.InvalidIndex()
+RenderDevice002
+RenderHardwareConfig002
+Unaccounted
+CUtlMemory<void (__cdecl*)(void),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<class IRenderDeviceEventListener *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct RenderDisplayMode_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+RenderDeviceMgr001
+-suppressdx9
+rendersystemdx9.dll
+VRenderDeviceMgrBackdoor001
+Failed to create the DXGI Factory1!
+Failed to query the DXGI Factory from the DXGI Factory1!
+Failed to create the DXGI Factory!
+Failed to create Dx11 render device!
+CRenderDeviceMgrDx11::Init
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\renderdevicemgrdx11.cpp
+CRenderDeviceMgrDx11::ComputeCapsFromD3D
+-dxwarp
+CRenderDeviceMgrDx11::GetAdapterInfo
+( nAdapter >= 0 ) && ( nAdapter < m_Adapters.Count() )
+CRenderDeviceMgrDx11::GetAdapter
+m_pDXGIFactory && ( nAdapter < GetAdapterCount() )
+CRenderDeviceMgrDx11::GetVidMemBytes
+CRenderDeviceMgrDx11::GetModeCount
+CRenderDeviceMgrDx11::GetModeInfo
+CRenderDeviceMgrDx11::GetCurrentModeInfo
+pOutput->GetDesc( &desc )
+-nomipmaps
+CRenderDeviceMgrDx11::CreateDevice
+nAdapter < GetAdapterCount()
+CreateDevice: Requested DX level %d, clamped to DX level %d
+Unable to set mode! Was unable to load rendersystemdx9.dll and this is a dx9-capable card!
+Unaccounted
+CUtlMemory<struct CRenderDeviceMgrBase::AdapterInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\renderhardwareconfig.cpp
+CRenderHardwareConfig::ForceCapsToDXLevel
+CRenderHardwareConfig::SetupHardwareCaps
+nDXLevel != 0
+Trying to set dxlevel (%d) which is lower than the card can support (%d)!
+Trying to set dxlevel (%d) which is higher than the card can support (%d)!
+-maxdxlevel
+-disallowhwmorph
+CRenderHardwareConfig::SupportsHDR
+Set the TIMESTAMP query cycle multiplier, for drivers that lie
+r_timestamp_query_multiplier
+Experimental: Set to 1 to enable full GPU pipeline flushing after each present.
+r_pipeline_stats_present_flush
+Experimental: Set to 1 to enable full GPU pipeline flushing after each command list.
+r_pipeline_stats_command_flush
+Experimental: Set to 1 to use the ID3D11DeviceContext11::Flush() to flush the GPU pipeline instead of queries.
+r_pipeline_stats_use_flush_api
+Experimental: Set to 1 to enable GPU pipeline flushes right before the render thread sleeps to wait for more work.
+r_pipeline_stats_flush_before_sleeping
+pDevice->CreateQuery( &queryDesc, &m_Pool[i] )
+pDevice->CreateQuery( &queryDesc, &pQuery )
+CRenderPipelineStatsDx11::Init: HasBrokenPipelineStats: %u
+pDevice->CreateQuery( &queryDesc, &m_pTimestampeDisjointQuery )
+CRenderPipelineStatsDx11::Init: Driver does not seem to support TIMESTAMP_DISJOINT queries - assuming 1GHz cycle rate, which may be bogus.
+CRenderPipelineStatsDx11::Init: Driver timestamp clockrate: %I64uHz, effective timestamp clock rate of %I64uHz
+CRenderPipelineStatsDx11::Init: Approximate GPU clockrate: %fHz
+sc_aux_cameras_single_submit
+CRenderPipelineStatsDx11::Init: Driver has indicated the timestamps queries were disjoint, and reported a timestamp rate of %lluHz
+CRenderPipelineStatsDx11::UpdateGPUCounterFreq: Driver timestamp clockrate: %I64uHz, effective timestamp clock rate of %I64uHz
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\renderpipelinestatsdx11.cpp
+CRenderPipelineStatsDx11::BeginCommandListSubmission
+curFrame.m_pSamples->Count() == curFrame.m_pQueries->Count()
+CRenderPipelineStatsDx11::EndCommandListSubmission
+sample.m_nType & RENDER_PIPELINE_SAMPLE_TYPE_INCOMPLETED_FLAG
+Present
+CRenderPipelineStatsDx11::EndPresent
+sample.m_nType == RENDER_PIPELINE_SAMPLE_TYPE_PRESENT
+!curFrame.m_bCompleted
+CRenderPipelineStatsDx11::GetFrameStats
+stats.m_pSamples
+Unaccounted
+CUtlMemory<struct ID3D11Query *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct CRenderPipelineStatsDx11::OutstandingFrame_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<class CRenderPipelineFrameStats,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct RenderPipelineSample_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct CRenderPipelineStatsDx11::SampleQueries_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<class CUtlVector<struct RenderPipelineSample_t,class CUtlMemory<struct RenderPipelineSample_t,int> > *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<class CUtlVector<struct CRenderPipelineStatsDx11::SampleQueries_t,class CUtlMemory<struct CRenderPipelineStatsDx11::SampleQueries_t,int> > *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+CDependencyDescriptor::Satisfy
+m_nNumSubmitsToSatisfy > 0
+Timed out waiting for thread to exit? hung?
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\renderthreadbase.cpp
+CRenderThreadBase::CleanupOnPresent
+pDep->m_nIndexInDevice == i
+Unsatisfied dependency at present time = death!
+NULLDebugString
+CRenderThreadBase::Dispatch() %s
+CTSQueue<struct QueuedDisplayListItem_t,0>::CTSQueue
+CTSQueue<struct QueuedDisplayListItem_t,0>::~CTSQueue
+CTSQueue<struct QueuedDisplayListItem_t,0>::Purge
+IntrusiveList::AddToEndWithTail
+(head && tail) || ((!head) && (!tail))
+CRenderThreadDx11::OnReadPixels(76): Error! NULL texture pointer sent to OnReadPixels()!
+CRenderThreadDx11::OnReadPixels(96): Warning: Failed to create staging texture %d(%x)
+CRenderThreadDx11::OnReadPixels(113): Warning: Failed to create staging texture %d(%x)
+CRenderThreadDx11::OnReadPixels() m_pHardwareDeviceContext->Map()
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\renderthreaddx11.cpp
+CRenderThreadDx11::OnReadPixels(140): Warning: Failed to map staging resource %d (%x)
+Bailing out of OnBlockForQuery after %.3f seconds
+CRenderThreadDx11::OnBlockForQuery
+oldState == RENDER_QUERY_STATE_ISSUED
+OnSetTextureData(%s)
+CRenderThreadDx11::OnServiceFallbackTextureQueue
+CRenderThreadDx11::OnMultiGpuSetGpuMask
+vr_multigpu_skip_transfers
+vr_multigpu_skip_semaphores
+CRenderThreadDx11::OnMultiGpuTransferTexture
+CRenderThreadDx11::OnSetSteamVrCompositorTexture
+rs_submit_twice
+ExecCmdList(Frm %d, Id %d)
+ID3D11Device::ExecuteCommandList
+CRenderThreadDx11::Execute
+state == RENDER_QUERY_STATE_QUEUED
+m_OutstandingQueryList.Find( cmd.m_pQueryObjectInternal ) < 0
+Callback to custom Render() function
+unrec stream cmd %d %x
+CRenderThreadDx11::ManageQueries
+pQuery->m_QueryState == RENDER_QUERY_STATE_ISSUED
+CRenderThreadDx11::VrPrePresent(752): 
+vr_running_start_ms
+VR - Creating DX11 render thread queries...
+VR - ERROR creating pSwapChain->m_pVrQueryImmediateSpin query!
+VR - ERROR creating pSwapChain->m_pVrQueryGpuTimeDisjoint[ %d ] query!
+VR - ERROR creating pSwapChain->m_pVrQueryGpuTime[ %d ] query!
+VR - ERROR creating pSwapChain->m_pVrQueryPresentClear query!
+CRenderThreadDx11::VrPrePresent
+hr == S_OK
+vr_present_spin_on_query
+VR - Warning! Avoiding infinite loop while spinning on the m_pVrQueryPresentClear query!
+vr_present_read_pixel
+SUCCEEDED( hr )
+VR FinishRendering
+VR - Warning! Avoiding infinite loop while spinning on the m_pVrQueryImmediateSpin query!
+CRenderThreadDx11::VrPostPresent(961): 
+CRenderThreadDx11::VrPostPresent
+VR m_pVrQueryGpuTimeDisjoint->GetData() failed! This should never happen since we spun on a query in VrPrePresent() waiting for this frame to finish.
+VR m_pVrQueryGpuTime[0]->GetData() failed! This should never happen since we spun on a query in VrPrePresent() waiting for this frame to finish.
+VR m_pVrQueryGpuTime[1]->GetData() failed! This should never happen since we spun on a query in VrPrePresent() waiting for this frame to finish.
+VR m_pVrQueryGpuTime[2]->GetData() failed! This should never happen since we spun on a query in VrPrePresent() waiting for this frame to finish.
+VR Wait For Running Start
+VR - Warning! Avoiding infinite loop while spinning on running start wait loop!
+VR Compositor WaitGetPoses()
+VR GPU Idle WaitForVSync
+CRenderThreadDx11::PresentInternal
+D3D11::Present, swapchain %s
+VSync %s
+D3D Present() failed with HRESULT == DXGI_ERROR_DEVICE_RESET
+D3D Present() failed with HRESULT == DXGI_ERROR_DEVICE_REMOVED and GetDeviceRemovedReason() == DXGI_ERROR_DEVICE_HUNG
+D3D Present() failed with HRESULT == DXGI_ERROR_DEVICE_REMOVED and GetDeviceRemovedReason() == DXGI_ERROR_DEVICE_REMOVED
+D3D Present() failed with HRESULT == DXGI_ERROR_DEVICE_REMOVED and GetDeviceRemovedReason() == DXGI_ERROR_DEVICE_RESET
+D3D Present() failed with HRESULT == DXGI_ERROR_DEVICE_REMOVED and GetDeviceRemovedReason() == DXGI_ERROR_DRIVER_INTERNAL_ERROR
+D3D Present() failed with HRESULT == DXGI_ERROR_DEVICE_REMOVED and GetDeviceRemovedReason() == DXGI_ERROR_INVALID_CALL
+D3D Present() failed with HRESULT == DXGI_ERROR_DEVICE_REMOVED and GetDeviceRemovedReason() == S_OK
+D3D Present() failed with HRESULT == DXGI_ERROR_DEVICE_REMOVED and GetDeviceRemovedReason() == 0x%x
+D3D Present() failed with HRESULT == 0x%x
+CommandSetConstantBufferDataDX11_t::Execute
+CommandSetConstantBufferDataSmallDX11_t::Execute
+Unaccounted
+CUtlMemory<struct QueryObjectInternal11_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+RenderUtils_001
+sheetcachetexture_.vtex
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\sheetcache.cpp
+SetTexturePixelsForRect
+uiOffset + rc.m_fLeft_U * uiRange >= 0 && uiOffset + rc.m_fLeft_U * uiRange <= 0xFFFF
+uiOffset + rc.m_fTop_V * uiRange >= 0 && uiOffset + rc.m_fTop_V * uiRange <= 0xFFFF
+uiOffset + rc.m_fRight_U * uiRange >= 0 && uiOffset + rc.m_fRight_U * uiRange <= 0xFFFF
+uiOffset + rc.m_fBottom_V * uiRange >= 0 && uiOffset + rc.m_fBottom_V * uiRange <= 0xFFFF
+Overflow of the sheet cache texture. Releasing and starting over. This is ok in asset browser, not so ok if the game is triggering this!
+CSheetDataTextureCache::AllocateAndUploadSequenceData
+rcCropUnion.m_fLeft_U >= 0.0f && rcCropUnion.m_fLeft_U <= 1.0f
+rcCropUnion.m_fRight_U >= 0.0f && rcCropUnion.m_fRight_U <= 1.0f
+rcCropUnion.m_fTop_V >= 0.0f && rcCropUnion.m_fTop_V <= 1.0f
+rcCropUnion.m_fBottom_V >= 0.0f && rcCropUnion.m_fBottom_V <= 1.0f
+Overflow of the sheet cache texture: Try increasing SHEETCACHE_TEXTURE_HEIGHT (current value %d)!
+CSheetDataTextureCache::AllocateAndUploadSequenceData(322): 
+UUUUUU5?
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\iresourcesystem.h
+IResourceTypeManager::GetNonStreamingDataLoadSize
+IResourceTypeManager::LoadStreamingData
+ResourceRelease
+hResource->m_nDeferredCount <= hResource->m_nRefCount
+hResource->m_nDeferredCount > 0
+hResource->m_nRefCount > 0
+hResource->m_nDeferredCount >= 0
+HRenderTexture
+RESOURCE_TYPE_TEXTURE
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\vtex_file_format.h
+VTEX_FormatToRuntime
+VTEX_FormatToRuntime - Invalid VTEX_Format_t: %d
+VTEX_ExtraDataTypeToRuntime
+VTEX_ExtraDataTypeToRuntime - Unsupported ImageFormat: %d
+m_nWidth > 0
+m_nHeight > 0
+TextureSpecification_t::InitFromSpec
+CTextureBase::SpinWaitForFallbackTextureHookup
+Implement me
+CTextureInfoChunkBase::~CTextureInfoChunkBase
+m_nCount == 0
+CTextureManagerBase::HookupFallbackTextureAndQueueTextureBitsCopy
+Implement me!
+Evict all resident texture.
+r_textures_evict_all
+CTextureInfoId::SetStreamingBitsOffset
+nOffset >= 0 && nOffset <= UINT32_MAX
+Total size of the texture pool in MB
+r_texture_pool_size
+Biases the mip level the texture streaming system choses to stream for each texture.
+r_texture_stream_mip_bias
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp
+CTextureBase::Init
+spec.m_nImageFormat != IMAGE_FORMAT_UNKNOWN
+CTextureBase::SetTextureHandle
+m_nInternalHandle.GetResourceHandle() == RENDER_TEXTURE_HANDLE_INVALID
+TEXMAN: Outstanding stream count %d -> %d (%s)
+CTextureBase::ComputeSize
+nDetail == RENDER_TEXTURE_DETAIL_DEFAULT || nDetail == RENDER_TEXTURE_DETAIL_HIGH
+CTextureManagerBase::CTextureManagerBase
+!g_pTextureManagerBase
+-preloadtextures
+CTextureManagerBase::~CTextureManagerBase
+g_pTextureManagerBase == this
+-dontEvictTextures
+-maxtextureres
+CTextureManagerBase::AllocateResource
+pDataBlock != NULL
+pVTEXHeader != NULL
+Bad VTEX data for '%s'
+Unexpected resource version '%d' for '%s'
+CTextureManagerBase::UnregisterTexture
+m_nTextureCount >= 0
+PERF WARNING: Texture pool size set to more than 80%% of total GPU memory.
+CTextureManagerBase::MN_CacheRequestedResources
+CTextureManagerBase::IO_OnResourceFileLoaded
+Unable to stream in resource file "%s" (Error: %s)
+HookUpTextureBits
+CTextureManagerBase::HookUpTextureBits
+textureObject.m_spec.m_nNumMipLevels == texSpec.m_nNumMipLevels
+CTextureManagerBase::MN_OnResourceLoadFailed
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp(865):Error loading texture: %s
+pTexture->m_nInternalHandle.HasAnyFlags( TEXTURE_PENDING_ASYNC_REQUEST )
+TEXMAN: %s MarkTextureBitsLoaded (%s)
+!pTexture->m_nInternalHandle.HasAnyFlags( TEXTURE_IS_WAITING_FOR_BITS )
+CTextureManagerBase::MN_OnResourceLoadCompleted
+nNumMipLevelsLoaded != 0
+nNumMipLevelsLoaded == textureObject.m_spec.m_nNumMipLevels
+texId.GetPendingStreamingRequestId() == nStreamingRequestId
+texId.HasAnyFlags( TEXTURE_PENDING_ASYNC_REQUEST )
+!texId.HasAnyFlags( TEXTURE_IS_WAITING_FOR_BITS )
+CTextureManagerBase::RegisterTextureDeallocation
+nSize <= m_nMemoryUsed
+CTextureManagerBase::ProcessResourceThreadEvents
+CTextureManagerBase::MN_UnloadRequestedTextures
+CTextureManagerBase::MN_BuildRequestedResourcesList
+item.m_hTexture == pTexture->m_nInternalHandle.GetResourceHandle()
+CTextureManagerBase::MN_BuildToCacheList
+CTextureManagerBase::MN_EvictResources
+potentiallyEvictableTextures.Count() <= m_nTextureCount
+nToRemove <= nToCache
+CTextureManagerBase::FrameUpdate
+CTextureManagerBase::PerformTextureStreaming
+CTextureManagerBase::ResetTextureBindStats
+CTextureManagerBase::BuildTextureListAndSendToGPUProfiler
+m_textureInfoDeletionQueue.IsEmpty()
+pTexture
+Discarding abandoned streaming texture load
+Deleting texture with outstanding streaming request
+CTextureManagerBase::AbandonOutstandingStreamingRequest
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp(1569):ResourceHandleToData( %s ) failed! Falling back to error texture!
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp(1612):ResourceHandleToData( %s ) failed! Falling back to error texture!
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp(1623):ResourceHandleToData( %s ) failed! Falling back to error texture!
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp(1634):ResourceHandleToData( %s ) failed! Falling back to error texture!
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp(1645):ResourceHandleToData( %s ) failed! Falling back to error texture!
+CTextureManagerBase::GetTextureMultisampleType
+!"Failed to read multisample type on a texture (probably minimized or tabbed away)\n"
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp(1666):ResourceHandleToData( %s ) failed! Falling back to error texture!
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp(1677):ResourceHandleToData( %s ) failed! Falling back to error texture!
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp(1688):ResourceHandleToData( %s ) failed! Falling back to error texture!
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturebase.cpp(1699):ResourceHandleToData( %s ) failed! Falling back to error texture!
+Texture manager out of space! Can't allocate new texture!
+CTextureManagerBase::AllocTextureSlot
+m_pTextureInfoChunks[ m_nTextureInfoChunkCount ]
+TEXMAN: Deleting %d textures
+CTextureManagerBase::DeleteQueuedTextureInfosAndCompactArrays
+pSrcChunk->m_nCount > 0
+pSrcChunk->m_pTexture[ lastHandle.id.m_nInChunkIdx ] != NULL
+pMovedTexture
+pMovedTexture->m_nInternalHandle.m_nData == lastHandle.m_nData
+CBaseIntrospectedTypeManager:  Missing TYPEMETA MDiskDataForResourceType
+CDefaultIntrospectedTypeManager<2019914870,struct TextureHeader_t>::Init
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcefile\introspectedtypemanager.h
+CBaseIntrospectedTypeManager:  Bindings don't match.
+CConCommandMemberAccessor<class CTextureManagerBase>::CommandCallback
+CConCommandMemberAccessor<class CTextureManagerBase>::CommandCompletionCallback
+CTSQueue<struct CTextureManagerBase::CacheRequest_t,0>::CTSQueue
+CTSQueue<struct CTextureManagerBase::CacheRequest_t,0>::~CTSQueue
+CTSQueue<class CWeakHandle<struct InfoForResourceTypeCTextureBase>,0>::CTSQueue
+CTSQueue<class CWeakHandle<struct InfoForResourceTypeCTextureBase>,0>::~CTSQueue
+CTSQueue<struct CTextureManagerBase::CacheRequest_t,0>::Purge
+CTSQueue<class CWeakHandle<struct InfoForResourceTypeCTextureBase>,0>::Purge
+CMemberFuncProxyBase<class CTextureManagerBase *,void (__cdecl CTextureManagerBase::*)(class IAsyncResourceDataRequest *,class CWeakHandle<struct InfoForResourceTypeCTextureBase>,struct TextureSpecification_t,int),class CFuncMemPolicyNone>::OnCall
+CMemberFuncProxyBase<class CTextureManagerBase *,void (__cdecl CTextureManagerBase::*)(class CWeakHandle<struct InfoForResourceTypeCTextureBase>,void *,int,struct TextureSpecification_t,int),class CFuncMemPolicyNone>::OnCall
+Unaccounted
+CUtlMemory<struct TextureCreationExtraData_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<class CTextureInfoId,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<class ITextureResidencyListener *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<int,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct CTextureManagerBase::ToCacheHandle_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<class CWeakHandle<struct InfoForResourceTypeCTextureBase>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\texturedx11.cpp
+CTextureDx11::ComputeResourceViews
+pSpec->GetArrayCount() >= 6
+( pSpec->GetArrayCount() % 6 ) == 0
+pSpec->GetArrayCount() == 6
+D3D11Device()->CreateShaderResourceView( pTextureDx11, &srViewDesc, &m_ppPerMipLevelShaderResourceView[ i ] )
+D3D11Device()->CreateShaderResourceView( pTextureDx11, &srViewDescSrgb, &m_ppPerMipLevelShaderResourceViewSrgb[ i ] )
+D3D11::CreateShaderResourceView
+D3D11Device()->CreateShaderResourceView( pTextureDx11, &srViewDesc, &m_pShaderResourceView )
+D3D11Device()->CreateShaderResourceView( pTextureDx11, &srViewDescSrgb, &m_pShaderResourceViewSrgb )
+D3D11Device()->CreateDepthStencilView( pTextureDx11, &dsViewDesc, &pView )
+CTextureDx11::AssignTextureObject
+m_ppPerArraySliceDepthStencilView == NULL
+pSpec->GetArrayCount() > 0
+dsViewDesc.ViewDimension == D3D11_DSV_DIMENSION_TEXTURE2DARRAY
+D3D11::CreateDepthStencilView
+D3D11Device()->CreateDepthStencilView( pTextureDx11, &dsViewDesc, &m_ppPerArraySliceDepthStencilView[i] )
+D3D11::CreateRenderTargetView
+D3D11Device()->CreateRenderTargetView( pTextureDx11, &rtViewDesc, &m_ppRenderTargetView[ i ] )
+m_ppPerArraySliceRenderTargetView == NULL
+m_ppPerArraySliceRenderTargetViewSrgb == NULL
+rtViewDesc.ViewDimension == D3D11_RTV_DIMENSION_TEXTURE2DARRAY
+D3D11Device()->CreateRenderTargetView( pTextureDx11, &rtViewDesc, &m_ppPerArraySliceRenderTargetView[i] )
+D3D11Device()->CreateRenderTargetView( pTextureDx11, &rtViewDesc, &m_ppRenderTargetViewSrgb[ i ] )
+D3D11Device()->CreateRenderTargetView( pTextureDx11, &rtViewDesc, &m_ppPerArraySliceRenderTargetViewSrgb[i] )
+CTextureDx11::AssignStandin
+CTextureDx11::AssignFallbackTexture
+m_pShaderResourceView == NULL
+m_pShaderResourceViewSrgb == NULL
+CTextureManagerDx11::CTextureManagerDx11
+!g_pTextureManagerDx11
+CTextureManagerDx11::ComputeTextureObject
+pResourceSpec->m_nWidth > 0
+pResourceSpec->m_nHeight > 0
+CTextureManagerDx11::ComputeTextureObject: Tried to create a depth-stencil texture which is *not* a render target!
+actualSpec.m_nImageFormat != IMAGE_FORMAT_UNKNOWN
+!bImmutable || actualSpec.m_nImageFormat == pResourceSpec->m_nImageFormat
+fmt != DXGI_FORMAT_UNKNOWN
+pTextureBitsData
+D3D11Device()->CreateTexture3D( &desc3d, bImmutable ? pSubResource : NULL, ( ID3D11Texture3D ** ) &pDx11Texture )
+D3D11Device()->CreateTexture2D( &desc, bImmutable ? pSubResource : NULL, ( ID3D11Texture2D ** ) &pDx11Texture )
+CTextureManagerDx11::GenerateTextureObject
+pInfo->m_spec.m_nNumMipLevels == texSpec.m_nNumMipLevels
+Trying to create a render target with invalid image format %s
+CTextureManagerDx11::FindOrCreateProceduralTexture
+Invalid image format for render target
+SwapChainTexture
+TEXMAN: CTextureManagerDx11::AllocateTexture MarkTextureBitsLoadRequired (%s)
+CTextureManagerDx11New::CTextureManagerDx11New
+!g_pTextureManagerDx11New
+DX11 texture manager frame update
+Evict Textures
+CTextureManagerDx11New::RemoveMipLevelsForTextures
+g_pTextureManagerDx11New != NULL
+D3D11Device()->CreateTexture2D( &desc, NULL, &m_pTextureResource )
+D3D11Device()->CreateShaderResourceView( m_pTextureResource, &srViewDesc, &m_pShaderResourceView )
+D3D11Device()->CreateShaderResourceView( m_pTextureResource, &srViewDesc, &m_pShaderResourceViewSrgb )
+CTextureManagerDx11New::LoadStreamingData
+TEXMAN: CTextureManagerDx11New::LoadStreamingData MarkTextureBitsLoadRequired (%s)
+r_texture_eager_eviction
+r_texture_stream_throttle_amount
+r_texture_stream_throttle_count
+r_texture_stream_debug_spew
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\texturestreaminghelper.cpp
+CTextureStreamingHelper::IssueTextureLoadRequest
+pTexture->m_nInternalHandle.GetPendingStreamingRequestId() == 0
+TEX read request: %d KB; %s
+m_pTextureManager->m_nTextureLoadsInFlight >= 0
+CTextureStreamingHelper::LoadExplicitlyRequestedTextures
+CTextureStreamingHelper::BuildStreamableTextureList
+nRequiredStreamableTextureMemoryWithoutEvictions >= nRequiredStreamableTextureMemory
+CTextureStreamingHelper::SatisfyTextureMemoryConstraints
+TEXTURESTREAMING: Extremely low memory: Available mem: %.2f MB, Required: %.2f MB. Kicking out all non-pinned textures.
+CTextureStreamingHelper::BalanceStreamableTextureMemory
+TexturePrioritySort
+pRemoveMipLevelsCallbackFunc != NULL
+Request Textures
+TEXTURESTREAMING: IN: %4d m %4d tex, %-4.2f MB;	 OUT %4d m %4d tex, %-4.2f MB, %d dealloced, %.2f ms
+Unaccounted
+CUtlMemory<struct CTextureManagerBase::CacheRequest_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+Unaccounted
+CUtlMemory<struct TextureStreamingPriorityInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\vertexbufferbase.cpp
+CVertexBufferBase::CVertexBufferBase
+desc.m_nElementSizeInBytes > 0
+ZeroStride Vertex buffer created!
+CVertexBufferBase::AllocateBackingStore
+CVertexBufferDx11::Allocate
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\dx\vertexbufferdx11.cpp
+*** VB "%s": Failed to allocate!
+CVertexBufferDx11::Lock
+*** VB "%s": Tried to lock twice without an unlock!
+*** VB "%s": Tried to lock too much memory (%d>%d)!
+*** VB "%s": Tried to lock a static buffer twice!
+*** VB "%s": Tried to lock a GPU-only buffer!
+CVertexBufferDx11::Lock() pContext->Map()
+*** VB "%s": Failed to lock!
+CVertexBufferDx11::Unlock
+( GetBufferType() == RENDER_BUFFER_TYPE_DYNAMIC ) || ( nWrittenByteCount % GetVertexSize() == 0 )
+nWrittenByteCount <= m_nBufferSize
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\schema.h
+MNoScatter
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemaclassinfo.h
+CSchemaClassInfo::CompleteInitialization
+m_pOuterTypeScope != NULL
+CSchemaClassInfo::CompleteInitializationInternal
+!m_bInitialized
+m_pTypeOf != NULL
+RenderSlotType_t
+RenderPrimitiveType_t
+InputLayoutVariation_t
+RenderInputLayoutField_t
+RenderMultisampleType_t
+VsInputSignatureElement_t
+VsInputSignature_t
+RENDER_SLOT_INVALID
+RENDER_SLOT_PER_VERTEX
+RENDER_SLOT_PER_INSTANCE
+From Enum Binding
+RENDER_PRIM_POINTS
+RENDER_PRIM_LINES
+RENDER_PRIM_LINES_WITH_ADJACENCY
+RENDER_PRIM_LINE_STRIP
+RENDER_PRIM_LINE_STRIP_WITH_ADJACENCY
+RENDER_PRIM_TRIANGLES
+RENDER_PRIM_TRIANGLES_WITH_ADJACENCY
+RENDER_PRIM_TRIANGLE_STRIP
+RENDER_PRIM_TRIANGLE_STRIP_WITH_ADJACENCY
+RENDER_PRIM_INSTANCED_QUADS
+RENDER_PRIM_HETEROGENOUS
+RENDER_PRIM_1_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_2_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_3_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_4_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_5_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_6_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_7_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_8_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_9_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_10_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_11_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_12_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_13_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_14_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_15_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_16_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_17_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_18_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_19_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_20_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_21_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_22_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_23_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_24_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_25_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_26_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_27_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_28_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_29_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_30_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_31_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_32_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_TYPE_COUNT
+INPUT_LAYOUT_VARIATION_DEFAULT
+INPUT_LAYOUT_VARIATION_STREAM1_MAT3X4
+INPUT_LAYOUT_VARIATION_STREAM1_INSTANCEID
+INPUT_LAYOUT_VARIATION_STREAM1_INSTANCEID_IRRADIANCEINFO
+INPUT_LAYOUT_VARIATION_STREAM1_INSTANCEID_MORPH_VERT_ID
+INPUT_LAYOUT_VARIATION_MAX
+RENDER_MULTISAMPLE_TYPE_COUNT
+m_pSemanticName
+m_nSemanticIndex
+m_Format
+m_nOffset
+m_nSlot
+m_nSlotType
+m_nInstanceStepRate
+From Class Binding
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\rendersystemdx11\release\win64\rendersystemtypes_h_schema.gen_cpp
+RenderInputLayoutField_t::Schema_VerifyBindingIsRegistered
+( g_pSchemaSystem == NULL ) || (s_pSchemaBinding != NULL)
+WARNING: Trying to access schema binding '%s' before bindings were registered in this module!
+m_pName
+m_pSemantic
+m_pD3DSemanticName
+m_nD3DSemanticIndex
+VsInputSignatureElement_t::Schema_VerifyBindingIsRegistered
+m_elems
+VsInputSignature_t::Schema_VerifyBindingIsRegistered
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\baseschema.h
+CSchemaEnumBinding<enum RenderSlotType_t>::Get
+(s_pThisModuleBindingPointer != NULL)
+WARNING: Trying to access schema enum binding before bindings were registered in this module! - %s()
+CSchemaEnumBinding<enum RenderPrimitiveType_t>::Get
+CSchemaEnumBinding<enum InputLayoutVariation_t>::Get
+CSchemaEnumBinding<enum RenderMultisampleType_t>::Get
+CCopyableUtlVector
+CSchemaClassBindingBase::RegBase
+m_pSchemaType != NULL
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\schemabinding.h
+Unaccounted
+CUtlMemory<struct VsInputSignatureElement_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+rendersystemdx11
+decalScale
+decalDepth
+decalScaleVariation
+decalStartFadeTime
+decalFadeDuration
+decalSpecularExp
+animationScale
+animationLifeSpan
+decalModulate
+Vector2D
+CResourceString
+CResourceArray
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcefile\resourcestream.h
+SequenceFloatParam_t
+SheetSequence_t
+SheetSequenceFrame_t
+SheetFrameImage_t
+Sheet_t
+m_value
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\rendersystemdx11\release\win64\sheet_h_schema.gen_cpp
+SequenceFloatParam_t::Schema_VerifyBindingIsRegistered
+m_bClamp
+m_bAlphaCrop
+m_bNoColor
+m_bNoAlpha
+m_Frames
+m_flTotalTime
+m_floatParams
+SheetSequence_t::Schema_VerifyBindingIsRegistered
+m_flDisplayTime
+m_Images
+SheetSequenceFrame_t::Schema_VerifyBindingIsRegistered
+uvCropped
+uvUncropped
+SheetFrameImage_t::Schema_VerifyBindingIsRegistered
+m_Sequences
+Sheet_t::Schema_VerifyBindingIsRegistered
+ERROR: CAtomicManipulator::Allocate() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<struct SheetSequenceFrame_t> >::Allocate
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<struct SheetSequenceFrame_t> >::AllocateAndCopy
+ERROR: CAtomicManipulator::Copy() Cannot copy CResourceArray(FIXME: maybe you can?)
+CAtomicManipulator<class CResourceArray<struct SheetSequenceFrame_t> >::Copy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate CResourceArray
+CAtomicManipulator<class CResourceArray<struct SheetSequenceFrame_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct SequenceFloatParam_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct SequenceFloatParam_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct SequenceFloatParam_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct SequenceFloatParam_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct SheetFrameImage_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct SheetFrameImage_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct SheetFrameImage_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct SheetFrameImage_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct SheetSequence_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct SheetSequence_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct SheetSequence_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct SheetSequence_t> >::Deallocate
+TextureSpecificationFlags_t
+CubeMapFace_t
+TSPEC_FLAGS
+TSPEC_RENDER_TARGET
+TSPEC_VERTEX_TEXTURE
+TSPEC_UNFILTERABLE_OK
+TSPEC_RENDER_TARGET_SAMPLEABLE
+TSPEC_SUGGEST_CLAMPS
+TSPEC_SUGGEST_CLAMPT
+TSPEC_SUGGEST_CLAMPU
+TSPEC_NO_LOD
+TSPEC_CUBE_TEXTURE
+TSPEC_VOLUME_TEXTURE
+TSPEC_TEXTURE_ARRAY
+TSPEC_TEXTURE_GEN_MIP_MAPS
+TSPEC_LINE_TEXTURE_360
+TSPEC_LINEAR_ADDRESSING_360
+TSPEC_USE_TYPED_IMAGEFORMAT
+TSPEC_SHARED_RESOURCE
+CUBEMAP_FACE_POSITIVE_X
+CUBEMAP_FACE_NEGATIVE_X
+CUBEMAP_FACE_POSITIVE_Y
+CUBEMAP_FACE_NEGATIVE_Y
+CUBEMAP_FACE_POSITIVE_Z
+CUBEMAP_FACE_NEGATIVE_Z
+CSchemaEnumBinding<enum TextureSpecificationFlags_t>::Get
+CSchemaEnumBinding<enum CubeMapFace_t>::Get
+Vector4D
+CResourcePointer
+MDiskDataForResourceType
+TextureDesc_t
+TextureHeader_t
+m_nWidth
+m_nHeight
+m_nDepth
+m_nImageFormat
+m_nNumMipLevels
+m_nPicmip0Res
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\rendersystemdx11\release\win64\vtex_file_format_h_schema.gen_cpp
+TextureDesc_t::Schema_VerifyBindingIsRegistered
+m_nMultisampleType
+m_nFlags
+m_Reflectivity
+m_pSheet
+m_nSheetSize
+m_fallbackTextureBits
+TextureHeader_t::Schema_VerifyBindingIsRegistered
+ATI_DST16
+ATI_DST24
+X360_DST16
+X360_DST24
+X360_DST24F
+LINEAR_BGRX8888
+LINEAR_RGBA8888
+LINEAR_ABGR8888
+LINEAR_ARGB8888
+LINEAR_BGRA8888
+LINEAR_RGB888
+LINEAR_BGR888
+LINEAR_BGRX5551
+LINEAR_I8
+LINEAR_RGBA16161616
+LE_BGRX8888
+LE_BGRA8888
+RG1616F
+RG3232F
+RGBX8888
+NV_NULL
+RGBA1010102
+BGRA1010102
+LINEAR_D24S8
+D24X4S4
+D16_SHADOW
+D24X8_SHADOW
+RGBA16161616_EDRAM
+RGBA1010102F_EDRAM
+R16F_EXPAND
+RG1616F_EXPAND
+RGBA16161616F_EXPAND
+RGBA16161616F_EDRAM_RGBA1010102F
+RGBA16161616F_EXPAND_EDRAM_RGBA1010102F
+RGBA16161616_EDRAM_RGBA16161616
+DXT5_NM
+RGBA8888_LINEAR
+BGRA8888_LINEAR
+BGRX8888_LINEAR
+RGBX555
+UNKNOWN
+RGBA8888
+ABGR8888
+RGB888_BLUESCREEN
+BGR888_BLUESCREEN
+ARGB8888
+BGRA8888
+BGRX8888
+BGRX5551
+BGRA4444
+DXT1_ONEBITALPHA
+BGRA5551
+UVWQ8888
+RGBA16161616F
+RGBA16161616
+UVLX8888
+RGB323232F
+RGBA32323232F
+NV_DST16
+NV_DST24
+NV_INTZ
+NV_RAWZ
+c:\buildslave\vrgdc2015_staging_win64\build\src\bitmap\imageformat.cpp
+ImageLoader::ImageFormatInfo
+fmt >= IMAGE_FORMAT_UNKNOWN && fmt < NUM_IMAGE_FORMATS
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsoacontainer.h
+nAttributeIdx < MAX_SOA_FIELDS
+nX < m_nColumns
+nY < m_nRows
+nZ < m_nSlices
+m_nDataType[nAttributeIdx] != ATTRDATATYPE_NONE
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\bitmap\floatbitmap.h
+FloatBitMap_t::Pixel
+( x >= 0 ) && ( x < NumCols() )
+( y >= 0 ) && ( y < NumRows() )
+( z >= 0 ) && ( z < NumSlices() )
+FloatBitMap_t::PixelRGBAF
+c:\buildslave\vrgdc2015_staging_win64\build\src\bitmap\colorconversion.cpp
+ImageLoader::ConvertImageFormat
+srcStride == 0 && dstStride == 0
+dstStride == 0
+srcStride == 0
+CSOAContainer::ElementPointer
+m_nDataType[nAttributeIdx] != ATTRDATATYPE_4V
+ImageLoader::ConvertFromDXT1
+!( width % 4 )
+!( height % 4 )
+ImageLoader::ConvertFromDXT3
+ImageLoader::ConvertFromATIxN
+ImageLoader::ConvertFromDXT5
+ImageLoader::ConvertFromDXT5IgnoreAlpha
+ImageLoader::DecodeColorBlock
+ImageLoader::DecodeAlphaImageDataBlock
+gACol[row][pix].r == 0
+gACol[row][pix].g == 0
+gACol[row][pix].b == 0
+ImageLoader::DecodeAlpha3BitLinear
+?c:\buildslave\vrgdc2015_staging_win64\build\src\bitmap\psheet.cpp
+sequence number %d too low in sheet file!!!
+Unaccounted
+CUtlMemory<struct CSheet::SheetInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Km_status < JOB_OK
+Unknown job state
+CJob::Abort %s %d
+CJob::DoAbort
+CJob::Abort
+CSOAContainer::AssertDataType
+nAttrIdx >= 0
+nAttrIdx < MAX_SOA_FIELDS
+m_nDataType[ nAttrIdx ] == nDataType
+IsValid()
+c:\buildslave\vrgdc2015_staging_win64\build\src\bitmap\tiffloader.cpp
+Unaccounted
+CUtlMemory<char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+VRenderDeviceSetupV001
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+Invalid progressive parameters Ss=%d Se=%d Ah=%d Al=%d
+Invalid progressive parameters at scan script entry %d
+Bogus sampling factors
+Invalid scan script at entry %d
+Improper call to JPEG library in state %d
+JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
+Bogus virtual array access
+Buffer passed to JPEG library is too small
+Suspension not allowed here
+CCIR601 sampling not implemented yet
+Too many color components: %d, max %d
+Unsupported color conversion request
+Bogus DAC index %d
+Bogus DAC value 0x%x
+Bogus DHT index %d
+Bogus DQT index %d
+Empty JPEG image (DNL not supported)
+Read from EMS failed
+Write to EMS failed
+Didn't expect more than one scan
+Input file read error
+Output file write error --- out of disk space?
+Fractional sampling not implemented yet
+Huffman code size table overflow
+Missing Huffman code table entry
+Maximum supported image dimension is %u pixels
+Empty input file
+Premature end of input file
+Cannot transcode due to multiple use of quantization table %d
+Scan script does not transmit all data
+Invalid color quantization mode change
+Not implemented yet
+Requested feature was omitted at compile time
+Arithmetic table 0x%02x was not defined
+Backing store not supported
+Huffman table 0x%02x was not defined
+JPEG datastream contains no image
+Quantization table 0x%02x was not defined
+Not a JPEG file: starts with 0x%02x 0x%02x
+Insufficient memory (case %d)
+Cannot quantize more than %d color components
+Cannot quantize to fewer than %d colors
+Cannot quantize to more than %d colors
+Invalid JPEG file structure: two SOF markers
+Invalid JPEG file structure: missing SOS marker
+Unsupported JPEG process: SOF type 0x%02x
+Invalid JPEG file structure: two SOI markers
+Invalid JPEG file structure: SOS before SOF
+Failed to create temporary file %s
+Read failed on temporary file
+Seek failed on temporary file
+Write failed on temporary file --- out of disk space?
+Application transferred too few scanlines
+Unsupported marker type 0x%02x
+Virtual array controller messed up
+Image too wide for this implementation
+Read from XMS failed
+Write to XMS failed
+Copyright (C) 2010, Thomas G. Lane, Guido Vollbeding
+8b  16-May-2010
+Caution: quantization tables are too coarse for baseline JPEG
+Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
+Unknown APP0 marker (not JFIF), length %u
+Unknown APP14 marker (not Adobe), length %u
+Define Arithmetic Table 0x%02x: 0x%02x
+Define Huffman Table 0x%02x
+Define Quantization Table %d  precision %d
+Define Restart Interval %u
+Freed EMS handle %u
+Obtained EMS handle %u
+End Of Image
+        %3d %3d %3d %3d %3d %3d %3d %3d
+JFIF APP0 marker: version %d.%02d, density %dx%d  %d
+Warning: thumbnail image size does not match data length %u
+JFIF extension marker: type 0x%02x, length %u
+    with %d x %d thumbnail image
+Miscellaneous marker 0x%02x, length %u
+Unexpected marker 0x%02x
+        %4u %4u %4u %4u %4u %4u %4u %4u
+Quantizing to %d = %d*%d*%d colors
+Quantizing to %d colors
+Selected %d colors for quantization
+At marker 0x%02x, recovery action %d
+Smoothing not supported with nonstandard sampling ratios
+Start Of Frame 0x%02x: width=%u, height=%u, components=%d
+    Component %d: %dhx%dv q=%d
+Start of Image
+Start Of Scan: %d components
+    Component %d: dc=%d ac=%d
+  Ss=%d, Se=%d, Ah=%d, Al=%d
+Closed temporary file %s
+Opened temporary file %s
+JFIF extension marker: JPEG-compressed thumbnail image, length %u
+JFIF extension marker: palette thumbnail image, length %u
+JFIF extension marker: RGB thumbnail image, length %u
+Unrecognized component IDs %d %d %d, assuming YCbCr
+Freed XMS handle %u
+Obtained XMS handle %u
+Unknown Adobe color transform code %d
+Corrupt JPEG data: bad arithmetic code
+Inconsistent progression sequence for component %d coefficient %d
+Corrupt JPEG data: %u extraneous bytes before marker 0x%02x
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: bad Huffman code
+Warning: unknown JFIF revision number %d.%02d
+Premature end of JPEG file
+Corrupt JPEG data: found marker 0x%02x instead of RST%d
+Invalid SOS parameters for sequential JPEG
+Application transferred too many scanlines
+Bogus message code %d
+ALIGN_TYPE is wrong, please fix
+MAX_ALLOC_CHUNK is wrong, please fix
+Bogus buffer control mode
+Invalid component ID %d in SOS
+Invalid crop request
+DCT coefficient out of range
+DCT scaled block size %dx%d not supported
+Component index %d: mismatching sampling ratio %d:%d, %d:%d, %c
+Bogus Huffman table definition
+Bogus input colorspace
+Bogus JPEG colorspace
+Bogus marker length
+Wrong JPEG library version: library is %d, caller expects %d
+Sampling factors too large for interleaved scan
+Invalid memory pool code %d
+Unsupported JPEG data precision %d
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+BKbhTb~XBK!;
+Z@&LHA'
+MQC,ARD
+/TF<)VGy#WH
+Da\">c]$8c^
+VeaFOfb
+Ahd=<c]^7if1Rjg
+Lkh9Fgc^A
+"@0123456789ABCDEF
+123456789
+0123456789ABCDEF
+DDDDUUUU
+00003333
+""""UUUU
+Failed to allocate memory for %s (%ld elements of %ld bytes each)
+Integer overflow in %s
+Invalid YCbCr subsampling
+TIFFVStripSize
+TIFFScanlineSize
+TIFFReadRawStrip
+TIFFFillStrip
+TIFFReadRawTile
+TIFFFillTile
+TIFFReadBufferSetup
+TIFFClientOpen
+_TIFFVSetField
+TIFFAdvanceDirectory
+TIFFUnlinkDirectory
+TIFFSetField
+pseudo-
+%s: Unknown %stag %u
+%s: Cannot modify tag "%s" while writing
+TIFFTileRowSize
+TIFFVTileSize
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+TIFFReadDirectory
+for "ReferenceBlackWhite" array
+TIFFReadCustomDirectory
+EstimateStripByteCounts
+MissingRequired
+TIFFFetchDirectory
+to fetch tag value
+ImageLength
+TileOffsets
+StripOffsets
+StripByteCounts
+%s %s encoding is not implemented
+Compression scheme %u %s encoding is not implemented
+scanline
+%s %s decoding is not implemented
+Compression scheme %u %s decoding is not implemented
+Compression algorithm does not support random access
+TIFFRewriteDirectory
+TIFFLinkDirectory
+TIFFWriteScanline
+TIFFWriteEncodedStrip
+TIFFWriteRawStrip
+TIFFWriteEncodedTile
+TIFFWriteRawTile
+TIFFWriteBufferSetup
+TIFFAppendToStrip
+Seek error at scanline %lu
+Write error at scanline %lu
+_TIFFMergeFieldInfo
+for field info array
+SubfileType
+OldSubfileType
+ImageWidth
+BitsPerSample
+Compression
+PhotometricInterpretation
+Threshholding
+CellWidth
+CellLength
+FillOrder
+DocumentName
+ImageDescription
+Orientation
+SamplesPerPixel
+RowsPerStrip
+MinSampleValue
+MaxSampleValue
+XResolution
+YResolution
+PlanarConfiguration
+PageName
+XPosition
+YPosition
+FreeOffsets
+FreeByteCounts
+GrayResponseUnit
+GrayResponseCurve
+ResolutionUnit
+PageNumber
+ColorResponseUnit
+TransferFunction
+Software
+DateTime
+HostComputer
+WhitePoint
+PrimaryChromaticities
+ColorMap
+HalftoneHints
+TileWidth
+TileLength
+TileByteCounts
+InkNames
+NumberOfInks
+DotRange
+TargetPrinter
+ExtraSamples
+SampleFormat
+SMinSampleValue
+SMaxSampleValue
+ClipPath
+XClipPathUnits
+YClipPathUnits
+YCbCrCoefficients
+YCbCrSubsampling
+YCbCrPositioning
+ReferenceBlackWhite
+XMLPacket
+Matteing
+DataType
+ImageDepth
+TileDepth
+ImageFullWidth
+ImageFullLength
+TextureFormat
+TextureWrapModes
+FieldOfViewCotangent
+MatrixWorldToScreen
+MatrixWorldToCamera
+Copyright
+RichTIFFIPTC
+Photoshop
+EXIFIFDOffset
+ICC Profile
+GPSIFDOffset
+StoNits
+InteroperabilityIFDOffset
+DNGVersion
+DNGBackwardVersion
+UniqueCameraModel
+LocalizedCameraModel
+CFAPlaneColor
+CFALayout
+LinearizationTable
+BlackLevelRepeatDim
+BlackLevel
+BlackLevelDeltaH
+BlackLevelDeltaV
+WhiteLevel
+DefaultScale
+BestQualityScale
+DefaultCropOrigin
+DefaultCropSize
+ColorMatrix1
+ColorMatrix2
+CameraCalibration1
+CameraCalibration2
+ReductionMatrix1
+ReductionMatrix2
+AnalogBalance
+AsShotNeutral
+AsShotWhiteXY
+BaselineExposure
+BaselineNoise
+BaselineSharpness
+BayerGreenSplit
+LinearResponseLimit
+CameraSerialNumber
+LensInfo
+ChromaBlurRadius
+AntiAliasStrength
+ShadowScale
+DNGPrivateData
+MakerNoteSafety
+CalibrationIlluminant1
+CalibrationIlluminant2
+RawDataUniqueID
+OriginalRawFileName
+OriginalRawFileData
+ActiveArea
+MaskedAreas
+AsShotICCProfile
+AsShotPreProfileMatrix
+CurrentICCProfile
+CurrentPreProfileMatrix
+ExposureTime
+FNumber
+ExposureProgram
+SpectralSensitivity
+ISOSpeedRatings
+OptoelectricConversionFactor
+ExifVersion
+DateTimeOriginal
+DateTimeDigitized
+ComponentsConfiguration
+CompressedBitsPerPixel
+ShutterSpeedValue
+ApertureValue
+BrightnessValue
+ExposureBiasValue
+MaxApertureValue
+SubjectDistance
+MeteringMode
+LightSource
+FocalLength
+SubjectArea
+MakerNote
+UserComment
+SubSecTime
+SubSecTimeOriginal
+SubSecTimeDigitized
+FlashpixVersion
+ColorSpace
+PixelXDimension
+PixelYDimension
+RelatedSoundFile
+FlashEnergy
+SpatialFrequencyResponse
+FocalPlaneXResolution
+FocalPlaneYResolution
+FocalPlaneResolutionUnit
+SubjectLocation
+ExposureIndex
+SensingMethod
+FileSource
+SceneType
+CFAPattern
+CustomRendered
+ExposureMode
+WhiteBalance
+DigitalZoomRatio
+FocalLengthIn35mmFilm
+SceneCaptureType
+GainControl
+Contrast
+Saturation
+Sharpness
+DeviceSettingDescription
+SubjectDistanceRange
+ImageUniqueID
+Failed to allocate field info array
+Internal error, unknown tag 0x%x
+TIFFFieldWithTag
+PackBits
+ThunderScan
+Old-style JPEG
+CCITT RLE
+CCITT RLE/W
+CCITT Group 3
+CCITT Group 4
+ISO JBIG
+Deflate
+AdobeDeflate
+PixarLog
+SGILog24
+%s compression support is not configured
+NeXTDecode: Not enough data for scanline %ld
+ LZWSetupDecode
+LZWSetupEncode
+No space for LZW state block
+LZWPreDecode
+No space for LZW code table
+Old-style LZW codes, convert file
+LZWDecode: Bogus encoding, loop in the code table; scanline %d
+LZWDecode: Strip %d not terminated with EOI code
+LZWDecode: Corrupted LZW table at scanline %d
+LZWDecode: Wrong length of decoded string: data probably corrupted at scanline %d
+LZWDecode: Not enough data at scanline %d (short %ld bytes)
+LZWDecodeCompat: Corrupted LZW table at scanline %d
+LZWDecodeCompat: Wrong length of decoded string: data probably corrupted at scanline %d
+LZWDecodeCompat: Not enough data at scanline %d (short %ld bytes)
+No space for LZW hash table
+TIFFInitLZW
+ZIPSetupDecode
+ZIPDecode
+ZIPSetupEncode
+ZIPEncode
+ZIPPostEncode
+ZIPVSetField
+TIFFInitZIP
+%s: Decoding error at scanline %d, %s
+%s: zlib error: %s
+%s: Not enough data at scanline %d (short %d bytes)
+%s: Encoder error: %s
+Merging Deflate codec-specific tags failed
+No space for ZIP state block
+LogL16InitState
+LogLuvInitState
+TIFFInitSGILog
+SGILogDataFmt
+SGILogEncode
+LogL16Decode: Not enough data at row %d (short %d pixels)
+LogLuvDecode24: Not enough data at row %d (short %d pixels)
+LogLuvDecode32: Not enough data at row %d (short %d pixels)
+No support for converting user data format to LogL
+%s: No space for SGILog translation buffer
+SGILog compression cannot handle non-contiguous data
+No support for converting user data format to LogLuv
+must be either LogLUV or LogL
+Inappropriate photometric interpretation %d for SGILog compression; %s
+XYZ, Luv
+SGILog compression supported only for %s, or raw data
+Unknown data format %d for LogLuv compression
+Unknown encoding %d for LogLuv compression
+Merging SGILog codec-specific tags failed
+%s: No space for LogLuv state block
+DumpModeDecode: Not enough data for scanline %d
+PackBitsDecode: discarding %ld bytes to avoid buffer overrun
+PackBitsDecode: Not enough data for scanline %ld
+Fax3Decode1D
+Fax3DecodeRLE
+Fax3Decode2D
+Fax4Decode
+FaxMode
+FaxFillFunc
+BadFaxLines
+CleanFaxData
+ConsecutiveBadFaxLines
+FaxRecvParams
+FaxSubAddress
+FaxRecvTime
+Group3Options
+Group4Options
+%s: Bad code word at line %u of %s %u (x %u)
+%s: Uncompressed data (not supported) at line %u of %s %u (x %u)
+Premature EOL
+Line length mismatch
+%s: %s at line %u of %s %u (got %u, expected %u)
+%s: Premature EOF at line %u of %s %u (x %u)
+Bits/sample must be 1 for Group 3/4 encoding/decoding
+Row pixels integer overflow (rowpixels %u)
+for Group 3/4 run arrays
+%s: No space for Group 3/4 reference line
+Fax3SetupState
+  Group 4 Options:
+%suncompressed data
+  Group 3 Options:
+%s2-d encoding
+%sEOL padding
+ (%lu = 0x%lx)
+  Fax Data:
+ receiver regenerated
+ uncorrected errors
+ (%u = 0x%x)
+  Bad Fax Lines: %lu
+  Consecutive Bad Fax Lines: %lu
+  Fax Receive Parameters: %08lx
+  Fax SubAddress: %s
+  Fax Receive Time: %lu secs
+  Fax DCS: %s
+Merging common CCITT Fax codec-specific tags failed
+InitCCITTFax3
+%s: No space for state block
+TIFFInitCCITTFax3
+Merging CCITT Fax 3 codec-specific tags failed
+Merging CCITT Fax 4 codec-specific tags failed
+TIFFInitCCITTFax4
+Not enough
+Too much
+ThunderDecode: %s data at scanline %ld (%lu != %lu)
+PredictorSetup
+PredictorEncodeTile
+Predictor
+Horizontal differencing "Predictor" not supported with %d-bit samples
+Floating point "Predictor" not supported with %d data format
+"Predictor" value %d not supported
+Out of memory allocating %d byte temp buffer.
+  Predictor: 
+horizontal differencing 
+floating point predictor 
+%u (0x%x)
+Merging Predictor codec-specific tags failed
+TIFFPredictorInit
+@fff>fff>fff>fff>
+c:\buildslave\vrgdc2015_staging_win64\build\src\mathlib\mathlib_base.cpp
+_VectorNormalizeFast
+fabs( vec.LengthSqr() - 1.0f ) < 1e-3
+MathLib_Init
+SSE and SSE2 are required.
+?333333
+>nvapi_pepQueryInterface
+nvapi_QueryInterface
+FixupResourceName: Illegal full path passed in ("%s")!
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
+FixupResourceName: Illegal path, missing extension passed in ("%s")!
+CResourceStream::EnsureAvailable
+nAddCapacity < 0x40000000
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\resourcestream.cpp
+CResourceStreamFixed: trying to write past the end of allocated memory (new commit %u, allocated %u)
+CResourceStreamFixed::Commit
+Wrong alignment %d
+CResourceStream::Align
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\resourcefile.cpp
+pHeader->m_nHeaderVersion == RESOURCE_FILE_HEADER_VERSION
+Resource_GetBlock
+Resource_GetBlockEntry
+ERROR: Could not find schema data for helper class for resource type %lld '%s'. (Missing MDiskDataForResourceType metadata or schema data isn't loaded?)
+FindDiskDataClassForResourceType
+[Disk class %d/%d] Name = '%s'; Project = '%s'; Binary = '%s'
+ERROR: Multiple classes registered as disk data for resource type %lld '%s'. (Should only have one class MDiskDataForResourceType - %d listed above.)
+MResourceVersion
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\resourcesystemhelpers.h
+CResourceAllocatorUtils::AssumeControl
+pData == m_pData
+Resource %s
+TypeManager
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\introspectedtypemanager.cpp
+CBaseIntrospectedTypeManager::SetDiskDataBinding
+pDiskDataClassBinding != NULL
+Failed to call CBaseIntrospectedTypeManager::SetDiskDataBinding
+CBaseIntrospectedTypeManager::Init
+Failed to call CBaseIntrospectedTypeManager::Init
+CBaseIntrospectedTypeManager::AllocateResource
+Error loading resource "%s" (Invalid resource version: %d != %d)
+WARNING: Missing introspection manifest for file: %s
+WARNING: Missing data block for file: %s
+ERROR: Problem allocating permanent data for resource in file '%s'. See above for reason(s)
+WARNING: Problems encounted with external references in resource '%s'. See above for reason(s)
+MResourceTypeForInfoType
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\weakhandle.h
+GetResourceTypeOfWeakHandle
+pAtomicType
+pParamClass && pParamClass->GetClass()
+Cannot determine resource type for handle '%s' - schema data not loaded for the referred-to type?
+%s : %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\externalreferences.cpp
+CExtrefTraversal::VisitRelevantField
+IsRelevantFieldType( pFieldType )
+IsResourceWeakHandle( pHandleType )
+!IsRelevantFieldType( pFieldType )
+UpdateResourceIdForUGC
+pReferencedResourceName == NULL
+pReferencedResourceName != NULL
+Deferred
+Schema Field
+CResourceReferenceFixupTraversal::HandleExtref
+nResourceType != RESOURCE_TYPE_NONE
+(size_t)hResource % 4 == 0
+Failed to fix resource reference '%s' (%s)- ID = %016llX, Expected in: '%s'
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlhash.h
+CUtlScalarHash<void const *,class CDefaultHash32>::Init
+m_dataCount==0
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemadatatraversal.h
+SchemaRecurseData
+Unhandled field type for field '%s': '%s' (Why did it pass SchemaRecurseType?)
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemadatatraversal.cpp
+CSchemaVisitorInfoMapBase::LookupClass
+pResult->State() == VISIT_INFO_STATE_COMPLETE
+CUtlScalarHash<void const *,class CDefaultHash32>::Insert
+uiKey != (uint)InvalidHandle()
+Unaccounted
+CUtlMemory<struct CClassVisitInfo::FieldInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemaiterator.cpp
+CSchemaInheritanceIterator::PopulateTraversal_R
+nTraversalOffset == 0
+CSchemaFieldIterator::Reset
+!IsSingleFieldRestricted()
+CSchemaFieldIterator::Advance
+CSchemaFieldIterator::GetFieldMemoryOffset
+CSchemaFieldIterator::GetRawFieldHandle
+Unaccounted
+CUtlMemory<struct CSchemaInheritanceIterator::ClassToTraverse_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+()$^.*+?[]|\-{},:=!
+generic
+unknown error
+iostream
+iostream stream error
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+string too long
+invalid string position
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\fmtstr.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strncmp
+Unaccounted
+_V_strncmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_strcmp
+V_strncasecmp
+Unaccounted
+V_strncasecmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strnicmp
+V_stristr
+pSearch
+_V_strncpy
+maxLen >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+V_vsnprintf
+_V_strncat
+destBufferSize >= 0
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CFmtStrN<256,0>::CFmtStrN
+FmtStrVSNPrintf truncated without QUIET_TRUNCATION specified!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\mempool.cpp
+CUtlMemoryPoolBase::CUtlMemoryPoolBase
+IsPowerOfTwo( m_nAlignment )
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase::AddNewBlob
+!"CUtlMemoryPoolBase::AddNewBlob: mode == UTLMEMORYPOOL_GROW_NONE"
+Failed to allocate CUtlMemoryPoolBase blob of size %d ('%s' blob count = %d)
+m_pHeadOfFreeList
+CUtlMemoryPoolBase::Alloc
+!"CUtlMemoryPoolBase::Alloc: ran out of memory"
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+*** ConCommand "%s" (%p) was not unregistered! Shutdown crash imminent!
+ConCommand::Dispatch
+Encountered ConCommand '%s' without a callback!
+ConCommand::AutoCompleteSuggest
+m_pParent->m_fnCompletionCallback
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+ConVarRef %s doesn't point to an existing ConVar
+Unaccounted
+CUtlMemory<struct ConCommand::CallbackInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+CUtlBuffer::CUtlBuffer
+nSize != 0
+CUtlBuffer::Get
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + size - 1 )
+CUtlBuffer::GetString
+nMaxChars > 0
+(GetChar()) == (0)
+CUtlBuffer::PeekGet
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + nMaxSize - 1 )
+CUtlBuffer::Put
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf
+CUtlBuffer::AddNullTermination
+m_Memory.IsIdxValid( Index )
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\blockcompress.cpp
+CBlockCompress::FastCompress
+( nMatchLen - BLOCK_COMPRESS_MIN_MATCH_LEN ) < ( 1 << BLOCK_COMPRESS_MATCH_BITS )
+( nMatchDist - 1 ) < ( 1 << BLOCK_COMPRESS_DIST_BITS )
+nMatchCode <= UINT16_MAX
+pDst <= ( pDstBuf + nDstBufSize )
+pDst == pBitBufDst
+nBytesWritten <= nDstBufSize
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\stringpool.cpp
+CUtlRBTree<char const *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &),class CUtlMemory<struct UtlRBTreeNode_t<char const *,unsigned short>,unsigned short> >::Find
+CUtlRBTree<char const *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &),class CUtlMemory<struct UtlRBTreeNode_t<char const *,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<char const *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &),class CUtlMemory<struct UtlRBTreeNode_t<char const *,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<char const *,unsigned short,bool (__cdecl*)(char const * const &,char const * const &),class CUtlMemory<struct UtlRBTreeNode_t<char const *,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<char const *,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::Find
+Unaccounted
+CUtlSymbolTable::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::AddString
+Unaccounted
+CUtlSymbolTable::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbolTable::AddString
+pPool->m_SpaceUsed < 0xFFFF
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::Insert
+!"Allowing insert of dupe without explicit dupe insertion. Fix code callpoint to allow dupes."
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct CUtlSymbolTable::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+D"A/oyu
+	6RtcZO"
+z`%1Is}
+)UPDATE_STRING_TOKEN_DATABASE
+unknown
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\keyvalues.cpp
+CKeyValuesErrorStack::Pop
+m_errorIndex>=0
+CKeyValuesErrorStack::Reset
+stackLevel >= 0 && stackLevel < m_errorIndex
+KeyValues Error: %s in file %s
+(*%s*), 
+ ReadToken overflow
+CKeyValuesTokenReader::SeekBackOneToken
+CKeyValuesTokenReader::SeekBackOneToken: It is only possible to seek back one token at a time
+CkeyValuesTokenReader::SeekBackOneToken: No tokens read yet
+CKeyValues_Data::Internal_SetSubKey::<lambda_dfee2f515a6a5adff42b5f68583e88d3>::operator ()
+m_iDataType == TYPE_NONE
+CKeyValues_Data::Internal_ClearData
+!m_bStoredSubKey
+KeyValues::GetName
+Member function called on NULL KeyValues
+KeyValues::GetNameSymbol
+KeyValues::GetNameSymbolCaseSensitive
+KeyValues::LoadFromFile
+0x%016llX
+KeyValues::RecursiveSaveToFile: TODO, missing code for TYPE_COLOR.
+KeyValues::FindKey
+KeyValues::FindKey called on NULL pointer!
+!bCreate
+size >= 0
+size < 1024 * 1024
+KeyValues::AddSubkeyUsingKnownLastChild
+pSubkey != NULL
+pSubkey->m_pPeer == NULL
+Internal_GetSubKey() == NULL
+Internal_GetSubKey() != NULL
+pLastChild->m_pPeer == NULL
+KeyValues::AddSubKey
+KeyValues::GetFirstSubKey
+KeyValues::GetNextKey
+CKeyValues_Data::Internal_GetInt
+CKeyValues_Data::Internal_GetFloat
+CKeyValues_Data::Internal_GetString
+CKeyValues_Data::Internal_CopyData
+KeyValues::AppendIncludedKeys
+KeyValues::ParseIncludedKeys
+resourceName
+filetoinclude
+pFileSystem
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues::MergeBaseKeys
+KeyValues::RecursiveMergeKeyValues
+KV Conditional Evaluation Error
+KeyValues::LoadFromBuffer
+#include
+#include is NULL 
+#base is NULL 
+pCurrentKey
+LoadFromBuffer: expected '{', found '%s'
+RecursiveLoadFromBuffer:  recursion overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  got conditional between key and value
+KeyValues::RecursiveLoadFromBuffer
+dat->m_pPeer == NULL
+pLastChild == NULL || pLastChild->m_pPeer == dat
+Internal_GetSubKey() == dat
+pLastChild->m_pPeer == dat
+Unaccounted
+CUtlMemory<class KeyValues *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+VALVE-MODULE-DEBUG-%08X
+%s/bin/%s
+BuiltDebug
+-allowdebug
+Module %s is a debug build
+Sys_LoadModule
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\interface.cpp
+CreateInterface
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsoacontainer.cpp
+CSOAContainer::SetAttributeType
+CSOAContainer::SetAttributeType - ERROR, trying to change type of previously-defined attribute %d!
+CSOAContainer::AllocateDataMemory
+!m_pDataMemory
+CSOAContainer::AllocateConstantMemory
+!m_pConstantDataMemory
+CSOAContainer::CopyAttrFrom
+other.NumRows() == NumRows()
+other.NumCols() == NumCols()
+other.NumSlices() == NumSlices()
+m_nDataType[nDestAttributeIndex] == other.m_nDataType[nSrcAttributeIndex]
+CopyAttrFrom
+FillAttr
+CParallelProcessor::Run %s %d %d
+CMemberFuncProxyBase<class CSOAContainer *,void (__cdecl CSOAContainer::*)(int,int,int,int,class CSOAContainer const *,int,int),class CFuncMemPolicyNone>::OnCall
+CMemberFuncProxyBase<class CSOAContainer *,void (__cdecl CSOAContainer::*)(int,int,int,int,int,float),class CFuncMemPolicyNone>::OnCall
+CMemberFuncProxyBase<class CParallelProcessorAbstract<class CParallelProcessor<int,class CMemberFuncJobItemProcessor<int,class CCallQueueT<class CTSQueue<class CFunctor *,0> >,class CCallQueueT<class CTSQueue<class CFunctor *,0> > >,1> > *,void (__cdecl CParallelProcessorAbstract<class CParallelProcessor<int,class CMemberFuncJobItemProcessor<int,class CCallQueueT<class CTSQueue<class CFunctor *,0> >,class CCallQueueT<class CTSQueue<class CFunctor *,0> > >,1> >::*)(int),class CFuncMemPolicyNone>::OnCall
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\exprevaluator.cpp
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+VScript
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\schemabindings.cpp
+InstallSchemaBindings
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+[-&LMb#{'
+)\ZEo^m/
+H*0"ZOW
+IiGM>nw
+incorrect header check
+unknown compression method
+invalid window size
+unknown header flags set
+header crc mismatch
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid code lengths set
+invalid bit length repeat
+invalid code -- missing end-of-block
+invalid literal/lengths set
+invalid distances set
+invalid literal/length code
+invalid distance code
+invalid distance too far back
+incorrect data check
+incorrect length check
+ deflate 1.2.5 Copyright 1995-2010 Jean-loup Gailly and Mark Adler 
+need dictionary
+stream end
+file error
+stream error
+data error
+insufficient memory
+buffer error
+incompatible version
+ inflate 1.2.5 Copyright 1995-2010 Mark Adler 
+								
+?E=$% B
+?49HoKC
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+?UUUUUU
+CorExitProcess
+GrJoq>@
+?8UUUUU
+?UUUUUU
+AUUUUUU
+?UUUUUU
+Unknown exception
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+?8bunz8
+?@En[vP
+?UUUUUU
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+-9D	/9a
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+_nextafter
+@^8U)zj
+?3ScR.>
+?gibQ^AX>
+WR_l%2>
+)2STud>
+J\;5yTb
+<8bunz8
+<@En[vP
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+<unknown>
+wchar_t
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+c:\buildslave\vrgdc2015_staging_win64\build\src\rendersystem\Releasedx11\win64\rendersystemdx11.pdb
+rendersystemdx11.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+D3D11CreateDevice
+d3d11.dll
+D3DReflect
+D3DGetInputSignatureBlob
+D3DCOMPILER_43.dll
+D3DX11CompileFromMemory
+d3dx11_43.dll
+CreateDXGIFactory
+CreateDXGIFactory1
+dxgi.dll
+AssertMsg_ConditionFailed
+Plat_IsInDebugSession
+g_pMemAlloc
+Warning
+g_Telemetry
+Plat_ExitProcess
+Plat_ShouldCollectMiniDumpsForFatalErrors
+LoggingSystem_IsChannelEnabled
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+?Lock@CThreadFastMutex@@AECAXII@Z
+??0CThreadSpinRWLock@@QEAA@XZ
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?LockForWrite@CThreadSpinRWLock@@QEAAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+LOG_GENERAL
+LoggingSystem_RegisterLoggingChannel
+?DevWarning@@YAXPEBDZZ
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+g_pGlobalMiniProfilers
+CMemAllocSystemInitialize
+LoggingSystem_Log
+Plat_GetClockStart
+Plat_FloatTime
+CommandLine
+ThreadInMainThread
+??0CThreadMutex@@QEAA@XZ
+??1CThreadMutex@@QEAA@XZ
+?Lock@CThreadMutex@@QEAAXXZ
+??1CThreadSyncObject@@QEAA@XZ
+?Wait@CThreadSyncObject@@QEAA_NI@Z
+??0CThreadEvent@@QEAA@_N@Z
+?Set@CThreadEvent@@QEAA_NXZ
+Plat_SetWindowSize
+Plat_SetWindowFullscreenState
+Plat_SetWindowBorder
+Plat_GetDefaultMonitorIndex
+Plat_GetWindowMonitorIndex
+Plat_GetDesktopResolution
+Plat_WindowToOsSpecificHandle
+Plat_OsSpecificHandleToPlatWindow
+GetCPUInformation
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+?DevMsg@@YAXPEBDZZ
+?CreateSimpleThread@@YAPEAUThreadHandle_t__@@P6A_KPEAX@Z0PEAII@Z
+ReleaseThreadHandle
+ThreadSetDebugNameS2
+ThreadInterlockedExchange64
+??1CThreadSemaphore@@QEAA@XZ
+?Release@CThreadSemaphore@@QEAA_NHPEAH@Z
+??0CThreadRWLock@@QEAA@XZ
+?LockForWrite@CThreadRWLock@@QEAAXXZ
+?UnlockWrite@CThreadRWLock@@QEAAXXZ
+??0CThreadRWLock_FastRead@@QEAA@XZ
+?UnlockRead_LockForWrite@CThreadRWLock_FastRead@@QEAA?AW4RWLockTranstionResult_t@@XZ
+?HandleFirstWriteLockTransition@CThreadRWLock_FastRead@@IEAAXXZ
+?WaitForReadLockTransition@CThreadRWLock_FastRead@@IEAAXH@Z
+Plat_GetWindowClientSizeOsSpecific
+Plat_GlobalMemoryStatus
+g_ClockSpeedSecondsMultiplier
+ThreadJoin
+g_ClockSpeed
+SeriousWarning
+HangWatchdogInternal_BeginScope
+HangWatchdogInternal_EndScope
+??0IStack_Annotation@@QEAA@AEBVCCallStackMarkerBase@@@Z
+??1IStack_Annotation@@UEAA@XZ
+tier0.dll
+RegisterStringToken
+CreateNewThreadPool
+?Allocate@COneTimeEvent@@SAPEAV1@XZ
+g_pThreadPool
+KeyValuesSystem
+GetOSType
+vstdlib.dll
+GetCurrentThreadId
+LeaveCriticalSection
+FreeLibrary
+GetProcAddress
+LoadLibraryW
+ExitProcess
+InitializeCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+LocalAlloc
+GetSystemDirectoryW
+CreateFileW
+LocalFree
+GetLastError
+GetModuleHandleW
+SetLastError
+LoadLibraryExW
+OutputDebugStringW
+CloseHandle
+MultiByteToWideChar
+WideCharToMultiByte
+LCMapStringW
+WaitForSingleObject
+GetCurrentProcessId
+LoadLibraryExA
+CreateFileMappingA
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+RtlUnwindEx
+GetModuleHandleExW
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+GetDriveTypeW
+GetFullPathNameA
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetStdHandle
+GetFileType
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+WriteFile
+GetModuleFileNameW
+ReadFile
+GetConsoleMode
+ReadConsoleW
+GetStringTypeW
+GetCurrentDirectoryW
+GetConsoleCP
+SetFilePointerEx
+FlushFileBuffers
+SetStdHandle
+WriteConsoleW
+KERNEL32.dll
+ATI_TC_ConvertTexture_Wrapper
+ATI_TC_CalculateBufferSize_Wrapper
+ati_compress_wrapper.dll
+Plat_GetEnv
+CreateSimpleThread
+GetThreadedLoadLibraryFunc
+StackToolsNotify_LoadedModule
+StackToolsNotify_BeginLoadingModule
+StackToolsNotify_EndLoadingModule
+Plat_IsHighDPI
+position
+texcoord
+DXT1DXT3DXT5
+INTZRAWZDF16DF24ATI2ATI1
+0'>0c*>
+pb>pAf>
+-?[`/?291?
+RD?4KF?=GH?9FJ?8HL?
+a?y#c?sIe?
+0123456789ABCDEF
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+*S?~uJ?x
+O?_Y@?R
+BA?8gV?
+:>	As?K
+>$jh?ckm
+>|Z2>'ez?
+.?AVCColorFormatBase@@
+.?AVCRenderResource@@
+.?AVCIndexBufferBase@@
+.?AVCIndexBufferDx11@@
+.PEAU?$HashFixedDataInternal_t@PEAUID3D11InputLayout@@@?$CUtlTSHashBase@PEAUID3D11InputLayout@@$0BA@IV?$CUtlTSHashGenericHashMethod@I@@VCThreadSpinRWLock@@@@
+.?AV?$ITSHashConstructor@PEAUID3D11InputLayout@@@@
+.?AVCLayoutInsert@@
+.?AV?$CUtlLinkedList@UOcclusionQueryObject_t@COcclusionQueryMgr@@_J$00_JV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@UOcclusionQueryObject_t@COcclusionQueryMgr@@_J@@@@@@
+.?AV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@UOcclusionQueryObject_t@COcclusionQueryMgr@@_J@@@@
+.?AV?$CUtlVectorBase@UFencedConstantBufferSet_t@CRenderDeviceBase@@V?$CUtlMemory@UFencedConstantBufferSet_t@CRenderDeviceBase@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCDependencyDescriptor@@V?$CUtlMemoryFixedGrowable@PEAVCDependencyDescriptor@@$0BA@H@@@@
+.?AV?$CUtlMemory@PEAVCDependencyDescriptor@@H@@
+.?AV?$CUtlMemory@UFencedConstantBufferSet_t@CRenderDeviceBase@@H@@
+.?AVIRenderContext@@
+.?AVCRenderContextBase@@
+.?AV?$IStreamBuilderCallback@VCCommandStream@@@@
+.?AV?$CUtlVectorBase@UDynamicVB_t@CRenderContextBase@@V?$CUtlMemory@UDynamicVB_t@CRenderContextBase@@H@@@@
+.?AV?$CUtlMemory@UDynamicVB_t@CRenderContextBase@@H@@
+.?AV?$CUtlVectorBase@UDynamicIB_t@CRenderContextBase@@V?$CUtlMemory@UDynamicIB_t@CRenderContextBase@@H@@@@
+.?AV?$CUtlMemory@UDynamicIB_t@CRenderContextBase@@H@@
+.?AVCRenderContextDx11@@
+.?AV?$ITSHashConstructor@VCSamplerStateBinding@@@@
+.?AVCSamplerStateCreator@@
+.PEAU?$HashFixedDataInternal_t@PEAX@?$CUtlTSHashBase@PEAX$0EAA@URsRasterizerStateDesc_t@@V?$CUtlTSHashUseKeyHashMethod@URsRasterizerStateDesc_t@@@@VCThreadSpinRWLock@@@@
+.PEAU?$HashFixedDataInternal_t@PEAX@?$CUtlTSHashBase@PEAX$0EAA@URsDepthStencilStateDesc_t@@V?$CUtlTSHashUseKeyHashMethod@URsDepthStencilStateDesc_t@@@@VCThreadSpinRWLock@@@@
+.PEAU?$HashFixedDataInternal_t@PEAX@?$CUtlTSHashBase@PEAX$0EAA@URsBlendStateDesc_t@@V?$CUtlTSHashUseKeyHashMethod@URsBlendStateDesc_t@@@@VCThreadSpinRWLock@@@@
+.?AV?$CUtlVectorBase@PEAVIMaxSwapChainDimensionsChangedListener@@V?$CUtlMemory@PEAVIMaxSwapChainDimensionsChangedListener@@H@@@@
+.?AV?$CUtlMemory@PEAVIMaxSwapChainDimensionsChangedListener@@H@@
+.?AV?$CUtlVectorBase@PEAUConstantBuffer_t@@V?$CUtlMemory@PEAUConstantBuffer_t@@H@@@@
+.?AV?$CUtlMemory@PEAUConstantBuffer_t@@H@@
+.?AV?$CUtlLinkedList@PEAVCSwapChainBase@@_J$00_JV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@PEAVCSwapChainBase@@_J@@@@@@
+.?AV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@PEAVCSwapChainBase@@_J@@@@
+.?AVIRenderDevice@@
+.?AVICommandCallback@@
+.?AVICommandCompletionCallback@@
+.?AVConCommandBase@@
+.?AVCRenderDeviceBase@@
+.?AVIVConCommDataReceived@@
+.?AVConCommand@@
+.?AVCRasterizerStateCreator@@
+.?AV?$ITSHashConstructor@PEAX@@
+.?AVCDepthStencilStateCreator@@
+.?AVCBlendStateCreator@@
+.?AV?$CConCommandMemberAccessor@VCRenderDeviceBase@@@@
+.?AV?$CUtlMemory@UParamDesc_t@CInputLayoutDx11@@H@@
+.PEAU?$HashFixedDataInternal_t@VCSamplerStateBinding@@@?$CUtlTSHashBase@VCSamplerStateBinding@@$0EAA@VCSamplerStateDesc@@V?$CUtlTSHashUseKeyHashMethod@VCSamplerStateDesc@@@@VCThreadSpinRWLock@@@@
+.?AV?$CUtlMemory@EH@@
+.?AV?$CUtlMemory@UTextureCreationExtraData_t@@H@@
+.PEAU?$HashFixedDataInternal_t@UConcatLayoutResult_t@@@?$CUtlTSHashBase@UConcatLayoutResult_t@@$0EAA@IV?$CUtlTSHashGenericHashMethod@I@@VCThreadSpinRWLock@@@@
+.?AV?$CUtlMemory@PEAUALVRGpuSemaphore@@H@@
+.?AV?$CUtlVectorBase@UShaderWaitEntry_t@CRenderDeviceDx11@@V?$CUtlMemory@UShaderWaitEntry_t@CRenderDeviceDx11@@H@@@@
+.?AV?$CUtlMemory@UShaderWaitEntry_t@CRenderDeviceDx11@@H@@
+.?AV?$CUtlVectorBase@PEAVCVertexBufferDx11@@V?$CUtlMemory@PEAVCVertexBufferDx11@@H@@@@
+.?AV?$CUtlVectorBase@UFencedVertexBufferRelease_t@CRenderDeviceDx11@@V?$CUtlMemory@UFencedVertexBufferRelease_t@CRenderDeviceDx11@@H@@@@
+.?AV?$CUtlMemory@UFencedVertexBufferRelease_t@CRenderDeviceDx11@@H@@
+.?AV?$CUtlVectorBase@PEAVCIndexBufferDx11@@V?$CUtlMemory@PEAVCIndexBufferDx11@@H@@@@
+.?AV?$CUtlMemory@PEAVCIndexBufferDx11@@H@@
+.?AV?$CUtlVectorBase@UFencedIndexBufferRelease_t@CRenderDeviceDx11@@V?$CUtlMemory@UFencedIndexBufferRelease_t@CRenderDeviceDx11@@H@@@@
+.?AV?$CUtlMemory@UFencedIndexBufferRelease_t@CRenderDeviceDx11@@H@@
+.?AV?$CUtlVectorBase@UD3DMsgInfo_t@@V?$CUtlMemory@UD3DMsgInfo_t@@H@@@@
+.?AV?$CUtlMemory@UD3DMsgInfo_t@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IHGP6A_NAEBI0@Z@@G@@G@@
+.?AV?$CUtlLinkedList@UGeometryShader_t@CRenderDeviceDx11@@_J$00_JV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@UGeometryShader_t@CRenderDeviceDx11@@_J@@@@@@
+.?AV?$CUtlLinkedList@UHullShader_t@CRenderDeviceDx11@@_J$00_JV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@UHullShader_t@CRenderDeviceDx11@@_J@@@@@@
+.?AV?$CUtlLinkedList@UDomainShader_t@CRenderDeviceDx11@@_J$00_JV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@UDomainShader_t@CRenderDeviceDx11@@_J@@@@@@
+.?AV?$CUtlLinkedList@UComputeShader_t@CRenderDeviceDx11@@_J$00_JV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@UComputeShader_t@CRenderDeviceDx11@@_J@@@@@@
+.?AV?$CUtlMemory@PEAVCVertexBufferDx11@@H@@
+.?AV?$CUtlMemory@PEAVCInputLayoutDx11@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@IHGP6A_NAEBI0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IHGP6A_NAEBI0@Z@@G@@G@@@@
+.?AV?$CUtlVectorBase@EV?$CUtlMemory@EH@@@@
+.?AV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@UGeometryShader_t@CRenderDeviceDx11@@_J@@@@
+.?AV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@UHullShader_t@CRenderDeviceDx11@@_J@@@@
+.?AV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@UDomainShader_t@CRenderDeviceDx11@@_J@@@@
+.?AV?$CUtlFixedMemory@U?$UtlLinkedListElem_t@UComputeShader_t@CRenderDeviceDx11@@_J@@@@
+.?AV?$CUtlVectorBase@PEAUALVRGpuSemaphore@@V?$CUtlMemory@PEAUALVRGpuSemaphore@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCInputLayoutDx11@@V?$CUtlMemory@PEAVCInputLayoutDx11@@H@@@@
+.?AUID3DInclude@@
+.?AVIRefCounted@@
+.?AV?$CRefCountServiceBase@$00VCRefMT@@@@
+.?AVCFunctor@@
+.?AV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@
+.?AVIRenderShaderBuffer@@
+.?AVCSwapChainBase@@
+.?AVCRenderDeviceDx11@@
+.?AVCColorFormatDx11@@
+.?AVCJob@@
+.?AV?$CRefCounted1@VIRefCounted@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@
+.?AVCFunctorJob@@
+.?AVCSwapChainDx11@@
+.?AVBaseGPUShader_t@@
+.?AVPixelShader_t@@
+.?AVVertexShader_t@@
+.?AVCRenderContextDx11_SoftwareCommandLists@@
+.?AV?$CShaderBuffer@UID3D10Blob@@@@
+.?AVCDxInclude@@
+.?AV?$CMemberFunctor1@PEAVCRenderDeviceDx11@@P81@EAAXPEAVBaseGPUShader_t@@@ZPEAV2@V?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CUtlMemory@UAdapterInfo_t@CRenderDeviceMgrBase@@H@@
+.?AV?$CUtlVectorBase@P6AXXZV?$CUtlMemory@P6AXXZH@@@@
+.?AV?$CUtlMemory@P6AXXZH@@
+.?AV?$CUtlVectorBase@PEAVIRenderDeviceEventListener@@V?$CUtlMemory@PEAVIRenderDeviceEventListener@@H@@@@
+.?AV?$CUtlMemory@PEAVIRenderDeviceEventListener@@H@@
+.?AV?$CUtlVectorBase@URenderDisplayMode_t@@V?$CUtlMemory@URenderDisplayMode_t@@H@@@@
+.?AV?$CUtlMemory@URenderDisplayMode_t@@H@@
+.?AVIAppSystem@@
+.?AVIRenderDeviceMgr@@
+.?AVCRenderDeviceMgrBase@@
+.?AV?$CTier2AppSystem@VIRenderDeviceMgr@@$0A@@@
+.?AV?$CTier1AppSystem@VIRenderDeviceMgr@@$0A@@@
+.?AV?$CTier0AppSystem@VIRenderDeviceMgr@@@@
+.?AV?$CBaseAppSystem@VIRenderDeviceMgr@@@@
+.?AV?$CUtlVectorBase@UAdapterInfo_t@CRenderDeviceMgrBase@@V?$CUtlMemory@UAdapterInfo_t@CRenderDeviceMgrBase@@H@@@@
+.?AVCRenderDeviceMgrDx11@@
+.?AVIRenderHardwareConfig@@
+.?AVCRenderHardwareConfig@@
+.?AV?$CUtlVectorBase@UOutstandingFrame_t@CRenderPipelineStatsDx11@@V?$CUtlMemory@UOutstandingFrame_t@CRenderPipelineStatsDx11@@H@@@@
+.?AV?$CUtlVectorBase@VCRenderPipelineFrameStats@@V?$CUtlMemory@VCRenderPipelineFrameStats@@H@@@@
+.?AV?$CUtlVectorBase@USampleQueries_t@CRenderPipelineStatsDx11@@V?$CUtlMemory@USampleQueries_t@CRenderPipelineStatsDx11@@H@@@@
+.?AV?$CUtlVectorBase@URenderPipelineSample_t@@V?$CUtlMemory@URenderPipelineSample_t@@H@@@@
+.?AV?$CUtlVectorBase@PEAUID3D11Query@@V?$CUtlMemory@PEAUID3D11Query@@H@@@@
+.?AV?$CUtlMemory@PEAUID3D11Query@@H@@
+.?AV?$CUtlMemory@UOutstandingFrame_t@CRenderPipelineStatsDx11@@H@@
+.?AV?$CUtlMemory@VCRenderPipelineFrameStats@@H@@
+.?AV?$CUtlMemory@PEAV?$CUtlVector@URenderPipelineSample_t@@V?$CUtlMemory@URenderPipelineSample_t@@H@@@@H@@
+.?AV?$CUtlMemory@PEAV?$CUtlVector@USampleQueries_t@CRenderPipelineStatsDx11@@V?$CUtlMemory@USampleQueries_t@CRenderPipelineStatsDx11@@H@@@@H@@
+.?AV?$CUtlMemory@USampleQueries_t@CRenderPipelineStatsDx11@@H@@
+.?AV?$CUtlMemory@URenderPipelineSample_t@@H@@
+.?AV?$CUtlVectorBase@PEAV?$CUtlVector@URenderPipelineSample_t@@V?$CUtlMemory@URenderPipelineSample_t@@H@@@@V?$CUtlMemory@PEAV?$CUtlVector@URenderPipelineSample_t@@V?$CUtlMemory@URenderPipelineSample_t@@H@@@@H@@@@
+.?AV?$CUtlVectorBase@PEAV?$CUtlVector@USampleQueries_t@CRenderPipelineStatsDx11@@V?$CUtlMemory@USampleQueries_t@CRenderPipelineStatsDx11@@H@@@@V?$CUtlMemory@PEAV?$CUtlVector@USampleQueries_t@CRenderPipelineStatsDx11@@V?$CUtlMemory@USampleQueries_t@CRenderPipelineStatsDx11@@H@@@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCDependencyDescriptor@@V?$CUtlMemoryFixedGrowable@PEAVCDependencyDescriptor@@$0GE@H@@@@
+.?AVCRenderThreadBase@@
+.?AV?$CUtlVectorBase@PEAUQueryObjectInternal11_t@@V?$CUtlMemory@PEAUQueryObjectInternal11_t@@H@@@@
+.?AV?$CUtlMemory@PEAUQueryObjectInternal11_t@@H@@
+.?AVCRenderThreadDx11@@
+.?AVIRenderUtils@@
+.?AVCRenderUtils@@
+.?AV?$CTier2AppSystem@VIRenderUtils@@$0A@@@
+.?AV?$CTier1AppSystem@VIRenderUtils@@$0A@@@
+.?AV?$CTier0AppSystem@VIRenderUtils@@@@
+.?AV?$CBaseAppSystem@VIRenderUtils@@@@
+.PEAU?$HashFixedDataInternal_t@VCTextureSequenceRecord_t@@@?$CUtlTSHashBase@VCTextureSequenceRecord_t@@$0IA@UCTextureSequenceHashKey_t@@V?$CUtlTSHashUseKeyHashMethod@UCTextureSequenceHashKey_t@@@@VCThreadSpinRWLock@@@@
+.?AVCSheetHashConstructor@@
+.?AV?$ITSHashConstructor@VCTextureSequenceRecord_t@@@@
+.?AV?$CUtlVectorBase@VCTextureInfoId@@V?$CUtlMemory@VCTextureInfoId@@H@@@@
+.?AV?$CUtlVectorBase@UTextureCreationExtraData_t@@V?$CUtlMemory@UTextureCreationExtraData_t@@H@@@@
+.?AV?$CUtlMemory@VCTextureInfoId@@H@@
+.?AV?$CUtlVectorBase@PEAVITextureResidencyListener@@V?$CUtlMemory@PEAVITextureResidencyListener@@H@@@@
+.?AV?$CUtlMemory@PEAVITextureResidencyListener@@H@@
+.?AV?$CUtlVectorBase@HV?$CUtlMemory@HH@@@@
+.?AV?$CUtlMemory@HH@@
+.?AV?$CUtlVectorBase@UToCacheHandle_t@CTextureManagerBase@@V?$CUtlMemory@UToCacheHandle_t@CTextureManagerBase@@H@@@@
+.?AV?$CUtlMemory@UToCacheHandle_t@CTextureManagerBase@@H@@
+.?AV?$CUtlMemory@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@H@@
+.?AV?$CUtlVectorBase@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@V?$CUtlMemory@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@H@@@@
+.?AVCBaseIntrospectedTypeManager@@
+.?AVIResourceTypeManager@@
+.?AVCTextureBase@@
+.?AVCTextureManagerBase@@
+.?AV?$CDefaultIntrospectedTypeManager@$0HIGFHEHG@UTextureHeader_t@@@@
+.?AVCTextureInfoChunkBase@@
+.?AV?$CConCommandMemberAccessor@VCTextureManagerBase@@@@
+.?AV?$CMemberFunctor4@PEAVCTextureManagerBase@@P81@EAAXPEAVIAsyncResourceDataRequest@@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@UTextureSpecification_t@@H@ZPEAV2@V3@U4@HV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CMemberFunctor5@PEAVCTextureManagerBase@@P81@EAAXV?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@PEAXHUTextureSpecification_t@@H@ZV2@PEAXHU3@HV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AVCTextureManagerDx11New@@
+.?AVCTextureManagerDx11@@
+.?AVCTextureDx11@@
+.?AV?$CUtlVectorBase@UCacheRequest_t@CTextureManagerBase@@V?$CUtlMemory@UCacheRequest_t@CTextureManagerBase@@H@@@@
+.?AV?$CUtlMemory@UCacheRequest_t@CTextureManagerBase@@H@@
+.?AV?$CUtlMemory@UTextureStreamingPriorityInfo_t@@H@@
+.?AV?$CUtlVectorBase@UTextureStreamingPriorityInfo_t@@V?$CUtlMemory@UTextureStreamingPriorityInfo_t@@H@@@@
+.?AVCTextureStreamingHelper@@
+.?AVCVertexBufferBase@@
+.?AVCVertexBufferDx11@@
+.?AVCSchemaRegistration@@
+.?AVCSchemaRegistration_rendersystemdx11@@
+.?AV?$CUtlMemory@UVsInputSignatureElement_t@@H@@
+.?AV?$CUtlVectorBase@UVsInputSignatureElement_t@@V?$CUtlMemory@UVsInputSignatureElement_t@@H@@@@
+.?AVIAtomicManipulator@@
+.?AVISchemaManipulator@@
+.?AVCSchemaClassBindingBase@@
+.?AVISchemaBinding@@
+.?AVCSchemaEnumBindingBase@@
+.?AVISchemaCollectionManipulator@@
+.?AV?$CSchemaEnumBinding@W4RenderSlotType_t@@@@
+.?AV?$CSchemaEnumBinding@W4RenderPrimitiveType_t@@@@
+.?AV?$CSchemaEnumBinding@W4InputLayoutVariation_t@@@@
+.?AV?$CSchemaEnumBinding@W4RenderMultisampleType_t@@@@
+.?AV?$CSchemaClassBinding@URenderInputLayoutField_t@@@@
+.?AV?$CSchemaClassBinding@UVsInputSignatureElement_t@@@@
+.?AV?$CSchemaClassBinding@UVsInputSignature_t@@@@
+.?AU?$CAtomicManipulator@V?$CCopyableUtlVector@UVsInputSignatureElement_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CCopyableUtlVector@UVsInputSignatureElement_t@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CCopyableUtlVector@UVsInputSignatureElement_t@@@@UVsInputSignatureElement_t@@@@
+.?AU?$CAtomicManipulator@VVector2D@@@@
+.?AU?$CAtomicManipulator@VCResourceString@@@@
+.?AV?$CSchemaClassBinding@USequenceFloatParam_t@@@@
+.?AV?$CSchemaClassBinding@USheetSequence_t@@@@
+.?AV?$CSchemaClassBinding@USheetSequenceFrame_t@@@@
+.?AV?$CSchemaClassBinding@USheetFrameImage_t@@@@
+.?AV?$CSchemaClassBinding@USheet_t@@@@
+.?AV?$CSchemaManipulator@VVector2D@@@@
+.?AV?$CSchemaManipulator@VCResourceString@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@USheetSequenceFrame_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@USequenceFloatParam_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@USheetFrameImage_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@USheetSequence_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@USheetSequenceFrame_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@USequenceFloatParam_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@USheetFrameImage_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@USheetSequence_t@@@@@@
+.?AV?$CSchemaEnumBinding@W4TextureSpecificationFlags_t@@@@
+.?AV?$CSchemaEnumBinding@W4CubeMapFace_t@@@@
+.?AU?$CAtomicManipulator@VVector4D@@@@
+.?AV?$CSchemaClassBinding@UTextureDesc_t@@@@
+.?AV?$CSchemaClassBinding@UTextureHeader_t@@@@
+.?AV?$CSchemaManipulator@VVector4D@@@@
+.?AU?$CAtomicManipulator@V?$CResourcePointer@USheet_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourcePointer@USheet_t@@@@@@
+.?AV?$CUtlVectorBase@USheetInfo_t@CSheet@@V?$CUtlMemory@USheetInfo_t@CSheet@@H@@@@
+.?AV?$CUtlMemory@USheetInfo_t@CSheet@@H@@
+.?AV?$CUtlMemory@DH@@
+.?AV?$CUtlVectorBase@DV?$CUtlMemory@DH@@@@
+.?AVCPostConnectCallback@@
+.?AVCResourceStream@@
+.?AVCResourceStreamFixed@@
+.?AV?$ISchemaSearchTester@PEBVCSchemaClassInfo@@@@
+.?AUCValueSearchTester_ClassIntrospectionHandle_t@MDiskDataForResourceType@@
+.?AVIResourceAllocatorUtils@@
+.?AVCResourceAllocatorUtils@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@VResourceId_t@@PEBD@@H@@
+.?AVCSchemaVisitorBase@@
+.?AVCSchemaFieldVisitor@@
+.?AVCExtrefTraversal@@
+.?AVCResourceReferenceFixupTraversal@@
+.?AVCReferenceCleanupTraversal@@
+.?AVIStack_Annotation@@
+.?AV?$CSchemaFieldVisitorInfoMap@VCExtrefTraversal@@@@
+.?AVCSchemaVisitorInfoMapBase@@
+.?AV?$CStackAnnotation@PEBVCSchemaClassField@@_NXXXXXXX@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@PEBVCSchemaClassInfo@@PEAVCClassVisitInfo@@@@H@@
+.?AV?$CUtlVectorBase@UFieldInfo_t@CClassVisitInfo@@V?$CUtlMemory@UFieldInfo_t@CClassVisitInfo@@H@@@@
+.?AV?$CUtlMemory@UFieldInfo_t@CClassVisitInfo@@H@@
+.?AV?$CUtlMemory@UClassToTraverse_t@CSchemaInheritanceIterator@@H@@
+.?AV?$CUtlVectorBase@UClassToTraverse_t@CSchemaInheritanceIterator@@V?$CUtlMemoryFixedGrowable@UClassToTraverse_t@CSchemaInheritanceIterator@@$07H@@@@
+.?AVexception@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@UCallbackInfo_t@ConCommand@@V?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@@@
+.?AV?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@PEBDG@@G@@
+.?AV?$CUtlRBTree@PEBDGP6A_NAEBQEBD0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@PEBDG@@G@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@CUtlSymbolTable@@V?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@
+.?AV?$CUtlRBTree@VCStringPoolIndex@CUtlSymbolTable@@GVCLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@@@
+.?AV?$CUtlVectorBase@PEAVKeyValues@@V?$CUtlMemory@PEAVKeyValues@@H@@@@
+.?AV?$CUtlMemory@PEAVKeyValues@@H@@
+.?AV?$CMemberFunctor7@PEAVCSOAContainer@@P81@EAAXHHHHPEBV1@HH@ZHHHHPEBV1@HHV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CMemberFunctor6@PEAVCSOAContainer@@P81@EAAXHHHHHM@ZHHHHHMV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CMemberFunctor1@PEAV?$CParallelProcessorAbstract@V?$CParallelProcessor@HV?$CMemberFuncJobItemProcessor@HV?$CCallQueueT@V?$CTSQueue@PEAVCFunctor@@$0A@@@@@V1@@@$00@@@@P81@EAAXH@ZHV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+?UUUUUU
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z

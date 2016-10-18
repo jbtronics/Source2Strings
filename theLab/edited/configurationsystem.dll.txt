@@ -1,0 +1,968 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+Release
+configurationsystem
+application
+per-user
+machine
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\tslist.h
+{%d %d %d %d}
+float32
+<unknown>
+vector2
+vector3
+vector4
+[%f %f]
+[%f %f %f]
+[%f %f %f %f]
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\fmtstr.h
+ConfigurationSystem_001
+{0 0 0 255}
+[0 0 0]
+[0 0 0 0]
+c:\buildslave\vrgdc2015_staging_win64\build\src\configurationsystem\configurationsystem.cpp
+CConfigurationSystem::CConfigurationSystem
+nChangeCallbackIndex == 0
+<invalid handle>
+CConfigurationSystem::InstallRegistrationNotificationCallback
+m_registrationListeners.Find( pListener ) < 0
+defaultValue
+<unspecified>
+Error in configuration schema file "%s":
+	Invalid variable type "%s"!
+CConfigurationSystem::LoadConfigSchema
+defaults
+unit test
+configschema.vcfg
+configdefaults.%s.vcfg
+Error parsing configuration schema file "%s"!
+CConfigurationSystem::LoadConfigurationDesc
+Error reading configuration defaults file "%s"!
+Error parsing configuration defaults file "%s"!
+CConfigurationSystem::GenerateConfigurationKeys
+nSplitScreenSlot.GetRaw() >= 0 && nSplitScreenSlot.GetRaw() < MAX_SPLITSCREEN_CLIENTS
+CConfigurationSystem::ReadConfiguration: Error parsing configuration file!
+Attempted to assign a group to an unknown config value!
+Attempted to assign an invalid group # to config value "%s"!
+Attempted to assign two different groups to config value "%s"!
+CConfigurationSystem::AllocDataMemory
+( m_nCurrDataOffset & 0x3 ) == 0
+nDataSize < CONFIG_DATA_BLOCK_SIZE
+CConfigurationSystem::AllocNameMemory
+nNameSize < CONFIG_NAME_BLOCK_SIZE
+m_nCurrNameOffset < ( 1 << ( 32 - CHANGE_CALLBACK_INDEX_BIT_COUNT ) )
+CConfigurationSystem::AddChangeCallback
+( nChangeCallbackIndex != 0 ) && ( nChangeCallbackIndex < (1 << CHANGE_CALLBACK_INDEX_BIT_COUNT) )
+RegisterConfigValue: Cannot register two different completion callbacks for config value "%s"!
+CConfigurationSystem::AddCompletionCallback
+Error parsing default value for config value "%s", default value "%s"!
+CConfigurationSystem::ParseDefaultValue
+RegisterConfigValue: Error with config value "%s"
+	Value is actually %s, code is expecting a %s value
+CConfigurationSystem::RegisterConfigValueInternal
+RegisterConfigValue: Error with config value "%s"
+	Value is actually type %s, code is expecting a %s type value
+RegisterConfigValue: Second registration of config value "%s" specified a different default value ("%s" -> "%s")!
+RegisterConfigValue: Error registering config value "%s", the hash of its name collides with another config value %s, rename it!
+Attempted to set configuration value "%s" using incorrect data type!
+	Expected %s, encountered %s.
+Attempted to set read-only configuration value "%s"!
+Attempted to set per-user configuration value "%s" for an invalid splitscreen slot!
+Attempted to set global configuration value "%s" but specified a splitscreen slot!
+CConfigurationSystem::QueueConfigValueChange
+nMemSize <= CONFIG_MAX_VALUE_SIZE
+Attempted to set unknown configuration value!
+Attempted to set unknown configuration value %s!
+Error parsing value to set configuration value "%s" to ("%s")!
+Attempted to apply queued config changes but the queue is locked!
+CConfigurationSystem::UnlockConfigValues
+m_nConfigLock[i] >= 0
+CConfigurationSystem::UnlockConfigValues: Unlocked without a preceeding lock!
+Attempted to access per-user configuration value "%s" with a bogus slot #!
+Attempted to access global configuration value "%s" as if it was a per-user value!
+CTSQueue: Misaligned queue
+CTSQueue<struct CConfigurationSystem::QueuedValueChange_t,0>::CTSQueue
+CTSQueue<struct CConfigurationSystem::QueuedValueChange_t,0>::~CTSQueue
+m_Count == 0
+m_Head.value.pNode == m_Tail.value.pNode
+m_Head.value.pNode->pNext == End()
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlhash.h
+CUtlScalarHash<struct CConfigurationSystem::ValueLookup_t,class CDefaultHash32>::operator []
+unsigned(hHash)<=m_uiBucketMask
+CUtlScalarHash<struct CConfigurationSystem::CompletionLookup_t,class CDefaultHash32>::operator []
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CFmtStrN<256,0>::CFmtStrN
+FmtStrVSNPrintf truncated without QUIET_TRUNCATION specified!
+CTSQueue<struct CConfigurationSystem::QueuedValueChange_t,0>::Purge
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utllinkedlist.h
+CUtlLinkedList<void (__cdecl*)(unsigned int,void const *,void const *),unsigned short,1,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<void (__cdecl*)(unsigned int,void const *,void const *),unsigned short>,unsigned short> >::LinkBefore
+IsValidIndex(elem)
+IsInList(before)
+CUtlScalarHash<struct CConfigurationSystem::ValueLookup_t,class CDefaultHash32>::Init
+m_dataCount==0
+CUtlScalarHash<struct CConfigurationSystem::ValueLookup_t,class CDefaultHash32>::Insert
+uiKey != (uint)InvalidHandle()
+CUtlScalarHash<struct CConfigurationSystem::CompletionLookup_t,class CDefaultHash32>::Init
+CUtlScalarHash<struct CConfigurationSystem::CompletionLookup_t,class CDefaultHash32>::Insert
+CUtlLinkedList<void (__cdecl*)(unsigned int,void const *,void const *),unsigned short,1,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<void (__cdecl*)(unsigned int,void const *,void const *),unsigned short>,unsigned short> >::RemoveAll
+m_Head == InvalidIndex()
+m_Tail == InvalidIndex()
+m_FirstFree == InvalidIndex()
+m_ElementCount == 0
+CUtlLinkedList<void (__cdecl*)(unsigned int,void const *,void const *),unsigned short,1,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<void (__cdecl*)(unsigned int,void const *,void const *),unsigned short>,unsigned short> >::Unlink
+CUtlLinkedList<void (__cdecl*)(unsigned int,void const *,void const *),unsigned short,1,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<void (__cdecl*)(unsigned int,void const *,void const *),unsigned short>,unsigned short> >::AllocInternal
+m_Memory.IsValidIterator( m_LastAlloc ) || m_ElementCount == 0
+m_Memory.IsValidIterator( it )
+CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)
+MemAllocClassName
+Unaccounted
+CUtlMemory<char *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+configurationsystem
+CUtlMemory::Grow
+Unaccounted
+CUtlMemory<class CUtlString,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+configurationsystem
+Unaccounted
+CUtlMemory<unsigned char *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+configurationsystem
+Unaccounted
+CUtlMemory<struct UtlLinkedListElem_t<void (__cdecl*)(unsigned int,void const *,void const *),unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+configurationsystem
+Unaccounted
+CUtlMemory<class IConfigValueRegistrationListener *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+configurationsystem
+configurationsystem.dll
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strncmp
+count >= 0
+Unaccounted
+_V_strncmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_strcmp
+V_strncasecmp
+Unaccounted
+V_strncasecmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strnicmp
+_V_strncpy
+maxLen >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+V_vsnprintf
+V_vsnprintfRet
+_V_strncat
+destBufferSize >= 0
+_V_AppendSlash
+V_AppendSlash: ran out of space on %s.
+unknown
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\keyvalues.cpp
+CKeyValuesErrorStack::Pop
+m_errorIndex>=0
+CKeyValuesErrorStack::Reset
+stackLevel >= 0 && stackLevel < m_errorIndex
+KeyValues Error: %s in file %s
+(*%s*), 
+ ReadToken overflow
+CKeyValuesTokenReader::SeekBackOneToken
+CKeyValuesTokenReader::SeekBackOneToken: It is only possible to seek back one token at a time
+CkeyValuesTokenReader::SeekBackOneToken: No tokens read yet
+CKeyValues_Data::Internal_SetSubKey::<lambda_dfee2f515a6a5adff42b5f68583e88d3>::operator ()
+m_iDataType == TYPE_NONE
+CKeyValues_Data::Internal_ClearData
+!m_bStoredSubKey
+KeyValues::GetName
+Member function called on NULL KeyValues
+KeyValues::GetNameSymbol
+KeyValues::GetNameSymbolCaseSensitive
+KeyValues::LoadFromFile
+0x%016llX
+KeyValues::RecursiveSaveToFile: TODO, missing code for TYPE_COLOR.
+KeyValues::FindKey
+KeyValues::FindKey called on NULL pointer!
+!bCreate
+size >= 0
+size < 1024 * 1024
+KeyValues::AddSubkeyUsingKnownLastChild
+pSubkey != NULL
+pSubkey->m_pPeer == NULL
+Internal_GetSubKey() == NULL
+Internal_GetSubKey() != NULL
+pLastChild->m_pPeer == NULL
+KeyValues::AddSubKey
+KeyValues::GetFirstSubKey
+KeyValues::GetNextKey
+KeyValues::GetFirstValue
+KeyValues::GetNextValue
+CKeyValues_Data::Internal_GetString
+CKeyValues_Data::Internal_CopyData
+KeyValues::AppendIncludedKeys
+KeyValues::ParseIncludedKeys
+resourceName
+filetoinclude
+pFileSystem
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues::MergeBaseKeys
+KeyValues::RecursiveMergeKeyValues
+KV Conditional Evaluation Error
+KeyValues::LoadFromBuffer
+#include
+#include is NULL 
+#base is NULL 
+pCurrentKey
+LoadFromBuffer: expected '{', found '%s'
+RecursiveLoadFromBuffer:  recursion overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  got conditional between key and value
+KeyValues::RecursiveLoadFromBuffer
+dat->m_pPeer == NULL
+pLastChild == NULL || pLastChild->m_pPeer == dat
+Internal_GetSubKey() == dat
+pLastChild->m_pPeer == dat
+Unaccounted
+CUtlMemory<char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class KeyValues *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+()$^.*+?[]|\-{},:=!
+generic
+unknown error
+iostream
+iostream stream error
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+string too long
+invalid string position
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+CCommand::Tokenize: Encountered command which overflows the tokenizer buffer.. Skipping!
+CCommand::Tokenize
+m_nArgv0Size != 0
+CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clamped!
+nArgvBufferSize <= COMMAND_MAX_LENGTH
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+CUtlBuffer::CUtlBuffer
+nSize != 0
+CUtlBuffer::SetBufferType
+ContainsCRLF() == bContainsCRLF
+ContainsCRLF()
+bContainsCRLF
+CUtlBuffer::Get
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + size - 1 )
+CUtlBuffer::GetString
+nMaxChars > 0
+(GetChar()) == (0)
+CUtlBuffer::PeekGet
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + nMaxSize - 1 )
+CUtlBuffer::ParseToken
+nMaxLen > 0
+CUtlBuffer::Put
+CUtlBuffer::AddNullTermination
+m_Memory.IsIdxValid( Index )
+Unaccounted
+CUtlMemory<unsigned char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+UPDATE_STRING_TOKEN_DATABASE
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\exprevaluator.cpp
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+D"A/oyu
+	6RtcZO"
+z`%1Is}
+Unknown exception
+CorExitProcess
+UTF-16LE
+UNICODE
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+wchar_t
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+_nextafter
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+CreateFile2
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+c:\buildslave\vrgdc2015_staging_win64\build\src\configurationsystem\Release\win64\configurationsystem.pdb
+configurationsystem.dll
+BinaryProperties_GetValue
+CreateInterface
+__crt_debugger_hook
+Plat_ExitProcess
+Plat_FileSize
+Plat_ShouldCollectMiniDumpsForFatalErrors
+Plat_GetModuleFilename
+CMemAllocSystemInitialize
+LoggingSystem_IsChannelEnabled
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+AssertMsg_ConditionFailed
+Warning
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+g_pMemAlloc
+LOG_GENERAL
+g_pGlobalMiniProfilers
+Plat_IsInDebugSession
+LoggingSystem_RegisterLoggingChannel
+tier0.dll
+RegisterStringToken
+KeyValuesSystem
+GetOSType
+vstdlib.dll
+MultiByteToWideChar
+WideCharToMultiByte
+LCMapStringW
+CloseHandle
+GetCurrentProcessId
+GetProcAddress
+GetCurrentThreadId
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+GetLastError
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+ExitProcess
+GetModuleHandleExW
+AreFileApisANSI
+EnterCriticalSection
+LeaveCriticalSection
+ReadFile
+GetConsoleMode
+ReadConsoleW
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetStringTypeW
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+SetStdHandle
+FlushFileBuffers
+GetConsoleCP
+SetFilePointerEx
+OutputDebugStringW
+WriteConsoleW
+CreateFileW
+SetEndOfFile
+HeapAlloc
+HeapFree
+GetProcessHeap
+KERNEL32.dll
+?DevMsg@@YAXPEBDZZ
+?Lock@CThreadFastMutex@@AECAXII@Z
+g_Telemetry
+Plat_GetEnv
+Plat_IsHighDPI
+0123456789ABCDEFh!
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AV?$CUtlMemory@DH@@
+.?AV?$CUtlVectorBase@PEADV?$CUtlMemory@PEADH@@@@
+.?AV?$CUtlMemory@PEADH@@
+.?AV?$CUtlVectorBase@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@
+.?AV?$CUtlVectorBase@PEAEV?$CUtlMemory@PEAEH@@@@
+.?AV?$CUtlMemory@PEAEH@@
+.?AV?$CUtlLinkedList@P6AXIPEBX0@ZG$00GV?$CUtlMemory@U?$UtlLinkedListElem_t@P6AXIPEBX0@ZG@@G@@@@
+.?AV?$CUtlMemory@U?$UtlLinkedListElem_t@P6AXIPEBX0@ZG@@G@@
+.?AV?$CUtlVectorBase@PEAVIConfigValueRegistrationListener@@V?$CUtlMemory@PEAVIConfigValueRegistrationListener@@H@@@@
+.?AV?$CUtlMemory@PEAVIConfigValueRegistrationListener@@H@@
+.?AV?$CUtlMemory@VCUtlString@@H@@
+.?AVIConfigurationSystem@@
+.?AVIAppSystem@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVCConfigurationSystem@@
+.?AV?$CTier1AppSystem@VIConfigurationSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VIConfigurationSystem@@@@
+.?AV?$CBaseAppSystem@VIConfigurationSystem@@@@
+.?AV?$CUtlVectorBase@DV?$CUtlMemory@DH@@@@
+.?AV?$CUtlVectorBase@PEAVKeyValues@@V?$CUtlMemory@PEAVKeyValues@@H@@@@
+.?AV?$CUtlMemory@PEAVKeyValues@@H@@
+.?AVexception@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AV?$CUtlMemory@EH@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@

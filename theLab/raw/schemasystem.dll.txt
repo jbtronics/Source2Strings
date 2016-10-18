@@ -1,0 +1,3261 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@_RDATA
+@.reloc
+|$ ATAVAWH
+ A_A^A\
+ATAVAWH
+PA_A^A\
+D$@+D$H+D$P
+@SATAWH
+T$(f;V(
+-VUUUDk
+H9~`t4H
+-VUUUDk
+H9~`t4H
+t$ WATAWH
+L$ SVWH
+CmdLinkAH
+UVWATAUAVAWH
+CmdLinkAL
+CmdLinkA
+A_A^A]A\_^]
+\$ UVWH
+D$(E;|$
+|$`;|$@t
+|$h;|$Ht
+|$8;|$Xt
+t$`;t$@t
+@SUVWAVH
++Hc|$PH
+5Hc|$PH
+"Hc|$PH
+-VUUUDk
+H9~`t3H
+-VUUUDk
+H9~`t3H
+|$8-VUUUL
+H9_(t	H
+t)@82t$H
+nH-VUUUDk
+@SATAUH
+t%@81t H
+WATAUAVAWH
+A_A^A]A\_
+@UAVAWH
+8A^_^]I
+t$ WAVAWH
+@A_A^_I
+VATAUAVAWH
+I9v(t9H9u(t3H
+`A_A^A]A\^
+\$ VWAVH
+fE94(t/E
+fA9,2t+A
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+|$ ATAVAWH
+VWATAVAW
+A_A^A\_^
+@SVWAWH
+SWAUAWH
+XA_A]_[
+@WAVAWH
+t$PHco H
+@SUVWAVAWH
+G@HcGHI
+A_A^_^][
+@SVWATAVAWH
+GHHcGPI
+A_A^A\_^[
+-VUUUDk
+H9~`t3H
+-VUUUDk
+H9~`t3H
+D9A ~tH
+D$08^0u
+@SUVAVH
+UATAUAVAWH
+A_A^A]A\]
+D$0;D$8
+D$0@8o8u
+|$ ATAVAWH
+0A_A^A\
+t$ WATAWH
+SWATAWH
+XA_A\_[
+WATAUAVAWH
+fD;z(s{A
+t)D89t$H
+0A_A^A]A\_
+HcC$LcC
+WATAUAVAWH
+@A_A^A]A\_
+HcC$HcK
+@SUWAWH
+WATAUAVAWH
+ A_A^A]A\_
+@SWAVAWH
+HA_A^_[
+UATAUAVAWH
+D9~Pt2H
+A_A^A]A\]
+\$ ATAVAWH
+fD;s(sFI
+@A_A^A\
+L$ SVWH
+Hc^X;^hu
+u<HcGXH
+HckX;khu
+\$ UVWH
+HcoX;ohu
+HckX;khu
+K`HcCX3
+P	HcCXH
+uqHcKXH
+u*HcCXH
+KXHcCXH
+P	HcGXH
+P	HcCXH
+2Hcs(;s8u
+(Hc{H;{Xu
+@SUVWAVH
+Hcu@;uPu
+UVWATAUAVAWH
+ A_A^A]A\_^]
+@SVATAWH
+\$ UVAVH
+UVWATAUAVAWH
+ A_A^A]A\_^]
+SWATAWH
+(A_A\_[
+@SUVWAVH
+|$ ATAVAWH
+ A_A^A\H
+l$ VWAVH
+t$ WATAVH
+ A^A\_H
+t$0Hcq0
+Ic~@A;~Pu
+uK8T$Pt
+L$ UVAUAVH
+|$pD;f ugH
+|$ UAVAWH
+CP@8<(t,H
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+\$ UVWAVAWH
+A_A^_^]
+VWATAVAWH
+ A_A^A\_^
+WATAUAVAWH
+@A_A^A]A\_
+S @8n(t L
+L$p;k8|
+Hc~8;~H
+9\$(~>A
+L$ SWATAUAWH
+0A_A]A\_[
+SVAUAVH
+(A^A]^[
+SVAUAVH
+(A^A]^[
+t$ WAVAWH
+|$ AUAVAWH
+ A_A^A]
+|$ AUAVAWH
+ A_A^A]
+l$ VAVAWH
+@WAVAWH
+@SATAUH
+D$0D;v`uRH
+EoHcUwH
+9t$(~[H
+UVWATAUAVAWH
+D$h;sXu
+A_A^A]A\_^]
+@UATAUAVAWH
+e0A_A^A]A\]
+@SUWAWH
+Hcw0;w@
+|$ 9o0~5L
+Hcw0;w@
+|$ 9o0~5L
+Hcw0;w@
+|$ ATAVAWH
+Hcw0;w@
+ A_A^A\
+Hcs0;s@u
+\$ ATAVAWH
+@A_A^A\
+\$ ATAVAWH
+@A_A^A\
+\$ ATAVAWH
+@A_A^A\
+\$ ATAVAWH
+@A_A^A\
+\$ ATAVAWH
+@A_A^A\
+\$ ATAVAWH
+@A_A^A\
+\$ ATAVAWH
+@A_A^A\
+t+HcC$LcC
+t(HcC$HcK
+|$Ht&HcK
+HcC$HcS
+HcC$HcK
+<dtk<itg<uu
+<dt <it
+<ft_<lu
+																									
+L$ SVWH
+t$@HcsH$
+A0t#H9I8u
+@UAVAWH
+e A_A^]
+@SAVAWH
+l$@HckxH
+D$<9T$0wR9T$4wL9T$8wF;
+)t$PH9[8t
+)|$PH9[8t
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+T$8+G$Hc
+T$8+G$A
+SUVWAVAWH
+(A_A^_^][
+UVWATAUAVAWH
+ A_A^A]A\_^]
+ATAVAWH
+ A_A^A\
+fffffff
+@UATAVH
+l$ VAVAWH
+fffffff
+.ffffff
+fffffff
+0ffffff
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+p WATAUAVAWH
+A_A^A]A\_
+VWATAVAWH
+A_A^A\_^
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+USVWAVH
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+@ffffff
+SVWATAUAVAWUH
+]A_A^A]A\_^[
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+t$ WAVAWH
+@UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+0A_A^A]A\_
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+UVWATAUAVAWH
+$tPH9\$@t>
+A_A^A]A\_^]
+UWATAVAWH
+uMM9'tHH
+uQM91tLH
+A_A^A\_]
+<1~-<3~ <4t5<5t
+UATAUAVAWH
+A_A^A]A\]
+D8t$HuD
+(D$@L9t$ t0H
+D$(D8t$(u\H
+x UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+,0<	w!A
+SATAUAWUH
+]A_A]A\[
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@SUVWATAVAWH
+PA_A^A\_^][
+AUAVAWH
+0A_A^A]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+H(H9J(u
+	Mismatch - %s
+	Module 1 - %s
+	Module 2 - %s
+schemasystem
+-DANGER_MODE_ignore_schema_mismatches
+*************************************************
+***!        ENTERING THE DANGER ZONE         !***
+***! Disregarding mismatched schema bindings !***
+WARNING: Schema mismatch for '%s':
+*	Mismatch - %s
+*	Module 1 - %s
+*	Module 2 - %s
+	Mismatch - %s
+	Module 1 - %s
+	Module 2 - %s
+ERROR: Schema mismatches reported! Aborting to prevent data corruption.
+All errors logged to console. First error (of %d):
+CSchemaSystem::VerifySchemaBindingConsistency
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\schemamismatchreport.cpp
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Release
+schemasystem.dll
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+UnknownSchemaType
+ExternalReference
+unsigned char
+float32
+float64
+Vector2D
+Vector4D
+Quaternion
+VMatrix
+UniqueId_t
+CResourceString
+matrix3x4_t
+CUtlSymbol
+CUtlString
+matrix3x4a_t
+CUtlBinaryBlock
+V_uuid_t
+OpaqueType
+CTransform
+DeferredReference
+RadianEuler
+DegreeEuler
+FourVectors
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\schematypes.h
+SchemaFieldProperties_t::GetFieldProperties
+nFieldType >= 0 && nFieldType < SCHEMA_FIELD_TYPE_COUNT
+s_pSchemaFieldTypes[nFieldType].m_nFieldType == nFieldType
+UnknownSchemaIndirection
+Pointer
+Reference
+CResourcePointer
+CResourceArray
+CUtlVector
+CUtlReference
+Ignorable Indirection
+Opaque Indirection
+SchemaIndirectionProperties_t::GetIndirectionProperties
+nIndirectionType >= 0 && nIndirectionType < SCHEMA_INDIRECTION_COUNT
+s_pSchemaIndirectionTypes[nIndirectionType].m_nIndirectionType == nIndirectionType
+MHACKDisallowSynthVerification
+MNoScatter
+MAlignment
+MResourceTypeForInfoType
+CResourceDiskStructField
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\oldschemasynthesis.cpp
+CSchemaSystem::InitializeFieldInfo
+pEnum->GetInfo()->GetSizeOf() == 4
+Field '%s' of type '%s' - Cannot use opaque data in old-style schema formats.
+FeSimdQuad_t
+CSchemaSystem::SynthesizeOldBindingInformation
+Trying to get old-style binding data for disallowed class '%s'
+STRUCT_HAS_VTABLE
+STRUCT_TREE_REQUIRES_SCATTER
+STRUCT_TREE_REQUIRES_CONSTRUCTOR
+STRUCT_TREE_REQUIRES_DESTRUCTOR
+CSchemaSystem::FindOrCreateSynthEnumInfo
+pInfo->m_nSizeOf != 0 && pInfo->m_nSizeOf != -1
+GetResourceTypeOfStrongHandleSynth
+pAtomicType
+pParamClass && pParamClass->GetClass()
+Cannot determine resource type for handle '%s' - schema data not loaded for the referred-to type?
+SynthTypeFromIntrospection
+pInnerType
+MHACKFieldIsSizeT
+pAtomic_T
+Bad builtin type '%d' in SynthTypeFromIntrospection
+MHACKBitfieldBackingFieldType
+CSchemaSystem::CalculateSynthTreeFlags_R
+( pSynthClass->m_nStructFlags & STRUCT_TREE_REQUIRES_SCATTER ) == 0
+pRealParent != NULL
+( nUnionedParentFlags & STRUCT_TREE_REQUIRES_SCATTER ) == 0
+( nMemberFlags & STRUCT_TREE_REQUIRES_SCATTER ) == 0
+visitedClassList.Tail() == pSynthClass
+AbstractImplicit
+MemAllocClassName
+CUtlMemory::Grow
+Unaccounted
+CUtlMemory<class CSchemaClassFieldSynth,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct SchemaClassInfo_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaClassStaticFieldSynth,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct SchemaClassInfo_t const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct SchemaEnumInfo_t const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct SchemaEnumMember_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier2\tier2_loggingmetahelpers.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\fmtstr.h
+----------------------------------------------------------------------------------------------------------
+Class '%s
+Size(b)
+OuterOffset
+%-10s%-10s %-8s %-8s %-40s %-40s %-40s
+%-10s%-10u %-8u %-8d %-40s %-40s %-40s
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\schemaconcommands.cpp
+DumpClassLayout
+it.GetFieldMemoryOffset() >= nSizeofPtr || ( it.GetTypeAs<CSchemaType_Bitfield>() != NULL )
+VTable?
+Unaccounted
+NoSchema?
+Alignment?
+schema_detailed_class_layout %s
+(layout)
+%-10s[ Inline %s ]
+Listing %d schema bindings (%d classes and %d enums)
+Project
+%-60s %-25s %-25s %s
+%-60s %-25s %-25s 
+Class: %7d bytes, %7d unaccounted bytes, %4d fields, %4d nonderived fields 
+(detailed layout)
+Enum: %3d enumerators 
+BAD BINDING
+CSchemaSystemTypeScope::ConCmdListBindings
+Bad registered schema binding '%s' (binary '%s' project '%s') - not a class or enum!
+schema_dump_binding %s
+Enum '%s' (binary '%s' project '%s')
+%d enumerators:
+%-40s = 0x%016llX (%lld)
+Size: %d bytes (%d unaccounted, of which %d is likely alignment)
+ (Abstract)
+Alignment: %d bytes%s
+Is Polymorphic: %s
+Has Trivial Constructor: %s
+Has Trivial Destructor: %s
+%d base classe%s:
+No base classes.
+Registered binary: %s (project '%s')
+No class or enum found named '%s'
+No class found named '%s'
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CFmtStrN<256,0>::CFmtStrN
+FmtStrVSNPrintf truncated without QUIET_TRUNCATION specified!
+Unaccounted
+CUtlMemory<class ISchemaBinding *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\convar.h
+MModuleLocalTypeScope
+ERROR: Cannot call CSchemaType_FixedArray::Allocate()
+CSchemaType_FixedArray::Allocate
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schematype.h
+ERROR: Cannot call CSchemaType_FixedArray::AllocateAndCopy()
+CSchemaType_FixedArray::AllocateAndCopy
+ERROR: TODO - implement CSchemaType_FixedArray::Copy()
+CSchemaType_FixedArray::Copy
+ERROR: Cannot call CSchemaType_FixedArray::Deallocate()
+CSchemaType_FixedArray::Deallocate
+ERROR: Cannot call CSchemaType_Bitfield::Allocate()
+CSchemaType_Bitfield::Allocate
+ERROR: Cannot call CSchemaType_Bitfield::AllocateAndCopy()
+CSchemaType_Bitfield::AllocateAndCopy
+ERROR: Cannot call CSchemaType_Bitfield::Copy()
+CSchemaType_Bitfield::Copy
+ERROR: Cannot call CSchemaType_Bitfield::Deallocate()
+CSchemaType_Bitfield::Deallocate
+WARNING: Unknown schema class '%s' referenced.
+ERROR: Inconsistent class handle for CSchemaType '%s' vs. '%s' ('%s:%s' vs. '%s:%s')
+CSchemaType_DeclaredClass::SetClass
+CSchemaType_DeclaredEnum::SetEnum_Direct
+m_Enum == NULL
+schema_list_bindings <substring> - List registered schema bindings (classes & enums). If no substring, list them all.
+schema_list_bindings
+schema_dump_class <class_or_enum_name> - Print information about the named class or enum.
+schema_dump_binding
+schema_detailed_class_layout <class_name> - Print a detailed memory layout of the class (including inline structs).
+schema_detailed_class_layout
+SchemaSystem_001
+SchemaSystem
+Multiple instances of schema system are initialized. %p != %p
+%s #%d: '%s'/'%s': '%s' != '%s'
+Class Name
+Flag: SCHEMA_CLASS_HAS_VIRTUAL_MEMBERS
+Flag: SCHEMA_CLASS_IS_ABSTRACT
+Flag: SCHEMA_CLASS_HAS_TRIVIAL_CONSTRUCTOR
+Flag: SCHEMA_CLASS_HAS_TRIVIAL_DESTRUCTOR
+Member Count
+Field Name
+Field Type Name
+Field Offset
+Class Size
+Enum Name
+Enumerator Name
+Enumerator Value
+Structure name collision: '%s' and '%s' (%d)
+CSchemaSystemTypeScope::InsertNewClassBinding
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\schemasystem.cpp
+Enum name collision: '%s' and '%s' (%d)
+CSchemaSystemTypeScope::InsertNewEnumBinding
+Fatal error: class '%s' has the wrong name '%s' in its registration macro (check for whitespace)
+CSchemaSystemTypeScope::InstallSchemaClassBinding
+pIntrospection->GetSizeOf() != 0
+pIntrospection->GetAlignOf() != 0
+!pInitialBaseClass->IsNoschemaClass()
+ERROR: Schema registration error - class '%s' is not marked as MModuleLocalTypeScope but derives from locally-scoped class '%s'
+pRegisteredBaseBinding
+ERROR: Schema registration error - subclass '%s' registered before base class '%s'
+Fatal error: enum '%s' has the wrong name '%s' in its registration macro (check for whitespace)
+CSchemaSystemTypeScope::InstallSchemaEnumBinding
+pSchmaType != NULL
+pSchmaType->m_pTypeScope == this
+WARNING: SchemaSystem tried to load schema data for module '%s' but failed to load the module.
+CSchemaSystem::LoadSchemaDataForModules
+loadedModules.Count() == moduleNames.Count()
+InstallSchemaBindings
+WARNING: SchemaSystem tried to load schema data for module '%s' but InstallSchemaBindings returned false.
+WARNING: SchemaSystem tried to load schema data for module '%s' but failed to locate InstallSchemaBindings.
+!GlobalTypes
+CSchemaSystemTypeScope::CSchemaSystemTypeScope
+pScopeName != NULL
+Invalid
+CSchemaSystemTypeScope::MarkClassAsRequiringGlobalPromotion
+CSchemaSystemTypeScope::MarkEnumAsRequiringGlobalPromotion
+CSchemaSystemTypeScope::Type_Builtin
+nType >= 0 && nType < SCHEMA_BUILTIN_TYPE_COUNT
+ERROR: Inconsistent atomic type ID '%d': shared by '%s' and '%s' (check schema_atomic_types.cfg)
+ValidateAtomicType
+CSchemaSystemTypeScope::Type_Ptr
+pPointedTo->m_pTypeScope == m_pParentScope
+CSchemaSystemTypeScope::Type_FixedArray
+pArrayOf->m_pTypeScope == m_pParentScope
+bitfield:%d
+CSchemaSystemTypeScope::FindType_Atomic_T_Internal
+pParam1->m_pTypeScope == m_pParentScope
+CSchemaSystemTypeScope::Type_Atomic_T
+%s< %s >
+pType->m_nAlignOf != 0
+CSchemaSystemTypeScope::FindType_Atomic_TT_Internal
+pParam1->m_pTypeScope == this || pParam1->m_pTypeScope == m_pParentScope
+pParam2->m_pTypeScope == this || pParam2->m_pTypeScope == m_pParentScope
+CSchemaSystemTypeScope::Type_Atomic_TT
+%s< %s, %s >
+%s< %d >
+Fatal error: class '%s' has whitespace in its registration macro.
+CSchemaSystemTypeScope::Type_DeclaredClass
+ERROR: Inconsistent class ID '%d': shared by '%s' and '%s' (hash collision?)
+CSchemaSystemTypeScope::FinalizeTypeScope
+m_pParentScope != NULL
+m_AtomicDeclarations.IsEmpty()
+ERROR: Inconsistent enum ID '%d': shared by '%s' and '%s' (hash collision?)
+CSchemaSystemTypeScope::Type_DeclaredEnum
+ERROR: Failed to register '%s' (id=%d); inconsistent with '%s' (id=%d)
+CSchemaSystemTypeScope::RegisterAtomicType
+CSchemaSystemTypeScope::ResolveAtomicInfoThreadsafe
+pInfo != NULL
+ERROR: Invalid / unregistered atomic type '%s' (id=%d) - you probably need to $SchemaFile the header it is in?
+CSchemaSystemTypeScope::ResolveEnumInfoThreadsafe
+pFoundEnum != NULL
+WARNING: Unknown schema enum '%s' referenced. You may have forgotten to $SchemaFile the file in which it was defined.
+CSchemaSystemTypeScope::ResolveClassInfoThreadsafe
+pFoundClass != NULL
+WARNING: Unknown schema class '%s' referenced. You may have forgotten to $SchemaFile the file in which it was defined.
+StripTrailingFixedLength
+schemasystem's StripTrailingFixedLength() was handed a too-small buffer!
+CSchemaSystemTypeScope::FindSchemaTypeByName
+Unknown type '%s' for CSchemaSystemTypeScope::FindSchemaTypeByName()
+CSchemaSystemTypeScope::FindSchemaTypeByOldEnum
+m_pParentScope == NULL
+ISchemaSystem::FindSchemaTypeByOldEnum: Unimplemented type %d
+CSchemaSystem::DoMetaModify_Add
+Tried to perform metadata modification (add) for field '%s' that is not a member of class '%s'
+CSchemaSystem::DoMetaModify_Override
+Tried to perform metadata modification (override) for field '%s' that is not a member of class '%s'
+CSchemaSystem::DoMetaModify_Remove
+Tried to perform metadata modification (remove) for field '%s' that is not a member of class '%s'
+CSchemaSystem::DoMetaModify_RemoveAll
+Tried to perform metadata modification (remove all) for field '%s' that is not a member of class '%s'
+*NoSchemaClass*
+From Class Binding
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\baseschema.h
+CConCommandMemberAccessor<class CSchemaSystem>::CommandCallback
+m_pOwner && m_Func
+CConCommandMemberAccessor<class CSchemaSystem>::CommandCompletionCallback
+m_pOwner && m_CompletionFunc
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlstringmap.h
+CUtlStringMap<class CSchemaSystemTypeScope *,class CUtlSymbolTable>::operator []
+n <= m_Vector.Count()
+CUtlStringMap<class CSchemaSystemTypeScope *,class CUtlSymbolTable>::Insert
+CUtlStringMap inserted a string and got index %d, but there are only %d entries already inside.
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlrbtree.h
+CUtlRBTree<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short,class CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short>,unsigned short> >::Find
+!!m_LessFunc
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short,class CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::Find
+%s #%d: '%s'/'%s': %d != %d
+PromoteUnresolvedAndGlobalTypes
+unresolvedTypes.Count() == unresolvedKeys.Count()
+Promoting unresolved type '%s' to global scope.
+Type '%s' was unresolved at local scope, but already exists at global scope!
+CUtlRBTree<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short,class CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short,class CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+Unaccounted
+CUtlMemory<void *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+m_Root == InvalidIndex()
+m_FirstFree == InvalidIndex()
+m_NumElements == 0
+IsValid()
+Unaccounted
+CUtlMemory<class CSchemaClassInfo const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaEnumInfo const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct CSchemaSystem::DetectedSchemaMismatch_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaSystemTypeScope *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+CUtlRBTree<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short,class CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+m_Elements.IsValidIterator( m_LastAlloc ) || m_NumElements == 0
+m_Elements.IsValidIterator( it )
+m_Elements.IsValidIterator( m_LastAlloc )
+CUtlRBTree<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short,class CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short,class CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short,class CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short,class CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short,class CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short,class CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short>,unsigned short> >::FreeNode
+IsValidIndex(i) && (i != InvalidIndex())
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSchemaType *,class CSchemaType_Ptr *,unsigned short,bool (__cdecl*)(class CSchemaType * const &,class CSchemaType * const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::FreeNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Atomic *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short>,unsigned short> >::FreeNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_T_t,class CSchemaType_Atomic_T *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_T_t const &,struct AtomicTypeInfo_T_t const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short>,unsigned short> >::FreeNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_TT_t,class CSchemaType_Atomic_TT *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_TT_t const &,struct AtomicTypeInfo_TT_t const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+CUtlRBTree<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short,class CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short>,unsigned short> >::FreeNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct AtomicTypeInfo_I_t,class CSchemaType_Atomic_I *,unsigned short,bool (__cdecl*)(struct AtomicTypeInfo_I_t const &,struct AtomicTypeInfo_I_t const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::FreeNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredClass *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+CUtlRBTree<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::FreeNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSchemaType_DeclaredEnum *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,struct SchemaAtomicTypeInfo_t const *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+CUtlRBTree<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short,class CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short>,unsigned short> >::FreeNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<struct TypeAndCountInfo_t,class CSchemaType_FixedArray *,unsigned short,bool (__cdecl*)(struct TypeAndCountInfo_t const &,struct TypeAndCountInfo_t const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+CUtlRBTree<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short,class CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short> >::FreeNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<int,class CSchemaType_Bitfield *,unsigned short,bool (__cdecl*)(int const &,int const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType_Ptr *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<int,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType_Atomic *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct AtomicTypeInfo_T_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType_Atomic_T *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct AtomicTypeInfo_TT_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType_Atomic_TT *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct AtomicTypeInfo_I_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType_Atomic_I *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<unsigned int,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType_DeclaredClass *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType_DeclaredEnum *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct TypeAndCountInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType_FixedArray *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType_Bitfield *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaClassBindingBase *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaEnumBindingBase *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+@ID: %016llX
+{Float64 Value}
+{Time Value}
+{QAngle Value}
+{RadianEuler Value}
+{DegreeEuler Value}
+{Quaternion Value}
+{Transform Value}
+{Matrix Value 4x4}
+{Matrix Value 3x4 aligned}
+{Matrix Value 3x4}
+{FourVectors Value}
+{Fltx4 Value}
+{Void Value}
+{Unknown}
+(%f,%f)
+(%f,%f,%f)
+(%f,%f,%f,%f)
+{Structure}
+{Unrecognized introspection type: %d (%s)}
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\resourcecompileutils.cpp
+SerializeIntrospectionStruct
+pSrcStruct != NULL
+Fatal resource compiler error serializing class %s
+SerializeIntrospectionEnum
+pSrcEnum != NULL
+Fatal resource compiler error serializing enum %s
+FATAL ERROR: Failed to find struct introspection for ID 0x%08X struct '%s' (Schema data was probably not registered. Add $SchemaFile to your project)
+AddDependentStructs
+FATAL ERROR: Failed to find enum introspection for ID 0x%08X, member of struct '%s' (Schema data was probably not registered. Add $SchemaFile to your project)
+CUtlRBTree<unsigned int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &),class CUtlMemory<struct UtlRBTreeNode_t<unsigned int,unsigned short>,unsigned short> >::Find
+CUtlRBTree<unsigned int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &),class CUtlMemory<struct UtlRBTreeNode_t<unsigned int,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<unsigned int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &),class CUtlMemory<struct UtlRBTreeNode_t<unsigned int,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<unsigned int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &),class CUtlMemory<struct UtlRBTreeNode_t<unsigned int,unsigned short>,unsigned short> >::RemoveAll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<unsigned int,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+DeveloperVerbose
+Modified resource structure detected, attempting conversion:
+GLOBAL: %s
+DISK: %s
+	%s %s @ %d
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\resourceintrospection.cpp
+CResourceDiskStructField::ReadIndirection
+nIndirection < m_Indirection.Count()
+CResourceDiskStructField::GetElementDiskSize
+pStructInfo != NULL
+CResourceDiskTraversal::TraverseStruct
+pStruct != NULL
+pDerivedIntro != NULL
+-maxelements
+...(skipping %u of %u elements)...
+Unknown disk indirection type %d for field %s
+0x%016llX
+{x: %g, y: %g, z: %g, w: %g}
+q={%g, %g, %g; w=%g} p={%g, %g, %g}
+%7.4f %7.4f %7.4f %10g
+(%g,%g,%g,%g)
+(%d,%d,%d,%d)
+{Unrecognized introspection type: %d}
+CUtlRBTree<struct CUtlMap<unsigned int,class CResourceDiskStruct const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CResourceDiskStruct const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CResourceDiskStruct const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<unsigned int,class CResourceDiskEnum const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CResourceDiskEnum const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CResourceDiskEnum const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<unsigned int,class CResourceDiskStruct const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CResourceDiskStruct const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CResourceDiskStruct const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<unsigned int,class CResourceDiskEnum const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short,class CUtlMap<unsigned int,class CResourceDiskEnum const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CResourceDiskEnum const *,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\schema.h
+SchemaClassField_t::ReadIndirection
+SchemaClassField_t::GetDiskSizeForIndirection
+nIndex <= IndirectionCount()
+SchemaClassField_t::GetMemorySizeForIndirection
+SchemaClassField_t::GetAlignmentForIndirection
+MDefaultString
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\resourceloader.cpp
+CResourceScatterer::DoScatter
+pDerivedBinding != NULL
+Scatter %d: %s
+pDstData == m_pAllocChunkBase
+CResourceScatterer::ScatterAlloc
+(uintp)m_pAllocChunkNextAlloc <= (uintp)m_pAllocChunkBase + m_nCalculatedRequiredSize
+CResourceScatterer::ScatterStruct
+pBinding != NULL
+pFieldBinding->m_nMemoryOffset >= 0
+CResourceScatterer::ScatterRootField
+nSize == pFieldBinding->GetDiskSizeForDataType()
+WARNING: Truncating string variable %s (value '%s') to %d characters on load.
+CResourceScatterer::ScatterField
+Unrecognized schema indirection type
+No disk struct in manifest for expected class %s
+No schema matching on disk struct %s
+Upconvert %d : %s
+CResourceUpconverter::DoUpconvert
+WARNING: Resource manifest has interface class schema but is missing schema for subclass: %d (0x%08X)
+WARNING: Schema id is not registered in resource manifest: %d (0x%08X)
+CResourceUpconverter::UpconvertAlloc
+CResourceUpconverter::UpconvertStruct
+WARNING: Parent schema id is not registered in schema system: '%s'
+CResourceUpconverter::UpconvertStruct_NoBaseClasses
+pSrcDiskField->m_nOnDiskOffset >= 0
+WARNING: Incompatable types, cannot upconvert field to string '%s'.
+Cannot find class binding for a field %s, %s, %s
+WARNING: Concrete type on disk has no registered schema '%s'
+WARNING: Addition/Removal of vtable not supported '%s'
+WARNING: Cannot find expected type in manifest '%s'
+WARNING: Incompatable types, cannot upconvert field to struct '%s'
+WARNING: Incompatable types, cannot upconvert from non reference type (%d) to resource referenc (field '%s')
+WARNING: Incompatable types, cannot upconvert to enum value '%s'.
+WARNING: Incompatable types, cannot upconvert to atomic value '%s'.
+WARNING: Data lost due to change in indirection level for variable %s
+WARNING: Data lost due to change in indirection type for variable %s
+WARNING: Cannot upconvert void field '%s'
+WARNING: Resource pointer references unregistered type %s
+CResourceUpconverter::UpconvertField
+CSchemaSystemUtils::UnpackIntrospectedBlock
+pOutResult != NULL
+pOutResultSize != NULL
+pOutCompat != NULL
+ERROR: Invalid destination binding.
+ERROR: Out-of-date source introspection dictionary
+WARNING: Schema upconversion occuring for large data (%llukb): %s
+WARNING: Schema scatter occuring for large data (%llukb): %s
+*pOutCompat == INTROSPECTION_COMPAT_IDENTICAL
+Cannot serialize default non-simple field %s, currently only resource arrays can be serialized as default value, and even then only empty one.
+Encountered a non-array char while serializing defaults... (%s)
+CSchemaSystemUtils::WriteDefaultFieldToDisk
+pClass != NULL
+Cannot specify string for default value of a struct (%s)
+pFieldInfo->IndirectionCount() == 0
+pEnum != NULL
+Unrecognized type ('%d') for default value of '%s': %s
+[No string specified]
+Problem parsing default string for '%s': %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlhash.h
+CUtlScalarHash<void const *,class CDefaultHash32>::Init
+m_dataCount==0
+CUtlRBTree<struct CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::Node_t,unsigned int,class CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::Node_t,unsigned int>,unsigned int> >::Find
+CUtlRBTree<struct CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::Node_t,unsigned int,class CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::Node_t,unsigned int>,unsigned int> >::RemoveAll
+WARNING: Incompatable types, cannot upconvert intrinsic field '%s'.
+CUtlRBTree<struct CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::Node_t,unsigned int,class CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::Node_t,unsigned int>,unsigned int> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::Node_t,unsigned int,class CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::Node_t,unsigned int>,unsigned int> >::NewNode
+Unaccounted
+CUtlMemory<struct CDestructorTraversal::ToDestroy_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<void const *,void *,unsigned int,bool (__cdecl*)(void const * const &,void const * const &)>::Node_t,unsigned int>,unsigned int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\resourceprinter.cpp
+char[%d] %s = "%s"
+uint8[%d] %s =
+... (total %d bytes) ...
+[%d] = 
+(ptr) ->
+count >= 0
+ERROR: Unrecognized resource handle type for %s::%s: %s (%s)
+WARNING: Invalid composite type for %s::%s: %s (%s) [should be MNoSchema?]
+MSuppressInvalidFieldTypeWarning
+WARNING: Invalid member type for %s::%s: %s (While registering binary '%s' project '%s'). Make sure the type is declared in a $SchemaFile that has been loaded.
+Unaccounted
+CUtlMemory<enum SchemaIndirectionType_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\schemakeyvaluestarget.cpp
+CSchemaKeyValuesTarget::PutObjectReference
+pObjectName != NULL && pObjectName[0] != '\0'
+_S2KV_Format_Hint
+ptr: %s @ %p
+ptr: %s
+__empty__
+CSchemaKeyValuesTarget::PutBuiltinValue
+!"Invalid field type for CSchemaTextTarget::PutBuiltinValue"
+CSchemaKeyValuesTarget::DecrementComposeBufferDepth
+m_nComposeBufferDepth >= 0
+CFmtStrN<32768,0>::CFmtStrN
+Unaccounted
+CUtlMemory<class KeyValues *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct CSchemaKeyValuesTarget::Parentnfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+MUnserializeFromStringCallback
+MSerializeAs
+MSerializeAsDynamic
+ERROR: CAtomicManipulator::Allocate() Cannot allocate CSchemaType
+CAtomicManipulator<class CSchemaType>::Allocate
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate CSchemaType
+CAtomicManipulator<class CSchemaType>::AllocateAndCopy
+ERROR: CAtomicManipulator::Copy() Cannot copy CSchemaType(FIXME: maybe you can?)
+CAtomicManipulator<class CSchemaType>::Copy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate CSchemaType
+CAtomicManipulator<class CSchemaType>::Deallocate
+CSchemaType
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemaprimitives.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\schematextloadtarget.h
+AssignValue_Int expecting an integer type but got '%s'!
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\schematextloadtarget.cpp
+CNewLoadWriter::AssignValue_Int
+!"Unsupported schema type for integer deserialization"
+CNewLoadWriter::AssignValue_Int::<lambda_aaf36451a851e2123e86db302a954e23>::operator ()
+Enum not found
+AssignValue_Float expecting a float type but got '%s'!
+CNewLoadWriter::AssignValue_Float
+!"Unsupported schema type for float deserialization"
+CNewLoadWriter::AssignValue_String
+!"CNewLoadWriter::AssignValue_String - Unrecognized enumerant"
+Unsupported type for string-to-builtin deserialization
+Unsupported string for string-to-bool deserialization: '%s'
+Unsupported atomic type for string-to-atomic deserialization: '%s' (string was '%s')
+Unsupported type for string deserialization: '%s' (string was '%s')
+Unserialization Error: %s
+WARNING: Unrecognized type '%s' while unserializing schema text [Missing schema data?]
+CNewLoadWriter::BeginObject
+!pName || !V_strcmp( pName, pObj->m_Name.Get() )
+CNewLoadWriter::EndObject
+( pObj->m_pClassType == NULL ) == ( pObj->m_pInstance == NULL )
+Unresolvable object reference to '%s' of type '%s'
+Invalid object reference to '%s': type '%s' not compatible with expected type '%s'
+CNewLoadWriter::BeginCompound
+nCompoundIdx < m_EncounteredCompounds.Count()
+CNewLoadWriter::EndCompound
+Bad object
+CNewLoadWriter::GetCompoundItem
+Out of bounds for compound
+target.m_pType->GetTypeCategory() == SCHEMA_TYPE_ATOMIC && target.m_pType->GetAtomicCategory() == SCHEMA_ATOMIC_T
+compound.m_pSerializeAsInfo
+nIndex < compound.m_pSerializeAsInfo->m_nTupleCount
+WARNING: Failed dynamic serialization for type '%s' at field '%s'.
+NULL CSchemaType
+WARNING: Unknown type '%s' declared '%s' for field '%s'.
+WARNING: Duplicate field '%s'.
+Expected pointer for reference to object '%s'
+Expected pointer to class for reference to object '%s'
+Error during custom string deserialization
+CUtlStringMap<int,class CUtlSymbolTable>::operator []
+CUtlStringMap<struct LoadingField_t,class CUtlSymbolTable>::operator []
+Unaccounted
+CUtlMemory<struct CNewLoadWriter::Compound_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct SchemaLoadingObject_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct CNewLoadWriter::LoadedObject_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct CNewLoadWriter::UnresolvedObjectPointer_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<class CSchemaType const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<bool,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct LoadingField_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+{}[]()=&, 	
+Line %d at "%s": %s
+Line %d: %s
+Invalid header
+generic
+Expected '{'
+Expected <member name> after type
+Expected "="after member '%s'
+Invalid data for member '%s'
+Expected type of next member
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\schematextreader.cpp
+bitfield
+dynamic
+Expected []
+Expected ( <count> )
+Expected '[' or '('
+Expected value or ']'
+Expected ',' or '%s'
+Expected '&' and instance name or 'NULL'
+Expected token
+Failed to assign symbol literal value
+Failed to assign bool literal value
+Failed to assign int literal value
+Failed to assign float literal value
+Failed to assign string literal value
+Line %d: Invalid literal value "%s"
+00000000-0000-0000-0000-000000000000
+<!-- schema text {%s} generic {%s} -->
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\schematexttarget.cpp
+CSchemaTextTarget::PutObjectReference
+CSchemaTextTarget::PutBuiltinValue
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\schematexttype.cpp
+CTextParseType::CTextParseType
+nCat == TEXT_PARSE_CATEGORY_POINTER || nCat == TEXT_PARSE_CATEGORY_TUPLE || nCat == TEXT_PARSE_CATEGORY_ARRAY
+CTextParseType::PutTypeName
+m_pInnerType
+ERROR: Invalid type category in CTextParseType::PutTypeName() [%d]
+MSerializeAsMultiLineString
+MSerializationNameCallback
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schematraversal.h
+CSchemaSaveTraversal::GetInstance
+m_bFinalized
+CSchemaSaveTraversal::GetInstanceCount
+ERROR: Invalid type category in CSchemaTextWriter::Write
+CSchemaTextWriter::Write
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\schematextwriter.cpp
+Can only serialize pointers to classes
+CSchemaTextWriter::WritePointer
+Failed to find object (%p) of type '%s' in pre-serialization traversal - object will not be serialized.
+ERROR: Unsupported atomic type in CSchemaTextWriter::WriteAtomic: '%s' (id:%d)
+CSchemaTextWriter::WriteAtomic
+UNSUPPORTED TYPE: %s
+CSchemaTextWriter::WriteInlineArray
+nEntrySize > 0
+CSchemaTextWriter::WriteTupleOf
+CSchemaTextWriter::WriteClass
+pData != NULL
+ERROR: Invalid SCHEMA_TYPE_BUILTIN category (%d) in MakeTextType
+MakeTextType
+WARNING: Invalid type category in CSchemaTextWriter::Write: %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\textloadwriter_dyndata.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\textloadwriter_dyndata.cpp
+CDynDataLoadWriter::AssignValue_Int
+CDynDataLoadWriter::BeginObject
+!pTarget
+pTarget
+CDynDataLoadWriter::BeginCompound
+compound.m_Type->GetCategory() == DYNTYPE_TUPLE
+compound.m_nSize == compound.m_Type->GetTupleCount()
+CDynDataLoadWriter::EndCompound
+!bIsTuple
+CDynDataLoadWriter::GetCompoundItem
+CDynDataLoadWriter::GetUnhandledField
+pType != NULL
+pOutTarget->m_Dest.IsValid()
+CDynDataLoadWriter::ResolveUnresolvedReferences
+bReference || bValue
+WARNING: Unrecognized object '%s' while loading into dynamic data.
+MakeDynType
+pType->GetInner() && pType->GetInner()->GetCategory() == TEXT_PARSE_CATEGORY_ELEMENT
+Unknown conversion from Schema bitfield to DynTypeHandle_t
+Unaccounted
+CUtlMemory<class CDynElement *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct CDynDataLoadWriter::Compound_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct SchemaDynLoadingObject_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Unaccounted
+CUtlMemory<struct CDynDataLoadWriter::UnresolvedElementReference_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+Invalid element handle in root list
+Encountered an element from the wrong context
+Invalid element handle in traversed element list
+__error__
+_anonymous_object_%d
+Encountered an unexpected invalid element
+ERROR: Invalid type category in CDynDataTextWriter::Write
+CDynDataTextWriter::Write
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\textsave_dyndata.cpp
+CDynDataTextWriter::WriteElementReference
+pElementHandle != NULL
+CDynDataTextWriter::WriteElementValue
+!"CDynDataTextWriter::WriteElementValue() encountered NULL element value\n"
+CDynDataTextWriter::WriteBool
+pBool != NULL
+CDynDataTextWriter::WriteInt
+pInt != NULL
+CDynDataTextWriter::WriteUInt
+CDynDataTextWriter::WriteInt64
+CDynDataTextWriter::WriteUInt64
+CDynDataTextWriter::WriteFloat
+pFloat != NULL
+CDynDataTextWriter::WriteFloat64
+CDynDataTextWriter::WriteString
+pStr != NULL
+CDynDataTextWriter::WriteSymbol
+pSym != NULL
+Unaccounted
+CUtlMemory<struct DynElementToSave_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemahelpers.h
+EnsureTypeIsClassWithBinding
+Cannot %s - unknown type
+Cannot %s a non-class type: '%s'
+Cannot %s a class with no binding: '%s' (Missing $SchemaFile, DLL not loaded, or needs REFERENCE_LIB_SCHEMA_INFORMATION)
+SchemaSystemUtils
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\utils\schemasystemutils.cpp
+CSchemaSystemUtils::Internal_Unserialize
+!"CSchemaSystem::Unserialize - Unrecognized serialization format."
+No buffer provided
+No objects to save
+CSchemaSystemUtils::Internal_Serialize
+!"Cannot serialize text data into a non-text buffer."
+Cannot serialize text data into a non-text buffer
+!"CSchemaSystem::Serialize - Unrecognized serialization format."
+Unrecognized serialization format
+--- (No Disk Introspection for struct %s)
+ERROR: CSchemaSystemUtils::Allocate() was called before g_pAsyncFileSystem arrived, and is now being called again with g_pAsyncFileSystem. Leaks/corruption will ensue.
+CSchemaSystemUtils::Allocate
+ERROR: CSchemaSystemUtils::Allocate() was called before g_pAsyncFileSystem arrived, and is now trying to free with g_pAsyncFileSystem. Leaks/corruption will ensue.
+CSchemaSystemUtils::FreeAllocation
+CSchemaSystemUtils::SchemaLoadDynData
+!"CSchemaSystem::SchemaLoadDynData - Unrecognized serialization format."
+CSchemaSystemUtils::SchemaSaveDynData
+!"CSchemaSystem::SchemaSaveDynData - Unrecognized serialization format."
+CSchemaLoadContext: Trying to take control of objects inside of a block allocation.
+CSchemaSystemUtils::Internal_TakeControlOfLoadContextObjects
+CSchemaLoadContext: Trying to take control of objects
+Unaccounted
+CUtlMemory<void const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemasystem
+MNetworkSerializeAs
+CEntityHandle
+CHandle
+ThreeState_t
+TRS_FALSE
+TRS_TRUE
+TRS_NONE
+From Enum Binding
+CSchemaEnumBinding<enum ThreeState_t>::Get
+(s_pThisModuleBindingPointer != NULL)
+WARNING: Trying to access schema enum binding before bindings were registered in this module! - %s()
+CBitVec
+VectorAligned
+ERROR: CAtomicManipulator::Allocate() Cannot allocate KeyValues
+CAtomicManipulator<class KeyValues>::Allocate
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate KeyValues
+CAtomicManipulator<class KeyValues>::AllocateAndCopy
+ERROR: CAtomicManipulator::Copy() Cannot copy KeyValues(FIXME: maybe you can?)
+CAtomicManipulator<class KeyValues>::Copy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate KeyValues
+CAtomicManipulator<class KeyValues>::Deallocate
+KeyValues
+CSchemaEnumInfo
+CSchemaClassInfo
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemaclassinfo.h
+CSchemaClassInfo::CompleteInitialization
+m_pOuterTypeScope != NULL
+CSchemaClassInfo::CompleteInitializationInternal
+!m_bInitialized
+m_pTypeOf != NULL
+CUtlStringToken
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcefile\resourcestream.h
+CSchemaSystemInternalRegistration
+m_Vector2D
+m_Vector
+m_VectorAligned
+m_QAngle
+m_RadianEuler
+m_DegreeEuler
+m_Quaternion
+m_matrix3x4_t
+m_matrix3x4a_t
+m_Color
+m_Vector4D
+m_CTransform
+m_pKeyValues
+m_CUtlBinaryBlock
+m_CUtlString
+m_CUtlSymbol
+m_ClassIntrospectionHandle_t
+m_EnumIntrospectionHandle_t
+m_stringToken
+m_ResourceTypes
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\schemasystem\release\win64\internalregistration_h_schema.gen_cpp
+CSchemaSystemInternalRegistration::Schema_VerifyBindingIsRegistered
+( g_pSchemaSystem == NULL ) || (s_pSchemaBinding != NULL)
+WARNING: Trying to access schema binding '%s' before bindings were registered in this module!
+ERROR: CAtomicManipulator::Allocate() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<class CResourcePointer<class CResourceString> > >::Allocate
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<class CResourcePointer<class CResourceString> > >::AllocateAndCopy
+ERROR: CAtomicManipulator::Copy() Cannot copy CResourceArray(FIXME: maybe you can?)
+CAtomicManipulator<class CResourceArray<class CResourcePointer<class CResourceString> > >::Copy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate CResourceArray
+CAtomicManipulator<class CResourceArray<class CResourcePointer<class CResourceString> > >::Deallocate
+CSchemaClassBindingBase::RegBase
+m_pSchemaType != NULL
+MResourceBlockType
+ResourceIntrospectionVersion_t
+CResourceDiskStruct
+CResourceDiskEnumValue
+CResourceDiskEnum
+CResourceIntrospectionManifest
+RESOURCE_INTROSPECTION_VERSION
+m_pFieldName
+m_nCount
+m_nOnDiskOffset
+m_Indirection
+m_nTypeData
+m_nType
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\schemasystem\release\win64\resourceintrospection_h_schema.gen_cpp
+CResourceDiskStructField::Schema_VerifyBindingIsRegistered
+m_nIntrospectionVersion
+m_pName
+m_nDiskCrc
+m_nUserVersion
+m_nDiskSize
+m_nAlignment
+m_nBaseStructId
+m_FieldIntrospection
+m_nStructFlags
+CResourceDiskStruct::Schema_VerifyBindingIsRegistered
+m_pEnumValueName
+m_nEnumValue
+CResourceDiskEnumValue::Schema_VerifyBindingIsRegistered
+m_EnumValueIntrospection
+CResourceDiskEnum::Schema_VerifyBindingIsRegistered
+m_ReferencedStructs
+m_ReferencedEnums
+CResourceIntrospectionManifest::Schema_VerifyBindingIsRegistered
+CSchemaEnumBinding<enum ResourceIntrospectionVersion_t>::Get
+CAtomicManipulator<class CResourceArray<unsigned char> >::Allocate
+CAtomicManipulator<class CResourceArray<unsigned char> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<unsigned char> >::Copy
+CAtomicManipulator<class CResourceArray<unsigned char> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceDiskStructField> >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceDiskStructField> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceDiskStructField> >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceDiskStructField> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceDiskEnumValue> >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceDiskEnumValue> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceDiskEnumValue> >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceDiskEnumValue> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceDiskStruct> >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceDiskStruct> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceDiskStruct> >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceDiskStruct> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceDiskEnum> >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceDiskEnum> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceDiskEnum> >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceDiskEnum> >::Deallocate
+color32
+CSplitScreenSlot
+CPlayerSlot
+CEntityIndex
+SoundGuid_t
+SchemaFieldType_t
+ResourceStructFlags_t
+SCHEMA_FIELD_TYPE_UNKNOWN
+SCHEMA_FIELD_TYPE_STRUCT
+SCHEMA_FIELD_TYPE_ENUM
+SCHEMA_FIELD_TYPE_EXT_REFERENCE
+SCHEMA_FIELD_TYPE_CHAR
+SCHEMA_FIELD_TYPE_UCHAR
+SCHEMA_FIELD_TYPE_INT
+SCHEMA_FIELD_TYPE_UINT
+SCHEMA_FIELD_TYPE_FLOAT
+SCHEMA_FIELD_TYPE_DOUBLE
+SCHEMA_FIELD_TYPE_INT8
+SCHEMA_FIELD_TYPE_UINT8
+SCHEMA_FIELD_TYPE_INT16
+SCHEMA_FIELD_TYPE_UINT16
+SCHEMA_FIELD_TYPE_INT32
+SCHEMA_FIELD_TYPE_UINT32
+SCHEMA_FIELD_TYPE_INT64
+SCHEMA_FIELD_TYPE_UINT64
+SCHEMA_FIELD_TYPE_FLOAT32
+SCHEMA_FIELD_TYPE_FLOAT64
+SCHEMA_FIELD_TYPE_TIME
+SCHEMA_FIELD_TYPE_VECTOR2D
+SCHEMA_FIELD_TYPE_VECTOR3D
+SCHEMA_FIELD_TYPE_VECTOR4D
+SCHEMA_FIELD_TYPE_QANGLE
+SCHEMA_FIELD_TYPE_QUATERNION
+SCHEMA_FIELD_TYPE_VMATRIX
+SCHEMA_FIELD_TYPE_FLTX4
+SCHEMA_FIELD_TYPE_COLOR
+SCHEMA_FIELD_TYPE_UNIQUEID
+SCHEMA_FIELD_TYPE_BOOL
+SCHEMA_FIELD_TYPE_RESOURCE_STRING
+SCHEMA_FIELD_TYPE_VOID
+SCHEMA_FIELD_TYPE_MATRIX3X4
+SCHEMA_FIELD_TYPE_UTLSYMBOL
+SCHEMA_FIELD_TYPE_UTLSTRING
+SCHEMA_FIELD_TYPE_MATRIX3X4A
+SCHEMA_FIELD_TYPE_UTLBINARYBLOCK
+SCHEMA_FIELD_TYPE_UUID
+SCHEMA_FIELD_TYPE_OPAQUE_TYPE
+SCHEMA_FIELD_TYPE_TRANSFORM
+SCHEMA_FIELD_TYPE_DEF_REFERENCE
+SCHEMA_FIELD_TYPE_RADIANEULER
+SCHEMA_FIELD_TYPE_DEGREEEULER
+SCHEMA_FIELD_TYPE_FOURVECTORS
+SCHEMA_FIELD_TYPE_COUNT
+STRUCT_TREE_REQUIRES_EXT_REFERENCES
+STRUCT_TREE_REQUIRES_DEF_REFERENCES
+STRUCT_FLAGS_MAX
+CSchemaEnumBinding<enum SchemaFieldType_t>::Get
+CSchemaEnumBinding<enum ResourceStructFlags_t>::Get
+CUtlIncrementalVector
+CCopyableUtlVector
+CUtlVectorFixedGrowable
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+c:\buildslave\vrgdc2015_staging_win64\build\src\mathlib\mathlib_base.cpp
+_VectorNormalizeFast
+fabs( vec.LengthSqr() - 1.0f ) < 1e-3
+QuaternionNormalize
+q.IsValid()
+MathLib_Init
+SSE and SSE2 are required.
+@fff>fff>fff>fff>
+CResourceStream::EnsureAvailable
+nAddCapacity < 0x40000000
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\resourcestream.cpp
+CResourceStreamVM::ReserveVirtualMemory
+m_pData == NULL
+Cannot allocate virtual address space in CResourceStreamVM::ReserveVirtualMemory, error %u
+CResourceStreamVM::ReleaseVirtualMemory
+--------------------WARNING----------------------
+--  Increase the size of the resource stream   --
+--  Need %d bytes, but only have %d bytes
+Failed trying to Commit %u bytes, used %u bytes, reserved %u bytes
+CResourceStreamVM::Commit
+Wrong alignment %d
+CResourceStream::Align
+MDmElementType
+MDiskDataForResourceType
+ResourceManifest_t
+ResourceReferenceInfo_t
+ResourceDependencyFlags_t
+ResourceInputDependency_t
+ResourceArgumentDependency_t
+ResourceSpecialDependency_t
+ResourceEditIntData_t
+ResourceEditFloatData_t
+ResourceEditStringData_t
+ResourceCustomDependency_t
+ResourceAdditionalRelatedFile_t
+ResourceEditInfoBlock_t
+RESOURCE_INPUT_DEPENDENCY_OPTIONAL
+RESOURCE_INPUT_DEPENDENCY_EXISTS
+m_ContentRelativeFilename
+m_ContentSearchPath
+m_nFileCRC
+m_nFlags
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\resourcefile\release\win64\resourceeditinfo_h_schema.gen_cpp
+ResourceInputDependency_t::Schema_VerifyBindingIsRegistered
+m_ParameterName
+m_ParameterType
+m_nFingerprint
+m_nFingerprintDefault
+ResourceArgumentDependency_t::Schema_VerifyBindingIsRegistered
+m_String
+m_CompilerIdentifier
+m_nUserData
+ResourceSpecialDependency_t::Schema_VerifyBindingIsRegistered
+ResourceEditIntData_t::Schema_VerifyBindingIsRegistered
+m_flFloat
+ResourceEditFloatData_t::Schema_VerifyBindingIsRegistered
+ResourceEditStringData_t::Schema_VerifyBindingIsRegistered
+m_nParentIndex
+ResourceCustomDependency_t::Schema_VerifyBindingIsRegistered
+ResourceAdditionalRelatedFile_t::Schema_VerifyBindingIsRegistered
+m_InputDependencies
+m_AdditionalInputDependencies
+m_ArgumentDependencies
+m_SpecialDependencies
+m_CustomDependencies
+m_AdditionalRelatedFiles
+m_ChildResourceList
+m_ExtraIntData
+m_ExtraFloatData
+m_ExtraStringData
+ResourceEditInfoBlock_t::Schema_VerifyBindingIsRegistered
+resourcefile
+CSchemaEnumBinding<enum ResourceDependencyFlags_t>::Get
+CAtomicManipulator<class CResourceArray<struct ResourceInputDependency_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceInputDependency_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceInputDependency_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceInputDependency_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceArgumentDependency_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceArgumentDependency_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceArgumentDependency_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceArgumentDependency_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceSpecialDependency_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceSpecialDependency_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceSpecialDependency_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceSpecialDependency_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceCustomDependency_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceCustomDependency_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceCustomDependency_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceCustomDependency_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceAdditionalRelatedFile_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceAdditionalRelatedFile_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceAdditionalRelatedFile_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceAdditionalRelatedFile_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceReferenceInfo_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceReferenceInfo_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceReferenceInfo_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceReferenceInfo_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditIntData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditIntData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceEditIntData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceEditIntData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditFloatData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditFloatData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceEditFloatData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceEditFloatData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditStringData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditStringData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceEditStringData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceEditStringData_t> >::Deallocate
+ResourceExtRefList_t
+ResourceDefRefList_t
+m_pResourceName
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\resourcefile\release\win64\resourceextreflist_h_schema.gen_cpp
+ResourceReferenceInfo_t::Schema_VerifyBindingIsRegistered
+m_resourceRefInfoList
+ResourceExtRefList_t::Schema_VerifyBindingIsRegistered
+ResourceDefRefList_t::Schema_VerifyBindingIsRegistered
+MAttributeName
+InfoForResourceTypeResourceManifest_t
+resourceFileNameList
+DmeResourceManifest
+m_ResourceFileNameList
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\resourcefile\release\win64\resourcemanifest_h_schema.gen_cpp
+ResourceManifest_t::Schema_VerifyBindingIsRegistered
+InfoForResourceTypeResourceManifest_t::Schema_VerifyBindingIsRegistered
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceString> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Deallocate
+ResourceRemapRule_t
+ResourceRemapTable_t
+InfoForResourceTypeResourceRemapTable_t
+m_originalResourceName
+m_replacementResourceName
+m_condition
+m_bClearAllPreviousRules
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\resourcefile\release\win64\resourceremaptable_h_schema.gen_cpp
+ResourceRemapRule_t::Schema_VerifyBindingIsRegistered
+m_baseRemapFiles
+m_conditionSymbols
+m_remapRules
+ResourceRemapTable_t::Schema_VerifyBindingIsRegistered
+InfoForResourceTypeResourceRemapTable_t::Schema_VerifyBindingIsRegistered
+CAtomicManipulator<class CResourceArray<struct ResourceRemapRule_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceRemapRule_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceRemapRule_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceRemapRule_t> >::Deallocate
+ResourceId_t
+ResourceBinding_t
+CResourceExtReference
+CResourceDeferredReference
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemaiterator.cpp
+CSchemaInheritanceIterator::PopulateTraversal_R
+nTraversalOffset == 0
+CSchemaFieldIterator::Reset
+!IsSingleFieldRestricted()
+CSchemaFieldIterator::FindField
+CSchemaFieldIterator::Advance
+CSchemaFieldIterator::PointerFromClass
+CSchemaFieldIterator::GetFieldMemoryOffset
+CSchemaFieldIterator::GetFieldName
+CSchemaFieldIterator::GetFullyQualifiedFieldName
+CSchemaFieldIterator::GetRawFieldHandle
+Unaccounted
+CUtlMemory<struct CSchemaInheritanceIterator::ClassToTraverse_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+%s+-- Schema Type: %s
+%s| SizeOf: %d
+%s| AlignOf: %d
+CSchemaType_Builtin: Unable to copy construct type %s
+CSchemaType_Builtin::Allocate
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schematype.cpp
+CSchemaType_Builtin::AllocateAndCopy
+CSchemaType_Builtin: Unable to copy type %s
+CSchemaType_Builtin::Copy
+CSchemaType_Builtin: Unable to deallocate type %s
+CSchemaType_Builtin::Deallocate
+Cannot call Allocate() for a Noschema type!
+CSchemaType_NoschemaType::Allocate
+Cannot call AllocateAndCopy() for a Noschema type!
+CSchemaType_NoschemaType::AllocateAndCopy
+Cannot call Copy() for a Noschema type!
+CSchemaType_NoschemaType::Copy
+Cannot call Deallocate() for a Noschema type!
+CSchemaType_NoschemaType::Deallocate
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemaenuminfo.cpp
+CSchemaEnumInfo::AssignValueToInstance
+( int64 )nVal8 == nValue
+( int64 )nVal16 == nValue
+( int64 )nVal32 == nValue
+!"Unsupported schema enum size"
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemaclassinfo.cpp
+CSchemaClassInfo::FixupBaseClassPointer
+nIndex >= 0 && nIndex < m_BaseClasses.Count()
+%s+-- Schema Class: %s
+%s| Project: '%s' Binary: '%s' - "%s"
+%s| (No Binding) - "%s"
+%s| Virtual: %s; Abstract: %s; TrivialConstr: %s; TrivialDestr: %s
+%s| Base Class%s: %d
+%s|  % 2d: %s [Offset: %d]
+%s| Fields:
+%s|  % 2d: [% 3d - % 3d] %-12s %s
+CSchemaClassInfo::RemoveNoschemaData
+m_BaseClasses.IsStaticData()
+m_Fields.IsStaticData()
+m_StaticFields.IsStaticData()
+SchemaArrayBase_t<16,8>::SetCountDynamic
+nNewCount >= 0
+SchemaArrayBase_t<32,8>::SetCountDynamic
+SchemaArrayBase_t<56,8>::SetCountDynamic
+SchemaArrayBase_t<16,8>::TruncateStaticCount
+nNewStaticCount <= m_nImplLength
+SchemaArrayBase_t<64,8>::TruncateStaticCount
+SchemaArrayBase_t<64,8>::SetCountDynamic
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemadatatraversal.cpp
+CSchemaVisitorInfoMapBase::LookupClass
+pResult->State() == VISIT_INFO_STATE_COMPLETE
+CUtlScalarHash<void const *,class CDefaultHash32>::Insert
+uiKey != (uint)InvalidHandle()
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemadatatraversal.h
+SchemaRecurseData
+Unhandled field type for field '%s': '%s' (Why did it pass SchemaRecurseType?)
+Unaccounted
+CUtlMemory<struct CClassVisitInfo::FieldInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schematraversal.cpp
+CSchemaObjectTraversal::Traverse
+pObject != NULL
+ERROR: Unknown type category in CSchemaObjectTraversal::Traverse()
+CSchemaObjectTraversal::PopClassField
+m_ClassFieldStack.Count() > 0
+CSchemaObjectTraversal::PopOwnership
+m_OwnershipStack.Count() > 0
+CSchemaObjectTraversal::GetCurrentOwnership
+CSchemaObjectTraversal::IsCurrentObjectOwned
+Unrecognized ownership type in CSchemaObjectTraversal::IsCurrentObjectOwned()
+CSchemaSaveTraversal::PostVisitDeclaredClass
+m_AuthorityStack.Count() > 0
+SetAuthorityOf
+pObj->m_pObjectAuthority == NULL
+CSchemaSaveTraversal::RegisterClassInstance
+!pExistingObjectToSave->m_bOwnedByParent
+CSchemaSaveTraversal::RegisterClassInstance - Got inconsistent classes '%s' and '%s' for a single object.
+CUtlHash<struct CSchemaObjectTraversal::TraversedClass_t,bool (__cdecl*)(struct CSchemaObjectTraversal::TraversedClass_t const &,struct CSchemaObjectTraversal::TraversedClass_t const &),unsigned int (__cdecl*)(struct CSchemaObjectTraversal::TraversedClass_t const &)>::BuildHandle
+( ndxBucket >= 0 ) && ( ndxBucket < 65536 )
+( ndxKeyData >= 0 ) && ( ndxKeyData < 65536 )
+CUtlHash<struct CSchemaSaveTraversal::HashEntry_t,bool (__cdecl*)(struct CSchemaSaveTraversal::HashEntry_t const &,struct CSchemaSaveTraversal::HashEntry_t const &),unsigned int (__cdecl*)(struct CSchemaSaveTraversal::HashEntry_t const &)>::BuildHandle
+Unaccounted
+CUtlMemory<struct CSchemaObjectTraversal::ClassField_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<enum CSchemaObjectTraversal::ObjectOwnership_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<class CSchemaObjectToSave *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<struct CSchemaObjectTraversal::TraversedClass_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<struct CSchemaSaveTraversal::HashEntry_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<class CUtlVector<struct CSchemaObjectTraversal::TraversedClass_t,class CUtlMemory<struct CSchemaObjectTraversal::TraversedClass_t,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<class CUtlVector<struct CSchemaSaveTraversal::HashEntry_t,class CUtlMemory<struct CSchemaSaveTraversal::HashEntry_t,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\dyndata.cpp
+CDynType::AllocateData
+m_Param.m_pAsVoid == NULL
+CDynType::FreeData
+CDynData::SetBool
+Calling CDynData::SetBool with non-numeric data!
+CDynData::SetInt
+Calling CDynData::SetInt with non-numeric data!
+CDynData::SetUInt
+Calling CDynData::SetUInt with non-numeric data!
+CDynData::SetInt64
+Calling CDynData::SetInt64 with non-numeric data!
+CDynData::SetUInt64
+Calling CDynData::SetUInt64 with non-numeric data!
+CDynData::SetFloat
+Calling CDynData::SetFloat with non-numeric data!
+CDynData::SetFloat64
+Calling CDynData::SetFloat64 with non-numeric data!
+CDynData::SetString
+CDynData::SetSymbol
+CDynData::SetElementHandle
+( m_Type->GetCategory() != DYNTYPE_ELEMENT_VALUE )
+Cannot change the element handle for element-value attributes.
+pHandleData
+CDynData::GetArrayElement
+Calling CDynData::GetArrayElement on non-array data!
+CDynData::GetTupleLength
+Calling CDynData::GetTupleLength on non-tuple data!
+CDynData::GetTupleOrArrayElement
+Calling CDynData::GetTupleOrArrayElement on non-tuple, non-array data!
+CDynData::GetTupleOrArrayLength
+Calling CDynData::GetTupleOrArrayLength on non-tuple, non-array data!
+CDynData::GetAsElementHandle
+Calling CDynData::GetAsElementHandle on non-element data!
+CDynData::GetTupleElement
+Calling CDynData::GetTupleElement on non-tuple data!
+ERROR: DynData GetTupleElement() - Unsupported array-of type
+WARNING: CDynData::SetFromString - Cannot assign directly to an array
+CDynData::SetFromString
+WARNING: CDynData::SetFromString - Cannot assign mismatched tuple length
+HandleMemory
+pOwningElement != NULL
+pOwningElement->GetContext() != NULL
+pPointerToStorage != NULL
+*pPointerToStorage == NULL
+nMemoryOp == MEMORY_OP_FREE
+(*pPointerToStorage) != NULL
+pVecVoid != NULL
+ERROR: CDynData::AllocateData() - Unsupported array-of type
+ERROR: CDynData::AllocateData() - Unsupported tuple-of type
+ERROR: CDynData::AllocateData() - Unsupported type
+CopyDynMemoryDataShallow
+pSrcDataPtr != NULL && pDestDataPtr != NULL
+pDestElement != NULL && pSrcElement != NULL
+ERROR: StorageToDataPtr() - Unsupported array-of type
+StorageToDataPtr
+ERROR: DynData OperateOnArray() - Unsupported array-of type
+OperateOnArray
+Unaccounted
+CUtlMemory<__int64,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<unsigned __int64,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<float,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<double,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<class CUtlString *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<class CUtlSymbolLarge,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\dyncontext.cpp
+CDynContextBase::AddNewElement
+pElement->IsInitialized()
+CDynContextBase::AllocateAnonymousElementWithOwner
+pOwnerElement && pOwnerElement->IsInitialized()
+CDynContextBase::FreeElement
+!pElement->IsElementFlagSet( DYN_ELEMENT_FLAG_DEFERRED_FREE )
+CDynContextBase::FreeElementInternal
+pElement->GetContext() == this
+CDynContextBase::SetDeferredElementFrees
+m_bDeferredElementFrees != bDeferAllFrees
+CDynContextBase::SetDeferredElementFrees inconsistently called!
+pElement->IsElementFlagSet( DYN_ELEMENT_FLAG_DEFERRED_FREE )
+CUtlSymbolLarge::AddString
+Unaccounted
+CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+schemalib
+CUtlSymbolLarge::Find
+Unaccounted
+CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+schemalib
+Unaccounted
+CUtlMemory<class CDynType *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+CUtlRBTree<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64,class CTreeEntryLess<class CNonThreadsafeTree<0>,0>,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64> >::NewNode
+Unaccounted
+CUtlMemory<struct CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\dynelement.cpp
+CDynElement::InternalAddAttr
+IsInitialized()
+CDynElement::GetAttrByIndex
+nIndex.Get() >= 0 && nIndex.Get() < m_Attributes.Count()
+CDynElement::GetAttrNameByIndex
+CDynElement::GetAttrFlagsByIndex
+CDynElement::CDynAttribute::CDynAttribute
+name != DYN_SYMBOL_INVALID
+CDynElement::CopyAttributesFromShallow
+pFrom != NULL
+m_pContext == pFrom->m_pContext
+Unaccounted
+CUtlMemory<class CDynElement::CDynAttribute *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+CSchemaClassField
+CSchemaStaticField
+CSchemaBaseClassInfo
+CSchemaMetaModifyAdd
+CSchemaFieldMetadataOverride
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\schemalib\release\win64\schemaclassinfo_h_schema.gen_cpp
+CSchemaClassField::Schema_VerifyBindingIsRegistered
+CSchemaStaticField::Schema_VerifyBindingIsRegistered
+CSchemaBaseClassInfo::Schema_VerifyBindingIsRegistered
+CSchemaMetaModifyAdd::Schema_VerifyBindingIsRegistered
+CSchemaFieldMetadataOverride::Schema_VerifyBindingIsRegistered
+CSchemaClassInfo::Schema_VerifyBindingIsRegistered
+schemalib
+SchemaString_t
+SchemaMetadataSetData_t
+SchemaClassFieldData_t
+SchemaStaticFieldData_t
+SchemaBaseClassInfoData_t
+SchemaMetaModifyAdd_t
+SchemaFieldMetadataOverrideData_t
+SchemaClassFlags_t
+SchemaClassInfoData_t
+SCHEMA_CLASS_HAS_VIRTUAL_MEMBERS
+SCHEMA_CLASS_IS_ABSTRACT
+SCHEMA_CLASS_HAS_TRIVIAL_CONSTRUCTOR
+SCHEMA_CLASS_HAS_TRIVIAL_DESTRUCTOR
+SCHEMA_CLASS_TEMP_HACK_HAS_NOSCHEMA_MEMBERS
+SCHEMA_CLASS_TEMP_HACK_HAS_CONSTRUCTOR_LIKE_METHODS
+SCHEMA_CLASS_TEMP_HACK_HAS_DESTRUCTOR_LIKE_METHODS
+SCHEMA_CLASS_IS_NOSCHEMA_CLASS
+m_pType
+m_nSingleInheritanceOffset
+m_Metadata
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\schemalib\release\win64\schemaclassinfo_data_h_schema.gen_cpp
+SchemaClassFieldData_t::Schema_VerifyBindingIsRegistered
+m_pInstance
+SchemaStaticFieldData_t::Schema_VerifyBindingIsRegistered
+m_nOffset
+m_pClass
+SchemaBaseClassInfoData_t::Schema_VerifyBindingIsRegistered
+m_TagName
+m_pTagDataType
+m_pTagValue
+SchemaMetaModifyAdd_t::Schema_VerifyBindingIsRegistered
+m_FieldName
+m_bRemoveAll
+m_ModifyAdds
+m_ModifyRemoves
+SchemaFieldMetadataOverrideData_t::Schema_VerifyBindingIsRegistered
+m_nSizeOf
+m_nAlignOf
+m_Fields
+m_BaseClasses
+m_FieldMetadataOverrides
+m_NestedClasses
+m_NestedEnums
+SchemaClassInfoData_t::Schema_VerifyBindingIsRegistered
+CSchemaEnumBinding<enum SchemaClassFlags_t>::Get
+SchemaArray_t
+CSchemaArrayManipulator::InsertMultipleBefore unimplemented!
+CSchemaArrayManipulator<struct SchemaMetaModifyAdd_t>::InsertMultipleBefore
+CSchemaArrayManipulator::RemoveMultiple unimplemented!
+CSchemaArrayManipulator<struct SchemaMetaModifyAdd_t>::RemoveMultiple
+CSchemaArrayManipulator::AllocateUtlVector unimplemented!
+CSchemaArrayManipulator<struct SchemaMetaModifyAdd_t>::AllocateUtlVector
+CSchemaArrayManipulator::DeallocateUtlVector unimplemented!
+CSchemaArrayManipulator<struct SchemaMetaModifyAdd_t>::DeallocateUtlVector
+CSchemaArrayManipulator<struct SchemaString_t>::InsertMultipleBefore
+CSchemaArrayManipulator<struct SchemaString_t>::RemoveMultiple
+CSchemaArrayManipulator<struct SchemaString_t>::AllocateUtlVector
+CSchemaArrayManipulator<struct SchemaString_t>::DeallocateUtlVector
+CSchemaArrayManipulator<struct SchemaClassFieldData_t>::InsertMultipleBefore
+CSchemaArrayManipulator<struct SchemaClassFieldData_t>::RemoveMultiple
+CSchemaArrayManipulator<struct SchemaClassFieldData_t>::AllocateUtlVector
+CSchemaArrayManipulator<struct SchemaClassFieldData_t>::DeallocateUtlVector
+CSchemaArrayManipulator<struct SchemaBaseClassInfoData_t>::InsertMultipleBefore
+CSchemaArrayManipulator<struct SchemaBaseClassInfoData_t>::RemoveMultiple
+CSchemaArrayManipulator<struct SchemaBaseClassInfoData_t>::AllocateUtlVector
+CSchemaArrayManipulator<struct SchemaBaseClassInfoData_t>::DeallocateUtlVector
+CSchemaArrayManipulator<struct SchemaFieldMetadataOverrideData_t>::InsertMultipleBefore
+CSchemaArrayManipulator<struct SchemaFieldMetadataOverrideData_t>::RemoveMultiple
+CSchemaArrayManipulator<struct SchemaFieldMetadataOverrideData_t>::AllocateUtlVector
+CSchemaArrayManipulator<struct SchemaFieldMetadataOverrideData_t>::DeallocateUtlVector
+CSchemaArrayManipulator<class CSchemaClassInfo const *>::InsertMultipleBefore
+CSchemaArrayManipulator<class CSchemaClassInfo const *>::RemoveMultiple
+CSchemaArrayManipulator<class CSchemaClassInfo const *>::AllocateUtlVector
+CSchemaArrayManipulator<class CSchemaClassInfo const *>::DeallocateUtlVector
+CSchemaArrayManipulator<class CSchemaEnumInfo const *>::InsertMultipleBefore
+CSchemaArrayManipulator<class CSchemaEnumInfo const *>::RemoveMultiple
+CSchemaArrayManipulator<class CSchemaEnumInfo const *>::AllocateUtlVector
+CSchemaArrayManipulator<class CSchemaEnumInfo const *>::DeallocateUtlVector
+SchemaArrayBase_t<8,8>::SetCountDynamic
+CSchemaEnumeratorInfo
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\schemalib\release\win64\schemaenuminfo_h_schema.gen_cpp
+CSchemaEnumeratorInfo::Schema_VerifyBindingIsRegistered
+CSchemaEnumInfo::Schema_VerifyBindingIsRegistered
+SchemaEnumeratorInfoData_t
+SchemaEnumInfoData_t
+m_nValue
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\schemalib\release\win64\schemaenuminfo_data_h_schema.gen_cpp
+SchemaEnumeratorInfoData_t::Schema_VerifyBindingIsRegistered
+m_Enumerators
+SchemaEnumInfoData_t::Schema_VerifyBindingIsRegistered
+CSchemaArrayManipulator<struct SchemaEnumeratorInfoData_t>::InsertMultipleBefore
+CSchemaArrayManipulator<struct SchemaEnumeratorInfoData_t>::RemoveMultiple
+CSchemaArrayManipulator<struct SchemaEnumeratorInfoData_t>::AllocateUtlVector
+CSchemaArrayManipulator<struct SchemaEnumeratorInfoData_t>::DeallocateUtlVector
+CSchemaMetadataEntry
+CSchemaMetadataSet
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\schemalib\release\win64\schemametadata_h_schema.gen_cpp
+CSchemaMetadataEntry::Schema_VerifyBindingIsRegistered
+CSchemaMetadataSet::Schema_VerifyBindingIsRegistered
+SchemaMetadataEntryData_t
+m_pDataType
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\schemalib\release\win64\schemametadata_data_h_schema.gen_cpp
+SchemaMetadataEntryData_t::Schema_VerifyBindingIsRegistered
+m_StaticEntries
+SchemaMetadataSetData_t::Schema_VerifyBindingIsRegistered
+CSchemaArrayManipulator<struct SchemaMetadataEntryData_t>::InsertMultipleBefore
+CSchemaArrayManipulator<struct SchemaMetadataEntryData_t>::RemoveMultiple
+CSchemaArrayManipulator<struct SchemaMetadataEntryData_t>::AllocateUtlVector
+CSchemaArrayManipulator<struct SchemaMetadataEntryData_t>::DeallocateUtlVector
+()$^.*+?[]|\-{},:=!
+unknown error
+iostream
+iostream stream error
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+string too long
+invalid string position
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+CUtlBuffer::CUtlBuffer
+nSize != 0
+CUtlBuffer::Get
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + size - 1 )
+CUtlBuffer::GetString
+nMaxChars > 0
+(GetChar()) == (0)
+CUtlBuffer::PeekGet
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + nMaxSize - 1 )
+CUtlBuffer::VaScanf
+CUtlBuffer::Put
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf
+CUtlBuffer::AddNullTermination
+m_Memory.IsIdxValid( Index )
+Unaccounted
+CUtlMemory<unsigned char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strncmp
+Unaccounted
+_V_strncmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_strcmp
+V_atoi64
+V_atoui64
+V_stristr
+pSearch
+_V_strncpy
+maxLen >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+V_vsnprintf
+V_vsnprintfRet
+Unaccounted
+CUtlMemory<char *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\mempool.cpp
+CUtlMemoryPoolBase::CUtlMemoryPoolBase
+IsPowerOfTwo( m_nAlignment )
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase::AddNewBlob
+!"CUtlMemoryPoolBase::AddNewBlob: mode == UTLMEMORYPOOL_GROW_NONE"
+Failed to allocate CUtlMemoryPoolBase blob of size %d ('%s' blob count = %d)
+m_pHeadOfFreeList
+CUtlMemoryPoolBase::Alloc
+!"CUtlMemoryPoolBase::Alloc: ran out of memory"
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+*** ConCommand "%s" (%p) was not unregistered! Shutdown crash imminent!
+ConCommand::Dispatch
+Encountered ConCommand '%s' without a callback!
+ConCommand::AutoCompleteSuggest
+m_pParent->m_fnCompletionCallback
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+Unaccounted
+CUtlMemory<struct ConCommand::CallbackInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::Find
+Unaccounted
+CUtlSymbolTable::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::AddString
+Unaccounted
+CUtlSymbolTable::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbolTable::AddString
+pPool->m_SpaceUsed < 0xFFFF
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::Insert
+!"Allowing insert of dupe without explicit dupe insertion. Fix code callpoint to allow dupes."
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct CUtlSymbolTable::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+unknown
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\keyvalues.cpp
+CKeyValues_Data::Internal_SetSubKey::<lambda_dfee2f515a6a5adff42b5f68583e88d3>::operator ()
+m_iDataType == TYPE_NONE
+CKeyValues_Data::Internal_ClearData
+!m_bStoredSubKey
+KeyValues::GetName
+Member function called on NULL KeyValues
+KeyValues::FindKey
+KeyValues::FindKey called on NULL pointer!
+!bCreate
+size >= 0
+size < 1024 * 1024
+pSubkey != NULL
+pSubkey->m_pPeer == NULL
+KeyValues::AddSubKey
+KeyValues::GetNextKey
+%f %f %f %f
+%f %f %f
+Unaccounted
+CUtlMemory<char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+D"A/oyu
+	6RtcZO"
+z`%1Is}
+)%f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f
+%d %d %d %d
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utltokenizer.cpp
+Newline in string literal
+Unaccounted
+CUtlMemory<class CUtlTokenReference,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct TokenWarning_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbinaryblock.cpp
+CUtlBinaryBlock::SetLength
+!m_Memory.IsReadOnly()
+CUtlBinaryBlock::Set
+CUtlBinaryBlock::operator =
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\splitstring.cpp
+CSplitString::Construct
+nTokenLength > 0 && !memcmp(pTokenInDuplicate,pCurPos,nTokenLength)
+!memcmp(pTokenInDuplicate, pCurPos, nTokenLength)
+UPDATE_STRING_TOKEN_DATABASE
+VScript
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\schemabindings.cpp
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+?E=$% B
+?49HoKC
+?UUUUUU
+AUUUUUU
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+?UUUUUU
+Unknown exception
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+@^8U)zj
+?8bunz8
+?@En[vP
+-9D	/9a
+?UUUUUU
+?3ScR.>
+?gibQ^AX>
+WR_l%2>
+)2STud>
+J\;5yTb
+<8bunz8
+<@En[vP
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+bad exception
+_nextafter
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+<unknown>
+wchar_t
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemasystem\Release\win64\schemasystem.pdb
+schemasystem.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+SetWindowPos
+DialogBoxParamA
+EndDialog
+SetDlgItemTextA
+GetWindowRect
+GetDesktopWindow
+USER32.dll
+Plat_IsInDebugSession
+Plat_ExitProcess
+CommandLine
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+AssertMsg_ConditionFailed
+g_pMemAlloc
+LoggingSystem_RegisterLoggingChannel
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+Plat_ShouldCollectMiniDumpsForFatalErrors
+CMemAllocSystemInitialize
+?Lock@CThreadFastMutex@@AECAXII@Z
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?LockForWrite@CThreadSpinRWLock@@QEAAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+LOG_GENERAL
+g_pGlobalMiniProfilers
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@PEBULoggingMetaData_t@@PEBDZZ
+Warning
+Plat_GetModuleProcAddress
+Plat_LoadModule
+Plat_UnloadModule
+??0CThreadSpinRWLock@@QEAA@XZ
+Plat_UUIDToString
+Plat_UUIDFromString
+GetCPUInformation
+Plat_GetPlatformError
+Plat_VirtualAlloc
+Plat_VirtualFree
+g_Telemetry
+tier0.dll
+KeyValuesSystem
+vstdlib.dll
+GetModuleHandleA
+GetCurrentThreadId
+MultiByteToWideChar
+WideCharToMultiByte
+LCMapStringW
+CloseHandle
+GetCurrentProcessId
+GetProcAddress
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+EncodePointer
+DecodePointer
+GetStringTypeW
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+GetLastError
+GetCPInfo
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+ExitProcess
+GetModuleHandleExW
+GetStdHandle
+GetFileType
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+IsValidCodePage
+GetOEMCP
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+OutputDebugStringW
+SetStdHandle
+WriteConsoleW
+ReadFile
+ReadConsoleW
+FlushFileBuffers
+CreateFileW
+KERNEL32.dll
+Plat_GetEnv
+0'>0c*>
+pb>pAf>
+-?[`/?291?
+RD?4KF?=GH?9FJ?8HL?
+a?y#c?sIe?
+0123456789ABCDEF
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AV?$CUtlMemory@VCSchemaClassFieldSynth@@H@@
+.?AV?$CUtlVectorBase@VCSchemaClassFieldSynth@@V?$CUtlMemory@VCSchemaClassFieldSynth@@H@@@@
+.?AV?$CUtlMemory@VCSchemaClassStaticFieldSynth@@H@@
+.?AV?$CUtlMemory@PEBUSchemaClassInfo_t@@H@@
+.?AV?$CUtlMemory@PEBUSchemaEnumInfo_t@@H@@
+.?AV?$CUtlMemory@USchemaEnumMember_t@@H@@
+.?AV?$CUtlVectorBase@PEAUSchemaClassInfo_t@@V?$CUtlMemory@PEAUSchemaClassInfo_t@@H@@@@
+.?AV?$CUtlMemory@PEAUSchemaClassInfo_t@@H@@
+.?AV?$CUtlVectorBase@VCSchemaClassStaticFieldSynth@@V?$CUtlMemory@VCSchemaClassStaticFieldSynth@@H@@@@
+.?AV?$CUtlVectorBase@PEBUSchemaClassInfo_t@@V?$CUtlMemory@PEBUSchemaClassInfo_t@@H@@@@
+.?AV?$CUtlVectorBase@PEBUSchemaEnumInfo_t@@V?$CUtlMemory@PEBUSchemaEnumInfo_t@@H@@@@
+.?AV?$CUtlVectorBase@USchemaEnumMember_t@@V?$CUtlMemory@USchemaEnumMember_t@@H@@@@
+.?AV?$CUtlVectorBase@PEAVISchemaBinding@@V?$CUtlMemory@PEAVISchemaBinding@@H@@@@
+.?AV?$CUtlMemory@PEAVISchemaBinding@@H@@
+.?AV?$CUtlMemory@UClassToTraverse_t@CSchemaInheritanceIterator@@H@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.PEAU?$HashFixedDataInternal_t@PEAVCSchemaClassInfoSynth@@@?$CUtlTSHashBase@PEAVCSchemaClassInfoSynth@@$0BAA@PEBVCSchemaClassBindingBase@@V?$CUtlTSHashGenericHashMethod@PEBVCSchemaClassBindingBase@@@@VCThreadSpinRWLock@@@@
+.PEAU?$HashFixedDataInternal_t@PEAVCSchemaEnumInfoSynth@@@?$CUtlTSHashBase@PEAVCSchemaEnumInfoSynth@@$0BAA@PEBVCSchemaEnumBindingBase@@V?$CUtlTSHashGenericHashMethod@PEBVCSchemaEnumBindingBase@@@@VCThreadSpinRWLock@@@@
+.PEAU?$HashFixedDataInternal_t@PEAVCSchemaClassBindingBase@@@?$CUtlTSHashBase@PEAVCSchemaClassBindingBase@@$0BAA@IV?$CUtlTSHashGenericHashMethod@I@@VCThreadSpinRWLock@@@@
+.PEAU?$HashFixedDataInternal_t@PEAVCSchemaEnumBindingBase@@@?$CUtlTSHashBase@PEAVCSchemaEnumBindingBase@@$0BAA@IV?$CUtlTSHashGenericHashMethod@I@@VCThreadSpinRWLock@@@@
+.?AV?$CUtlVectorBase@PEAXV?$CUtlMemory@PEAXH@@@@
+.?AV?$CUtlMemory@PEAXH@@
+.?AV?$CUtlVectorBase@PEBVCSchemaClassInfo@@V?$CUtlMemory@PEBVCSchemaClassInfo@@H@@@@
+.?AV?$CUtlVectorBase@PEBVCSchemaEnumInfo@@V?$CUtlMemory@PEBVCSchemaEnumInfo@@H@@@@
+.?AV?$CUtlVectorBase@UDetectedSchemaMismatch_t@CSchemaSystem@@V?$CUtlMemory@UDetectedSchemaMismatch_t@CSchemaSystem@@H@@@@
+.?AV?$CUtlMemory@UDetectedSchemaMismatch_t@CSchemaSystem@@H@@
+.?AV?$CUtlVectorBase@PEAVCSchemaSystemTypeScope@@V?$CUtlMemory@PEAVCSchemaSystemTypeScope@@H@@@@
+.?AV?$CUtlMemory@PEAVCSchemaSystemTypeScope@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEAVCSchemaType@@PEAVCSchemaType_Ptr@@GP6A_NAEBQEAV1@0@Z@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@HPEAVCSchemaType_Atomic@@GP6A_NAEBH0@Z@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@UAtomicTypeInfo_T_t@@PEAVCSchemaType_Atomic_T@@GP6A_NAEBU1@0@Z@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@UAtomicTypeInfo_TT_t@@PEAVCSchemaType_Atomic_TT@@GP6A_NAEBU1@0@Z@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@UAtomicTypeInfo_I_t@@PEAVCSchemaType_Atomic_I@@GP6A_NAEBU1@0@Z@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IPEAVCSchemaType_DeclaredClass@@GP6A_NAEBI0@Z@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IPEAVCSchemaType_DeclaredEnum@@GP6A_NAEBI0@Z@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@HPEBUSchemaAtomicTypeInfo_t@@GP6A_NAEBH0@Z@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@UTypeAndCountInfo_t@@PEAVCSchemaType_FixedArray@@GP6A_NAEBU1@0@Z@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@HPEAVCSchemaType_Bitfield@@GP6A_NAEBH0@Z@@G@@G@@
+.?AV?$CUtlMemory@PEAVCSchemaClassBindingBase@@H@@
+.?AV?$CUtlMemory@PEAVCSchemaEnumBindingBase@@H@@
+.?AV?$CUtlMemory@PEBVCSchemaClassInfo@@H@@
+.?AV?$CUtlMemory@PEBVCSchemaEnumInfo@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEAVCSchemaType@@PEAVCSchemaType_Ptr@@GP6A_NAEBQEAV1@0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEAVCSchemaType@@PEAVCSchemaType_Ptr@@GP6A_NAEBQEAV1@0@Z@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@HPEAVCSchemaType_Atomic@@GP6A_NAEBH0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@HPEAVCSchemaType_Atomic@@GP6A_NAEBH0@Z@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@UAtomicTypeInfo_T_t@@PEAVCSchemaType_Atomic_T@@GP6A_NAEBU1@0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@UAtomicTypeInfo_T_t@@PEAVCSchemaType_Atomic_T@@GP6A_NAEBU1@0@Z@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@UAtomicTypeInfo_TT_t@@PEAVCSchemaType_Atomic_TT@@GP6A_NAEBU1@0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@UAtomicTypeInfo_TT_t@@PEAVCSchemaType_Atomic_TT@@GP6A_NAEBU1@0@Z@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@UAtomicTypeInfo_I_t@@PEAVCSchemaType_Atomic_I@@GP6A_NAEBU1@0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@UAtomicTypeInfo_I_t@@PEAVCSchemaType_Atomic_I@@GP6A_NAEBU1@0@Z@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@IPEAVCSchemaType_DeclaredClass@@GP6A_NAEBI0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IPEAVCSchemaType_DeclaredClass@@GP6A_NAEBI0@Z@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@IPEAVCSchemaType_DeclaredEnum@@GP6A_NAEBI0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IPEAVCSchemaType_DeclaredEnum@@GP6A_NAEBI0@Z@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@HPEBUSchemaAtomicTypeInfo_t@@GP6A_NAEBH0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@HPEBUSchemaAtomicTypeInfo_t@@GP6A_NAEBH0@Z@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@UTypeAndCountInfo_t@@PEAVCSchemaType_FixedArray@@GP6A_NAEBU1@0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@UTypeAndCountInfo_t@@PEAVCSchemaType_FixedArray@@GP6A_NAEBU1@0@Z@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@HPEAVCSchemaType_Bitfield@@GP6A_NAEBH0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@HPEAVCSchemaType_Bitfield@@GP6A_NAEBH0@Z@@G@@G@@@@
+.?AV?$CUtlMemory@PEAVCSchemaType@@H@@
+.?AV?$CUtlMemory@PEAVCSchemaType_Ptr@@H@@
+.?AV?$CUtlMemory@HH@@
+.?AV?$CUtlMemory@PEAVCSchemaType_Atomic@@H@@
+.?AV?$CUtlMemory@UAtomicTypeInfo_T_t@@H@@
+.?AV?$CUtlMemory@PEAVCSchemaType_Atomic_T@@H@@
+.?AV?$CUtlMemory@UAtomicTypeInfo_TT_t@@H@@
+.?AV?$CUtlMemory@PEAVCSchemaType_Atomic_TT@@H@@
+.?AV?$CUtlMemory@UAtomicTypeInfo_I_t@@H@@
+.?AV?$CUtlMemory@PEAVCSchemaType_Atomic_I@@H@@
+.?AV?$CUtlMemory@IH@@
+.?AV?$CUtlMemory@PEAVCSchemaType_DeclaredClass@@H@@
+.?AV?$CUtlMemory@PEAVCSchemaType_DeclaredEnum@@H@@
+.?AV?$CUtlMemory@UTypeAndCountInfo_t@@H@@
+.?AV?$CUtlMemory@PEAVCSchemaType_FixedArray@@H@@
+.?AV?$CUtlMemory@PEAVCSchemaType_Bitfield@@H@@
+.?AV?$CUtlVectorBase@PEAVCSchemaType@@V?$CUtlMemory@PEAVCSchemaType@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaType_Ptr@@V?$CUtlMemory@PEAVCSchemaType_Ptr@@H@@@@
+.?AV?$CUtlVectorBase@HV?$CUtlMemory@HH@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaType_Atomic@@V?$CUtlMemory@PEAVCSchemaType_Atomic@@H@@@@
+.?AV?$CUtlVectorBase@UAtomicTypeInfo_T_t@@V?$CUtlMemory@UAtomicTypeInfo_T_t@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaType_Atomic_T@@V?$CUtlMemory@PEAVCSchemaType_Atomic_T@@H@@@@
+.?AV?$CUtlVectorBase@UAtomicTypeInfo_TT_t@@V?$CUtlMemory@UAtomicTypeInfo_TT_t@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaType_Atomic_TT@@V?$CUtlMemory@PEAVCSchemaType_Atomic_TT@@H@@@@
+.?AV?$CUtlVectorBase@UAtomicTypeInfo_I_t@@V?$CUtlMemory@UAtomicTypeInfo_I_t@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaType_Atomic_I@@V?$CUtlMemory@PEAVCSchemaType_Atomic_I@@H@@@@
+.?AV?$CUtlVectorBase@IV?$CUtlMemory@IH@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaType_DeclaredClass@@V?$CUtlMemory@PEAVCSchemaType_DeclaredClass@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaType_DeclaredEnum@@V?$CUtlMemory@PEAVCSchemaType_DeclaredEnum@@H@@@@
+.?AV?$CUtlVectorBase@UTypeAndCountInfo_t@@V?$CUtlMemory@UTypeAndCountInfo_t@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaType_FixedArray@@V?$CUtlMemory@PEAVCSchemaType_FixedArray@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaType_Bitfield@@V?$CUtlMemory@PEAVCSchemaType_Bitfield@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaClassBindingBase@@V?$CUtlMemoryFixedGrowable@PEAVCSchemaClassBindingBase@@$0IA@H@@@@
+.?AV?$CUtlVectorBase@PEAVCSchemaEnumBindingBase@@V?$CUtlMemoryFixedGrowable@PEAVCSchemaEnumBindingBase@@$0IA@H@@@@
+.?AVISchemaSystem@@
+.?AVIAppSystem@@
+.?AVCSchemaType@@
+.?AVIAtomicManipulator@@
+.?AVISchemaManipulator@@
+.?AVISchemaSystemTypeScope@@
+.?AVCSchemaType_DeclaredClass@@
+.?AVCSchemaType_DeclaredEnum@@
+.?AVICommandCallback@@
+.?AVICommandCompletionCallback@@
+.?AVConCommandBase@@
+.?AU?$CAtomicManipulator@VVector2D@@@@
+.?AU?$CAtomicManipulator@VVector@@@@
+.?AU?$CAtomicManipulator@VColor@@@@
+.?AU?$CAtomicManipulator@VVector4D@@@@
+.?AU?$CAtomicManipulator@VCUtlString@@@@
+.?AVCSchemaSystemTypeScope@@
+.?AVCSchemaType_Ptr@@
+.?AVCSchemaType_FixedArray@@
+.?AVCSchemaType_Bitfield@@
+.?AVCSchemaType_Builtin@@
+.?AVCSchemaType_NoschemaType@@
+.?AVCSchemaType_Atomic@@
+.?AVCSchemaType_Atomic_T@@
+.?AVCSchemaType_Atomic_TT@@
+.?AVCSchemaType_Atomic_I@@
+.?AVCSchemaSystem@@
+.?AV?$CTier2AppSystem@VISchemaSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VISchemaSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VISchemaSystem@@@@
+.?AV?$CBaseAppSystem@VISchemaSystem@@@@
+.?AV?$CConCommandMemberAccessor@VCSchemaSystem@@@@
+.?AVConCommand@@
+.?AV?$CSchemaManipulator@VVector2D@@@@
+.?AV?$CSchemaManipulator@VVector@@@@
+.?AV?$CSchemaManipulator@VColor@@@@
+.?AV?$CSchemaManipulator@VVector4D@@@@
+.?AV?$CSchemaManipulator@VCUtlString@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@IG@@G@@
+.?AV?$CUtlRBTree@IGP6A_NAEBI0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@IG@@G@@@@
+.?AVCResourceDiskTraversal@@
+.?AV?$CUtlMemory@UBackCompatIntrospection_t@CResourceIntrospectionDictionary@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBXPEAXIP6A_NAEBQEBX0@Z@@I@@I@@
+.?AV?$CUtlVectorBase@UToDestroy_t@CDestructorTraversal@@V?$CUtlMemory@UToDestroy_t@CDestructorTraversal@@H@@@@
+.?AV?$CUtlMemory@UToDestroy_t@CDestructorTraversal@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEBXPEAXIP6A_NAEBQEBX0@Z@@IVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBXPEAXIP6A_NAEBQEBX0@Z@@I@@I@@@@
+.?AVCSchemaVisitorBase@@
+.?AVCSchemaClassVisitor@@
+.?AVCDestructorTraversal@@
+.?AV?$CSchemaClassVisitorInfoMap@VCDestructorTraversal@@@@
+.?AVCSchemaVisitorInfoMapBase@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@PEBXPEAUVisitedStruct_t@CIntrospectionPrinter@@@@H@@
+.?AVCIntrospectionPrinter@@
+.?AV?$CUtlVectorBase@W4SchemaIndirectionType_t@@V?$CUtlMemory@W4SchemaIndirectionType_t@@H@@@@
+.?AV?$CUtlMemory@W4SchemaIndirectionType_t@@H@@
+.?AV?$CUtlVectorBase@PEAVKeyValues@@V?$CUtlMemory@PEAVKeyValues@@H@@@@
+.?AV?$CUtlMemory@PEAVKeyValues@@H@@
+.?AV?$CUtlVectorBase@UParentnfo_t@CSchemaKeyValuesTarget@@V?$CUtlMemory@UParentnfo_t@CSchemaKeyValuesTarget@@H@@@@
+.?AV?$CUtlMemory@UParentnfo_t@CSchemaKeyValuesTarget@@H@@
+.?AVISchemaSerializationTarget@@
+.?AVCSchemaKeyValuesTarget@@
+.?AV?$CFmtStrN@$0IAAA@$0A@@@
+.?AV?$CUtlVectorBase@UCompound_t@CNewLoadWriter@@V?$CUtlMemory@UCompound_t@CNewLoadWriter@@H@@@@
+.?AV?$CUtlMemory@UCompound_t@CNewLoadWriter@@H@@
+.?AV?$CUtlVectorBase@PEAUSchemaLoadingObject_t@@V?$CUtlMemory@PEAUSchemaLoadingObject_t@@H@@@@
+.?AV?$CUtlMemory@PEAUSchemaLoadingObject_t@@H@@
+.?AV?$CUtlVectorBase@ULoadedObject_t@CNewLoadWriter@@V?$CUtlMemory@ULoadedObject_t@CNewLoadWriter@@H@@@@
+.?AV?$CUtlMemory@ULoadedObject_t@CNewLoadWriter@@H@@
+.?AV?$CUtlVectorBase@UUnresolvedObjectPointer_t@CNewLoadWriter@@V?$CUtlMemory@UUnresolvedObjectPointer_t@CNewLoadWriter@@H@@@@
+.?AV?$CUtlMemory@UUnresolvedObjectPointer_t@CNewLoadWriter@@H@@
+.?AV?$CUtlVectorBase@PEBVCSchemaType@@V?$CUtlMemory@PEBVCSchemaType@@H@@@@
+.?AV?$CUtlMemory@PEBVCSchemaType@@H@@
+.?AV?$CUtlVectorBase@_NV?$CUtlMemory@_NH@@@@
+.?AV?$CUtlMemory@_NH@@
+.?AV?$CUtlMemory@ULoadingField_t@@H@@
+.?AV?$CUtlVectorBase@ULoadingField_t@@V?$CUtlMemory@ULoadingField_t@@H@@@@
+.?AU?$CAtomicManipulator@VCSchemaType@@@@
+.?AVITextLoadWriter@@
+.?AVCNewLoadWriter@@
+.?AV?$CSchemaManipulator@VCSchemaType@@@@
+.?AV?$CUtlMemory@VCUtlTokenReference@@H@@
+.?AVCSchemaTextTarget@@
+.?AV?$CUtlVectorBase@PEAVCDynElement@@V?$CUtlMemory@PEAVCDynElement@@H@@@@
+.?AV?$CUtlVectorBase@UCompound_t@CDynDataLoadWriter@@V?$CUtlMemory@UCompound_t@CDynDataLoadWriter@@H@@@@
+.?AV?$CUtlMemory@UCompound_t@CDynDataLoadWriter@@H@@
+.?AV?$CUtlVectorBase@PEAUSchemaDynLoadingObject_t@@V?$CUtlMemory@PEAUSchemaDynLoadingObject_t@@H@@@@
+.?AV?$CUtlMemory@PEAUSchemaDynLoadingObject_t@@H@@
+.?AV?$CUtlVectorBase@UUnresolvedElementReference_t@CDynDataLoadWriter@@V?$CUtlMemory@UUnresolvedElementReference_t@CDynDataLoadWriter@@H@@@@
+.?AV?$CUtlMemory@UUnresolvedElementReference_t@CDynDataLoadWriter@@H@@
+.?AV?$CUtlMemory@PEAVCDynElement@@H@@
+.?AVCDynDataLoadWriter@@
+.?AV?$CUtlVectorBase@UDynElementToSave_t@@V?$CUtlMemory@UDynElementToSave_t@@H@@@@
+.?AV?$CUtlMemory@UDynElementToSave_t@@H@@
+.PEAU?$HashFixedDataInternal_t@PEBVCResourceDiskStruct@@@?$CUtlTSHashBase@PEBVCResourceDiskStruct@@$0BAA@IV?$CUtlTSHashGenericHashMethod@I@@VCThreadSpinRWLock@@@@
+.PEAU?$HashFixedDataInternal_t@PEBVCResourceDiskEnum@@@?$CUtlTSHashBase@PEBVCResourceDiskEnum@@$0BAA@IV?$CUtlTSHashGenericHashMethod@I@@VCThreadSpinRWLock@@@@
+.?AV?$CUtlMemory@PEBXH@@
+.?AV?$CUtlVectorBase@PEBXV?$CUtlMemory@PEBXH@@@@
+.?AVISchemaSystemUtils@@
+.?AVCSchemaSystemUtils@@
+.?AVISchemaBinding@@
+.?AVCSchemaEnumBindingBase@@
+.?AV?$CSchemaEnumBinding@W4ThreeState_t@@@@
+.?AVCSchemaClassBindingBase@@
+.?AU?$CAtomicManipulator@VVectorAligned@@@@
+.?AU?$CAtomicManipulator@VQAngle@@@@
+.?AU?$CAtomicManipulator@VRadianEuler@@@@
+.?AU?$CAtomicManipulator@VDegreeEuler@@@@
+.?AU?$CAtomicManipulator@VQuaternion@@@@
+.?AU?$CAtomicManipulator@Umatrix3x4_t@@@@
+.?AU?$CAtomicManipulator@Vmatrix3x4a_t@@@@
+.?AU?$CAtomicManipulator@VCTransform@@@@
+.?AU?$CAtomicManipulator@VKeyValues@@@@
+.?AU?$CAtomicManipulator@VCUtlBinaryBlock@@@@
+.?AU?$CAtomicManipulator@VCUtlSymbol@@@@
+.?AU?$CAtomicManipulator@VCUtlStringToken@@@@
+.?AU?$CAtomicManipulator@VCResourceString@@@@
+.?AV?$CSchemaClassBinding@VCSchemaSystemInternalRegistration@@@@
+.?AV?$CSchemaManipulator@VVectorAligned@@@@
+.?AV?$CSchemaManipulator@VQAngle@@@@
+.?AV?$CSchemaManipulator@VRadianEuler@@@@
+.?AV?$CSchemaManipulator@VDegreeEuler@@@@
+.?AV?$CSchemaManipulator@VQuaternion@@@@
+.?AV?$CSchemaManipulator@Umatrix3x4_t@@@@
+.?AV?$CSchemaManipulator@Vmatrix3x4a_t@@@@
+.?AV?$CSchemaManipulator@VCTransform@@@@
+.?AV?$CSchemaManipulator@VKeyValues@@@@
+.?AV?$CSchemaManipulator@VCUtlBinaryBlock@@@@
+.?AV?$CSchemaManipulator@VCUtlSymbol@@@@
+.?AV?$CSchemaManipulator@VCUtlStringToken@@@@
+.?AV?$CSchemaManipulator@VCResourceString@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourcePointer@VCResourceString@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourcePointer@VCResourceString@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourcePointer@VCResourceString@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourcePointer@VCResourceString@@@@@@
+.?AV?$CSchemaEnumBinding@W4ResourceIntrospectionVersion_t@@@@
+.?AV?$CSchemaClassBinding@VCResourceDiskStructField@@@@
+.?AV?$CSchemaClassBinding@VCResourceDiskStruct@@@@
+.?AV?$CSchemaClassBinding@VCResourceDiskEnumValue@@@@
+.?AV?$CSchemaClassBinding@VCResourceDiskEnum@@@@
+.?AV?$CSchemaClassBinding@VCResourceIntrospectionManifest@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@E@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCResourceDiskStructField@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCResourceDiskEnumValue@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCResourceDiskStruct@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCResourceDiskEnum@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@E@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCResourceDiskStructField@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCResourceDiskEnumValue@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCResourceDiskStruct@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCResourceDiskEnum@@@@@@
+.?AVCSchemaRegistration@@
+.?AVCSchemaRegistration_schemasystem@@
+.?AV?$CSchemaEnumBinding@W4SchemaFieldType_t@@@@
+.?AV?$CSchemaEnumBinding@W4ResourceStructFlags_t@@@@
+.?AVCPostConnectCallback@@
+.?AVCSchemaRegistration_resourcefile@@
+.?AVCResourceStream@@
+.?AVCResourceStreamVM@@
+.?AV?$CSchemaEnumBinding@W4ResourceDependencyFlags_t@@@@
+.?AV?$CSchemaClassBinding@UResourceInputDependency_t@@@@
+.?AV?$CSchemaClassBinding@UResourceArgumentDependency_t@@@@
+.?AV?$CSchemaClassBinding@UResourceSpecialDependency_t@@@@
+.?AV?$CSchemaClassBinding@UResourceEditIntData_t@@@@
+.?AV?$CSchemaClassBinding@UResourceEditFloatData_t@@@@
+.?AV?$CSchemaClassBinding@UResourceEditStringData_t@@@@
+.?AV?$CSchemaClassBinding@UResourceCustomDependency_t@@@@
+.?AV?$CSchemaClassBinding@UResourceAdditionalRelatedFile_t@@@@
+.?AV?$CSchemaClassBinding@UResourceEditInfoBlock_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceInputDependency_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceArgumentDependency_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceSpecialDependency_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceCustomDependency_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceAdditionalRelatedFile_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceReferenceInfo_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceEditIntData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceEditFloatData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceEditStringData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceInputDependency_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceArgumentDependency_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceSpecialDependency_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceCustomDependency_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceAdditionalRelatedFile_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceReferenceInfo_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceEditIntData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceEditFloatData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceEditStringData_t@@@@@@
+.?AV?$CSchemaClassBinding@UResourceReferenceInfo_t@@@@
+.?AV?$CSchemaClassBinding@UResourceExtRefList_t@@@@
+.?AV?$CSchemaClassBinding@UResourceDefRefList_t@@@@
+.?AV?$CSchemaClassBinding@UResourceManifest_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeResourceManifest_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCResourceString@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCResourceString@@@@@@
+.?AV?$CSchemaClassBinding@UResourceRemapRule_t@@@@
+.?AV?$CSchemaClassBinding@UResourceRemapTable_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeResourceRemapTable_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceRemapRule_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceRemapRule_t@@@@@@
+.?AV?$CUtlVectorBase@UClassToTraverse_t@CSchemaInheritanceIterator@@V?$CUtlMemoryFixedGrowable@UClassToTraverse_t@CSchemaInheritanceIterator@@$07H@@@@
+.?AVCSchemaRegistration_schemalib@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@PEBVCSchemaClassInfo@@PEAVCClassVisitInfo@@@@H@@
+.?AV?$CUtlVectorBase@UFieldInfo_t@CClassVisitInfo@@V?$CUtlMemory@UFieldInfo_t@CClassVisitInfo@@H@@@@
+.?AV?$CUtlMemory@UFieldInfo_t@CClassVisitInfo@@H@@
+.?AV?$CUtlVectorBase@UClassField_t@CSchemaObjectTraversal@@V?$CUtlMemoryFixedGrowable@UClassField_t@CSchemaObjectTraversal@@$07H@@@@
+.?AV?$CUtlMemory@UClassField_t@CSchemaObjectTraversal@@H@@
+.?AV?$CUtlVectorBase@W4ObjectOwnership_t@CSchemaObjectTraversal@@V?$CUtlMemoryFixedGrowable@W4ObjectOwnership_t@CSchemaObjectTraversal@@$0BA@H@@@@
+.?AV?$CUtlMemory@W4ObjectOwnership_t@CSchemaObjectTraversal@@H@@
+.?AV?$CUtlVectorBase@PEAVCSchemaObjectToSave@@V?$CUtlMemory@PEAVCSchemaObjectToSave@@H@@@@
+.?AV?$CUtlMemory@PEAVCSchemaObjectToSave@@H@@
+.?AV?$CUtlVectorBase@UTraversedClass_t@CSchemaObjectTraversal@@V?$CUtlMemory@UTraversedClass_t@CSchemaObjectTraversal@@H@@@@
+.?AV?$CUtlMemory@V?$CUtlVector@UTraversedClass_t@CSchemaObjectTraversal@@V?$CUtlMemory@UTraversedClass_t@CSchemaObjectTraversal@@H@@@@H@@
+.?AV?$CUtlVectorBase@UHashEntry_t@CSchemaSaveTraversal@@V?$CUtlMemory@UHashEntry_t@CSchemaSaveTraversal@@H@@@@
+.?AV?$CUtlMemory@V?$CUtlVector@UHashEntry_t@CSchemaSaveTraversal@@V?$CUtlMemory@UHashEntry_t@CSchemaSaveTraversal@@H@@@@H@@
+.?AV?$CUtlMemory@UTraversedClass_t@CSchemaObjectTraversal@@H@@
+.?AV?$CUtlMemory@UHashEntry_t@CSchemaSaveTraversal@@H@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@UTraversedClass_t@CSchemaObjectTraversal@@V?$CUtlMemory@UTraversedClass_t@CSchemaObjectTraversal@@H@@@@V?$CUtlMemory@V?$CUtlVector@UTraversedClass_t@CSchemaObjectTraversal@@V?$CUtlMemory@UTraversedClass_t@CSchemaObjectTraversal@@H@@@@H@@@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@UHashEntry_t@CSchemaSaveTraversal@@V?$CUtlMemory@UHashEntry_t@CSchemaSaveTraversal@@H@@@@V?$CUtlMemory@V?$CUtlVector@UHashEntry_t@CSchemaSaveTraversal@@V?$CUtlMemory@UHashEntry_t@CSchemaSaveTraversal@@H@@@@H@@@@
+.?AVCSchemaObjectTraversal@@
+.?AVCSchemaSaveTraversal@@
+.?AV?$CUtlMemory@_JH@@
+.?AV?$CUtlMemory@_KH@@
+.?AV?$CUtlMemory@MH@@
+.?AV?$CUtlMemory@NH@@
+.?AV?$CUtlMemory@VCUtlSymbolLarge@@H@@
+.?AV?$CUtlMemory@PEAVCUtlString@@H@@
+.?AV?$CUtlVectorBase@_JV?$CUtlMemory@_JH@@@@
+.?AV?$CUtlVectorBase@_KV?$CUtlMemory@_KH@@@@
+.?AV?$CUtlVectorBase@MV?$CUtlMemory@MH@@@@
+.?AV?$CUtlVectorBase@NV?$CUtlMemory@NH@@@@
+.?AV?$CUtlVectorBase@PEAVCUtlString@@V?$CUtlMemory@PEAVCUtlString@@H@@@@
+.?AV?$CUtlVectorBase@VCUtlSymbolLarge@@V?$CUtlMemory@VCUtlSymbolLarge@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCDynType@@V?$CUtlMemory@PEAVCDynType@@H@@@@
+.?AV?$CUtlMemory@PEAVCDynType@@H@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@V?$CUtlMemory@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_J@@_J@@
+.?AV?$CUtlRBTree@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_JV?$CTreeEntryLess@V?$CNonThreadsafeTree@$0A@@@$0A@@@V?$CUtlMemory@U?$UtlRBTreeNode_t@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_J@@_J@@@@
+.?AV?$CUtlVectorBase@PEAVCDynAttribute@CDynElement@@V?$CUtlMemory@PEAVCDynAttribute@CDynElement@@H@@@@
+.?AV?$CUtlMemory@PEAVCDynAttribute@CDynElement@@H@@
+.?AV?$CSchemaClassBinding@VCSchemaClassField@@@@
+.?AV?$CSchemaClassBinding@VCSchemaStaticField@@@@
+.?AV?$CSchemaClassBinding@VCSchemaBaseClassInfo@@@@
+.?AV?$CSchemaClassBinding@VCSchemaMetaModifyAdd@@@@
+.?AV?$CSchemaClassBinding@VCSchemaFieldMetadataOverride@@@@
+.?AV?$CSchemaClassBinding@VCSchemaClassInfo@@@@
+.?AVISchemaCollectionManipulator@@
+.?AU?$CAtomicManipulator@USchemaString_t@@@@
+.?AV?$CSchemaEnumBinding@W4SchemaClassFlags_t@@@@
+.?AV?$CSchemaClassBinding@USchemaClassFieldData_t@@@@
+.?AV?$CSchemaClassBinding@USchemaStaticFieldData_t@@@@
+.?AV?$CSchemaClassBinding@USchemaBaseClassInfoData_t@@@@
+.?AV?$CSchemaClassBinding@USchemaMetaModifyAdd_t@@@@
+.?AV?$CSchemaClassBinding@USchemaFieldMetadataOverrideData_t@@@@
+.?AV?$CSchemaClassBinding@USchemaClassInfoData_t@@@@
+.?AV?$CSchemaManipulator@USchemaString_t@@@@
+.?AU?$CAtomicManipulator@U?$SchemaArray_t@USchemaMetaModifyAdd_t@@@@@@
+.?AU?$CAtomicManipulator@U?$SchemaArray_t@USchemaString_t@@@@@@
+.?AU?$CAtomicManipulator@U?$SchemaArray_t@USchemaClassFieldData_t@@@@@@
+.?AU?$CAtomicManipulator@U?$SchemaArray_t@USchemaBaseClassInfoData_t@@@@@@
+.?AU?$CAtomicManipulator@U?$SchemaArray_t@USchemaFieldMetadataOverrideData_t@@@@@@
+.?AU?$CAtomicManipulator@U?$SchemaArray_t@PEBVCSchemaClassInfo@@@@@@
+.?AU?$CAtomicManipulator@U?$SchemaArray_t@PEBVCSchemaEnumInfo@@@@@@
+.?AV?$CSchemaManipulator@U?$SchemaArray_t@USchemaMetaModifyAdd_t@@@@@@
+.?AV?$CSchemaArrayManipulator@USchemaMetaModifyAdd_t@@@@
+.?AV?$CSchemaManipulator@U?$SchemaArray_t@USchemaString_t@@@@@@
+.?AV?$CSchemaArrayManipulator@USchemaString_t@@@@
+.?AV?$CSchemaManipulator@U?$SchemaArray_t@USchemaClassFieldData_t@@@@@@
+.?AV?$CSchemaArrayManipulator@USchemaClassFieldData_t@@@@
+.?AV?$CSchemaManipulator@U?$SchemaArray_t@USchemaBaseClassInfoData_t@@@@@@
+.?AV?$CSchemaArrayManipulator@USchemaBaseClassInfoData_t@@@@
+.?AV?$CSchemaManipulator@U?$SchemaArray_t@USchemaFieldMetadataOverrideData_t@@@@@@
+.?AV?$CSchemaArrayManipulator@USchemaFieldMetadataOverrideData_t@@@@
+.?AV?$CSchemaManipulator@U?$SchemaArray_t@PEBVCSchemaClassInfo@@@@@@
+.?AV?$CSchemaArrayManipulator@PEBVCSchemaClassInfo@@@@
+.?AV?$CSchemaManipulator@U?$SchemaArray_t@PEBVCSchemaEnumInfo@@@@@@
+.?AV?$CSchemaArrayManipulator@PEBVCSchemaEnumInfo@@@@
+.?AV?$CSchemaClassBinding@VCSchemaEnumeratorInfo@@@@
+.?AV?$CSchemaClassBinding@VCSchemaEnumInfo@@@@
+.?AV?$CSchemaClassBinding@USchemaEnumeratorInfoData_t@@@@
+.?AV?$CSchemaClassBinding@USchemaEnumInfoData_t@@@@
+.?AU?$CAtomicManipulator@U?$SchemaArray_t@USchemaEnumeratorInfoData_t@@@@@@
+.?AV?$CSchemaManipulator@U?$SchemaArray_t@USchemaEnumeratorInfoData_t@@@@@@
+.?AV?$CSchemaArrayManipulator@USchemaEnumeratorInfoData_t@@@@
+.?AV?$CSchemaClassBinding@VCSchemaMetadataEntry@@@@
+.?AV?$CSchemaClassBinding@VCSchemaMetadataSet@@@@
+.?AV?$CSchemaClassBinding@USchemaMetadataEntryData_t@@@@
+.?AV?$CSchemaClassBinding@USchemaMetadataSetData_t@@@@
+.?AU?$CAtomicManipulator@U?$SchemaArray_t@USchemaMetadataEntryData_t@@@@@@
+.?AV?$CSchemaManipulator@U?$SchemaArray_t@USchemaMetadataEntryData_t@@@@@@
+.?AV?$CSchemaArrayManipulator@USchemaMetadataEntryData_t@@@@
+.?AVexception@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AV?$CUtlMemory@EH@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AV?$CUtlVectorBase@PEADV?$CUtlMemory@PEADH@@@@
+.?AV?$CUtlMemory@PEADH@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@UCallbackInfo_t@ConCommand@@V?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@@@
+.?AV?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@CUtlSymbolTable@@V?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@
+.?AV?$CUtlRBTree@VCStringPoolIndex@CUtlSymbolTable@@GVCLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@@@
+.?AV?$CUtlMemory@DH@@
+.?AV?$CUtlVectorBase@DV?$CUtlMemory@DH@@@@
+.?AV?$CUtlVectorBase@VCUtlTokenReference@@V?$CUtlMemoryFixedGrowable@VCUtlTokenReference@@$07H@@@@
+.?AV?$CUtlVectorBase@UTokenWarning_t@@V?$CUtlMemory@UTokenWarning_t@@H@@@@
+.?AV?$CUtlMemory@UTokenWarning_t@@H@@
+.?AVCSchemaInstallCallback@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+?UUUUUU
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z

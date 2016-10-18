@@ -1,0 +1,1247 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+|$ ATAVAWH
+ A_A^A\
+UVWATAUAVAWH
+ A_A^A]A\_^]
+@USVWAVH
+\$h9\$d
+\$h;\$d
+WATAUAVAWH
+ A_A^A]A\_
+H9]@t	H
+l$ VWATAVAWH
+0A_A^A\_^
+																																																																																																																														
+									
+UVWAVAWH
+0A_A^_^]
+@USVWATAUAVH
+A^A]A\_^[]
+t$`D9t$<
+|$`;|$<
+t$ WATAUAVAWH
+ A_A^A]A\_
+kID8kJu*H
+@SVWAUH
+\$ UVAUAVAWH
+A_A^A]^]
+l$ VWAVH
+@SVWAUH
+UATAVAWH
+A_A^A\]
+@SVWAUH
+H9A uiH
+H9A urH
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+L$ SVWH
+t$ WATAUAVAWH
+0A_A^A]A\_
+|$ ATAVAWH
+ A_A^A\
+t$@HcsH$
+A0t#H9I8u
+@UAVAWH
+e A_A^]
+@SAVAWH
+l$@HckxH
+D$<9T$0wR9T$4wL9T$8wF;
+)t$PH9[8t
+)|$PH9[8t
+ATAVAWH
+ A_A^A\
+fffffff
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+VWATAVAWH
+A_A^A\_^
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+UVWATAUAVAWH
+|$hD9L$H@
+D$<D9L$Ht
+d$4t	fD
+d$4D9L$t
+t$dD9L$Ht
+t$dD8L$@t
+t$XD8L$8t
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+` AUAVAWH
+t$8Hc0I
+\$0D9=*
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+t$ WAVAWH
+t$ WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+$tPH9\$@t>
+A_A^A]A\_^]
+UWATAVAWH
+uMM9'tHH
+uQM91tLH
+A_A^A\_]
+<1~-<3~ <4t5<5t
+UATAUAVAWH
+A_A^A]A\]
+D8t$HuD
+(D$@L9t$ t0H
+D$(D8t$(u\H
+x UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+,0<	w!A
+@UATAUAVAWH
+A_A^A]A\]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@SUVWATAVAWH
+tcH951+
+PA_A^A\_^][
+AUAVAWH
+0A_A^A]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+H(H9J(u
+Release
+imemanager
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+MemAllocClassName
+Unaccounted
+CUtlMemory<struct CandidateListItem const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+imemanager
+CUtlMemory::Grow
+Chinese (Traditional) - Phonetic
+Phonetic
+phon.ime
+TINTLGNT.IME
+New Phonetic
+MSTCIPHA.IME
+Chinese (Traditional) - New Phonetic
+Chinese (Traditional) - New Phonetic 2010
+New Phonetic 2010
+Chinese (Traditional) - ChangJie
+ChangJie
+chajei.ime
+Chinese (Traditional) - New ChangJie
+New ChangJie
+Chinese (Traditional) - New ChangJie 2010
+New ChangJie 2010
+CINTLGNT.IME
+IMTCC14.IME
+IMTCP14.IME
+IMTCQ14.IME
+New Quick 2010
+MSTCICJA.IME
+Chinese (Traditional) - Big5 Code
+Chinese (Traditional) - Array
+Chinese Traditional Array (version 6.0)
+winar30.ime
+Chinese (Traditional) - Quick
+quick.ime
+Chinese (Traditional) - DaYi
+Chinese Traditional DaYi (version 6.0)
+dayi.ime
+Chinese (Traditional) - Unicode
+Unicode
+Chinese (Traditional) - US Keyboard
+Unknown
+Chinese (Traditional) - Alphanumeric
+Alphanumeric
+Microsoft IME
+Japanese Microsoft IME
+imjp81.ime
+Japanese Input System (MS-IME2002)
+MS-IME 2002
+imjp9.ime
+Microsoft IME Standard 2003
+imjp8.ime
+Microsoft IME Standard 2002
+imjp12.ime
+MS-IME 2007
+imjp14.ime
+Japanese IME 2010
+ATOK 2008
+ATOK 2009
+ATOK22W.IME
+Google Japanese Input
+Korean Input System (IME 2000)
+Korean 2000
+imekr61.ime
+Korean IME 2000
+imekr70.ime
+Korean IME 2003
+imkr12.ime
+Korean IME 2007
+imkr14.ime
+Korean IME 2010
+imekr.ime
+Korean IME 2002
+Korean Microsoft IME
+Microsoft 
+Chinese (Simplified) - US Keyboard
+Chinese (Simplified)
+Chinese (Simplified) - QuanPin
+Quan Pin
+Chinese Simplified QuanPin (version 6.0)
+winpy.ime
+Chinese (Simplified) - ShuangPin
+Shuang Pin
+Chinese Simplified ShuangPin (version 6.0)
+winsp.ime
+Chinese (Simplified) - ZhengMa
+ZhengMa
+Chinese Simplified ZhengMa (version 6.0)
+Zheng Ma
+winzm.ime
+Chinese (Simplified) - NeiMa
+Chinese (Simplified) - Microsoft Pinyin IME 3.0
+MSPinyin IME 3.0
+Chinese (Simplified) - Microsoft Pinyin IME
+MSPinyin IME
+Chinese (Simplified) - Microsoft Pinyin New Experience Input Style
+pintlgnt.ime
+Microsoft Pinyin IME 3.0
+IMSC40A.IME
+IMSC12li.IME
+Microsoft Pinyin IME 2007
+IMSC14.IME
+Microsoft Pinyin IME 2010
+winabc.ime
+ABC IME
+winabcx.ime
+itABC IME v5.30
+Chinese (Simplified) - Wubi86
+Chinese (Simplified) - Wubi98
+Google Pinyin
+Sogou Pinyin
+GOOGLEPINYIN2.IME
+sogoupy.ime
+Sogou Pinyin IME
+BAIDUCN.IME
+Baidu Pinyin IME
+QQPinyin
+NianQing
+WINWB86.IME
+WINWB98.IME
+JJ Pinyin
+LIUNT.IME
+New Quick
+Zheng Ma 6.0
+Shuang Pin 6.0
+Quan Pin 6.0
+DaYi 6.0
+Array 6.0
+) - ChangJie
+Microsoft 
+) - Phonetic
+) - New Phonetic
+) - New ChangJie
+ (version 6.0)
+CHEWING.IME
+New Chewing IME
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\strtools.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\convar.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\imemanager\imemanager.h
+Spew IME Supported info.
+ime_supported_info
+Spew IME HKL info.
+ime_hkl_info
+(%d) Tag: %s
+   System Name: '%s'
+   Common Name: '%s'
+%d Supported IME.
+(%d) HKL: 0x%8.8x
+   Layout: '%s'
+   IME Filename: '%s'
+Discovered %d HKL Keys.
+Using internal list of %d supported IMEs.
+IME Error: GetLocaleInfoW() Failed. Error Initializing Input Language Name (GetLastError() = %d)
+GetReadinString
+ShowReadingWindow
+Version
+GetFileVersionInfoSizeA
+GetFileVersionInfoA
+VerQueryValueA
+DirectInput
+Katakana_FullShape
+Hiragana_FullShape
+Katakana_HalfShape
+Alphanumeric_FullShape
+Alphanumeric_HalfShape
+IME Error:Opening Registry Key failed (%d)
+IME Error: Retrieving subkey information failed (%d)
+IME Error: Enumerating Registry Subkeys Failed (%d)
+IME Error: Expected 8 digit hex value, got '%s'
+IME Error: Opening Registry subkey Failed (%d)
+IME Error: Obtaining Layout Text failed for '%s'
+IME Error: Obtaining IME Filename failed for '%s'
+Considering Language: LANGID: 0x%8.8x, Name: '%s'
+   Identified as English.
+   Identified as Chinese (Traditional).
+   Identified as Chinese (Simplified).
+   Identified as Korean.
+   Identified as Japanese.
+   Unsupported Language.
+m_pOwner && m_Func
+m_pOwner && m_CompletionFunc
+CConCommandMemberAccessor<class CIMENamesManager>::CommandCallback
+CConCommandMemberAccessor<class CIMENamesManager>::CommandCompletionCallback
+Unaccounted
+CUtlMemory<class CUtlWString,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+imemanager
+Unaccounted
+CUtlMemory<struct InputLangProperties,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+imemanager
+Unaccounted
+CUtlMemory<struct InputLangProps2,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+imemanager
+Unaccounted
+CUtlMemory<struct HKLLayoutProperties,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+imemanager
+IME Finalize Composition (%d Chars):
+0x%4.4x 
+IME Composition (%d Chars):
+Set Current Language: %s
+SetActiveUIView(): IMEUIView: 0x%8.8p
+IME Error: Window Handle to IME is NULL!
+The COM library is already initialized on this thread.
+A previous call to CoInitializeEx specified the concurrency model for this thread as multithread apartment (MTA).
+Setting up using Windows Vista IME.
+Setting up using Windows XP IME.
+Detected Windows Version %d.%d
+Failure in obtaining list of installed IMEs! IME is disabled.
+HandleIMEEvent( Pre-Process )
+HandleIMEEvent()
+%s: hWnd:0x%8.8x, uMsg:0x%8.8x, wParam:0x%8.8x, lParam:0x%8.8x
+WM_LBUTTONDOWN
+WM_LBUTTONUP
+WM_KEYDOWN
+WM_KEYUP
+WM_CHAR
+WM_DEADCHAR
+WM_SYSKEYDOWN
+WM_SYSKEYUP
+WM_SYSCHAR
+WM_SYSDEADCHAR
+WM_UNICHAR
+WM_INPUTLANGCHANGE
+WM_IME_STARTCOMPOSITION
+WM_IME_COMPOSITION
+WM_IME_ENDCOMPOSITION
+WM_IME_NOTIFY
+WM_IME_SETCONTEXT
+WM_IME_CONTROL
+WM_IME_COMPOSITIONFULL
+WM_IME_SELECT
+WM_IME_KEYDOWN
+WM_IME_KEYUP
+WM_IME_CHAR
+Unknown IME message
+IMN_CLOSESTATUSWINDOW
+IMN_OPENSTATUSWINDOW
+IMN_CHANGECANDIDATE
+IMN_CLOSECANDIDATE
+IMN_OPENCANDIDATE
+IMN_SETCONVERSIONMODE
+IMN_SETSENTENCEMODE
+IMN_SETOPENSTATUS
+IMN_SETCANDIDATEPOS
+IMN_SETCOMPOSITIONFONT
+IMN_SETCOMPOSITIONWINDOW
+IMN_SETSTATUSWINDOWPOS
+IMN_GUIDELINE
+IMN_PRIVATE
+Unknown IMN_??? message
+   %s: %s
+Failed to CoCreateInstance( CLSID_TF_ThreadMgr ).
+Failed to QueryInterface( IID_ITfSource ).
+Failed to GetCompartment( GUID_COMPARTMENT_KEYBOARD_INPUTMODE_CONVERSION_GFX ).
+Failed to create compartment sink.
+Failed to AdviseSink( IID_ITfCompartmentEventSink ).
+Discovered %d installed languages.
+Considering LANGID: 0x%8.8x, Profile Description: '%s'
+   Skipping due to unexpected profile characters.
+   Skipping due to not enabled nor active.
+Registering IME. Profile: '%s', IME filename: '%s'
+   Successfully Registered (Index: %d).
+   Not Supported.
+Could not find requested IME in supported IME list!
+--> You requested: %s
+Failure in COM. CoCreateInstance from alternate thread?
+StatusWindow_OnShape
+StatusWindow_OnInputMode
+Hiragana
+Full-Width Katakana
+Full-Width Alphanumeric
+Half-Width Katakana
+Half-Width Alphanumeric
+StatusWindow_OnSymbol
+No IME's Installed!
+IME Error: Failure to Initialize InputProcessorProfiles! (%d)
+Registering IME. Layout: '%s', IME filename: '%s'
+Failure to activate input language '%s'
+TSF: Failed to CoCreateInstance.
+TSF: Failed to load the TSF thread manager.
+TSF: Failed to initialize thread manager sink.
+TSF: Failed to initialize UI Element sink.
+c:\buildslave\vrgdc2015_staging_win64\build\src\imemanager\gfx_imetsf.cpp
+CTSF::Shutdown
+m_nRef == 0
+TSF Init() Failure!
+Unaccounted
+CUtlMemory<struct styleInfo,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+imemanager
+Unaccounted
+CUtlMemory<wchar_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+imemanager
+Spew IME info.
+ime_info
+IMEManager001
+IME Error: Invalid Window Handle. No IME support possible.
+c:\buildslave\vrgdc2015_staging_win64\build\src\imemanager\imemanager.cpp
+SetIMEEnabled %d
+CConCommandMemberAccessor<class CIMEManager>::CommandCallback
+CConCommandMemberAccessor<class CIMEManager>::CommandCompletionCallback
+imemanager.dll
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strncpy
+maxLen >= sizeof( *pDest )
+_V_wcsncpy
+maxLenInBytes >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+V_vsnprintf
+()$^.*+?[]|\-{},:=!
+generic
+unknown error
+iostream
+iostream stream error
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+string too long
+invalid string position
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+*** ConCommand "%s" (%p) was not unregistered! Shutdown crash imminent!
+ConCommand::Dispatch
+Encountered ConCommand '%s' without a callback!
+ConCommand::AutoCompleteSuggest
+m_pParent->m_fnCompletionCallback
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+Unaccounted
+CUtlMemory<struct ConCommand::CallbackInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+VScript
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\schemabindings.cpp
+InstallSchemaBindings
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+Unknown exception
+CorExitProcess
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+<unknown>
+wchar_t
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+_nextafter
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+}h><PP:
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+RSDSf1W
+c:\buildslave\vrgdc2015_staging_win64\build\src\imemanager\Release\win64\imemanager.pdb
+imemanager.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+GetKeyboardLayout
+ActivateKeyboardLayout
+GetKeyboardLayoutList
+DefWindowProcW
+SendInput
+MapVirtualKeyW
+ToUnicodeEx
+GetKeyboardState
+GetWindowInfo
+USER32.dll
+RegCloseKey
+RegEnumKeyExA
+RegOpenKeyExA
+RegOpenKeyExW
+RegQueryInfoKeyW
+RegQueryValueExW
+ADVAPI32.dll
+CoInitialize
+CoCreateInstance
+CoTaskMemFree
+ole32.dll
+ImmGetIMEFileNameA
+ImmGetContext
+ImmReleaseContext
+ImmGetConversionStatus
+ImmGetOpenStatus
+ImmIsUIMessageW
+ImmSetConversionStatus
+ImmSetOpenStatus
+ImmGetProperty
+ImmAssociateContextEx
+ImmGetCompositionStringW
+ImmGetCandidateListW
+ImmNotifyIME
+ImmSetCompositionWindow
+ImmSetCandidateWindow
+ImmSetCompositionStringW
+ImmGetVirtualKey
+IMM32.dll
+OLEAUT32.dll
+CMemAllocSystemInitialize
+AssertMsg_ConditionFailed
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+g_pMemAlloc
+g_pGlobalMiniProfilers
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+LoggingSystem_GetChannelVerbosity
+Plat_WindowToOsSpecificHandle
+LoggingSystem_RegisterLoggingChannel
+Plat_IsInDebugSession
+Plat_ExitProcess
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+Plat_ShouldCollectMiniDumpsForFatalErrors
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+LOG_GENERAL
+tier0.dll
+GetLastError
+GetProcAddress
+LoadLibraryA
+GetLocaleInfoW
+GetVersionExW
+MultiByteToWideChar
+WideCharToMultiByte
+LCMapStringW
+CloseHandle
+GetCurrentProcessId
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+GetCurrentThreadId
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+ExitProcess
+GetModuleHandleExW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+SetLastError
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetStringTypeW
+EnterCriticalSection
+LeaveCriticalSection
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+OutputDebugStringW
+ReadFile
+ReadConsoleW
+SetStdHandle
+WriteConsoleW
+FlushFileBuffers
+CreateFileW
+KERNEL32.dll
+Warning
+0123456789ABCDEF
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AV?$CUtlVectorBase@PEBUCandidateListItem@@V?$CUtlMemory@PEBUCandidateListItem@@H@@@@
+.?AV?$CUtlMemory@PEBUCandidateListItem@@H@@
+.?AV?$CUtlVectorBase@VCUtlWString@@V?$CUtlMemory@VCUtlWString@@H@@@@
+.?AV?$CUtlMemory@VCUtlWString@@H@@
+.?AV?$CUtlVectorBase@UInputLangProperties@@V?$CUtlMemory@UInputLangProperties@@H@@@@
+.?AV?$CUtlMemory@UInputLangProperties@@H@@
+.?AV?$CUtlVectorBase@UInputLangProps2@@V?$CUtlMemory@UInputLangProps2@@H@@@@
+.?AV?$CUtlMemory@UInputLangProps2@@H@@
+.?AV?$CUtlVectorBase@UHKLLayoutProperties@@V?$CUtlMemory@UHKLLayoutProperties@@H@@@@
+.?AV?$CUtlMemory@UHKLLayoutProperties@@H@@
+.?AVICommandCallback@@
+.?AVICommandCompletionCallback@@
+.?AVConCommandBase@@
+.?AVConCommand@@
+.?AVCIMENamesManager@@
+.?AV?$CConCommandMemberAccessor@VCIMENamesManager@@@@
+.?AVIMEManagerBase@@
+.?AVGFxIMEManagerWin32@@
+.?AUIUnknown@@
+.?AUITfCompartmentEventSink@@
+.?AUITfInputProcessorProfileActivationSink@@
+.?AVCIMENamesManagerVista@@
+.?AVCIMENamesManagerXP@@
+.?AUITfThreadMgrEventSink@@
+.?AUITfUIElementSink@@
+.?AVCTSF@@
+.?AV?$CUtlVectorBase@UstyleInfo@@V?$CUtlMemory@UstyleInfo@@H@@@@
+.?AV?$CUtlMemory@UstyleInfo@@H@@
+.?AV?$CUtlVectorBase@_WV?$CUtlMemory@_WH@@@@
+.?AV?$CUtlMemory@_WH@@
+.?AVGFxIMEVista@@
+.?AVGFxIMEWin32Impl@@
+.?AVGFxIMEXP@@
+.?AVIIMEManager@@
+.?AVIAppSystem@@
+.?AVCIMEManager@@
+.?AV?$CTier2AppSystem@VIIMEManager@@$0A@@@
+.?AV?$CTier1AppSystem@VIIMEManager@@$0A@@@
+.?AV?$CTier0AppSystem@VIIMEManager@@@@
+.?AV?$CBaseAppSystem@VIIMEManager@@@@
+.?AV?$CConCommandMemberAccessor@VCIMEManager@@@@
+.?AVCPostConnectCallback@@
+.?AVexception@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@UCallbackInfo_t@ConCommand@@V?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@@@
+.?AV?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@

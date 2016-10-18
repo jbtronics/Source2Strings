@@ -1,0 +1,1067 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.idata
+@.reloc
+T$(SARAQAPR
+ffffff.
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAWH
+(A_A\_^
+LcT$(Ic
+%UUUUD+
+ATAUAWH
+0A_A]A\
+ %UUUUD+
+%UUUUD+
+L$ WATAWH
+ %UUUUD+
+ %UUUU+
+t$ WAVAWH
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@SATAWH
+@UWATAUH
+8A]A\_]
+l$ ATAVAWH
+ A_A^A\
+@SATAVH
+@SVWAVH
+WHc\$0E3
+ULcT$0I
+At;Btu(
+|$ ATAVAWH
+ A_A^A\
+H@H9[`u
+Gt;FtuT
+H9v`tfH
+D;WpunH
+@SVWAUAWH
+0A_A]_^[
+H9I`t	H
+S LcKh3
+S LcKhE
+|$ AUAVAWH
+HcT$DLc
+VWATAUAVAWH
+HA_A^A]A\_^
+l$HHcl$`L
+UVWATAUAVAWH
+d$PD;l$ 
+A_A^A]A\_^]
+@UVWATAUAWH
+A_A]A\_^]
+UATAUAWH
+hA_A]A\]
+SUVWATAUAVAWH
+(A_A^A]A\_^][
+@SUWAVAWH
+0A_A^_][
+USVWATAUAVAWH
+A_A^A]A\_^[]
+@SUVWATAVAWH
+A_A^A\_^][
+@USVWATH
+pA\_^[]
+@SWATAUAWH
+l$PI;?t
+ A_A]A\_[
+WATAUAVAWH
+ A_A^A]A\_
+|$ ATAVAWLct$PE
+|$8A_A^A\
+|$ HcD$8A
+LcL$,LcT$4I
+Hc|$LHc\$TH
+USVWATAUAVAWH
+]`D9mXt
+8A_A^A]A\_^[]
+|$ ATAVAWH
+@A_A^A\
+HcL$pE3
+x1HcT$hL
+ Lc\$`3
+@WATAWH
+\$XD8?vQL
+|$ UATAUAVAWH
+T$$3T$,D3T$(D
+3T$DD3T$@A
+3T$XD3T$T
+T$03T$HD
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+gfffffffH
+D$xH90t
+VWATAVAWH
+0A_A^A\_^
+fffffff
+p WATAUAVAWH
+A_A^A]A\_
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+fffffff
+^ffffff
+fffffff
+0ffffff
+fffffff
+t$ WATAUAVAWH
+G 9\$tu
+A_A^A]A\_
+` AUAVAWH
+0A_A^A]
+t#HcL$@H
+UVWATAUAVAWH
+A_A^A]A\_^]
+H SVWAVH
+t$ WATAUAVAWH
+0A_A^A]A\_
+D$H9D$ s"
+x AUAVAWH
+ A_A^A]
+~`HcE H
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+UVWATAUAVAWH
+8$u&L9T$pu
+D+t$TD+
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+;Cu1f9K
+f93t$M;
+L$ SUVWH
+|$ ATAVAWH
+0A_A^A\
+WATAUAVAWH
+0A_A^A]A\_
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+fD9|$bu
+H9L$Ht8H
+!\$0!\$(!\$ L
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+USVWAVH
+UVWATAUAVAWH
+0A_A^A]A\_^]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+` AUAVAWH
+t$8Hc0I
+\$0D9=f
+WATAUAVAWH
+A_A^A]A\_
+t$ WAVAWH
+WATAUAVAWH
+@A_A^A]A\_
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+x AUAVAWH
+ A_A^A]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+VWATAVAWH
+ A_A^A\_^
+AUAVAWH
+0A_A^A]
+ATAVAWH
+ A_A^A\
+WATAUAVAWH
+ A_A^A]A\_
+p WAVAWH
+SVWATAUAVAWH
+PA_A^A]A\_^[
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+0A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+s WATAUAVAWH
+9t$P~.8\$vt(H
+9t$P~98\$vt3H
+A_A^A]A\_
+tVf91tQH
+x ATAVAWH
+ A_A^A\
+@SUVWATAVAWH
+A_A^A\_^][
+tSf91tNH
+D;|$0t9
+x ATAVAWH
+ A_A^A\
+@USVWATAVAWH
+tyfD9 tsH
+tHfD9 tB
+@A_A^A\_^[]
+@SUVWATAVAWH
+PA_A^A\_^][
+ATAVAWH
+ A_A^A\
+@SUVWATAVAWH
+zu|D!t$ E3
+A_A^A\_^][
+t$ WATAUAVAWH
+0A_A^A]A\_
+WATAUAVAWH
+0A_A^A]A\_
+D9t$htrH
+@USVWATAUAVAWH
+eHA_A^A]A\_^[]
+|$ ATAVAWH
+ A_A^A\
+UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+|$ ATAVAWH
+ A_A^A\
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+u"HcMHH
+t"HcM@H
+infinity
++infinity
+-infinity
+libavutil/aes.c
+libavutil/audio_fifo.c
+libavutil/avstring.c
+?456789:;<=
+ !"#$%&'()*+,-./0123ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+ iciNWq
+libavutil/buffer.c
+3.0(back)
+quad(side)
+6.0(front)
+hexagonal
+6.1(front)
+7.0(front)
+7.1(wide)
+octagonal
+downmix
+%d channels
+sse2slow
+sse3slow
+3dnowext
+cpuflags
+#+3;$,4<*'- 735
+)2#.!%,4
+libavutil/dict.c
+Bitstream filter not found
+Decoder not found
+Demuxer not found
+Encoder not found
+End of file
+Immediate exit requested
+Filter not found
+Invalid data found when processing input
+Muxer not found
+Option not found
+Not yet implemented in Libav, patches welcome
+Protocol not found
+Stream not found
+Bug detected, please report the issue
+Unknown error occurred
+Experimental feature
+Error number %d occurred
+libavutil/eval.c
+Undefined constant or missing '(' in '%s'
+Missing ')' in '%s'
+Missing ')' or too many args in '%s'
+Unknown function in '%s'
+Invalid chars '%s' at the end of expression '%s'
+libavutil/fifo.c
+Cannot read file '%s': %s
+Error occurred in fstat(): %s
+File size for file '%s' is too big
+Error occurred in CreateFileMapping()
+Error occurred in MapViewOfFile()
+libavutil/file_open.c
+libavutil/frame.c
+libavutil/hmac.c
+IMGUTILS
+libavutil/imgutils.c
+Picture size %ux%u is invalid
+NO_COLOR
+AV_LOG_FORCE_NOCOLOR
+[%s @ %p] 
+    Last message repeated %d times
+ is not implemented. Update your Libav version to the newest one from Git. If the problem still occurs, it means that your file has a feature which has not been implemented.
+If you want to help, upload a sample of this file to ftp://upload.libav.org/incoming/ and contact the libav-devel mailing list.
+libavutil/md5.c
+libavutil/mem.c
+QP2LAMBDA
+Value %f for parameter '%s' out of range
+libavutil/opt.c
+default
+Unable to parse option value "%s"
+Invalid option type.
+   %-15s 
+-%-17s 
+<flags>
+<int64>
+<double>
+<float>
+<string>
+<rational>
+<binary>
+%s AVOptions:
+AVOption type %d of option %s not implemented yet
+Missing key or no key/value separator found after key '%s'
+Setting value '%s' for key '%s'
+Key '%s' not found.
+Error setting option %s to value %s.
+ntsc-film
+AliceBlue
+AntiqueWhite
+Aquamarine
+BlanchedAlmond
+BlueViolet
+BurlyWood
+CadetBlue
+Chartreuse
+Chocolate
+CornflowerBlue
+Cornsilk
+Crimson
+DarkBlue
+DarkCyan
+DarkGoldenRod
+DarkGray
+DarkGreen
+DarkKhaki
+DarkMagenta
+DarkOliveGreen
+Darkorange
+DarkOrchid
+DarkRed
+DarkSalmon
+DarkSeaGreen
+DarkSlateBlue
+DarkSlateGray
+DarkTurquoise
+DarkViolet
+DeepPink
+DeepSkyBlue
+DimGray
+DodgerBlue
+FireBrick
+FloralWhite
+ForestGreen
+Fuchsia
+Gainsboro
+GhostWhite
+GoldenRod
+GreenYellow
+HoneyDew
+HotPink
+IndianRed
+Lavender
+LavenderBlush
+LawnGreen
+LemonChiffon
+LightBlue
+LightCoral
+LightCyan
+LightGoldenRodYellow
+LightGrey
+LightGreen
+LightPink
+LightSalmon
+LightSeaGreen
+LightSkyBlue
+LightSlateGray
+LightSteelBlue
+LightYellow
+LimeGreen
+Magenta
+MediumAquaMarine
+MediumBlue
+MediumOrchid
+MediumPurple
+MediumSeaGreen
+MediumSlateBlue
+MediumSpringGreen
+MediumTurquoise
+MediumVioletRed
+MidnightBlue
+MintCream
+MistyRose
+Moccasin
+NavajoWhite
+OldLace
+OliveDrab
+OrangeRed
+PaleGoldenRod
+PaleGreen
+PaleTurquoise
+PaleVioletRed
+PapayaWhip
+PeachPuff
+PowderBlue
+RosyBrown
+RoyalBlue
+SaddleBrown
+SandyBrown
+SeaGreen
+SeaShell
+SkyBlue
+SlateBlue
+SlateGray
+SpringGreen
+SteelBlue
+Thistle
+Turquoise
+WhiteSmoke
+YellowGreen
+%Y-%m-%d
+%H:%M:%S
+bikeshed
+0123456789ABCDEFabcdef
+Invalid 0xRRGGBB[AA] color string: '%s'
+Cannot find color '%s'
+Invalid alpha value specifier '%s' in '%s'
+ (8H8h8
+ 8!8"8#8
+ D#$-$ 
+ D"$%$ 
+ D#$-$ 
+ D"$%$ 
+0 8!8"8
+1$@%@&@
+0$@%@&@
+1$H%H&H
+0$H%H&H
+1$x%x&x
+0$x%x&x
+ 8!8"8#8
+$@%@&@'@
+$H%H&H'H
+$x%x&x'x
+yuv420p
+yuyv422
+yuv422p
+yuv444p
+yuv410p
+yuv411p
+gray8,y8
+yuvj420p
+yuvj422p
+yuvj444p
+xvmcidct
+uyvy422
+uyyvyy411
+bgr4_byte
+rgb4_byte
+gray16be
+gray16le
+yuv440p
+yuvj440p
+yuva420p
+vdpau_h264
+vdpau_mpeg1
+vdpau_mpeg2
+vdpau_wmv3
+vdpau_vc1
+rgb48be
+rgb48le
+rgb565be
+rgb565le
+rgb555be
+rgb555le
+bgr565be
+bgr565le
+bgr555be
+bgr555le
+vaapi_moco
+vaapi_idct
+vaapi_vld
+yuv420p16le
+yuv420p16be
+yuv422p16le
+yuv422p16be
+yuv444p16le
+yuv444p16be
+vdpau_mpeg4
+dxva2_vld
+rgb444le
+rgb444be
+bgr444le
+bgr444be
+bgr48be
+bgr48le
+yuv420p9be
+yuv420p9le
+yuv420p10be
+yuv420p10le
+yuv422p10be
+yuv422p10le
+yuv444p9be
+yuv444p9le
+yuv444p10be
+yuv444p10le
+yuv422p9be
+yuv422p9le
+vda_vld
+gbrp9be
+gbrp9le
+gbrp10be
+gbrp10le
+gbrp16be
+gbrp16le
+yuva422p
+yuva444p
+yuva420p9be
+yuva420p9le
+yuva422p9be
+yuva422p9le
+yuva444p9be
+yuva444p9le
+yuva420p10be
+yuva420p10le
+yuva422p10be
+yuva422p10le
+yuva444p10be
+yuva444p10le
+yuva420p16be
+yuva420p16le
+yuva422p16be
+yuva422p16le
+yuva444p16be
+yuva444p16le
+xyz12le
+xyz12be
+rgba64be
+rgba64le
+bgra64be
+bgra64le
+yvyu422
+name nb_components nb_bits
+%-11s %7d %10d
+name   depth
+%-6s   %2d 
+libavutil/samplefmt.c
+libavutil/sha.c
+libavutil/stereo3d.c
+libavutil/tree.c
+--prefix=/c/buildslave/libav_win32/build/dev/build_x86_64 --toolchain=msvc --enable-shared --disable-static --enable-runtime-cpudetect --disable-all --enable-avcodec --enable-avutil --enable-avresample --enable-avformat --enable-swscale --arch=x86_64 --enable-parser=h264 --enable-decoder='aac,h264,vp8,vp9,gif,vorbis,mp3,flac,alac,pcm*' --enable-demuxer='aac,matroska,gif,ogg,mov,mp3,flac,wav' --enable-hwaccels --enable-dxva2 --disable-decoder=mpeg1video --disable-decoder=mpeg2video --disable-decoder=vc1 --disable-decoder=h263 --enable-libvpx
+libavutil license: LGPL version 2.1 or later
+AuthenticAMD
+GenuineIntel
+GrJoq>@
+?8UUUUU
+?UUUUUU
+2]fQ	?5!
+[*ncd>TQ
+\>$hkDh$h>
+>+>ZQ"v
+?N]TUUU
+?UUUUUU
+>+>ZQ"v
+[*ncd>TQ
+\>$hkDh$h>
+[*ncd>TQ
+\>$hkDh$h>
+?UUUUUU
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+CreateFile2
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+@^8U)zj
+?8bunz8
+?@En[vP
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+_nextafter
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+?UUUUUU
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+SystemFunction036
+c:\buildslave\libav_win32\build\dev\libavutil\libavutil-54.pdb
+libavutil-54.dll
+av_add_q
+av_adler32_update
+av_aes_alloc
+av_aes_crypt
+av_aes_init
+av_aes_size
+av_audio_fifo_alloc
+av_audio_fifo_drain
+av_audio_fifo_free
+av_audio_fifo_read
+av_audio_fifo_realloc
+av_audio_fifo_reset
+av_audio_fifo_size
+av_audio_fifo_space
+av_audio_fifo_write
+av_base64_decode
+av_base64_encode
+av_basename
+av_blowfish_crypt
+av_blowfish_crypt_ecb
+av_blowfish_init
+av_bmg_get
+av_buffer_alloc
+av_buffer_allocz
+av_buffer_create
+av_buffer_default_free
+av_buffer_is_writable
+av_buffer_make_writable
+av_buffer_pool_get
+av_buffer_pool_init
+av_buffer_pool_uninit
+av_buffer_realloc
+av_buffer_ref
+av_buffer_unref
+av_channel_layout_extract_channel
+av_compare_mod
+av_compare_ts
+av_cpu_count
+av_crc_get_table
+av_crc_init
+av_d2str
+av_default_item_name
+av_des_crypt
+av_des_init
+av_des_mac
+av_dict_copy
+av_dict_count
+av_dict_free
+av_dict_get
+av_dict_parse_string
+av_dict_set
+av_dirname
+av_display_matrix_flip
+av_display_rotation_get
+av_display_rotation_set
+av_div_q
+av_downmix_info_update_side_data
+av_evaluate_lls
+av_expr_eval
+av_expr_free
+av_expr_parse
+av_expr_parse_and_eval
+av_fast_malloc
+av_fast_realloc
+av_fifo_alloc
+av_fifo_drain
+av_fifo_free
+av_fifo_generic_read
+av_fifo_generic_write
+av_fifo_realloc2
+av_fifo_reset
+av_fifo_size
+av_fifo_space
+av_file_map
+av_file_unmap
+av_find_info_tag
+av_find_nearest_q_idx
+av_frame_alloc
+av_frame_clone
+av_frame_copy
+av_frame_copy_props
+av_frame_free
+av_frame_get_buffer
+av_frame_get_plane_buffer
+av_frame_get_side_data
+av_frame_is_writable
+av_frame_make_writable
+av_frame_move_ref
+av_frame_new_side_data
+av_frame_ref
+av_frame_remove_side_data
+av_frame_unref
+av_free
+av_freep
+av_get_bits_per_pixel
+av_get_bytes_per_sample
+av_get_channel_layout
+av_get_channel_layout_channel_index
+av_get_channel_layout_nb_channels
+av_get_channel_layout_string
+av_get_channel_name
+av_get_cpu_flags
+av_get_default_channel_layout
+av_get_packed_sample_fmt
+av_get_picture_type_char
+av_get_pix_fmt
+av_get_pix_fmt_name
+av_get_pix_fmt_string
+av_get_planar_sample_fmt
+av_get_random_seed
+av_get_sample_fmt
+av_get_sample_fmt_name
+av_get_sample_fmt_string
+av_get_time_base_q
+av_get_token
+av_gettime
+av_hmac_alloc
+av_hmac_calc
+av_hmac_final
+av_hmac_free
+av_hmac_init
+av_hmac_update
+av_image_alloc
+av_image_check_sar
+av_image_check_size
+av_image_copy
+av_image_copy_plane
+av_image_fill_linesizes
+av_image_fill_max_pixsteps
+av_image_fill_pointers
+av_image_get_linesize
+av_init_lls
+av_isdigit
+av_isgraph
+av_isspace
+av_isxdigit
+av_lfg_init
+av_log2
+av_log2_16bit
+av_log_default_callback
+av_log_get_level
+av_log_set_callback
+av_log_set_flags
+av_log_set_level
+av_lzo1x_decode
+av_malloc_tracked
+av_mallocz_tracked
+av_match_name
+av_md5_alloc
+av_md5_final
+av_md5_init
+av_md5_size
+av_md5_sum
+av_md5_update
+av_memcpy_backptr
+av_mul_q
+av_nearer_q
+av_opt_child_class_next
+av_opt_child_next
+av_opt_eval_double
+av_opt_eval_flags
+av_opt_eval_float
+av_opt_eval_int
+av_opt_eval_int64
+av_opt_eval_q
+av_opt_find
+av_opt_find2
+av_opt_flag_is_set
+av_opt_free
+av_opt_get
+av_opt_get_double
+av_opt_get_int
+av_opt_get_q
+av_opt_next
+av_opt_set
+av_opt_set_bin
+av_opt_set_defaults
+av_opt_set_dict
+av_opt_set_double
+av_opt_set_int
+av_opt_set_q
+av_opt_show2
+av_parse_color
+av_parse_cpu_flags
+av_parse_time
+av_parse_video_rate
+av_parse_video_size
+av_pix_fmt_count_planes
+av_pix_fmt_desc_get
+av_pix_fmt_desc_get_id
+av_pix_fmt_desc_next
+av_pix_fmt_descriptors
+av_pix_fmt_get_chroma_sub_sample
+av_pix_fmt_swap_endianness
+av_rc4_crypt
+av_rc4_init
+av_read_image_line
+av_realloc_array
+av_realloc_tracked
+av_reallocp
+av_reallocp_array
+av_reduce
+av_register_malloc
+av_rescale
+av_rescale_q
+av_rescale_q_rnd
+av_rescale_rnd
+av_reverse
+av_sample_fmt_is_planar
+av_samples_alloc
+av_samples_copy
+av_samples_fill_arrays
+av_samples_get_buffer_size
+av_samples_set_silence
+av_set_cpu_flags_mask
+av_set_options_string
+av_sha_alloc
+av_sha_final
+av_sha_init
+av_sha_size
+av_sha_update
+av_solve_lls
+av_stereo3d_alloc
+av_stereo3d_create_side_data
+av_strcasecmp
+av_strdup
+av_strerror
+av_stristart
+av_stristr
+av_strlcat
+av_strlcatf
+av_strlcpy
+av_strncasecmp
+av_strnstr
+av_strstart
+av_strtod
+av_sub_q
+av_timegm
+av_tree_destroy
+av_tree_enumerate
+av_tree_find
+av_tree_insert
+av_tree_node_alloc
+av_tree_node_size
+av_update_lls
+av_usleep
+av_vlog
+av_write_image_line
+av_xtea_crypt
+av_xtea_init
+avpriv_emms_yasm
+avpriv_float_dsp_init
+avpriv_init_lls
+avpriv_report_missing_feature
+avpriv_request_sample
+avpriv_scalarproduct_float_c
+avpriv_set_systematic_pal2
+avpriv_snprintf
+avpriv_solve_lls
+avpriv_strtod
+avpriv_vsnprintf
+avutil_configuration
+avutil_license
+avutil_version
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+CryptAcquireContextA
+CryptReleaseContext
+CryptGenRandom
+ADVAPI32.dll
+GetCurrentProcess
+GetProcessAffinityMask
+CloseHandle
+MapViewOfFile
+UnmapViewOfFile
+CreateFileMappingA
+MultiByteToWideChar
+GetStdHandle
+GetConsoleScreenBufferInfo
+SetConsoleTextAttribute
+GetSystemTimeAsFileTime
+FileTimeToLocalFileTime
+GetFileInformationByHandle
+GetFileType
+GetLastError
+PeekNamedPipe
+FileTimeToSystemTime
+SetStdHandle
+EnterCriticalSection
+LeaveCriticalSection
+CreateFileW
+GetModuleHandleW
+GetProcAddress
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+GetCurrentThreadId
+EncodePointer
+DecodePointer
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+SetLastError
+GetCurrentThread
+RaiseException
+DeleteCriticalSection
+GetStartupInfoW
+FatalAppExitA
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+CreateEventW
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetTickCount
+CreateSemaphoreW
+RtlUnwindEx
+WriteFile
+GetModuleFileNameW
+ExitProcess
+GetModuleHandleExW
+AreFileApisANSI
+WideCharToMultiByte
+HeapFree
+GetConsoleCP
+GetConsoleMode
+SetEndOfFile
+HeapAlloc
+GetProcessHeap
+ReadFile
+ReadConsoleW
+SetFilePointerEx
+HeapReAlloc
+HeapSize
+HeapQueryInformation
+GetTimeZoneInformation
+GetModuleFileNameA
+QueryPerformanceCounter
+GetCurrentProcessId
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetStringTypeW
+GetLocaleInfoW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+GetDateFormatW
+GetTimeFormatW
+CompareStringW
+LCMapStringW
+OutputDebugStringW
+LoadLibraryExW
+SetConsoleCtrlHandler
+FreeLibrary
+WriteConsoleW
+SetEnvironmentVariableA
+FlushFileBuffers
+KERNEL32.dll

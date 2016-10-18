@@ -1,0 +1,1079 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+B 9A u5
+SUVWATH
+d$xIcD$
+0A\_^][
+SUVWATH
+d$xIcD$
+0A\_^][
+UVWATAUAVAWH
+	L9i t%H
+tHfffff
+A_A^A]A\_^]
+HcT$8McJ
+Lc\$8HcJ
+@SUVWATH
+@A\_^][
+@SUVWATH
+@A\_^][
+USVWATAUAVAWH
+D$@H9D$8t
+D$`H9D$Xt
+A_A^A]A\_^[]
+@VWATAUAVH
+0A^A]A\_^
+HcT$8McJ
+Lc\$8HcJ
+Lc\$8McJ
+VWATAUAVH
+Lc\$XMcJ
+ A^A]A\_^
+VWATAUAVH
+Lc\$XMcJ
+ A^A]A\_^
+Hc|$HMcJ
+UATAUAVAWH
+A_A^A]A\]
+SUVWATH
+0A\_^][
+fffffff
+UATAUAVAWH
+A_A^A]A\]
+@WATAUAVAWH
+0A_A^A]A\_
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+@SUWATAVH
+ A^A\_][
+WATAUAVAWH
+A_A^A]A\_
+VWATAUAVAWH
+D8whtCH
+aH9D$pL
+H)\$pHcG0H
+O`D9w$t
+wiHcG0H
+D8whu#HcO,H9L$p|
+(A_A^A]A\_^
+SUVWATH
+0A\_^][
+HcT$8McJ
+Lc\$8HcJ
+USVWATAUH
+A]A\_^[]
+USVWATAUAVAWH
+d$pIcD$
+D$`H9D$Xt
+d$HIcD$
+A_A^A]A\_^[]
+t$ WATAUAVAWH
+ A_A^A]A\_
+p WATAUH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+fffffff
+ATAUAVH
+ A^A]A\
+SVWATAUAVAWH
+0A_A^A]A\_^[
+u"E9Q t
+B(I9A(u
+u5E9Q t
+E9A u#I
+WATAUAVAWH
+ A_A^A]A\_
+@SVWATAUAVAWH
+L!l$HL!l$@
+D$PL9oXt
+A_A^A]A\_^[
+ATAUAVH
+0A^A]A\
+|$ ATAUAVH
+VWATAUAVH
+A^A]A\_^
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+E9,$~T3
+A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+ATAUAVH
+@A^A]A\
+t$ WATAUH
+@SUVWATAUAVH
+zux!l$ E3
+A^A]A\_^][
+WATAUAVAWH
+@A_A^A]A\_
+x ATAUAWH
+UATAUAVAWH
+gfffffffH
+A_A^A]A\]
+@SUVWATH
+ATAUAVH
+x ATAUAVH
+< tG<	tC
+ A^A]A\
+s\HcL$HH
+UVWATAUH
+D$&8\$&t-8X
+@A]A\_^]
+D8\$8t#H
+!D$8!D$HM
+tO<_t<<$t8<<t4<>t0<-t,<a|
+<z~$<A|
+tb<A|M<P
+<1~1<3~$<4t9<5t
+D8\$(u|H
+M94$tiA
+|$ UATAUAVAWH
+A_A^A]A\]
+/L9\$ t
+UVWATAUAVAWH
+A_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UWATAUAVH
+M94$t|A
+uQI91tLH
+A^A]A\_]
+WATAUAVAWH
+0A_A^A]A\_
+@SUVWATAUAVH
+PA^A]A\_^][
+@UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+@UATAUAVAWH
+!t$(H!t$ A
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+L$ SUVWH
+WATAUAVAWH
+0A_A^A]A\_
+@SUVWATAUAVAWH
+?CuND8g
+A_A^A]A\_^][
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+H9L$Xt'H
+@SUVWATAUAVH
+A^A]A\_^][
+!t$(H!t$ H
+|$ ATAUAVH
+0A^A]A\
+\$ UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+|$ UATAUAVAWH
+0A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+p WATAUAVAWH
+A_A^A]A\_
+s WATAUAVAWH
+~/8\$vt)H
+9t$P~98\$vt3H
+A_A^A]A\_
+x ATAUAVH
+ A^A]A\
+7;|$0t,
+x ATAUAWH
+H(H9J(u
+QAudio::Error
+QAudio::State
+QAudio::Mode
+audio/pcm
+2stateChanged(QAudio::State)
+2notify()
+com.nokia.qt.QAudioEngineFactoryInterface
+using null deviceinfo, none available
+using null input device, none available
+using null output device, none available
+builtin
+default
+QAudioOutput: Memory allocation error
+1feedback()
+deviceReady
+qQAudioOutput: open error
+QAudioOutput: open error, frequency out of range (%d).
+QAudioOutput: open error, invalid sample size (%d).
+QAudioOutput: open error, invalid number of channels (%d).
+QAudioOutput: open error, invalid format.
+QAudioInput: Can't prepare block %d
+QAudioInput: Memory allocation error
+QAudioInput: failed to setup block %d,err=%d
+QAudioInput: failed to start audio input
+QAudioInput: failed to allocate blocks. open failed
+QAudioInput: failed to open audio device
+QAudioInput: open error, frequency out of range (%d).
+QAudioInput: open error, invalid sample size (%d).
+QAudioInput: open error, invalid number of channels (%d).
+QAudioInput: open error, invalid format.
+QAudioInput: failed to prepare block %d,err=%d
+QAudioInput: IOError, can't write to QIODevice
+QAudioInput: IOError
+>QAbstractVideoBuffer::HandleType
+QVideoFrame::PixelFormat
+QVideoSurfaceFormat::Direction
+QVideoSurfaceFormat::YCbCrColorSpace
+yCbCrColorSpace
+sizeHint
+pixelAspectRatio
+frameRate
+scanLineDirection
+viewport
+frameHeight
+frameWidth
+frameSize
+pixelFormat
+handleType
+, pixelAspectRatio=
+, viewport=
+QVideoSurfaceFormat(
+UserType(%1)
+Format_Y16
+Format_Y8
+Format_IMC4
+Format_IMC3
+Format_IMC2
+Format_IMC1
+Format_NV21
+Format_NV12
+Format_YUYV
+Format_UYVY
+Format_YV12
+Format_YUV420P
+Format_YUV444
+Format_AYUV444_Premultiplied
+Format_AYUV444
+Format_BGRA5658_Premultiplied
+Format_BGR555
+Format_BGR565
+Format_BGR24
+Format_BGR32
+Format_BGRA32_Premultiplied
+Format_BGRA32
+Format_ARGB8565_Premultiplied
+Format_RGB555
+Format_RGB565
+Format_RGB24
+Format_RGB32
+Format_ARGB32_Premultiplied
+Format_ARGB32
+Format_Invalid
+QAudioInput
+stateChanged(QAudio::State)
+notify()
+QAudioOutput
+stateChanged(QAudio::State)
+notify()
+QAudioEnginePlugin
+com.trolltech.Qt.QFactoryInterface
+QAudioEngineFactoryInterface
+QAbstractAudioDeviceInfo
+QAbstractAudioOutput
+stateChanged(QAudio::State)
+notify()
+QAbstractAudioInput
+stateChanged(QAudio::State)
+notify()
+QAudioInputPrivate
+processMore()
+feedback()
+deviceReady()
+InputPrivate
+QAudioOutputPrivate
+feedback()
+deviceReady()
+OutputPrivate
+QAudioDeviceInfoInternal
+QAbstractVideoSurface
+activeChanged(bool)
+surfaceFormatChanged(QVideoSurfaceFormat)
+supportedFormatsChanged()
+Qt_GetCustomAllocators
+tier0.dll
+bad exception
+CorExitProcess
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+February
+January
+Saturday
+Thursday
+Wednesday
+Tuesday
+Unknown exception
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+`non-type-template-parameter
+unsigned 
+<ellipsis>
+,<ellipsis>
+ throw(
+`template-parameter
+cli::pin_ptr<
+cli::array<
+`anonymous namespace'
+generic-type-
+template-parameter-
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+extern "C" 
+[thunk]:
+public: 
+protected: 
+private: 
+virtual 
+static 
+`template static data member destructor helper'
+`template static data member constructor helper'
+`local static destructor helper'
+`adjustor{
+`vtordisp{
+`vtordispex{
+volatile 
+volatile
+ volatile
+signed 
+<unknown>
+wchar_t
+UNKNOWN
+__int128
+__int32
+__int64
+__int16
+std::nullptr_t
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+SystemFunction036
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+britain
+america
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+Norwegian-Nynorsk
+C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\lib\QtMultimedia4.pdb
+waveInGetDevCapsW
+waveInGetNumDevs
+waveOutGetDevCapsW
+waveOutGetNumDevs
+waveOutUnprepareHeader
+waveOutClose
+waveOutReset
+waveOutRestart
+waveOutPause
+waveOutOpen
+waveOutWrite
+waveOutPrepareHeader
+waveInPrepareHeader
+waveInUnprepareHeader
+waveInClose
+waveInReset
+waveInStart
+waveInAddBuffer
+waveInOpen
+WINMM.dll
+??0QImage@@QEAA@XZ
+??1QImage@@UEAA@XZ
+??4QImage@@QEAAAEAV0@AEBV0@@Z
+?bytesPerLine@QImage@@QEBAHXZ
+?byteCount@QImage@@QEBAHXZ
+?bits@QImage@@QEAAPEAEXZ
+/?size@QImage@@QEBA?AVQSize@@XZ
+?format@QImage@@QEBA?AW4Format@1@XZ
+QtGui4.dll
+?registerType@QMetaType@@SAHPEBDP6AXPEAX@ZP6APEAXPEBX@Z@Z
+?registerTypedef@QMetaType@@SAHPEBDH@Z
+?shared_null@QString@@0UData@1@A
+??0QString@@QEAA@AEBV0@@Z
+?free@QString@@CAXPEAUData@1@@Z
+??8QString@@QEBA_NAEBV0@@Z
+??4QString@@QEAAAEAV0@AEBV0@@Z
+?tr@QMetaObject@@QEBA?AVQString@@PEBD0@Z
+?trUtf8@QMetaObject@@QEBA?AVQString@@PEBD0@Z
+?tr@QMetaObject@@QEBA?AVQString@@PEBD0H@Z
+?trUtf8@QMetaObject@@QEBA?AVQString@@PEBD0H@Z
+??0QObject@@QEAA@PEAV0@@Z
+?event@QObject@@UEAA_NPEAVQEvent@@@Z
+?eventFilter@QObject@@UEAA_NPEAV1@PEAVQEvent@@@Z
+?timerEvent@QObject@@MEAAXPEAVQTimerEvent@@@Z
+?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
+?customEvent@QObject@@MEAAXPEAVQEvent@@@Z
+?connectNotify@QObject@@MEAAXPEBD@Z
+?disconnectNotify@QObject@@MEAAXPEBD@Z
+??1QObject@@UEAA@XZ
+?shared_null@QByteArray@@0UData@1@A
+??1QByteArray@@QEAA@XZ
+??1QString@@QEAA@XZ
+?qFree@@YAXPEAX@Z
+?shared_null@QListData@@2UData@1@A
+?shared_null@QMapData@@2U1@A
+?continueFreeData@QMapData@@QEAAXH@Z
+?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
+?createData@QMapData@@SAPEAU1@H@Z
+?detach@QListData@@QEAAPEAUData@1@H@Z
+?fromLatin1_helper@QString@@CAPEAUData@1@PEBDH@Z
+?connect@QObject@@SA_NPEBV1@PEBD01W4ConnectionType@Qt@@@Z
+??_7QFactoryInterface@@6B@
+??1QDebug@@QEAA@XZ
+??6QDebug@@QEAAAEAV0@PEBD@Z
+?qWarning@@YA?AVQDebug@@XZ
+?detach_grow@QListData@@QEAAPEAUData@1@PEAHH@Z
+??0QFactoryLoader@@QEAA@PEBDAEBVQString@@W4CaseSensitivity@Qt@@@Z
+?metaObject@QFactoryLoader@@UEBAPEBUQMetaObject@@XZ
+?qt_metacast@QFactoryLoader@@UEAAPEAXPEBD@Z
+?qt_metacall@QFactoryLoader@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+??1QFactoryLoader@@UEAA@XZ
+	?instance@QFactoryLoader@@QEBAPEAVQObject@@AEBVQString@@@Z
+??8QString@@QEBA_NAEBVQLatin1String@@@Z
+?append@QListData@@QEAAPEAPEAXXZ
+?keys@QFactoryLoader@@QEBA?AVQStringList@@XZ
+??0QByteArray@@QEAA@PEBD@Z
+?prepend@QListData@@QEAAPEAPEAXXZ
+?compare@QString@@QEBAHAEBV1@@Z
+??4QString@@QEAAAEAV0@$$QEAV0@@Z
+??0QString@@QEAA@PEBVQChar@@@Z
+?compare@QString@@QEBAHAEBVQLatin1String@@W4CaseSensitivity@Qt@@@Z
+?toUtf8@QString@@QEBA?AVQByteArray@@XZ
+	?fromUtf8@QString@@SA?AV1@PEBDH@Z
+??1QMutex@@QEAA@XZ
+??4QByteArray@@QEAAAEAV0@AEBV0@@Z
+??0QMutex@@QEAA@W4RecursionMode@0@@Z
+?qWarning@@YAXPEBDZZ
+?singleShot@QTimer@@SAXHPEAVQObject@@PEBD@Z
+	?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z
+?elapsed@QTime@@QEBAHXZ
+??1QIODevice@@UEAA@XZ
+?isSequential@QIODevice@@UEBA_NXZ
+?open@QIODevice@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?close@QIODevice@@UEAAXXZ
+?pos@QIODevice@@UEBA_JXZ
+?size@QIODevice@@UEBA_JXZ
+?seek@QIODevice@@UEAA_N_J@Z
+?atEnd@QIODevice@@UEBA_NXZ
+?reset@QIODevice@@UEAA_NXZ
+?bytesAvailable@QIODevice@@UEBA_JXZ
+?bytesToWrite@QIODevice@@UEBA_JXZ
+?canReadLine@QIODevice@@UEBA_NXZ
+?waitForReadyRead@QIODevice@@UEAA_NH@Z
+?waitForBytesWritten@QIODevice@@UEAA_NH@Z
+?readLineData@QIODevice@@MEAA_JPEAD_J@Z
+?unlock@QMutex@@QEAAXXZ
+?lock@QMutex@@QEAAXXZ
+?unlockInline@QMutex@@QEAAXXZ
+??0QMutexLocker@@QEAA@PEAVQMutex@@@Z
+?restart@QTime@@QEAAHXZ
+?detach@QByteArray@@QEAAXXZ
+?resize@QByteArray@@QEAAXH@Z
+?read@QIODevice@@QEAA_JPEAD_J@Z
+?cast@QMetaObject@@QEBAPEAVQObject@@PEAV2@@Z
+??0QIODevice@@QEAA@XZ
+?readyRead@QIODevice@@IEAAXXZ
+?write@QIODevice@@QEAA_JPEBD_J@Z
+??0QVariant@@QEAA@XZ
+??1QObjectPrivate@@UEAA@XZ
+??0QObjectPrivate@@QEAA@H@Z
+??0QObject@@IEAA@AEAVQObjectPrivate@@PEAV0@@Z
+??1QVariant@@QEAA@XZ
+??0QVariant@@QEAA@AEBV0@@Z
+?qstrcmp@@YAHAEBVQByteArray@@PEBD@Z
+G	?handler@QVariant@@1PEBUHandler@1@EB
+?canConvert@QVariant@@QEBA_NW4Type@1@@Z
+?constData@QVariant@@QEBAPEBXXZ
+?userType@QVariant@@QEBAHXZ
+??0QVariant@@QEAA@HPEBXI@Z
+?cmp@QVariant@@IEBA_NAEBV1@@Z
+?remove@QListData@@QEAAXH@Z
+?append2@QListData@@QEAAPEAPEAXAEBU1@@Z
+??0QVariant@@QEAA@AEBVQRect@@@Z
+??0QVariant@@QEAA@H@Z
+??0QVariant@@QEAA@AEBVQSize@@@Z
+?qstrcmp@@YAHPEBD0@Z
+??6QTextStream@@QEAAAEAV0@D@Z
+??6@YA?AVQDebug@@V0@AEBVQVariant@@@Z
+??6@YA?AVQDebug@@V0@AEBVQRect@@@Z
+??6@YA?AVQDebug@@V0@AEBVQSize@@@Z
+??6QDebug@@QEAAAEAV0@AEBVQString@@@Z
+?arg@QString@@QEBA?AV1@HHHAEBVQChar@@@Z
+??0QChar@@QEAA@UQLatin1Char@@@Z
+??4QString@@QEAAAEAV0@AEBVQLatin1String@@@Z
+??4QVariant@@QEAAAEAV0@AEBV0@@Z
+?isNull@QVariant@@QEBA_NXZ
+?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
+?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?staticMetaObject@QObject@@2UQMetaObject@@B
+?qt_metacast@QIODevice@@UEAAPEAXPEBD@Z
+?qt_metacall@QIODevice@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?staticMetaObject@QIODevice@@2UQMetaObject@@B
+QtCore4.dll
+HeapAlloc
+GetProcessHeap
+HeapFree
+HeapReAlloc
+GetProcAddress
+GetModuleHandleA
+RtlLookupFunctionEntry
+RtlUnwindEx
+DecodePointer
+EncodePointer
+GetCurrentThreadId
+FlsSetValue
+GetCommandLineA
+FlsGetValue
+FlsFree
+SetLastError
+GetLastError
+GetCurrentThread
+FlsAlloc
+RaiseException
+RtlPcToFileHeader
+WriteFile
+GetStdHandle
+GetModuleFileNameW
+GetLocaleInfoW
+HeapSize
+GetModuleHandleW
+ExitProcess
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+RtlVirtualUnwind
+RtlCaptureContext
+SetHandleCount
+InitializeCriticalSectionAndSpinCount
+GetFileType
+GetStartupInfoW
+DeleteCriticalSection
+GetModuleFileNameA
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+HeapSetInformation
+GetVersion
+HeapCreate
+HeapDestroy
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+LeaveCriticalSection
+FatalAppExitA
+EnterCriticalSection
+GetCPInfo
+GetOEMCP
+IsValidCodePage
+SetConsoleCtrlHandler
+LoadLibraryW
+FreeLibrary
+LCMapStringW
+MultiByteToWideChar
+GetStringTypeW
+GetUserDefaultLCID
+GetLocaleInfoA
+EnumSystemLocalesA
+IsValidLocale
+KERNEL32.dll
+QtMultimedia4.dll
+??0QAbstractAudioDeviceInfo@@QEAA@XZ
+??0QAbstractAudioInput@@QEAA@XZ
+??0QAbstractAudioOutput@@QEAA@XZ
+??0QAbstractVideoBuffer@@IEAA@AEAVQAbstractVideoBufferPrivate@@W4HandleType@0@@Z
+??0QAbstractVideoBuffer@@QEAA@W4HandleType@0@@Z
+??0QAbstractVideoSurface@@IEAA@AEAVQAbstractVideoSurfacePrivate@@PEAVQObject@@@Z
+??0QAbstractVideoSurface@@QEAA@PEAVQObject@@@Z
+??0QAudioDeviceInfo@@AEAA@AEBVQString@@AEBVQByteArray@@W4Mode@QAudio@@@Z
+??0QAudioDeviceInfo@@QEAA@AEBV0@@Z
+??0QAudioDeviceInfo@@QEAA@XZ
+??0QAudioEngineFactoryInterface@@QEAA@AEBU0@@Z
+??0QAudioEngineFactoryInterface@@QEAA@XZ
+??0QAudioEnginePlugin@@QEAA@PEAVQObject@@@Z
+??0QAudioFormat@@QEAA@AEBV0@@Z
+??0QAudioFormat@@QEAA@XZ
+??0QAudioInput@@QEAA@AEBVQAudioDeviceInfo@@AEBVQAudioFormat@@PEAVQObject@@@Z
+??0QAudioInput@@QEAA@AEBVQAudioFormat@@PEAVQObject@@@Z
+??0QAudioOutput@@QEAA@AEBVQAudioDeviceInfo@@AEBVQAudioFormat@@PEAVQObject@@@Z
+??0QAudioOutput@@QEAA@AEBVQAudioFormat@@PEAVQObject@@@Z
+??0QImageVideoBuffer@@QEAA@AEBVQImage@@@Z
+??0QMemoryVideoBuffer@@QEAA@AEBVQByteArray@@H@Z
+??0QVideoFrame@@QEAA@AEBV0@@Z
+??0QVideoFrame@@QEAA@AEBVQImage@@@Z
+??0QVideoFrame@@QEAA@HAEBVQSize@@HW4PixelFormat@0@@Z
+??0QVideoFrame@@QEAA@PEAVQAbstractVideoBuffer@@AEBVQSize@@W4PixelFormat@0@@Z
+??0QVideoFrame@@QEAA@XZ
+??0QVideoSurfaceFormat@@QEAA@AEBV0@@Z
+??0QVideoSurfaceFormat@@QEAA@AEBVQSize@@W4PixelFormat@QVideoFrame@@W4HandleType@QAbstractVideoBuffer@@@Z
+??0QVideoSurfaceFormat@@QEAA@XZ
+??1QAbstractAudioDeviceInfo@@UEAA@XZ
+??1QAbstractAudioInput@@UEAA@XZ
+??1QAbstractAudioOutput@@UEAA@XZ
+??1QAbstractVideoBuffer@@UEAA@XZ
+??1QAbstractVideoSurface@@UEAA@XZ
+??1QAudioDeviceInfo@@QEAA@XZ
+??1QAudioEngineFactoryInterface@@UEAA@XZ
+??1QAudioEnginePlugin@@UEAA@XZ
+??1QAudioFormat@@QEAA@XZ
+??1QAudioInput@@UEAA@XZ
+??1QAudioOutput@@UEAA@XZ
+??1QImageVideoBuffer@@UEAA@XZ
+??1QMemoryVideoBuffer@@UEAA@XZ
+??1QVideoFrame@@QEAA@XZ
+??1QVideoSurfaceFormat@@QEAA@XZ
+??4QAudioDeviceInfo@@QEAAAEAV0@AEBV0@@Z
+??4QAudioEngineFactoryInterface@@QEAAAEAU0@AEBU0@@Z
+??4QAudioFormat@@QEAAAEAV0@AEBV0@@Z
+??4QVideoFrame@@QEAAAEAV0@AEBV0@@Z
+??4QVideoSurfaceFormat@@QEAAAEAV0@AEBV0@@Z
+??6@YA?AVQDebug@@V0@AEBVQVideoSurfaceFormat@@@Z
+??8QAudioFormat@@QEBA_NAEBV0@@Z
+??8QVideoSurfaceFormat@@QEBA_NAEBV0@@Z
+??9QAudioFormat@@QEBA_NAEBV0@@Z
+??9QVideoSurfaceFormat@@QEBA_NAEBV0@@Z
+??_7QAbstractAudioDeviceInfo@@6B@
+??_7QAbstractAudioInput@@6B@
+??_7QAbstractAudioOutput@@6B@
+??_7QAbstractVideoBuffer@@6B@
+??_7QAbstractVideoSurface@@6B@
+??_7QAudioEngineFactoryInterface@@6B@
+??_7QAudioEnginePlugin@@6BQAudioEngineFactoryInterface@@@
+??_7QAudioEnginePlugin@@6BQObject@@@
+??_7QAudioInput@@6B@
+??_7QAudioOutput@@6B@
+??_7QImageVideoBuffer@@6B@
+??_7QMemoryVideoBuffer@@6B@
+??_FQAbstractVideoSurface@@QEAAXXZ
+??_FQAudioEnginePlugin@@QEAAXXZ
+??_FQAudioInput@@QEAAXXZ
+??_FQAudioOutput@@QEAAXXZ
+?activeChanged@QAbstractVideoSurface@@IEAAX_N@Z
+?availableDevices@QAudioDeviceInfo@@SA?AV?$QList@VQAudioDeviceInfo@@@@W4Mode@QAudio@@@Z
+?bits@QVideoFrame@@QEAAPEAEXZ
+?bits@QVideoFrame@@QEBAPEBEXZ
+?bufferSize@QAudioInput@@QEBAHXZ
+?bufferSize@QAudioOutput@@QEBAHXZ
+?byteOrder@QAudioFormat@@QEBA?AW4Endian@1@XZ
+?bytesFree@QAudioOutput@@QEBAHXZ
+?bytesPerLine@QVideoFrame@@QEBAHXZ
+?bytesReady@QAudioInput@@QEBAHXZ
+?channelCount@QAudioFormat@@QEBAHXZ
+?channels@QAudioFormat@@QEBAHXZ
+?codec@QAudioFormat@@QEBA?AVQString@@XZ
+?d_func@QAbstractVideoBuffer@@AEAAPEAVQAbstractVideoBufferPrivate@@XZ
+?d_func@QAbstractVideoBuffer@@AEBAPEBVQAbstractVideoBufferPrivate@@XZ
+?d_func@QAbstractVideoSurface@@AEAAPEAVQAbstractVideoSurfacePrivate@@XZ
+?d_func@QAbstractVideoSurface@@AEBAPEBVQAbstractVideoSurfacePrivate@@XZ
+?d_func@QImageVideoBuffer@@AEAAPEAVQImageVideoBufferPrivate@@XZ
+?d_func@QImageVideoBuffer@@AEBAPEBVQImageVideoBufferPrivate@@XZ
+?d_func@QMemoryVideoBuffer@@AEAAPEAVQMemoryVideoBufferPrivate@@XZ
+?d_func@QMemoryVideoBuffer@@AEBAPEBVQMemoryVideoBufferPrivate@@XZ
+?defaultInputDevice@QAudioDeviceInfo@@SA?AV1@XZ
+?defaultOutputDevice@QAudioDeviceInfo@@SA?AV1@XZ
+?deviceName@QAudioDeviceInfo@@QEBA?AVQString@@XZ
+?elapsedUSecs@QAudioInput@@QEBA_JXZ
+?elapsedUSecs@QAudioOutput@@QEBA_JXZ
+?endTime@QVideoFrame@@QEBA_JXZ
+?error@QAbstractVideoSurface@@QEBA?AW4Error@1@XZ
+?error@QAudioInput@@QEBA?AW4Error@QAudio@@XZ
+?error@QAudioOutput@@QEBA?AW4Error@QAudio@@XZ
+?fieldType@QVideoFrame@@QEBA?AW4FieldType@1@XZ
+?format@QAudioInput@@QEBA?AVQAudioFormat@@XZ
+?format@QAudioOutput@@QEBA?AVQAudioFormat@@XZ
+?frameHeight@QVideoSurfaceFormat@@QEBAHXZ
+?frameRate@QVideoSurfaceFormat@@QEBANXZ
+?frameSize@QVideoSurfaceFormat@@QEBA?AVQSize@@XZ
+?frameWidth@QVideoSurfaceFormat@@QEBAHXZ
+?frequency@QAudioFormat@@QEBAHXZ
+?handle@QAbstractVideoBuffer@@UEBA?AVQVariant@@XZ
+?handle@QAudioDeviceInfo@@AEBA?AVQByteArray@@XZ
+?handle@QVideoFrame@@QEBA?AVQVariant@@XZ
+?handleType@QAbstractVideoBuffer@@QEBA?AW4HandleType@1@XZ
+?handleType@QVideoFrame@@QEBA?AW4HandleType@QAbstractVideoBuffer@@XZ
+?handleType@QVideoSurfaceFormat@@QEBA?AW4HandleType@QAbstractVideoBuffer@@XZ
+?height@QVideoFrame@@QEBAHXZ
+?imageFormatFromPixelFormat@QVideoFrame@@SA?AW4Format@QImage@@W4PixelFormat@1@@Z
+?isActive@QAbstractVideoSurface@@QEBA_NXZ
+?isFormatSupported@QAbstractVideoSurface@@UEBA_NAEBVQVideoSurfaceFormat@@@Z
+?isFormatSupported@QAudioDeviceInfo@@QEBA_NAEBVQAudioFormat@@@Z
+?isMapped@QVideoFrame@@QEBA_NXZ
+?isNull@QAudioDeviceInfo@@QEBA_NXZ
+?isReadable@QVideoFrame@@QEBA_NXZ
+?isValid@QAudioFormat@@QEBA_NXZ
+?isValid@QVideoFrame@@QEBA_NXZ
+?isValid@QVideoSurfaceFormat@@QEBA_NXZ
+?isWritable@QVideoFrame@@QEBA_NXZ
+?map@QImageVideoBuffer@@UEAAPEAEW4MapMode@QAbstractVideoBuffer@@PEAH1@Z
+?map@QMemoryVideoBuffer@@UEAAPEAEW4MapMode@QAbstractVideoBuffer@@PEAH1@Z
+?map@QVideoFrame@@QEAA_NW4MapMode@QAbstractVideoBuffer@@@Z
+?mapMode@QImageVideoBuffer@@UEBA?AW4MapMode@QAbstractVideoBuffer@@XZ
+?mapMode@QMemoryVideoBuffer@@UEBA?AW4MapMode@QAbstractVideoBuffer@@XZ
+?mapMode@QVideoFrame@@QEBA?AW4MapMode@QAbstractVideoBuffer@@XZ
+?mappedBytes@QVideoFrame@@QEBAHXZ
+?metaObject@QAbstractAudioDeviceInfo@@UEBAPEBUQMetaObject@@XZ
+?metaObject@QAbstractAudioInput@@UEBAPEBUQMetaObject@@XZ
+?metaObject@QAbstractAudioOutput@@UEBAPEBUQMetaObject@@XZ
+?metaObject@QAbstractVideoSurface@@UEBAPEBUQMetaObject@@XZ
+?metaObject@QAudioEnginePlugin@@UEBAPEBUQMetaObject@@XZ
+?metaObject@QAudioInput@@UEBAPEBUQMetaObject@@XZ
+?metaObject@QAudioOutput@@UEBAPEBUQMetaObject@@XZ
+?mode@QAudioDeviceInfo@@AEBA?AW4Mode@QAudio@@XZ
+?nearestFormat@QAbstractVideoSurface@@UEBA?AVQVideoSurfaceFormat@@AEBV2@@Z
+?nearestFormat@QAudioDeviceInfo@@QEBA?AVQAudioFormat@@AEBV2@@Z
+?notify@QAbstractAudioInput@@IEAAXXZ
+?notify@QAbstractAudioOutput@@IEAAXXZ
+?notify@QAudioInput@@IEAAXXZ
+?notify@QAudioOutput@@IEAAXXZ
+?notifyInterval@QAudioInput@@QEBAHXZ
+?notifyInterval@QAudioOutput@@QEBAHXZ
+?periodSize@QAudioInput@@QEBAHXZ
+?periodSize@QAudioOutput@@QEBAHXZ
+?pixelAspectRatio@QVideoSurfaceFormat@@QEBA?AVQSize@@XZ
+?pixelFormat@QVideoFrame@@QEBA?AW4PixelFormat@1@XZ
+?pixelFormat@QVideoSurfaceFormat@@QEBA?AW4PixelFormat@QVideoFrame@@XZ
+?pixelFormatFromImageFormat@QVideoFrame@@SA?AW4PixelFormat@1@W4Format@QImage@@@Z
+?preferredFormat@QAudioDeviceInfo@@QEBA?AVQAudioFormat@@XZ
+?processedUSecs@QAudioInput@@QEBA_JXZ
+?processedUSecs@QAudioOutput@@QEBA_JXZ
+?property@QVideoSurfaceFormat@@QEBA?AVQVariant@@PEBD@Z
+?propertyNames@QVideoSurfaceFormat@@QEBA?AV?$QList@VQByteArray@@@@XZ
+?qt_metacall@QAbstractAudioDeviceInfo@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacall@QAbstractAudioInput@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacall@QAbstractAudioOutput@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacall@QAbstractVideoSurface@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacall@QAudioEnginePlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacall@QAudioInput@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacall@QAudioOutput@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacast@QAbstractAudioDeviceInfo@@UEAAPEAXPEBD@Z
+?qt_metacast@QAbstractAudioInput@@UEAAPEAXPEBD@Z
+?qt_metacast@QAbstractAudioOutput@@UEAAPEAXPEBD@Z
+?qt_metacast@QAbstractVideoSurface@@UEAAPEAXPEBD@Z
+?qt_metacast@QAudioEnginePlugin@@UEAAPEAXPEBD@Z
+?qt_metacast@QAudioInput@@UEAAPEAXPEBD@Z
+?qt_metacast@QAudioOutput@@UEAAPEAXPEBD@Z
+?qt_static_metacall@QAbstractAudioDeviceInfo@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?qt_static_metacall@QAbstractAudioInput@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?qt_static_metacall@QAbstractAudioOutput@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?qt_static_metacall@QAbstractVideoSurface@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?qt_static_metacall@QAudioEnginePlugin@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?qt_static_metacall@QAudioInput@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?qt_static_metacall@QAudioOutput@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?realm@QAudioDeviceInfo@@AEBA?AVQString@@XZ
+?reset@QAudioInput@@QEAAXXZ
+?reset@QAudioOutput@@QEAAXXZ
+?resume@QAudioInput@@QEAAXXZ
+?resume@QAudioOutput@@QEAAXXZ
+?sampleRate@QAudioFormat@@QEBAHXZ
+?sampleSize@QAudioFormat@@QEBAHXZ
+?sampleType@QAudioFormat@@QEBA?AW4SampleType@1@XZ
+?scanLineDirection@QVideoSurfaceFormat@@QEBA?AW4Direction@1@XZ
+?setBufferSize@QAudioInput@@QEAAXH@Z
+?setBufferSize@QAudioOutput@@QEAAXH@Z
+?setByteOrder@QAudioFormat@@QEAAXW4Endian@1@@Z
+?setChannelCount@QAudioFormat@@QEAAXH@Z
+?setChannels@QAudioFormat@@QEAAXH@Z
+?setCodec@QAudioFormat@@QEAAXAEBVQString@@@Z
+?setEndTime@QVideoFrame@@QEAAX_J@Z
+?setError@QAbstractVideoSurface@@IEAAXW4Error@1@@Z
+?setFieldType@QVideoFrame@@QEAAXW4FieldType@1@@Z
+?setFrameRate@QVideoSurfaceFormat@@QEAAXN@Z
+?setFrameSize@QVideoSurfaceFormat@@QEAAXAEBVQSize@@@Z
+?setFrameSize@QVideoSurfaceFormat@@QEAAXHH@Z
+?setFrequency@QAudioFormat@@QEAAXH@Z
+?setNotifyInterval@QAudioInput@@QEAAXH@Z
+?setNotifyInterval@QAudioOutput@@QEAAXH@Z
+?setPixelAspectRatio@QVideoSurfaceFormat@@QEAAXAEBVQSize@@@Z
+?setPixelAspectRatio@QVideoSurfaceFormat@@QEAAXHH@Z
+?setProperty@QVideoSurfaceFormat@@QEAAXPEBDAEBVQVariant@@@Z
+?setSampleRate@QAudioFormat@@QEAAXH@Z
+?setSampleSize@QAudioFormat@@QEAAXH@Z
+?setSampleType@QAudioFormat@@QEAAXW4SampleType@1@@Z
+?setScanLineDirection@QVideoSurfaceFormat@@QEAAXW4Direction@1@@Z
+?setStartTime@QVideoFrame@@QEAAX_J@Z
+?setViewport@QVideoSurfaceFormat@@QEAAXAEBVQRect@@@Z
+?setYCbCrColorSpace@QVideoSurfaceFormat@@QEAAXW4YCbCrColorSpace@1@@Z
+?size@QVideoFrame@@QEBA?AVQSize@@XZ
+?sizeHint@QVideoSurfaceFormat@@QEBA?AVQSize@@XZ
+?start@QAbstractVideoSurface@@UEAA_NAEBVQVideoSurfaceFormat@@@Z
+?start@QAudioInput@@QEAAPEAVQIODevice@@XZ
+?start@QAudioInput@@QEAAXPEAVQIODevice@@@Z
+?start@QAudioOutput@@QEAAPEAVQIODevice@@XZ
+?start@QAudioOutput@@QEAAXPEAVQIODevice@@@Z
+?startTime@QVideoFrame@@QEBA_JXZ
+?state@QAudioInput@@QEBA?AW4State@QAudio@@XZ
+?state@QAudioOutput@@QEBA?AW4State@QAudio@@XZ
+?stateChanged@QAbstractAudioInput@@IEAAXW4State@QAudio@@@Z
+?stateChanged@QAbstractAudioOutput@@IEAAXW4State@QAudio@@@Z
+?stateChanged@QAudioInput@@IEAAXW4State@QAudio@@@Z
+?stateChanged@QAudioOutput@@IEAAXW4State@QAudio@@@Z
+?staticMetaObject@QAbstractAudioDeviceInfo@@2UQMetaObject@@B
+?staticMetaObject@QAbstractAudioInput@@2UQMetaObject@@B
+?staticMetaObject@QAbstractAudioOutput@@2UQMetaObject@@B
+?staticMetaObject@QAbstractVideoSurface@@2UQMetaObject@@B
+?staticMetaObject@QAudioEnginePlugin@@2UQMetaObject@@B
+?staticMetaObject@QAudioInput@@2UQMetaObject@@B
+?staticMetaObject@QAudioOutput@@2UQMetaObject@@B
+?staticMetaObjectExtraData@QAbstractAudioDeviceInfo@@0UQMetaObjectExtraData@@B
+?staticMetaObjectExtraData@QAbstractAudioInput@@0UQMetaObjectExtraData@@B
+?staticMetaObjectExtraData@QAbstractAudioOutput@@0UQMetaObjectExtraData@@B
+?staticMetaObjectExtraData@QAbstractVideoSurface@@0UQMetaObjectExtraData@@B
+?staticMetaObjectExtraData@QAudioEnginePlugin@@0UQMetaObjectExtraData@@B
+?staticMetaObjectExtraData@QAudioInput@@0UQMetaObjectExtraData@@B
+?staticMetaObjectExtraData@QAudioOutput@@0UQMetaObjectExtraData@@B
+?stop@QAbstractVideoSurface@@UEAAXXZ
+?stop@QAudioInput@@QEAAXXZ
+?stop@QAudioOutput@@QEAAXXZ
+?supportedByteOrders@QAudioDeviceInfo@@QEBA?AV?$QList@W4Endian@QAudioFormat@@@@XZ
+?supportedChannelCounts@QAudioDeviceInfo@@QEBA?AV?$QList@H@@XZ
+?supportedChannels@QAudioDeviceInfo@@QEBA?AV?$QList@H@@XZ
+?supportedCodecs@QAudioDeviceInfo@@QEBA?AVQStringList@@XZ
+?supportedFormatsChanged@QAbstractVideoSurface@@IEAAXXZ
+?supportedFrequencies@QAudioDeviceInfo@@QEBA?AV?$QList@H@@XZ
+?supportedSampleRates@QAudioDeviceInfo@@QEBA?AV?$QList@H@@XZ
+?supportedSampleSizes@QAudioDeviceInfo@@QEBA?AV?$QList@H@@XZ
+?supportedSampleTypes@QAudioDeviceInfo@@QEBA?AV?$QList@W4SampleType@QAudioFormat@@@@XZ
+?surfaceFormat@QAbstractVideoSurface@@QEBA?AVQVideoSurfaceFormat@@XZ
+?surfaceFormatChanged@QAbstractVideoSurface@@IEAAXAEBVQVideoSurfaceFormat@@@Z
+?suspend@QAudioInput@@QEAAXXZ
+?suspend@QAudioOutput@@QEAAXXZ
+?tr@QAbstractAudioDeviceInfo@@SA?AVQString@@PEBD0@Z
+?tr@QAbstractAudioDeviceInfo@@SA?AVQString@@PEBD0H@Z
+?tr@QAbstractAudioInput@@SA?AVQString@@PEBD0@Z
+?tr@QAbstractAudioInput@@SA?AVQString@@PEBD0H@Z
+?tr@QAbstractAudioOutput@@SA?AVQString@@PEBD0@Z
+?tr@QAbstractAudioOutput@@SA?AVQString@@PEBD0H@Z
+?tr@QAbstractVideoSurface@@SA?AVQString@@PEBD0@Z
+?tr@QAbstractVideoSurface@@SA?AVQString@@PEBD0H@Z
+?tr@QAudioEnginePlugin@@SA?AVQString@@PEBD0@Z
+?tr@QAudioEnginePlugin@@SA?AVQString@@PEBD0H@Z
+?tr@QAudioInput@@SA?AVQString@@PEBD0@Z
+?tr@QAudioInput@@SA?AVQString@@PEBD0H@Z
+?tr@QAudioOutput@@SA?AVQString@@PEBD0@Z
+?tr@QAudioOutput@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QAbstractAudioDeviceInfo@@SA?AVQString@@PEBD0@Z
+?trUtf8@QAbstractAudioDeviceInfo@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QAbstractAudioInput@@SA?AVQString@@PEBD0@Z
+?trUtf8@QAbstractAudioInput@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QAbstractAudioOutput@@SA?AVQString@@PEBD0@Z
+?trUtf8@QAbstractAudioOutput@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QAbstractVideoSurface@@SA?AVQString@@PEBD0@Z
+?trUtf8@QAbstractVideoSurface@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QAudioEnginePlugin@@SA?AVQString@@PEBD0@Z
+?trUtf8@QAudioEnginePlugin@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QAudioInput@@SA?AVQString@@PEBD0@Z
+?trUtf8@QAudioInput@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QAudioOutput@@SA?AVQString@@PEBD0@Z
+?trUtf8@QAudioOutput@@SA?AVQString@@PEBD0H@Z
+?unmap@QImageVideoBuffer@@UEAAXXZ
+?unmap@QMemoryVideoBuffer@@UEAAXXZ
+?unmap@QVideoFrame@@QEAAXXZ
+?viewport@QVideoSurfaceFormat@@QEBA?AVQRect@@XZ
+?width@QVideoFrame@@QEBAHXZ
+?yCbCrColorSpace@QVideoSurfaceFormat@@QEBA?AW4YCbCrColorSpace@1@XZ
+.?AVQAbstractAudioDeviceInfo@@
+.?AVQObject@@
+.?AVQAbstractAudioOutput@@
+.?AVQAbstractAudioInput@@
+.?AVQAudioOutput@@
+.?AVQAudioInput@@
+.?AUQAudioEngineFactoryInterface@@
+.?AUQFactoryInterface@@
+.?AVQAudioEnginePlugin@@
+.?AVQNullDeviceInfo@@
+.?AVQNullInputDevice@@
+.?AVQNullOutputDevice@@
+.?AVQFactoryLoader@@
+.?AVQAudioDeviceInfoInternal@@
+.?AVQAudioOutputPrivate@@
+.?AVOutputPrivate@@
+.?AVQIODevice@@
+.?AVQAudioInputPrivate@@
+.?AVInputPrivate@@
+.?AVQAbstractVideoBufferPrivate@@
+.?AVQAbstractVideoBuffer@@
+.?AVQAbstractVideoSurfacePrivate@@
+.?AVQObjectPrivate@@
+.?AVQObjectData@@
+.?AVQAbstractVideoSurface@@
+.?AVQImageVideoBufferPrivate@@
+.?AVQImageVideoBuffer@@
+.?AVQMemoryVideoBufferPrivate@@
+.?AVQMemoryVideoBuffer@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVexception@std@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_cast@std@@
+.?AVbad_typeid@std@@
+.?AV__non_rtti_object@std@@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD

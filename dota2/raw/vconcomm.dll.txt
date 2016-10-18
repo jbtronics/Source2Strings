@@ -1,0 +1,686 @@
+`.rdata
+@.reloc
+SVWAVAWH
+0A_A^_^[
+|$ ATAVAWH
+@A_A^A\
+l$ WAVAWH
+|$ ATAVAWH
+0A_A^A\
+@UATAUAWH
+xA_A]A\]
+\$ UWAVH
+O(HcW(L
+O LcG(Ic
+\$ UVAVH
+Hc_ ;_0u	H
+*H9l$(t
+|$ ATAVAWH
+\$ L9d$(t
+@A_A^A\
+@VAVAWH
+UVWAVAWH
+RCPPup;A |cI
+0A_A^_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]H
+WATAUAVAWH
+A_A^A]A\_
+@SUVATH
+XA\^][H
+NAHCu&A
+ATAVAWH
+TNRPuzf
+0A_A^A\
+L$ SVWH
+fE94(t/E
+l$@tLD9AhA
+Bih9ixsK
+uE@8{0t
+@8k0tvH
+T$@+CxA
+k09l$pt
+HcC$LcC
+HcC$HcK
+|$PHcy@$
+u-HcD$@
+WATAUAVAWH
+ A_A^A]A\_H
+|$ ATAVAWH
+t+HcC$LcC
+uB<"t>< ~:B
+ A_A^A\
++C$xiHc
+ATAVAWH
+ A_A^A\
+fffffff
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+t$ WAVAWH
+t$ WATAUAVAWH
+0A_A^A]A\_
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+@SUVWATAVAWH
+PA_A^A\_^][
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+AUAVAWH
+0A_A^A]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VApplication001
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+MATCHFRAMEWORK_001
+ScaleformUI001
+PanoramaUIEngine001
+PanoramaUIClient001
+PanoramaTextServices001
+ToolFramework2_002
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+EconItemToolModel_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+MODEL_PROCESSING_SERVICES_INTERFACE_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client002
+Source2ClientUI001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers002
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+WorkshopSetup001
+ModelDocCommandSystem001
+NavSystem001
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+c:\buildslave\source2_dota_rel_win64\build\src\interfaces\interfaces.cpp
+c:\buildslave\source2_dota_rel_win64\build\src\socketlib\socketlib.cpp
+Invalid connection type.
+CSocketConnection::ResetEndpoint
+Xbox VDP is not supported on this platform.
+CreateNonBlockingSocket
+Unknown protocol.
+Cannot recover from failed socket shutdown.
+CloseSocket
+CCommand::Tokenize: Encountered command which overflows the tokenizer buffer.. Skipping!
+CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clamped!
+0x%016llX
+KeyValues::RecursiveSaveToFile: TODO, missing code for TYPE_COLOR.
+RegisterConfigValue: Unknown error constructing config value "%s"!
+CGlobalConfigValueRegistry::HookUpConfigValue
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\configvalue.cpp
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\utlbuffer.cpp
+VScript
+VScriptDbg
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+_nextafter
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\source2_dota_rel_win64\build\src\public\tier0\tslist.h
+-vconport
+-vconbuffer
+VConsole Connected.
+==========================================================
+=============== VConsole Buffered Messages ===============
+=============== Excessive Messages Truncacted - Buffer Size: %d bytes ===============
+==============================================================
+=============== End VConsole Buffered Messages ===============
+VConComm Discarding Oversized Outgoing Message: '%s' (%d bytes)
+CTSQueue: Misaligned queue
+CTSQueue<struct VConCommMessage_t *,0>::CTSQueue
+-notransport2
+VConCommThread_PC
+-vconmaxlisten
+invalid
+VConsole pipe (%s): create message received, creating new pipe
+VConsole pipe (%s): open request denied
+VConsole pipe (%s): open request accepted - PIPE OPEN
+VConsole pipe (%s): open request parried
+Duplicate PIPE_OPEN_REQUEST message received for pipe (%d|%s)!
+VConsole pipe (%s): open ack received - PIPE OPEN
+Duplicate PIPE_OPEN_ACK message received for pipe (%d|%s)!
+VConsole pipe (%s): PIPE_CLOSE message received - PIPE CLOSED
+Duplicate PIPE_CLOSE message received for pipe (%d|%s)!
+Message received on closed VConsole Pipe! (%s)
+Message received for VConsolePipe_t with no registered helper (%s)
+VConsole disconnect
+Dumps the state of all existing VConsole pipes
+vcon_pipe_dump
+VConComm
+VConComm001
+VEngineCvar007
+vstdlib
+ConfigurationSystem_001
+VProcessUtils002
+VConComm Failed To Initialize!
+CVConComm::Init
+c:\buildslave\source2_dota_rel_win64\build\src\vconcomm\vconcomm.cpp
+-vconsole
+-consoleapp
+Waiting For VConsole To Connect...
+Connection will timeout in %d seconds...
+No VConsole, Ignoring.
+Make VConsole Foreground(): ReturnToWindow:0x%p, Timeout:%d, UseHostPath:%d
+VConsole2
+QWidget
+Make VConsole Foreground(): RemoteWindow:0x%p
+vconsole2.exe
+VPLATFORM
+ -pid %d
+ -retail
+commandline
+-nofocus
+Message Version Mismatch: '%s', Expected %d, Got %d
+VConsole Rejecting Message: '%s', No Message Handler Claimed Ownership.
+Rejecting registering message '%s'. Already registered to an alternate handler.
+VConsole pipes (game-side): %d
+  (%s, v. %3d) '%s'
+clearall
+<Unknown Shutdown Context>
+vc_exit %s
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+purecall
+invalid_parameter
+Release
+vconcomm
+BinaryProperties_GetValue
+Intentionally vague touch behavior for %p
+vconcomm.dll
+c:\buildslave\source2_dota_rel_win64\build\src\vconcomm\Retail\win64\vconcomm.pdb
+vconcomm.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+FindWindowA
+SetForegroundWindow
+USER32.dll
+WSAGetOverlappedResult
+WSARecv
+WSASend
+WS2_32.dll
+LoggingSystem_IsChannelEnabled
+Plat_ShouldCollectMiniDumpsForFatalErrors
+Plat_GetModuleFilename
+CommandLine
+StackTools_EnumerateVirtualMachineEncoders
+?EnumerateEncodingIndices@CVirtualMachineCallStackTranslationEncoder@@QEAAXP6A_NPEAV1@IPEBD1IPEAX@Z2@Z
+?GetLineOffsetPostShiftedSignBitMask@CVirtualMachineCallStackTranslationEncoder@@QEAA_KXZ
+?GetLineOffsetBitShift@CVirtualMachineCallStackTranslationEncoder@@QEAAIXZ
+?GetLineOffsetBitMask@CVirtualMachineCallStackTranslationEncoder@@QEAA_KXZ
+?GetIndexBitShift@CVirtualMachineCallStackTranslationEncoder@@QEAAIXZ
+?GetIndexBitMask@CVirtualMachineCallStackTranslationEncoder@@QEAA_KXZ
+?GetVMID@CVirtualMachineCallStackTranslationEncoder@@QEAA_KXZ
+StackTools_EnumerateKnownLoadedModules
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+CMemAllocSystemInitialize
+GetDefaultMiniDumpTypeFlags
+Plat_IsInDebugSession
+?Set@CThreadEvent@@QEAA_NXZ
+??0CThreadEvent@@QEAA@_N@Z
+Plat_ExitProcess
+LOG_GENERAL
+g_pMemAlloc
+InvokeMiniDumpHandler
+?IsThreadRunning@CThread@@MEAA_NXZ
+?WaitForCreateComplete@CThread@@MEAA_NPEAVCThreadEvent@@@Z
+?OnExit@CThread@@MEAAXXZ
+?Init@CThread@@MEAA_NXZ
+?Sleep@CThread@@SAXI@Z
+?Join@CThread@@QEAA_NI@Z
+?Start@CThread@@UEAA_NIW4ThreadPriorityEnum_t@@@Z
+??1CThread@@UEAA@XZ
+??0CThread@@QEAA@XZ
+??1CThreadEvent@@QEAA@XZ
+ThreadSetDebugNameS2
+LoggingSystem_GetFirstChannelID
+LoggingSystem_GetNextChannelID
+Plat_IsRunningOnCustomerMachine
+LoggingSystem_GetChannel
+Plat_FloatTime
+?Wait@CThreadSyncObject@@QEAA_NI@Z
+Plat_GetEnv
+Plat_WindowToOsSpecificHandle
+?LoggingSystem_IsChannelEnabled@@YA_NHW4LoggingVerbosity_t@@@Z
+LoggingSystem_ResetBackdoorLoggingState
+LoggingSystem_SetChannelVerbosity
+V_tier0_vsnprintfRet
+?Lock@CThreadFastMutex@@AECAXII@Z
+LoggingSystem_FindChannel
+Warning
+StackTools_RemoveModuleMappingListener
+LoggingSystem_SetChannelFlags
+LoggingSystem_Log
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@VColor@@PEBDZZ
+ThreadGetCurrentProcessId
+LoggingSystem_RegisterBackdoorLoggingListener
+?Reset@CThreadEvent@@QEAA_NXZ
+StackTools_InstallModuleMappingListener
+ThreadSleep
+LoggingSystem_RegisterLoggingChannel
+?IsAlive@CThread@@QEAA_NXZ
+Plat_MSTime
+Plat_DebugPrint
+Plat_GetModuleProcAddress
+Plat_LoadModuleRaw
+EarlyInit_Tier0
+V_tier0_vsnprintf
+V_qsort_s
+??1CThreadSyncObject@@QEAA@XZ
+tier0.dll
+GetCurrentThreadId
+WaitForSingleObject
+WaitForMultipleObjects
+GetTickCount
+MultiByteToWideChar
+WideCharToMultiByte
+CloseHandle
+GetLastError
+GetCurrentProcessId
+GetProcAddress
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+ExitProcess
+GetModuleHandleExW
+RtlUnwindEx
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+EnterCriticalSection
+LeaveCriticalSection
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+LCMapStringW
+OutputDebugStringW
+GetStringTypeW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetStdHandle
+SetFilePointerEx
+WriteConsoleW
+CreateFileW
+KERNEL32.dll
+V_tier0_snprintf
+g_Tier1_CRC32Table
+KeyValuesSystem
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVCPostConnectCallback@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVCThread@@
+.?AVCVConCommThread@@
+.?AVCVConCommThread_PC@@
+.?AVCServicePollThread@@
+.?AVCVConsoleModuleMappingListener@@
+.?AVIAppSystem@@
+.?AVCVConFocusMessage@@
+.?AVCVConsoleConVarListener@@
+.?AVICommandCallback@@
+.?AVIVConComm@@
+.?AV?$CTier1AppSystem@VIVConComm@@$0A@@@
+.?AVConCommand@@
+.?AVIVConPipeHost@@
+.?AV?$CTier2AppSystem@VIVConComm@@$0A@@@
+.?AVIConVarListener@@
+.?AVCVConsoleLoggingListener@@
+.?AVICommandCompletionCallback@@
+.?AVConCommandBase@@
+.?AVIVConCommDataReceived@@
+.?AVIModuleMappingListener@@
+.?AV?$CBaseAppSystem@VIVConComm@@@@
+.?AVILoggingListener@@
+.?AVCVConChannelPokeMessage@@
+.?AV?$CTier0AppSystem@VIVConComm@@@@
+.?AVCVConBasePipeHost@@
+.?AVCVConComm@@
+.?AV?$CBaseAppSystem@VIAppSystem@@@@
+.?AV?$CConCommandMemberAccessor@VCVConComm@@@@
+.?AVIConfigValueRegistrationListener@@
+.?AVCVConPingMessage@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+xDpS	]#
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+161012212012Z0#

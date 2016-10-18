@@ -1,0 +1,742 @@
+`.rdata
+@.reloc
+A9<2t(A
+|$ Mc>A;
+A`H9y@u
+@WAVAWH
+UWATAVAWH
+PA_A^A\_]
+VWATAVAWH
+ A_A^A\_^
+L$ UATAUAVAWH
+A_A^A]A\]
+L$ SWATAUAWH
+@A_A]A\_[
+@WATAVH
+UVATAVAWH
+0A_A^A\^]
+SUVWATAUAWH
+PA_A]A\_^][
+@UVWAVAWH
+PA_A^_^]
+AU2BU$?0AUH
+CU2GU$@0CU
+gfffffffA
+L$ SVWH
+UVWATAUAVAWH
+0A_A^A]A\_^]
+fD9t$*~
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAWH
+<et	<pu&
+ A_A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+@UATAUAVH
+A^A]A\]
+fD;d$(}0
+HcC$LcC
+HcC$HcK
+@SVATAWH
+XA_A\^[
+WATAUAVAWH
+ A_A^A]A\_
+@UAVAWH
+|$@Hcyp;
+D$<9T$0wE9T$4w?9T$8w9;
+SUVWATAUAVAWH
+HA_A^A]A\_^][
++C$xiHc
+}3fD;C&w,
+ATAVAWH
+ A_A^A\
+fffffff
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+` AUAVAWH
+t$8Hc0I
+\$0D9=f
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+VWATAVAWH
+A_A^A\_^
+t$ WAVAWH
+t$ WATAUAVAWH
+0A_A^A]A\_
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+@SUVWATAVAWH
+tcH95Ai
+PA_A^A\_^][
+AUAVAWH
+0A_A^A]
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+MATCHFRAMEWORK_001
+ScaleformUI001
+PanoramaUIEngine001
+PanoramaUIClient001
+PanoramaTextServices001
+ToolFramework2_002
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+EconItemToolModel_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+MODEL_PROCESSING_SERVICES_INTERFACE_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client002
+Source2ClientUI001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers002
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+WorkshopSetup001
+ModelDocCommandSystem001
+NavSystem001
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+c:\buildslave\source2_dota_rel_win64\build\src\interfaces\interfaces.cpp
+CUtlLeanVectorImpl<class CUtlLeanVectorBase<struct ParserResponse,short>,struct ParserResponse,short>::AddToTailGetPtr
+%s allocation count overflow
+c:\buildslave\source2_dota_rel_win64\build\src\public\tier1\utlleanvector.h
+CUtlLeanVectorBase<struct ParserResponse,short>::EnsureCapacity
+'%20s' vs. '%20s' = 
+  criterion '%25s':'%15s' 
+matched, weight %4.2f (s %4.2f x c %4.2f)
+failed (+exclude rule)
+rr_debugrule
+Rule is disabled.
+Scoring rule '%s' (%i)
+, score %4.2f
+%s%20s : %40s %5.3f
+Found %i matching rules, selecting slot %i
+rr_debugclassname
+classname
+rr_debugresponses
+rr_debugresponseconcept
+concept
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<unsigned short,6,short>,unsigned short,short>::AddToTailGetPtr
+CUtlLeanVectorFixedGrowableBase<unsigned short,6,short>::EnsureCapacity
+  %20s = '%s' (weight %f)
+  %20s = '%s'
+Search criteria:
+Matched rule '%s', 
+Speaker contexts: '%s', 
+World contexts: '%s', 
+response %s = '%s'
+???CRR_Response bogus index
+RESPONSE_NONE
+RESPONSE_SPEAK
+RESPONSE_SENTENCE
+RESPONSE_SCENE
+RESPONSE_RESPONSE
+RESPONSE_PRINT
+RESPONSE_ENTITYIO
+RESPONSE_SCRIPT
+An RR_Concept couldn't find its string in the symbol table!
+Concept
+targetclassname
+AI_ResponseSystem:  Unxpected TokenWaiting() with NULL buffer in %s
+CResponseFileParser::TokenWaiting
+c:\buildslave\source2_dota_rel_win64\build\src\responserules\runtime\response_system.h
+SNDLVL_
+SoundLevel string appears to be a Volume level %f
+CSoundEmitterSystem:  Unknown sound level %s
+rr_dumpresponses
+Reading: %s
+CResponseFileParser::LoadFromBuffer:  Unknown entry type '%s', expecting 'response', 'criterion', 'enumeration' or 'rules' in file %s(offset:%i)
+CResponseFileParser::LoadFromBuffer
+c:\buildslave\source2_dota_rel_win64\build\src\responserules\runtime\response_system_parser.cpp
+CResponseSystem:  %s (%i rules, %i criteria, and %i responses)
+CResponseSystem:  failed to load %s
+%s/%s:  discarded rule because of invalid criterion %i:  %s
+CResponseSystem::LoadFromFile took %f msec
+FIRE token in response needs exactly three parameters.
+THEN token in response lacked any further info.
+THEN token in response had a target '%s', but lacked any further info.
+THEN token in response lacked contexts.
+response entry '%s' with unknown response type '%s'
+response entry '%s' with unknown command '%s'
+permitrepeats
+sequential
+norepeat
+Multiple definitions for criteria '%s' [%d]
+Skipping unrecongized subcriterion '%s' in '%s'
+required
+Expecting '{' in enumeration '%s', got '%s'
+Expecting more tokens in enumeration '%s'
+[%s::%s]
+No such response '%s' for rule '%s'
+Expecting '{' in rule '%s', got '%s'
+Expecting more tokens in rule '%s'
+[%s%03i]
+Discarded rule %s
+#include
+response
+enumeration
+criterion
+criteria
+matchonce
+applycontexttoworld
+applycontext
+nodelay
+defaultdelay
+speakonce
+noscene
+stop_on_nonidle
+displayfirst
+displaylast
+No such enumeration '%s'
+scripts/%s
+Unable to load #included script %s
+%s(token %i) : %s
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+%i %i %i %i
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar(%s) defined with infinite float value (%s)
+ConVarRef %s doesn't point to an existing ConVar
+GRegisterConfigValue: Unknown error constructing config value "%s"!
+CGlobalConfigValueRegistry::HookUpConfigValue
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\configvalue.cpp
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\utlbuffer.cpp
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\mempool.cpp
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase::CUtlMemoryPoolBase
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+_nextafter
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+SNDLVL_NONE
+SNDLVL_20dB
+SNDLVL_25dB
+SNDLVL_30dB
+SNDLVL_35dB
+SNDLVL_40dB
+SNDLVL_45dB
+SNDLVL_50dB
+SNDLVL_55dB
+SNDLVL_IDLE
+SNDLVL_TALKING
+SNDLVL_60dB
+SNDLVL_65dB
+SNDLVL_STATIC
+SNDLVL_70dB
+SNDLVL_NORM
+SNDLVL_75dB
+SNDLVL_80dB
+SNDLVL_85dB
+SNDLVL_90dB
+SNDLVL_95dB
+SNDLVL_100dB
+SNDLVL_105dB
+SNDLVL_110dB
+SNDLVL_120dB
+SNDLVL_130dB
+SNDLVL_GUNFIRE
+SNDLVL_140dB
+SNDLVL_150dB
+SNDLVL_180dB
+ResponseRulesCache001
+VFileSystem017
+scenes/scenes.image
+SceneFileCache
+ServerUsesSceneImageFile
+CSceneFileCache: Bad scene image file %s
+CSceneFileCache::Init
+c:\buildslave\source2_dota_rel_win64\build\src\scenefilecache\scenefilecache.cpp
+SceneFileCache002
+purecall
+invalid_parameter
+Release
+scenefilecache
+BinaryProperties_GetValue
+Intentionally vague touch behavior for %p
+scenefilecache.dll
+CSchemaNonConstructibleClassBindingBase::ReportClassError
+c:\buildslave\source2_dota_rel_win64\build\src\public\schemasystem\schema.h
+Cannot allocate abstract class %s
+Cannot deallocate abstract class
+Cannot allocate abstract class
+Cannot copy abstract class
+Cannot construct abstract class
+Cannot destruct abstract class
+ResponseFollowup
+ResponseParams
+CResponseCriteriaSet
+CRR_Response
+CRR_Response::ResponseEnum_t
+CRR_Response::MAX_RESPONSE_NAME
+CRR_Response::MAX_RULE_NAME
+From Enum Binding
+followup_concept
+followup_contexts
+followup_delay
+followup_target
+followup_entityiotarget
+followup_entityioinput
+followup_entityiodelay
+From Class Binding
+respeakdelay
+weapondelay
+predelay
+soundlevel
+m_pFollowup
+m_nNumPrefixedContexts
+m_bOverrideOnAppend
+m_szResponseName
+m_szMatchingRule
+m_Params
+m_fMatchScore
+m_szSpeakerContext
+m_szWorldContext
+m_Followup
+c:\buildslave\source2_dota_rel_win64\build\src\scenefilecache\Retail\win64\scenefilecache.pdb
+scenefilecache.dll
+BinaryProperties_GetValue
+CreateInterface
+InstallSchemaBindings
+__crt_debugger_hook
+CommandLine
+CMemAllocSystemInitialize
+g_pMemAlloc
+LoggingSystem_IsChannelEnabled
+Plat_ShouldCollectMiniDumpsForFatalErrors
+Warning
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+GetDefaultMiniDumpTypeFlags
+Plat_ExitProcess
+LOG_GENERAL
+InvokeMiniDumpHandler
+Plat_DebugPrint
+Plat_GetModuleFilename
+Plat_GetModuleProcAddress
+Plat_LoadModuleRaw
+EarlyInit_Tier0
+Plat_IsInDebugSession
+V_tier0_vsnprintf
+V_qsort_s
+?DevMsg@@YAXPEBDZZ
+COM_TimestampedLog
+V_tier0_snprintf
+Plat_FloatTime
+V_tier0_vsnprintfRet
+tier0.dll
+??0CUniformRandomStream@@QEAA@XZ
+RandomInt
+vstdlib.dll
+MultiByteToWideChar
+WideCharToMultiByte
+GetCurrentThreadId
+CloseHandle
+GetLastError
+GetCurrentProcessId
+GetProcAddress
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+ExitProcess
+GetModuleHandleExW
+RtlUnwindEx
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+EnterCriticalSection
+LeaveCriticalSection
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+LCMapStringW
+GetStringTypeW
+OutputDebugStringW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetStdHandle
+SetFilePointerEx
+WriteConsoleW
+CreateFileW
+KERNEL32.dll
+V_tier0_strtod
+V_tier0_sscanf
+g_Tier1_CRC32Table
+KeyValuesSystem
+V_tier0_wcstoi64
+?Lock@CThreadFastMutex@@AECAXII@Z
+ThreadInterlockedExchange64
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AV?$CFmtStrN@$0EAA@$0A@@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVConVar@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AVtype_info@@
+.?AV?$CBaseAppSystem@VIResponseRulesFileCache@@@@
+.?AV?$CRefCountServiceBase@$00VCRefMT@@@@
+.?AVCResponseRulesFileCache@@
+.?AV?$CTier0AppSystem@VIResponseRulesFileCache@@@@
+.?AVCResponseRulesToEngineInterface@@
+.?AVIResponseSystem@@
+.?AV?$CTier1AppSystem@VIResponseRulesFileCache@@$0A@@@
+.?AV?$CRefCounted@V?$CRefCountServiceBase@$00VCRefMT@@@@@@
+.?AVIAppSystem@@
+.?AVIResponseRulesFileCache@@
+.?AVCGameResponseSystem@@
+.?AVIResponseEngineEmulator@@
+.?AVCResponseSystem@@
+.?AV?$CBaseAppSystem@VISceneFileCache@@@@
+.?AVCSceneFileCache@@
+.?AVISceneFileCache@@
+.?AV?$CBaseAppSystem@VIAppSystem@@@@
+.?AVISchemaBinding@@
+.?AVCSchemaClassBindingBase@@
+.?AV?$CSchemaEnumBinding@W4ResponseEnum_t@CRR_Response@@@@
+.?AVCSchemaNonConstructibleClassBindingBase@@
+.?AV?$CSchemaClassBinding@VCRR_Response@@@@
+.?AV?$CSchemaNonConstructibleClassBinding@VCResponseCriteriaSet@@@@
+.?AVCSchemaEnumBindingBase@@
+.?AV?$CSchemaClassBinding@UResponseParams@@@@
+.?AV?$CSchemaClassBinding@UResponseFollowup@@@@
+.?AVCSchemaRegistration_scenefilecache@@
+.?AVCSchemaRegistration@@
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+j;@XG "
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+161012211758Z0#

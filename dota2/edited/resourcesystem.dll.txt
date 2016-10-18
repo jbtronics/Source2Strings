@@ -1,0 +1,1777 @@
+`.rdata
+@.reloc
+@USWAWH
+@UAVAWH
+HcC$HcK
+t$0Hcs8;sHu	H
+Hcs ;s0u	H
+t$8Hcq83
+@UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+SUVWAVAWH
+HA_A^_^][
+@SWAUAVAWH
+@A_A^A]_[
+USVWATAUAVAW
+A_A^A]A\_^[]
+@SUVAVAWH
+T$X-VUUUDk
+ A_A^^][
+@UAUAVAWH
+(A_A^A]]
+L$ UVAVH
+@UAVAWH
+l$ VWATAUAVH
+A^A]A\_^
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+u,Hc+;k
+A_A^A]A\_
+p UWAWH
+VWATAVAWH
+PA_A^A\_^
+USVWATAVAWH
+H=vpcft
+A_A^A\_^[]
+UVWATAUAVAWH
+u<McgxE;
+A_A^A]A\_^]
+USWAUAWH
+@8uwuz3
+A_A]_[]
+USVWATAWH
+A_A\_^[]
+\$hH=vpcft
+A_A\_^[]
+USVWATAUAVAWH
+e8A_A^A]A\_^[]
+@SUAVAWH
+HA_A^][
+tSMcA83
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+L$(;L$L
+\$ UVWH
+fD;(utL
+D$HH9D$Xt%H
+@USVWAVH
+l$0D9l$@|LH
+UVWAVAWH
+A_A^_^]
+VWATAVAWH
+PA_A^A\_^
+vpcfu7H
+W(LcG0H
+l$ VWAVH
+L$ SVWH
+-VUUUDk
+L$ UVAVH
+|$H-VUUUk
+|$@-VUUUDk
+|$ ATAVAWH
+ A_A^A\
+G<Hc/;o
+D;v(u	H
+\$ UWAUH
+ Hc9Lci
+|$PxkHc
+\$0H9t$8t
+t5HcL$DHcD$TH+
+StakRaw8H
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+t5HcL$DHcD$TH+
+StakRaw8H
+UVWATAUAVAWH
+A_A^A]A\_^]
+SUVWATAUAVAWH
+XA_A^A]A\_^][
+L$ SUVAVAWH
+MetaTxtAL
+0A_A^^][
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+HcC$HcK
++C$xiHc
+,/<-w~H
+t$ AWE3
+@SVATAWH
+XA_A\^[
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+H+t$hH+
+Ic,$A;l$
+ A_A^A]A\_^]
+|$PHc{@$
+|$PHcy@$
+@UAVAWH
+L9}8t	H
+@UATAUAVAWH
+A_A^A]A\]
+ATAVAWH
+ A_A^A\
+fffffff
+USVWAVH
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+t$ WAVAWH
+t$ WATAUAVAWH
+0A_A^A]A\_
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+@SUVWATAVAWH
+tcH959w
+PA_A^A\_^][
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+AUAVAWH
+0A_A^A]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+fffffff
+.ffffff
+fffffff
+0ffffff
+@ffffff
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+MATCHFRAMEWORK_001
+ScaleformUI001
+PanoramaUIEngine001
+PanoramaUIClient001
+PanoramaTextServices001
+ToolFramework2_002
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+EconItemToolModel_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+MODEL_PROCESSING_SERVICES_INTERFACE_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client002
+Source2ClientUI001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers002
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+WorkshopSetup001
+ModelDocCommandSystem001
+NavSystem001
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+c:\buildslave\source2_dota_rel_win64\build\src\interfaces\interfaces.cpp
+FourVectors
+MSerializeAs
+CResourceString
+CTransform
+CResourceArray
+MNoScatter
+FeSimdTri_t
+FeQuad_t
+FeNodeBase_t
+FeNodeReverseOffset_t
+FeSimdQuad_t
+FeAxialEdgeBend_t
+FeRodConstraint_t
+FeSimdRodConstraint_t
+FeSimdNodeBase_t
+FeNodeIntegrator_t
+FeSpringIntegrator_t
+FeSimdSpringIntegrator_t
+FeCtrlOffset_t
+FeCtrlOsOffset_t
+FeFollowNode_t
+FeCollisionSphere_t
+FeCollisionPlane_t
+FeWorldCollisionParams_t
+FeTreeChildren_t
+FeTaperedCapsuleRigid_t
+FeSphereRigid_t
+FeTaperedCapsuleStretch_t
+FeFitWeight_t
+FeFitMatrix_t
+FeSimdFitMatrices_t
+PhysFeModelDesc_t
+m_CtrlHash
+m_CtrlName
+m_nStaticNodeFlags
+m_nDynamicNodeFlags
+m_flLocalForce
+m_flLocalRotation
+m_nNodeCount
+m_nStaticNodes
+m_nRotLockStaticNodes
+m_nSimdTriCount1
+m_nSimdTriCount2
+m_nSimdQuadCount1
+m_nSimdQuadCount2
+m_nQuadCount1
+m_nQuadCount2
+m_nCollisionSphereInclusiveCount
+m_nTreeDepth
+m_nFitMatrixCount1
+m_nFitMatrixCount2
+m_nSimdFitMatrixCount1
+m_nSimdFitMatrixCount2
+m_nRopeCount
+m_Ropes
+m_NodeBases
+m_SimdNodeBases
+m_Quads
+m_SimdQuads
+m_SimdTris
+m_SimdRods
+m_InitPose
+m_AxialEdges
+m_NodeInvMasses
+m_CtrlOffsets
+m_CtrlOsOffsets
+m_FollowNodes
+m_CollisionSpheres
+m_CollisionPlanes
+m_NodeIntegrator
+m_SpringIntegrator
+m_SimdSpringIntegrator
+m_WorldCollisionParams
+m_LegacyStretchForce
+m_NodeCollisionRadii
+m_LocalRotation
+m_LocalForce
+m_TaperedCapsuleStretches
+m_TaperedCapsuleRigids
+m_SphereRigids
+m_WorldCollisionNodes
+m_TreeParents
+m_TreeCollisionMasks
+m_TreeChildren
+m_FreeNodes
+m_FitMatrices
+m_SimdFitMatrices
+m_FitWeights
+m_ReverseOffsets
+m_nReserved
+m_flWindage
+m_flWindDrag
+m_flDefaultSurfaceStretch
+m_flDefaultThreadStretch
+m_flDefaultGravityScale
+m_flDefaultVelAirDrag
+m_flDefaultExpAirDrag
+m_flDefaultVelQuadAirDrag
+m_flDefaultExpQuadAirDrag
+m_flDefaultVelRodAirDrag
+m_flDefaultExpRodAirDrag
+m_flRodVelocitySmoothRate
+m_flQuadVelocitySmoothRate
+m_flAddWorldCollisionRadius
+m_flDefaultVolumetricSolveAmount
+m_nRodVelocitySmoothIterations
+m_nQuadVelocitySmoothIterations
+mathlib_extended
+ERROR: CAtomicManipulator::Allocate() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<unsigned int> >::Allocate
+c:\buildslave\source2_dota_rel_win64\build\src\public\resourcefile\resourcestream.h
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<unsigned int> >::AllocateAndCopy
+ERROR: CAtomicManipulator::Copy() Cannot copy CResourceArray(FIXME: maybe you can?)
+CAtomicManipulator<class CResourceArray<unsigned int> >::Copy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate CResourceArray
+CAtomicManipulator<class CResourceArray<unsigned int> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceString> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Deallocate
+CAtomicManipulator<class CResourceArray<unsigned short> >::Allocate
+CAtomicManipulator<class CResourceArray<unsigned short> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<unsigned short> >::Copy
+CAtomicManipulator<class CResourceArray<unsigned short> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeNodeBase_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeNodeBase_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeNodeBase_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeNodeBase_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeSimdNodeBase_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeSimdNodeBase_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeSimdNodeBase_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeSimdNodeBase_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeQuad_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeQuad_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeQuad_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeQuad_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeSimdQuad_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeSimdQuad_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeSimdQuad_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeSimdQuad_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeSimdTri_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeSimdTri_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeSimdTri_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeSimdTri_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeSimdRodConstraint_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeSimdRodConstraint_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeSimdRodConstraint_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeSimdRodConstraint_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CTransform> >::Allocate
+CAtomicManipulator<class CResourceArray<class CTransform> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CTransform> >::Copy
+CAtomicManipulator<class CResourceArray<class CTransform> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeRodConstraint_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeRodConstraint_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeRodConstraint_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeRodConstraint_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeAxialEdgeBend_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeAxialEdgeBend_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeAxialEdgeBend_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeAxialEdgeBend_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<float> >::Allocate
+CAtomicManipulator<class CResourceArray<float> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<float> >::Copy
+CAtomicManipulator<class CResourceArray<float> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeCtrlOffset_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeCtrlOffset_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeCtrlOffset_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeCtrlOffset_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeCtrlOsOffset_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeCtrlOsOffset_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeCtrlOsOffset_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeCtrlOsOffset_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeFollowNode_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeFollowNode_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeFollowNode_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeFollowNode_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeCollisionSphere_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeCollisionSphere_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeCollisionSphere_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeCollisionSphere_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeCollisionPlane_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeCollisionPlane_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeCollisionPlane_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeCollisionPlane_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeNodeIntegrator_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeNodeIntegrator_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeNodeIntegrator_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeNodeIntegrator_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeSpringIntegrator_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeSpringIntegrator_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeSpringIntegrator_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeSpringIntegrator_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeSimdSpringIntegrator_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeSimdSpringIntegrator_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeSimdSpringIntegrator_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeSimdSpringIntegrator_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeWorldCollisionParams_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeWorldCollisionParams_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeWorldCollisionParams_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeWorldCollisionParams_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeTaperedCapsuleStretch_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeTaperedCapsuleStretch_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeTaperedCapsuleStretch_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeTaperedCapsuleStretch_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeTaperedCapsuleRigid_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeTaperedCapsuleRigid_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeTaperedCapsuleRigid_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeTaperedCapsuleRigid_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeSphereRigid_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeSphereRigid_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeSphereRigid_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeSphereRigid_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeTreeChildren_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeTreeChildren_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeTreeChildren_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeTreeChildren_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeFitMatrix_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeFitMatrix_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeFitMatrix_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeFitMatrix_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeSimdFitMatrices_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeSimdFitMatrices_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeSimdFitMatrices_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeSimdFitMatrices_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeFitWeight_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeFitWeight_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeFitWeight_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeFitWeight_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FeNodeReverseOffset_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FeNodeReverseOffset_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FeNodeReverseOffset_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FeNodeReverseOffset_t> >::Deallocate
+CUtlStringToken
+MKeyfieldname
+LightType_t
+LightSourceShape_t
+LightDesc_t
+MATERIAL_LIGHT_DISABLE
+MATERIAL_LIGHT_POINT
+MATERIAL_LIGHT_DIRECTIONAL
+MATERIAL_LIGHT_SPOT
+MATERIAL_LIGHT_UNUSED
+MATERIAL_LIGHT_ENVIRONMENT_PROBE
+LIGHT_SOURCE_SHAPE_SPHERE
+lighttype
+bouncecolor
+falloff
+attenuation0
+attenuation1
+attenuation2
+innerconeangle
+outerconeangle
+lightcookie
+castshadows
+shadowtexturewidth
+shadowtextureheight
+renderdiffuse
+renderspecular
+lightsourceshape
+dimension0
+dimension1
+m_Color
+m_BounceColor
+m_Range
+m_Falloff
+m_Attenuation0
+m_Attenuation1
+m_Attenuation2
+m_Theta
+m_lightCookie
+m_bCastShadows
+m_nShadowWidth
+m_nShadowHeight
+m_bRenderDiffuse
+m_bRenderSpecular
+m_Shape
+m_flLightSourceDim0
+m_flLightSourceDim1
+m_vecUp
+m_vMinBounds
+m_vMaxBounds
+Vector2D
+Vector4D
+Quaternion
+MPropertySuppressField
+RnPlane_t
+FourQuaternions
+FourVectors2D
+FeEdgeDesc_t
+OldFeEdge_t
+FeKelagerBend_t
+FeTri_t
+FeBandBendLimit_t
+CovMatrix3
+FourCovMatrices3
+FeFitInfluence_t
+flThetaRelaxed
+flThetaFactor
+flAxialModelDist
+flAxialModelWeights
+m_nNode
+flHeight0
+m_nFlags
+flSlack
+nNodeX0
+nNodeX1
+nNodeY0
+nNodeY1
+qAdjust
+nBoneCtrl
+nTargetNode
+vOffset
+f4Slack
+f4Weights
+flWeight
+flDistMin
+flDistMax
+flMaxDist
+flMinDist
+flWeight0
+flRelaxationFactor
+f4MaxDist
+f4MinDist
+f4Weight0
+f4RelaxationFactor
+flPointDamping
+flAnimationForceAttraction
+flAnimationVertexAttraction
+flGravity
+flSpringRestLength
+flSpringConstant
+flSpringDamping
+flNodeWeight0
+nCtrlParent
+nCtrlChild
+nParentNode
+nChildNode
+m_flRFactor
+m_vOrigin
+flStickiness
+m_Plane
+flWorldFriction
+flGroundFriction
+nListBegin
+nListEnd
+nCollisionMask
+vCenter
+flRadius
+m_vDiag
+nVertexNode
+nMatrixNode
+nBeginDynamic
+flStretchMin
+flStretchMax
+CONTENTROOT
+GenerateResourceNameFromFileName: Invalid extension specified in file name "%s"!
+CONTENT
+ERROR: Specified full path %s does not lie under the mod search path!)
+ERROR: Specified path %s could not be made content-relative
+FixupResourceName: Illegal full path passed in ("%s")!
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
+FixupResourceName: Illegal path, missing extension passed in ("%s")!
+MDmElementType
+MDiskDataForResourceType
+MResourceBlockType
+ResourceManifest_t
+c:\buildslave\source2_dota_rel_win64\build\src\resourcefile\resourcestream.cpp
+Cannot allocate virtual address space in CResourceStreamVM::ReserveVirtualMemory, error %u
+CResourceStreamVM::ReserveVirtualMemory
+--------------------WARNING----------------------
+--  Increase the size of the resource stream   --
+--  Need %d bytes, but only have %d bytes
+Failed trying to Commit %u bytes, used %u bytes, reserved %u bytes
+CResourceStreamVM::Commit
+Wrong alignment %d
+CResourceStream::Align
+ResourceReferenceInfo_t
+ResourceDependencyFlags_t
+ResourceInputDependency_t
+ResourceArgumentDependency_t
+ResourceSpecialDependency_t
+ResourceEditIntData_t
+ResourceEditFloatData_t
+ResourceEditStringData_t
+ResourceCustomDependency_t
+ResourceAdditionalRelatedFile_t
+ResourceEditInfoBlock_t
+RESOURCE_INPUT_DEPENDENCY_NOFLAG
+RESOURCE_INPUT_DEPENDENCY_OPTIONAL
+RESOURCE_INPUT_DEPENDENCY_EXISTS
+RESOURCE_INPUT_DEPENDENCY_GAME_FILE
+m_RelativeFilename
+m_SearchPath
+m_nFileCRC
+m_ParameterName
+m_ParameterType
+m_nFingerprint
+m_nFingerprintDefault
+m_String
+m_CompilerIdentifier
+m_nUserData
+m_flFloat
+m_nParentIndex
+m_ContentRelativeFilename
+m_ContentSearchPath
+m_InputDependencies
+m_AdditionalInputDependencies
+m_ArgumentDependencies
+m_SpecialDependencies
+m_CustomDependencies
+m_AdditionalRelatedFiles
+m_ChildResourceList
+m_ExtraIntData
+m_ExtraFloatData
+m_ExtraStringData
+resourcefile
+CAtomicManipulator<class CResourceArray<struct ResourceInputDependency_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceInputDependency_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceInputDependency_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceInputDependency_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceArgumentDependency_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceArgumentDependency_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceArgumentDependency_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceArgumentDependency_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceSpecialDependency_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceSpecialDependency_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceSpecialDependency_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceSpecialDependency_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceCustomDependency_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceCustomDependency_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceCustomDependency_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceCustomDependency_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceAdditionalRelatedFile_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceAdditionalRelatedFile_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceAdditionalRelatedFile_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceAdditionalRelatedFile_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceReferenceInfo_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceReferenceInfo_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceReferenceInfo_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceReferenceInfo_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditIntData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditIntData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceEditIntData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceEditIntData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditFloatData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditFloatData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceEditFloatData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceEditFloatData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditStringData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceEditStringData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceEditStringData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceEditStringData_t> >::Deallocate
+ResourceExtRefList_t
+ResourceDefRefList_t
+m_pResourceName
+m_resourceRefInfoList
+MAttributeName
+InfoForResourceTypeResourceManifest_t
+resourceFileNameList
+DmeResourceManifest
+m_ResourceFileNameList
+ResourceRemapRule_t
+ResourceRemapTable_t
+InfoForResourceTypeResourceRemapTable_t
+m_originalResourceName
+m_replacementResourceName
+m_condition
+m_bClearAllPreviousRules
+m_baseRemapFiles
+m_conditionSymbols
+m_remapRules
+CAtomicManipulator<class CResourceArray<struct ResourceRemapRule_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ResourceRemapRule_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ResourceRemapRule_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ResourceRemapRule_t> >::Deallocate
+CResourcePointer
+MNetworkSerializeAs
+ResourceId_t
+ResourceBinding_t
+CResourceExtReference
+CResourceDeferredReference
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\utlbuffer.cpp
+CUtlString::FormatV
+%s unable to grow buffer to fit string
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\utlstring.cpp
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\mempool.cpp
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase::CUtlMemoryPoolBase
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+RegisterConfigValue: Unknown error constructing config value "%s"!
+CGlobalConfigValueRegistry::HookUpConfigValue
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\configvalue.cpp
+VScript
+VScriptDbg
+_addons
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+_nextafter
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+SSE and SSE2 are required.
+MathLib_Init
+c:\buildslave\source2_dota_rel_win64\build\src\mathlib\mathlib_base.cpp
+?E=$% B
+?49HoKC
+?UUUUUU
+AUUUUUU
+?UUUUUU
+sAUUUUUU
+@^8U)zj
+?8bunz8
+?@En[vP
+-9D	/9a
+?UUUUUU
+Resource %s
+Streaming header for: "%s"
+Streaming data [%d bytes] for: "%s"
+Error loading resource "%s" (Invalid header version: %d != %d)
+BlockingLoadResourceFileNonStreamingPortion: Trying to load an illegal resource name %s!
+Unable to read resource file %s!
+DISABLED
+MUnserializationCallback
+CRCMD_SetProfileMode
+-start_resource_profiling
+RSProfilerTool
+ENABLED
+Resource system profile mode %s
+HandleResourceData
+Resource System
+%s%-20s%-30s = Total: % 8.2fms, Avg: % 8.2fus, Count: % 7d
+Autoconvert
+ExtrefFixup
+Allocate
+Deallocate
+SubmitHeaderRequests
+SubmitDataRequests
+ManifestCompletion
+NotifyManifestFinished
+ExtrefCleanUpGuts
+ExtrefInfoFindOrCreate
+%s%-20s%-30s = Total: % 7d
+ExtrefInfoInit
+ExtrefTraverseClass
+ExtrefFixupField
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\source2_dota_rel_win64\build\src\public\tier0\tslist.h
+CTSQueue: Misaligned queue
+CTSQueue<struct CResourceManifest::PendingResourceLoad_t,0>::CTSQueue
+CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList<class CResourceManifest *,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<class CResourceManifest *,unsigned short>,unsigned short> >::AllocInternal
+c:\buildslave\source2_dota_rel_win64\build\src\public\tier1\utllinkedlist.h
+CUtlLinkedList overflow! (exhausted index range)
+Unable to read find remap file "%s"
+Unable to read resource remap file "%s"
+Error loading resource remap file "%s" (Invalid header version: %d != %d)
+Error loading resource remap file "%s" (No DATA block)
+basemodfile
+Error loading resource remap fallback file for file "%s"!
+ConditionSyntaxError(291): Syntax error in resource remap table condition: "%s"!
+ConditionSyntaxError
+c:\buildslave\source2_dota_rel_win64\build\src\resourcesystem\resourceremapper.cpp
+CResourceRemapper::ComputeRemappedResource(314): Syntax error in resource remap table condition: "%s"!
+CResourceRemapper::ComputeRemappedResource
+CResourceRemapper::ComputeRemappedResource(329): Encountered a likely recursive remap table condition for file "%s": "%s"!
+rs_dump_stats - Dump resourcesystem stats.
+rs_dump_stats
+<INVALID>
+ResourceSystem
+ResourceSystem009
+EventSystem001
+vstdlib
+VNewAsyncFileSystem001
+filesystem_stdio
+SchemaSystem_001
+schemasystem
+ResourceHandleUtils001
+ResourceManifestRegistry001
+ResourceSystemTools001
+Tried to install a placeholder resource manager for an existing resource type "%lld"!
+Tried to install two resource managers for the same resource type "%lld"!
+Tried to double-register resource manager for two resource types! ( "%lld" and "%lld")
+CResourceSystem::InstallResourceTypeManagerCustomProvider
+c:\buildslave\source2_dota_rel_win64\build\src\resourcesystem\resourcesystem.cpp
+Tried to install a NULL resource manager for resource type "%lld"!
+Error initializing resource manager for resource type "%lld"!
+{error resource: %s}
+InstallResourceTypeManager
+%d (%d deferred)
+anonymous 
+Leaked resource: Refcount %s for %s%s resource "%s" (%016llX).  This may result in a crash.
+Leaked reference to ERROR resource for type %s!
+badresources_whitelist.txt
+-exit_on_resource_load_failure
+-force_all_resource_loads_to_fail
+-resource_exit_after_time
+-resource_debug_spew_substring
+-resource_debug_break_substring
+Forgot to remove resource type manager for type %s!
+Encountered nonexistent %s: %016llX (file "%s")
+WARNING: %s resource '%s' is the wrong resource type (expected %s)!
+WARNING: resource '%s' is an unknown resource type!
+WARNING: FindResourceByName called with invalid resource name "%s"
+WARNING: %s resource '%s' (%016llX) requested but is not in the system. (Missing from from a manifest?)
+FATAL ERROR: %s resource '%s' (%016llX) is the wrong resource type! (This is likely caused by a hash collision between the strings '%s' and '%s')
+CResourceSystem::FindOrRegisterResourceByName
+ERROR: %s resource '%s' (%016llX) requested has been deferred and is not loaded.
+ERROR: %s resource '%s' (%016llX) requested is still pending and is not loaded.
+ERROR: %s resource '%s' (%016llX) requested is not loaded and may have been deleted.
+CResourceSystem::BlockingLoadResourceByNameIntoJustInTimeManifest
+Resource "%s" was not precached but was loaded by a just in time blocking load.
+GetResourceStatus( pResourceName ) == RESOURCE_STATUS_RESIDENT
+Resource "%s" was not precached and could not be loaded by a just in time blocking load.
+ERROR: %s resource %016llX requested but not resident. (Missing from from a manifest?)
+ERROR: %s resource %016llX is the wrong resource type!
+CResourceSystem::FindOrCreateProceduralResource: Passed in a NULL debug name for an anonymous resource!
+DeleteResource for: "%s" (Reference count = %d, Deferred count = %d)
+*** Bad deletion request: Refcount for %s resource "%s" (%016llX) is greater than deferred count. (%d > %d)!
+GetRegistrationForType(pResourceData->m_nResourceType)->m_pTypeManager == NULL
+CResourceSystem::DeleteResource
+Failed to load resource "%s" and -exit_on_resource_load_failure was set and it's not in badresources_whitelist.txt
+CResourceSystem::MaybeExitBecauseOfResourceLoadFailure
+MN_OnResourceHeaderLoaded for: "%s"
+File error loading resource header "%s" (Error: %s)
+MN_OnResourceDataLoaded for: "%s" (%llu bytes)
+Error loading resource file "%s" (Error: %s)
+MN_RegisterResourceData %s
+[%s] Registering resource %016llX (file "%s")
+MN_DeallocateResourceData for: "%s"
+WARNING: Trying to deallocate a resource with no associated resource type! ("%s")
+WARNING: Trying to deallocate a resource after the type manager was uninstalled! ("%s")
+AcquireResourceHandleSubmitLoadIfNeeded: "%s"
+AcquireResourceHandleSubmitLoadIfNeeded %s in %s
+** Forcing all resource loads to fail: "%s"
+ERROR: Unable to deduce resource type for resource "%s"!
+ERROR: Unknown resource type (%s) for resource "%s"!
+ERROR: No type manager (%s) for resource "%s"!
+WARNING: Resource "%s" references itself!
+ERROR: Trying to stream resource '%s' without an appropriate type manager! (If this is at startup, you may need to use CTier2AppSystemDict::SuppressStartupManifestLoad())
+Updating resource: "%s"
+Failed to update resource: "%s"
+CResourceSystem::EnsureStreamingDataResident
+MN_OnResourceManifestLoaded for: "%s"
+Error loading resource manifest "%s" (Error: %s)
+Error loading resource manifest "%s" (Invalid header version: %d != %d)
+Error loading resource manifest "%s" (No DATA block)
+Resource manifest "%s" (Empty m_ResourceFileNameList)
+Streaming Manifest file: "%s"
+Error! Type manager for resource type '%s' %lld not registered!
+WARNING: Inconsistency detected in CResourceSystem::ExecuteResourceManifestRequests()!
+         Had a pending load flag on a resource (%s) during a manifest but no refcounts were present at the end of loading.
+         This is likely an error in the type manager for a resource type that references the resource named above.
+         This can be caused if you have extrefs to this resource in a transformed resource, but didn't transfer them to strong handles during your Allocate().
+<string based>
+An attempt was made to load resource manifest file "%s" with debug name "%s" while the resource system was shutting down.
+AddManifestDescToNamedManifest %s in %s
+RegisterNamedManifest %s in %s
+Attempted to register duplicate manifest name %s!
+Startup
+RegisterNamedManifest:: "Startup" Manifest group name has been removed. Use ConsoleStartup, GameStartup, or ToolsStartup
+CResourceSystem::RegisterNamedManifest
+UnregisterNamedManifest called, but we are not shutting down!!!
+Re-entrant calls to CResourceSystem::BeginShutdown()
+AppendResourceNamesFromCodeBasedManifest %s
+An attempt was made to load a named resource manifest with debug name "%s" while the resource system was shutting down.
+An attempt was made to load a resource manifest group "%s" with debug name "%s" while the resource system was shutting down.
+LoadResourceManifestGroup: Manifest group name is empty or null.
+ConsoleStartup
+GameStartup
+ToolsStartup
+LoadResourceManifestGroup: Manifest group name not registered: "%s"
+An attempt was made to load named resource manifest "%s" with debug name "%s" while the resource system was shutting down.
+LoadResourceManifestNamed: Manifest name is empty or null
+LoadResourceManifestNamed: Manifest name not registered: "%s"
+IsResourceManifestGroupKnown: Manifest group name is empty or null
+IsResourceManifestNamedKnown: Manifest name is empty or null
+Manifest %s already unloaded!!!!
+An attempt was made to create a resource manifest with debug name "%s" while the resource system was shutting down.
+		[ FAIL ] - Manifest contains an illegal resource name "%s"!
+RESOURCE_MANIFEST_HANDLE_INVALID
+GetNamedManifestResources: Manifest group name is empty or null.
+GetNamedManifestResources: Manifest name not registered: "%s"
+GetGroupManifestResources: Manifest group name is empty or null.
+GetGroupManifestResources: Manifest group name not registered: "%s"
+Reload "%s"
+MN_DeleteRequestedResources for: "%s" (Refcount = %d, deferred count = %d)
+Queued manual deletion for: "%s"
+WARNING: Long frame update (%.2fms) for resource type manager '%s' in frame %d (%d long updates total for this manager)
+ERROR: Reentrant call to CResourceSystem::FrameUpdate()!
+CResourceSystem::Update_Internal
+WARNING: Resource system exiting at %.2f seconds due to '-resource_exit_after_time' command line flag
+Sleeping
+ResourceSystemWaitingForFutureWork
+Idle (ResourceSystemSleep)
+WARNING: Long resource system update - should have taken no more than %dns, but took %.4fs! (Frame #%d)
+ERROR: Reentrant call to CResourceSystem::BlockUntilManifestLoaded() while already in a frame update!
+CResourceSystem::ForceSynchronizationAndBlockUntilManifestLoaded
+Manifest "%s" requesting resource "%s"
+Manifest Group "%s" requesting resource "%s", requested by manifests:
+	%s(%d) : %s
+Error! External resource reference %016llX is referring to the wrong type of resource!
+	Requested type %lld (%s), actual type %lld (%s)
+Failed to request handle to externally referenced resource %s
+RESOURCE_TYPE_NONE
+ERROR: CResourceSystem::ReloadResource() - Cannot reload a nonexistent resource!
+Resource replacement %s
+MN_ServicePendingReplacement (with replacement data: reload) for: "%s"
+MN_ServicePendingReplacement (no replacement data: deallocate) for: "%s"
+-HACK_test_vpcf2_path
+WARNING: Tried to read past the end of in-memory resource buffer for resource '%s'
+CAsyncResourceDataRequest
+Updating resource [streaming]: "%s"
+Failed to update resource [streaming]: "%s"
+CTSQueue<struct CAsyncIOResult_t,0>::CTSQueue
+CTSQueue<struct CResourceSystem::PendingResourceManifest_t,0>::CTSQueue
+CTSQueue<class CResourceManifest *,0>::CTSQueue
+CTSQueue<struct ResourceBindingBase_t const *,0>::CTSQueue
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CUtlReferenceTracker::Release() release counts for group outnumber addref counts for the same group
+CUtlBlockMemory overflow!
+CUtlBlockMemory<struct ResourceBindingBase_t const *,int>::ChangeSize
+c:\buildslave\source2_dota_rel_win64\build\src\public\tier1\utlblockmemory.h
+-resourceleaks
+RKS_DEFAULT
+default
+RKS_DISABLE_GROUP_CLEARING
+disable_group_clearing
+nogroup
+RKS_REQUIRE_EXACT_PAIRINGS
+require_exact_pairings
+RKS_KEEP_ALL_RECORDS
+keep_all_records
+keepall
+Unrecognized resource leak tracking parameter: "%s", available configuration aliases:
+Available resource leak tracking configuration aliases:
+	RKS_DEFAULT = 
+	RKS_DISABLE_GROUP_CLEARING = 
+	RKS_REQUIRE_EXACT_PAIRINGS = 
+	RKS_KEEP_ALL_RECORDS = 
+	Individual reference records '%s'
+	References grouped by fully matching call stack '%s'
+	References grouped by matching call stack of at least 10 frames '%s'
+	References grouped by matching call stack of at least 4 frames '%s'
+	References grouped by matching call stack of at least 1 frame '%s'
+Resource leak tracking is disabled, run with "-resourceleaks" to track references
+Reporting references for resource "%s":
+Reporting references for leak tracker error: "%s"
++ ResourceAddRef(), ResourceReferencePairingId_t: %d, operation: %lld
+- ResourceRelease(), ResourceReferencePairingId_t: %d, operation: %lld
++ Manifest, operation: %lld)
+- Manifest, operation: %lld)
++ CStrongHandle, operation: %lld)
+- CStrongHandle, operation: %lld)
++ Schematized reference, Pairing ID: %d, operation: %lld
+- Schematized reference, Pairing ID: %d, operation: %lld
+%d Strong handle references (Still holding onto a CStrongHandle somewhere)
+%d Manifest references (Still holding onto a HResourceManifest somewhere)
+%d General references (More ResourceAddRef() calls than ResourceRelease())
+%d Schema references (Most likely a resource referring to another resource)
+%s%s%s%s
+Final operation count %llu
+Resource Leak Breakdown
++ ResourceAddRef(), %d operations: %s
+- ResourceRelease(), %d operations: %s
++ Manifest, %d operations: %s
+- Manifest, %d operations: %s
++ CStrongHandle, %d operations: %s
+- CStrongHandle, %d operations: %s
++ Schematized reference, %d operations: %s
+- Schematized reference, %d operations: %s
+resource_leaks <resource_name>: Show resource leaks for the named resource
+resource_leaks
+Usage: resource_leaks <resource_name>
+resource_leaks: Invalid resource name '%s'
+resource_leaks: No resource named '%s'
+purecall
+Release
+invalid_parameter
+BinaryProperties_GetValue
+resourcesystem
+Intentionally vague touch behavior for %p
+resourcesystem.dll
+MResourceTypeForInfoType
+InfoForResourceTypeIParticleSystemDefinition
+InfoForResourceTypeCAnimationResource
+InfoForResourceTypeCAnimationGroupResource
+InfoForResourceTypeCSequenceGroupResource
+InfoForResourceTypeVBitmapFontRuntimeData_t
+InfoForResourceTypeIMaterial2
+InfoForResourceTypeCMorphSet
+InfoForResourceTypeCRenderMesh
+InfoForResourceTypeCModel
+InfoForResourceTypeProcessingGraph_t
+InfoForResourceTypeProcessingGraphInstance_t
+InfoForResourceTypeCTextureBase
+InfoForResourceTypeVGameSoundScript_t
+InfoForResourceTypeCNameListEvents
+InfoForResourceTypeCNameListStacks
+InfoForResourceTypeVSound_t
+InfoForResourceTypeCVMixListResource
+InfoForResourceTypeCVPhysXLevelData
+InfoForResourceTypeCPhysAggregateData
+InfoForResourceTypeCVPhysXSurfacePropertiesList
+InfoForResourceTypeCEntityLump
+InfoForResourceTypeCLightTree
+InfoForResourceTypePRTMatrixData_t
+InfoForResourceTypeCVirtualVolumeTexture
+InfoForResourceTypeCWorldNode
+InfoForResourceTypeWorld_t
+InfoForResourceTypeCWorldVisibility
+InfoForResourceTypeWorldLighting_t
+InfoForResourceTypeWorldEnvironmentMaps_t
+InfoForResourceTypeCPostProcessingResource
+InfoForResourceTypeCPanoramaStyle
+InfoForResourceTypeCPanoramaLayout
+InfoForResourceTypeCPanoramaDynamicImages
+InfoForResourceTypeCDotaItemDefinitionResource
+InfoForResourceTypeCPanoramaScript
+InfoForResourceTypeCParticleSnapshot
+From Class Binding
+RMSG_SubEventType_t
+CRMSG_Resource_NewId
+CRMSG_System_Event
+RMSG_EventType_t
+CRMSG_Resource_Event
+CRMSG_Resource_ExtReference
+CRMSG_Entity_Info
+CRMSG_Entity_Event
+CRMSG_Manifest_Event
+CRMSG_Manifest_New
+RMSG_SUB_EVENT_INSTANT
+RMSG_SUB_EVENT_INVALID
+RMSG_SUB_EVENT_END_SPAN
+RMSG_SUB_EVENT_BEGIN_SPAN
+From Enum Binding
+RMSG_SUB_EVENT_COUNT
+RMSG_SYSTEM_FRAME_BOUNDARY
+RMSG_EVENT_INVALID
+RMSG_SYSTEM_TYPE_MANAGER_UPDATE
+RMSG_SYSTEM_BLOCKING_LOAD
+RMSG_RESOURCE_HEADER_IO
+RMSG_RESOURCE_LOAD_REQUEST_QUEUED
+RMSG_RESOURCE_DATA_IO
+RMSG_RESOURCE_HEADER_LOADED
+RMSG_RESOURCE_AUTOCONVERT
+RMSG_RESOURCE_DATA_LOADED
+RMSG_RESOURCE_ALLOCATE
+RMSG_RESOURCE_EXTREF_FIXUP
+RMSG_RESOURCE_DEALLOCATE
+RMSG_CLEANUP_REFERENCES
+RMSG_RESOURCE_LOAD_FAILED
+RMSG_RESOURCE_LOAD_COMPLETED
+RMSG_MANIFEST_DATA_LOADED
+RMSG_RESOURCE_LOAD_NAMEONLY_COMPLETED
+RMSG_MANIFEST_LOAD_COMPLETED
+RMSG_MANIFEST_BLOCKING_LOAD
+RMSG_ENTITY_ACTIVATE
+RMSG_ENTITY_SPAWN
+RMSG_ENTITY_COMPONENTS_ACTIVATE
+RMSG_ENTITY_DELETE
+RMSG_POST_SPAWN_GROUP_LOAD
+RMSG_PRE_SPAWN_GROUP_LOAD
+RMSG_UNUSED_2
+RMSG_UNUSED_1
+RMSG_UNUSED_4
+RMSG_UNUSED_3
+RMSG_UNUSED_6
+RMSG_UNUSED_5
+RMSG_UNUSED_8
+RMSG_UNUSED_7
+m_nResourceId
+RMSG_EVENT_COUNT
+m_nTimeUS
+m_ResourceName
+m_nSubEvent
+m_nEvent
+m_nObjectId
+m_nFrameNumber
+m_nReferredToResourceId
+m_nReferencerResourceId
+m_nEHandle
+m_nManifestIndex
+m_pEntityClass
+m_pEntityName
+m_bEnableProfiling
+m_pManifestDebugName
+CStrongHandle
+CStrongHandleVoid
+CStrongHandleVolatile
+CStrongHandleCopyable
+CWeakHandleVoid
+CWeakHandle
+c:\buildslave\source2_dota_rel_win64\build\src\resourcesystem\Retail\win64\resourcesystem.pdb
+resourcesystem.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+g_pMemAlloc
+V_tier0_vsnprintf
+Plat_TickDiffMilliSecF
+CommandLine
+CMemAllocSystemInitialize
+ThreadGetCurrentProcessId
+Plat_TickDiffMicroSecF
+Plat_ShouldCollectMiniDumpsForFatalErrors
+ThreadInterlockedExchange64
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+GetDefaultMiniDumpTypeFlags
+Plat_IsInDebugSession
+Plat_ExitProcess
+LOG_GENERAL
+InvokeMiniDumpHandler
+?SpinLockForWrite@CThreadSpinRWLock@@AEAAXI@Z
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@VColor@@PEBDZZ
+Plat_MicroSecTickDiff
+Plat_TickDiffMicroSec
+?Wait@CThreadSyncObject@@QEAA_NI@Z
+ThreadNanoSleep
+V_tier0_vsnprintfRet
+?Lock@CThreadFastMutex@@AECAXII@Z
+SeriousWarning
+??0CCallStackCapture@@QEAA@P6AHPEAPEAXHH@ZII@Z
+Warning
+Plat_FloatTime
+Plat_RelativeTicks
+ETWResourceFrameMark
+V_tier0_snprintf
+?Set@CThreadEvent@@QEAA_NXZ
+??0CThreadEvent@@QEAA@_N@Z
+g_VProfCurrentProfile
+AssertMsg_ConditionFailed
+ThreadSleep
+LoggingSystem_RegisterLoggingChannel
+_GetCallStack
+?ExitScope@CVProfile@@QEAAXXZ
+?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
+??1CThreadEvent@@QEAA@XZ
+LoggingSystem_GetChannelVerbosity
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@PEBULoggingMetaData_t@@VColor@@PEBDZZ
+Plat_DebugPrint
+Plat_GetModuleFilename
+Plat_GetModuleProcAddress
+Plat_LoadModuleRaw
+EarlyInit_Tier0
+V_qsort_s
+Plat_GetPlatformError
+Plat_VirtualAlloc
+Plat_VirtualFree
+tier0.dll
+GetCurrentThreadId
+MultiByteToWideChar
+WideCharToMultiByte
+CloseHandle
+GetLastError
+GetCurrentProcessId
+GetProcAddress
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+ExitProcess
+GetModuleHandleExW
+RtlUnwindEx
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+RaiseException
+EnterCriticalSection
+LeaveCriticalSection
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+LCMapStringW
+OutputDebugStringW
+GetStringTypeW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetStdHandle
+SetFilePointerEx
+WriteConsoleW
+CreateFileW
+KERNEL32.dll
+V_tier0_vscprintf
+KeyValuesSystem
+Plat_GetOSType
+Plat_IsHighDPI
+??0CStackTop_Base@@IEAA@XZ
+??1CStackTop_Base@@IEAA@XZ
+GetCPUInformation
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+vsndevts
+vwenvmap
+vsndstck
+.?AVCPostConnectCallback@@
+.?AVCSchemaRegistration_mathlib_extended@@
+.?AVIAtomicManipulator@@
+.?AVISchemaManipulator@@
+.?AU?$CAtomicManipulator@VCTransform@@@@
+.?AU?$CAtomicManipulator@VCResourceString@@@@
+.?AV?$CSchemaClassBinding@UPhysFeModelDesc_t@@@@
+.?AV?$CSchemaManipulator@VCTransform@@@@
+.?AV?$CSchemaManipulator@VCResourceString@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@I@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCResourceString@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@G@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeNodeBase_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeSimdNodeBase_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeQuad_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeSimdQuad_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeSimdTri_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeSimdRodConstraint_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCTransform@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeRodConstraint_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeAxialEdgeBend_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@M@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeCtrlOffset_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeCtrlOsOffset_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeFollowNode_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeCollisionSphere_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeCollisionPlane_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeNodeIntegrator_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeSpringIntegrator_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeSimdSpringIntegrator_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeWorldCollisionParams_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeTaperedCapsuleStretch_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeTaperedCapsuleRigid_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeSphereRigid_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeTreeChildren_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeFitMatrix_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeSimdFitMatrices_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeFitWeight_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFeNodeReverseOffset_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@I@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCResourceString@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@G@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeNodeBase_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeSimdNodeBase_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeQuad_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeSimdQuad_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeSimdTri_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeSimdRodConstraint_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCTransform@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeRodConstraint_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeAxialEdgeBend_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@M@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeCtrlOffset_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeCtrlOsOffset_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeFollowNode_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeCollisionSphere_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeCollisionPlane_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeNodeIntegrator_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeSpringIntegrator_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeSimdSpringIntegrator_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeWorldCollisionParams_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeTaperedCapsuleStretch_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeTaperedCapsuleRigid_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeSphereRigid_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeTreeChildren_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeFitMatrix_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeSimdFitMatrices_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeFitWeight_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFeNodeReverseOffset_t@@@@@@
+.?AU?$CAtomicManipulator@VVector@@@@
+.?AU?$CAtomicManipulator@VCUtlStringToken@@@@
+.?AV?$CSchemaEnumBinding@W4LightType_t@@@@
+.?AV?$CSchemaEnumBinding@W4LightSourceShape_t@@@@
+.?AV?$CSchemaClassBinding@ULightDesc_t@@@@
+.?AV?$CSchemaManipulator@VVector@@@@
+.?AV?$CSchemaManipulator@VCUtlStringToken@@@@
+.?AV?$CSchemaClassBinding@UAABB_t@@@@
+.?AU?$CAtomicManipulator@VVector2D@@@@
+.?AU?$CAtomicManipulator@VQuaternion@@@@
+.?AU?$CAtomicManipulator@T__m128@@@@
+.?AU?$CAtomicManipulator@VVector4D@@@@
+.?AU?$CAtomicManipulator@VFourVectors@@@@
+.?AV?$CSchemaClassBinding@VFourVectors2D@@@@
+.?AV?$CSchemaClassBinding@UFeEdgeDesc_t@@@@
+.?AV?$CSchemaClassBinding@UOldFeEdge_t@@@@
+.?AV?$CSchemaClassBinding@UFeKelagerBend_t@@@@
+.?AV?$CSchemaClassBinding@UFeTri_t@@@@
+.?AV?$CSchemaClassBinding@UFeSimdTri_t@@@@
+.?AV?$CSchemaClassBinding@UFeQuad_t@@@@
+.?AV?$CSchemaClassBinding@UFeNodeBase_t@@@@
+.?AV?$CSchemaClassBinding@UFeNodeReverseOffset_t@@@@
+.?AV?$CSchemaClassBinding@UFeSimdQuad_t@@@@
+.?AV?$CSchemaClassBinding@UFeAxialEdgeBend_t@@@@
+.?AV?$CSchemaClassBinding@UFeBandBendLimit_t@@@@
+.?AV?$CSchemaClassBinding@UFeRodConstraint_t@@@@
+.?AV?$CSchemaClassBinding@UFeSimdRodConstraint_t@@@@
+.?AV?$CSchemaClassBinding@UFeSimdNodeBase_t@@@@
+.?AV?$CSchemaClassBinding@UFeNodeIntegrator_t@@@@
+.?AV?$CSchemaClassBinding@UFeSpringIntegrator_t@@@@
+.?AV?$CSchemaClassBinding@UFeSimdSpringIntegrator_t@@@@
+.?AV?$CSchemaClassBinding@UFeCtrlOffset_t@@@@
+.?AV?$CSchemaClassBinding@UFeCtrlOsOffset_t@@@@
+.?AV?$CSchemaClassBinding@UFeFollowNode_t@@@@
+.?AV?$CSchemaClassBinding@UFeCollisionSphere_t@@@@
+.?AV?$CSchemaClassBinding@UFeCollisionPlane_t@@@@
+.?AV?$CSchemaClassBinding@UFeWorldCollisionParams_t@@@@
+.?AV?$CSchemaClassBinding@UFeTreeChildren_t@@@@
+.?AV?$CSchemaClassBinding@UFeTaperedCapsuleRigid_t@@@@
+.?AV?$CSchemaClassBinding@UFeSphereRigid_t@@@@
+.?AV?$CSchemaClassBinding@UFeTaperedCapsuleStretch_t@@@@
+.?AV?$CSchemaClassBinding@VCovMatrix3@@@@
+.?AV?$CSchemaClassBinding@VFourCovMatrices3@@@@
+.?AV?$CSchemaClassBinding@UFeFitWeight_t@@@@
+.?AV?$CSchemaClassBinding@UFeFitInfluence_t@@@@
+.?AV?$CSchemaClassBinding@UFeFitMatrix_t@@@@
+.?AV?$CSchemaClassBinding@UFeSimdFitMatrices_t@@@@
+.?AV?$CSchemaManipulator@VVector2D@@@@
+.?AV?$CSchemaManipulator@VQuaternion@@@@
+.?AV?$CSchemaManipulator@T__m128@@@@
+.?AV?$CSchemaManipulator@VVector4D@@@@
+.?AV?$CSchemaManipulator@VFourVectors@@@@
+.?AV?$CSchemaClassBinding@VFourQuaternions@@@@
+.?AVCSchemaRegistration_resourcefile@@
+.?AVCResourceStream@@
+.?AVCResourceStreamVM@@
+.?AV?$CSchemaEnumBinding@W4ResourceDependencyFlags_t@@@@
+.?AV?$CSchemaClassBinding@UResourceInputDependency_t@@@@
+.?AV?$CSchemaClassBinding@UResourceArgumentDependency_t@@@@
+.?AV?$CSchemaClassBinding@UResourceSpecialDependency_t@@@@
+.?AV?$CSchemaClassBinding@UResourceEditIntData_t@@@@
+.?AV?$CSchemaClassBinding@UResourceEditFloatData_t@@@@
+.?AV?$CSchemaClassBinding@UResourceEditStringData_t@@@@
+.?AV?$CSchemaClassBinding@UResourceCustomDependency_t@@@@
+.?AV?$CSchemaClassBinding@UResourceAdditionalRelatedFile_t@@@@
+.?AV?$CSchemaClassBinding@UResourceEditInfoBlock_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceInputDependency_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceArgumentDependency_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceSpecialDependency_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceCustomDependency_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceAdditionalRelatedFile_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceReferenceInfo_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceEditIntData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceEditFloatData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceEditStringData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceInputDependency_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceArgumentDependency_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceSpecialDependency_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceCustomDependency_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceAdditionalRelatedFile_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceReferenceInfo_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceEditIntData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceEditFloatData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceEditStringData_t@@@@@@
+.?AV?$CSchemaClassBinding@UResourceReferenceInfo_t@@@@
+.?AV?$CSchemaClassBinding@UResourceExtRefList_t@@@@
+.?AV?$CSchemaClassBinding@UResourceDefRefList_t@@@@
+.?AV?$CSchemaClassBinding@UResourceManifest_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeResourceManifest_t@@@@
+.?AV?$CSchemaClassBinding@UResourceRemapRule_t@@@@
+.?AV?$CSchemaClassBinding@UResourceRemapTable_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeResourceRemapTable_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UResourceRemapRule_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UResourceRemapRule_t@@@@@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVIVConCommDataReceived@@
+.?AVCVConResourceProfileCommandHandler@@
+.?AVIAsyncResourceDataRequest@@
+.?AVCAsyncResourceDataRequest@@
+.?AVCRD_BlockingLoadResourceFileDataUtils@@
+.?AV?$CTier1AppSystem@VIResourceSystem@@$0A@@@
+.?AVIRD_BlockingLoadResourceFileDataUtils@@
+.?AVIResourceManifestRegistry@@
+.?AVIAppSystem@@
+.?AVIResourceDataProvider@@
+.?AVCRD_OnInitialDataRequestUtils@@
+.?AVIResourceHandleUtils@@
+.?AVICommandCallback@@
+.?AVIResourceSystemUtils@@
+.?AVCRD_OnHeaderLoadedUtils@@
+.?AVIResourceSystemTools@@
+.?AVConCommand@@
+.?AVIResourceTypeManager@@
+.?AV?$CRefCountServiceBase@$00VCRefMT@@@@
+.?AVIResourceSystemSingleThreaded@@
+.?AV?$CMemberFunctor3@PEAVCResourceSystem@@P81@EAAXPEAVIAsyncFileRequest@@PEAVCResourceManifest@@PEAVCAsyncCallStackTracker@@@ZPEAV2@PEAV3@PEAV4@V?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AVCResourceSystem@@
+.?AV?$ITSHashConstructor@UResourceData_t@CResourceSystem@@@@
+.?AVCResourceConstructor@@
+.?AVICommandCompletionCallback@@
+.?AVConCommandBase@@
+.?AVIRD_OnHeaderLoadedUtils@@
+.?AVCRD_RegisterResourceDataUtils@@
+.?AVIResourceSystem@@
+.?AV?$CTier2AppSystem@VIResourceSystem@@$0A@@@
+.?AV?$CMemberFunctor4@PEAVCResourceSystem@@P81@EAAXPEAVIAsyncFileRequest@@PEBUResourceBindingBase_t@@VResourceId_t@@_N@ZPEAV2@PEBU3@V4@_NV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@
+.?AV?$CMemberFunctor1@PEAVCResourceSystem@@P81@EAAXPEAVIAsyncResourceDataRequest@@@ZPEAVCAsyncResourceDataRequest@@V?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CTier0AppSystem@VIResourceSystem@@@@
+.?AVCBaseFileResourceDataProvider@@
+.?AVIRD_RegisterResourceDataUtils@@
+.?AVIResourceDeallocatorUtils@@
+.?AVIRD_OnInitialDataRequestUtils@@
+.?AV?$CMemberFunctor3@PEAVCResourceSystem@@P81@EAAXPEAVIAsyncFileRequest@@PEBUResourceBindingBase_t@@VResourceId_t@@@ZPEAV2@PEBU3@V4@V?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AVIRefCounted@@
+.?AVCFunctor@@
+.?AV?$CConCommandMemberAccessor@VCResourceSystem@@@@
+.?AVCResourceDeallocatorUtils@@
+.?AV?$CBaseAppSystem@VIResourceSystem@@@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVCNullTypeManager@@
+.?AVCEmptyResourceDataProvider@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeWorldEnvironmentMaps_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCParticleSnapshot@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeVGameSoundScript_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCPanoramaDynamicImages@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCMorphSet@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeWorld_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCPhysAggregateData@@@@
+.?AVISchemaBinding@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeWorldLighting_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeVBitmapFontRuntimeData_t@@@@
+.?AVCSchemaClassBindingBase@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCPanoramaStyle@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCAnimationResource@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeIParticleSystemDefinition@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCLightTree@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCWorldVisibility@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCDotaItemDefinitionResource@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCNameListStacks@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCPanoramaLayout@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCVMixListResource@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCWorldNode@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypePRTMatrixData_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCVPhysXLevelData@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCSequenceGroupResource@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCModel@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCNameListEvents@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCPostProcessingResource@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCVPhysXSurfacePropertiesList@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCAnimationGroupResource@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCVirtualVolumeTexture@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeProcessingGraphInstance_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeIMaterial2@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCEntityLump@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCRenderMesh@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeProcessingGraph_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeVSound_t@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCTextureBase@@@@
+.?AV?$CSchemaClassBinding@UInfoForResourceTypeCPanoramaScript@@@@
+.?AVCSchemaRegistration_resourcesystem@@
+.?AVCSchemaRegistration@@
+.?AV?$CSchemaClassBinding@VCRMSG_Entity_Event@@@@
+.?AV?$CSchemaClassBinding@VCRMSG_System_Event@@@@
+.?AV?$CSchemaEnumBinding@W4RMSG_EventType_t@@@@
+.?AV?$CSchemaClassBinding@VCRMSG_Resource_Event@@@@
+.?AV?$CSchemaClassBinding@VCRCMD_SetProfileMode@@@@
+.?AV?$CSchemaClassBinding@VCRMSG_Entity_Info@@@@
+.?AV?$CSchemaEnumBinding@W4RMSG_SubEventType_t@@@@
+.?AV?$CSchemaClassBinding@VCRMSG_Manifest_New@@@@
+.?AVCSchemaEnumBindingBase@@
+.?AV?$CSchemaClassBinding@VCRMSG_Resource_NewId@@@@
+.?AV?$CSchemaClassBinding@VCRMSG_Manifest_Event@@@@
+.?AV?$CSchemaClassBinding@VCRMSG_Resource_ExtReference@@@@
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+161012211801Z0#

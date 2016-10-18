@@ -1,0 +1,2990 @@
+`.rdata
+@_RDATA
+@.reloc
+UVATAUH
+T$8+G$A
+HcC$HcK
+HcC$LcC
+SUVWATAUAVAWH
+A_A^A]A\_^][
+t*@88t%
+USVWATAVAWH
+A_A^A\_^[]
+@UVAVAWH
+H9w(t	H
+t$8H9w(t	H
+@SUATAVAWH
+A_A^A\][
+@UAVAWH
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+|$ AVAWH
+t$XHcD$HL
+|$ AVAWL
+\$XHcD$HL
+x UATAUAVAWH
+A_A^A]A\]
+A9Spu	E
+t$ WATAVH
+WATAUAVAWH
+ A_A^A]A\_
+UVATAUH
+t7@8(t/@8
+l$ VATAVH
+L$ SUATAUAVH
+@A^A]A\][
+|$ ATAVAWH
+@A_A^A\
+t0@8(t)@8hXt
+D+|$XE+
+D+L$8D+
+A<A;A(E
+t$D8@ t
+l$ VAVAWH
+t$ ATAVAWH
+t8D8 t1D8
+0A_A^A\
+[ UATAVH
+|$ ATAUAVAWHcq
+xeHcT$Pf
+|$@A_A^A]A\
+WATAUAVAWH
+A_A^A]A\_
+L$ WATAUAVAWH
+A_A^A]A\_
+@SUWAVH
+L$ SUVWAWH
+@A__^][
+L$ SVWAUAVAWH
+8A_A^A]_^[
+L$ SUVWATAUAVH
+0A^A]A\_^][
+@SUVWATAVAWH
+0A_A^A\_^][
+UVWATAUAVAWH
++l$ D+t$$
+PA_A^A]A\_^]
+B HcG$H
+SUVWATAVAWH
+H@Hc{(H
+L$2;{8u	H
+Hc^X;^hu	H
+PA_A^A\_^][
+SUVWAVAWH
+L$D;^hu	H
+Lc{(D;{8u	H
+hA_A^_^][
+|$ UATAUAVAWH
+L9mgt	H
+A_A^A]A\]
+@WATAUH
+f;^$szH
+L$h+D$TA
+5HcL$DHcD$TH+
+@SVWATH
+@UAVAWH
+UVAUAVAWH
+A_A^A]^]
+4HcL$tHcE
+x:;A0}5H
+x/;A0}*H
+H9p u	H
+x9;A0}4H
+xSD;A0}MIc
+x1E;A0}+I
+xB;C0}=H
+xP;A0}KH
+x);A0}$H
+xY;A0}TH
+C8H90t	
+K8H9)t7
+\$ UVWAVM
+\$@A^_^]
+u)D9I0u
+fD9I(u	
+l$ VWATAUAWH
+0A_A]A\_^
+USVWATAVAWH
+$|<@uoH
+A_A^A\_^[]
+@SAVAWH
+ExWAVEH
+Exfmt f
+ExdataH
+|$ ATAVAWH
+ A_A^A\
+@SATAWH
+ATAUAVH
+t$`A9.vT
+0A^A]A\
+@UATAUAVAWH
+t$XA9/vP
+ A_A^A]A\]
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+0A_A^A\
+USWAUAVH
+A^A]_[]
+ugLcC 3
+t$0Hcs ;s0u	H
+x:D;W }4
+@SAVAWH
+@SUVAVH
+\$ UAVAWH
+l$ WATAWH
+|$ ATAVAWH
+0A_A^A\
+UVWAUAVH
+0A^A]_^]
+VATAUAWH
+A_A]A\^
+t)Lc[hE3
+t$McJh3
+@UATAUAWH
+(A_A]A\]
+@SUVWAUAVH
+XA^A]_^][
+HcG@;F@t@
+XA^A]_^][
+L$0H;L$H
+XA^A]_^][
+9\$ ~NH
+@USWAUH
+IMSVuWI
+t/D83t*
+SPSVu4H
+@VWATAWH
+(A_A\_^
+ Hc:Hc1L
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+l$ WATAVH
+SWAUAVAWH
+`A_A^A]_[
+|$ ATAVAWH
+WATAUAVAWH
+A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+SVWATAVH
+PA^A\_^[
+VAUAVAWH
+xA_A^A]^
+VWAUAVAWH
+A_A^A]_^
+UWAVAWH
+A;]@u	I
+t.@80t)
+Hc~H;~Xu	H
+E$L9l$ht
+AUAVAWH
+umD8u(M
+A;_(u	I
+E9u0~=M
+`A_A^A]
+USVWATAUAVAWH
+Hc_H;_Xu	H
+s Hc_H;_Xu	H
+c&Hc_H;_Xu	H
+?Hc_H;_Xu	H
+{&Hc_H;_Xu	H
+k Hc_H;_Xu	H
+Hc_H;_Xu	H
+k Hc_H;_Xu	H
+{*Hc_H;_Xu	H
+xA_A^A]A\_^[]
+L$ SVWH
+L$ VWAVH
+L9e(t	H
+D$`f9C,~
+UWATAUAVH
+A^A]A\_]
+|$ ATAVAWH
+0A_A^A\
+WATAUAVAWH
+0A_A^A]A\_
+%Lcg D;g0u	H
+x\;\$ }VH
+UVWATAUAVAWH
+\$(Hc/;o
+PA_A^A]A\_^]
+\$ UVAWH
+\$ UWAVH
+@UATAUH
+t.@8>t)
+t$ WATAUAVAWH
+Lcw8D;wHu	H
+A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+F1McF H
+L$`;T$h}
+|$ ATAVAWH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+VWATAVAWH
+A_A^A\_^
+WATAUAVAWH
+A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+VWATAVAWH
+A_A^A\_^
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+pA_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+UATAUAVAWH
+A_A^A]A\]
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+|$@Hc\$8
+UVWATAUAVAWH
+pA_A^A]A\_^]
+x UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+|$@Hc\$8
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+|$@Hc\$8
+UVWATAUAVAWH
+pA_A^A]A\_^]
+|$@Hc\$8
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+@USAVAWH
+|$ ATAVAWH
+CT@8{Pu
+UATAUAVAWH
+A_A^A]A\]
+@UVWAVAWH
+A_A^_^]
+@UVWAVAWH
+A_A^_^]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+USVWATAUH
+u#D9~@t
+A]A\_^[]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+@USVWATAVAWH
+A_A^A\_^[]
+VWATAVAWH
+A_A^A\_^
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+SUVATAVH
+`A^A\^][
+t$ WAVAWH
+G1LcG E3
+SUVWATAUAVAWH
+A_A^A]A\_^][
+A8R1u-A
+r+f;o,}%
+WATAUAVAWH
+teA9z$|_H
+ A_A^A]A\_
+@SUAUAWH
+XA_A]][
+E1LcE H
+UVWATAUAVAWH
+xcHcL$PH;
+uTHcK H
+A_A^A]A\_^]
+SVATAWH
+8A_A\^[
+}#fA;R&w
+x@HcC@H;
+}*fE;S&w#fE;
+xRHcEpH;
+|$PHc;;{
+F8Hc/Hc
+@SUVAVH
+|$ ATAVAWH
+tVD80tQH
+tbD80t]I
+tdD80t_I
+}7LcD$ 
+}ULcL$ 
+t.@8;t)
+SUVWAVH
+x/D;>}*H
+`A^_^][
+@WAVAWH
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+@A_A^A]A\_^]
+@SATAVH
+vsndstckH
+vsndevtsH
+UVAUAWH
+A_A]^]H
+vsndstckH
+19D$Hu6H
+fE94(t/E
+A9<2t(A
+vsndevtsH
+t/HcC$HcK
+t7HcC$HcK
+UVWATAUAVAWH
+CT+CdLc
+1HcCdHcKTH+
+t1HcCdHcKTH+
+\$`fA+F
+ A_A^A]A\_^]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAUAVH
+(A^A]A\]
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+{P9kH|AH
+@UAUAVAWH
+(A_A^A]]
+L$ D+t$pH
+t$ WAVAWH
+@UAVAWH
+tBHcs8;sHu
+Hc{8;{Hu
+|$8Hc:H
+UUUUUUUUH
+33333333H+
+L$ VWAVH
+@UVWATH
+T$8+G$Hc
+HcG$LcO
+T$8+G$A
+HcG$LcO
+T$8+G$A
+USVWATH
+L$Pu	H;
+:HcD$ H
+x.;C })Hc
+t$ WATAUAVAWH
+A_A^A]A\_
+x ATAVAWH
+UVAUAVH
+USVWATAVH
+A^A\_^[]
+@USATAVAWH
+A_A^A\[]
+VWATAVAWH
+ A_A^A\_^
+@UVWATAUAVAWH
+A_A^A]A\_^]
+|$ H=vpcft	H
+t$ WAVAWH
+VWATAVAWH
+ A_A^A\_^
+@8n(t L
+T$p;o(|
+\Hc^(;^8u
+9\$ ~;I
+UVWATAWH
+PA_A\_^]
+t$ WAVAWH
+@VATAVD
+l$(Hcl$HH
+l$ VAVD
+l$(Hcl$HH
+fD9tB u
+VWATAVAWH
+A_A^A\_^
+T$0;S v
+@UVATAVAWH
+A_A^A\^]
+DN"f;DJ
+,/<-w~H
+L$ SVWH
+t+HcC$LcC
+@SUAUAWH
+(A_A]][
+t+HcC$LcC
+t(HcC$HcK
++C$xiHc
+|$PHc{@$
+@UAVAWH
+|$@Hcyp;
+D$<9T$0wE9T$4w?9T$8w9;
+@SVATAWH
+XA_A\^[
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+A_A^A]A\_^[]
+SUATAWH
+XA_A\][
+@UATAUAVAWH
+@A_A^A]A\]
+SUVWAVAWH
+(A_A^_^][
+@SUVWATAVAWH
+0A_A^A\_^][
+ATAVAWH
+ A_A^A\
+VWATAVAWH
+A_A^A\_^
+@UATAVH
+l$ VAVAWH
+fffffff
+p WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+pA_A^A]A\_^]
+fffffff
+.ffffff
+fffffff
+0ffffff
+fffffff
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+USVWAVH
+!\$0!\$(!\$ L
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+AUAVAWH
+0A_A^A]
+VWATAVAWH
+ A_A^A\_^
+` AUAVAWH
+t$8Hc0I
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+@ffffff
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+t$ WAVAWH
+@UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+0A_A^A]A\_
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@SUVWATAVAWH
+PA_A^A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+SUVWATAUAVAWH
+H9D$(u^L
+L$0D;t$ s
+HA_A^A]A\_^][
+WATAUAVAWH
+A_A^A]A\_
+SATAUAWUH
+]A_A]A\[
+H(H9J(u
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+MATCHFRAMEWORK_001
+ScaleformUI001
+PanoramaUIEngine001
+PanoramaUIClient001
+PanoramaTextServices001
+ToolFramework2_002
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+EconItemToolModel_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+MODEL_PROCESSING_SERVICES_INTERFACE_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client002
+Source2ClientUI001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers002
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+WorkshopSetup001
+ModelDocCommandSystem001
+NavSystem001
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+c:\buildslave\destinations_staging_win64\build\src\interfaces\interfaces.cpp
+CKeyValues3Cluster allocated with bad alignment! (%p) (If this is inside of a heap allocation, you may need to inherit from CAlignedNewDelete< KV3_CLUSTER_SIZEOF >.)
+CKeyValues3Cluster::CKeyValues3Cluster
+c:\buildslave\destinations_staging_win64\build\src\kv3lib\keyvalues3.cpp
+Failed to read file.
+<!-- schema 
+Unable to determine buffer encoding.
+C<!-- kv3 
+Expected CUtlBuffer::TEXT_BUFFER for LoadKV3Text
+{}[]=, 	
+Line %d at "%s": %s
+Line %d: %s
+Unserialization Error: %s
+Invalid header
+Bad header format (expected '<!--'
+Bad header format (expected 'kv3'
+encoding
+Bad header format (expected 'encoding'
+Bad header format (expected ':'
+Bad header format (expected encoding name)
+version
+Bad header format (expected 'version'
+Bad header format (expected encoding uuid)
+Bad header format (expected 'format'
+Bad header format (expected format name)
+Bad header format (expected format uuid)
+Bad header format
+Bad header format (malformed UUID)
+Bad header (unrecognized format specifier)
+Bad header (unrecognized encoding specifier)
+Expected '{'
+Expected member name or '}'
+Invalid member name '%s'
+Expected '=' after member name '%s'
+Invalid data for member '%s'
+Unrecognized flag name '%s'
+Expected '['
+Expected value or ']'
+Expected ',' or '%s'
+Expected '#'
+Expected token
+Expected hex byte (eg. 00-FF)
+Failed to assign bool literal value
+Line %d: Invalid value "%s"
+Unexpected end of file
+Unrecognized type '%d'
+Invalid data.
+Bad header: invalid binary marker
+Bad header: unrecognized encoding id
+Bad header: unrecognized format id
+Bad header: invalid compression header
+Decompression failure
+__temp_unserialization_member__
+z:K_class
+{}[]()=&, 	
+Expected <member name> after type
+Expected "="after member '%s'
+Expected type of next member
+Expected []
+Expected ( <count> )
+Expected '[' or '('
+Expected '&' and instance name or 'NULL'
+Line %d: Invalid literal value "%s"
+Cycle or diamond double-reference to '%s'
+Unresolved object reference '%s'
+resource
+deferred_resource
+SSE and SSE2 are required.
+MathLib_Init
+c:\buildslave\destinations_staging_win64\build\src\mathlib\mathlib_base.cpp
+invalid_hitbox
+invalid_bone
+default
+MResourceVersion
+Resource %s
+TypeManager
+Failed to call CBaseIntrospectedTypeManager::SetDiskDataBinding
+CBaseIntrospectedTypeManager::Init
+c:\buildslave\destinations_staging_win64\build\src\resourcefile\introspectedtypemanager.cpp
+Failed to call CBaseIntrospectedTypeManager::Init
+CBaseIntrospectedTypeManager::AllocateResource
+Error loading resource "%s" (Invalid resource version: %d != %d)
+WARNING: Missing introspection manifest for file: %s
+WARNING: Missing data block for file: %s
+ERROR: Problem allocating permanent data for resource in file '%s'. See above for reason(s)
+WARNING: Problems encounted with external references in resource '%s'. See above for reason(s)
+ERROR: Could not find schema data for helper class for resource type %lld '%s'. (Missing MDiskDataForResourceType metadata or schema data isn't loaded?)
+FindDiskDataClassForResourceType
+c:\buildslave\destinations_staging_win64\build\src\resourcefile\resourcefile.cpp
+[Disk class %d/%d] Name = '%s'; Project = '%s'; Binary = '%s'
+ERROR: Multiple classes registered as disk data for resource type %lld '%s'. (Should only have one class MDiskDataForResourceType - %d listed above.)
+MResourceTypeForInfoType
+Failed to fix resource reference '%s' (%s)- ID = %016llX, Expected in: '%s'
+FixupResourceName: Illegal full path passed in ("%s")!
+FixupResourceName: Illegal path, missing extension passed in ("%s")!
+@SoundSystemLowLevel
+Sound Disabled
+Sound Disabled.
+Failed to initialize XAudio2 device!
+Failed to initialize DirectSound device!
+Failed to initialize SDL Audio device!
+XAudio2 Device
+Xaudio2 Voice Error %x
+Xaudio2 Error %x
+XAudio2_7.dll
+XAudio2 failed to initialize
+Unable to detect XAudio2 devices
+XAudio2 Sound Device: %s
+Channels:	%d
+Bits/Sample:	%d
+Rate:		%d
+Windows DirectSound
+dsound.dll
+DirectSoundEnumerateA
+Failed to initialize direct sound!
+Couldn't load dsound.dll
+DirectSoundCreate
+Couldn't get DS proc addr
+DirectSound hardware in use, can't initialize!
+DirectSound Create failed.
+Couldn't get DS caps
+No DirectSound driver installed
+Set coop level failed
+Direct Sound Device
+S_ClearBuffer: DS::Lock Sound Buffer Failed
+S_ClearBuffer: DS: couldn't restore buffer
+qFailed %d
+DS_INTERLEAVED
+DS::Lock Sound Buffer Failed %s
+DS:: couldn't restore buffer %s
+DS::Lock Sound Buffer Failed
+Source2SDLDefaultDevice
+SDL Audio
+SDL Audio Device
+%%.%if%s
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf
+c:\buildslave\destinations_staging_win64\build\src\tier1\utlbuffer.cpp
+%i %i %i %i
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar(%s) defined with infinite float value (%s)
+ConVarRef %s doesn't point to an existing ConVar
+CUtlString::FormatV
+%s unable to grow buffer to fit string
+c:\buildslave\destinations_staging_win64\build\src\tier1\utlstring.cpp
+c:\buildslave\destinations_staging_win64\build\src\tier1\mempool.cpp
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase::CUtlMemoryPoolBase
+UPDATE_STRING_TOKEN_DATABASE
+c:\buildslave\destinations_staging_win64\build\src\tier1\utlmemoryarena.cpp
+CUtlMemoryArena::Free
+nOffset < m_nAllocationSize
+Assertion Failed in function %s():
+unknown
+KeyValues Error: %s in file %s
+(*%s*), 
+ ReadToken overflow
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KV Conditional Evaluation Error
+#include
+#include is NULL 
+#base is NULL 
+LoadFromBuffer: expected '{', found '%s'
+RecursiveLoadFromBuffer:  recursion overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  got conditional between key and value
+RegisterConfigValue: Unknown error constructing config value "%s"!
+CGlobalConfigValueRegistry::HookUpConfigValue
+c:\buildslave\destinations_staging_win64\build\src\tier1\configvalue.cpp
+Newline in string literal
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+VScript
+VScriptDbg
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+bad allocation
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+?atan2f
+?8UUUUU
+?E=$% B
+?49HoKC
+?UUUUUU
+AUUUUUU
+?UUUUUU
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+>+>ZQ"v
+[*ncd>TQ
+\>$hkDh$h>
+?N]TUUU
+?UUUUUU
+Unknown exception
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+UTF-16LE
+UNICODE
+@^8U)zj
+?8bunz8
+?@En[vP
+-9D	/9a
+?UUUUUU
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+bad exception
+_nextafter
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+FCHAN_WEAPON
+CHAN_VOICE
+CHAN_ITEM
+CHAN_BODY
+CHAN_STATIC
+generic
+unknown error
+iostream
+iostream stream error
+string too long
+invalid string position
+Audio Capture Device
+AIL_startup
+AIL_shutdown
+AIL_set_redist_directory
+RIB_find_files_provider
+RIB_free_provider_library
+RIB_request_interface
+MSS_alloc_info
+MSS_free_info
+mss64.dll
+Input file types
+Output file types
+ASI codec
+ASI_stream_property
+ASI_stream_open
+ASI_stream_close
+ASI_stream_process
+Output sample rate
+Output sample width
+Output channels
+Input sample rate
+Input sample width
+Input channels
+Minimum input block size
+Position
+ASI stream
+ASI_stream_seek
+ASI_stream_seek called, but it doesn't exist.
+ASISTRUCT::Seek
+c:\buildslave\destinations_staging_win64\build\src\soundsystem\mp3_miles.cpp
+adsp_debug
+adsp_door_height
+adsp_wall_height
+adsp_low_ceiling
+NEW DSP NODE: size:(%.0f,%.0f) height:(%.0f) dif %.4f : refl %.4f : cobj: %.0f : sky %.0f 
+DSP PRESET: %.0f size:(%.0f,%.0f) height:(%.0f) dif %.4f : refl %.4f : cobj: %.0f : sky %.0f 
+DSP NODE
+Specifies the position (in degrees) of the virtual front left/right headphones.
+snd_front_headphone_position
+%s = %f
+Specifies the position  (in degrees) of the virtual rear left/right headphones.
+snd_rear_headphone_position
+Specifies the position (in degrees) of the virtual front left/right speakers.
+snd_front_stereo_speaker_position
+Specifies the position (in degrees) of the virtual rear left/right speakers.
+snd_rear_stereo_speaker_position
+snd_front_surround_speaker_position
+snd_rear_surround_speaker_position
+Specifies the exponent for the pan xfade from phone to phone if the "exp" pan law is being used.
+snd_headphone_pan_exponent
+Specifies the exponent for the pan xfade from speaker to speaker if the "exp" pan law is being used.
+snd_stereo_speaker_pan_exponent
+snd_surround_speaker_pan_exponent
+Apply cos(angle) * weight before pan law
+snd_headphone_pan_radial_weight
+snd_stereo_speaker_pan_radial_weight
+snd_surround_speaker_pan_radial_weight
+FCVAR_NEVER_AS_STRING
+sounds/%s
+sounds/
+snd_sos_show_client_rcv
+SoundOperatorSystem
+snd_mix_minframetime
+Sound merge method (0 == sum and clip, 1 == max, 2 == avg).
+snd_mergemethod
+If set to 1, report all sounds stopped with S_StopSound().
+snd_report_stop_sound
+If set to 1, report more error found when playing sounds.
+snd_report_verbose_error
+snd_store_filepaths
+snd_max_same_sounds
+snd_max_same_weapon_sounds
+Game volume
+snd_gamevolume
+Voice volume
+snd_voipvolume
+Game v.o. volume
+snd_gamevoicevolume
+(%s) %d
+snd_delay_sound_shift
+Clock ERROR!: %.2f %.2f
+Show sounds location in world
+snd_visualize
+Sound volume
+Volume of sounds in tools (e.g. Hammer, SFM)
+snd_toolvolume
+Music volume
+snd_musicvolume
+Enable automatic buffer latency detection (requires driver support)
+snd_autodetect_latency
+snd_mixahead
+snd_mix_async
+Sound system not started
+Active Voices: %d
+  %d: %s (%08lx :: %08lx)
+Play a sound.
+Play a sound at a specified volume.
+playvol
+stopsound
+List all known sounds.
+soundlist
+Describe the current sound device.
+soundinfo
+-nosound
+void S_Init( start )
+VAudioInit (MSS)-start
+VAudioInit (MSS)-finish
+Sound Initialization: Finish, Sampling Rate: %i
+S_Init( finish )
+soundlog_%i_%02i_%02i_%02i_%02i.txt
+S_FindName: NULL name
+S_FindName
+c:\buildslave\destinations_staging_win64\build\src\soundsystem\snd_dma.cpp
+sounds\
+File %s missing sounds dir. Fixing for now.
+File %s missing vsnd extension. Fixing for now.
+voice_steal
+Voice overflow, voice count == MAX_CHANNELS
+dsp_dist_min
+dsp_dist_max
+dsp_mix_min
+dsp_mix_max
+dsp_db_min
+dsp_db_mixdrop
+snd_showstart
+voice_minimum_gain
+(Unknown)
+[Sound] %s("%s") called. %s
+Stopping sound.
+S_StopChannelUnlocked
+\\fileserver\User\Morasky\L4Dsoundlogs\%s_%s
+\fileserver\User\Morasky\L4Dsoundlogs\
+Soundlog file %s is read-only!!
+snd_dump_filepaths: Wrote %s
+Error: Filepath arg required
+snd_dump_filepaths
+snd_filter
+%s(%d): params.pSfx is NULL.
+-playtest
+S_StartSound: %s Stopped.
+%s(%d): Could not pick channel for sound '%s'.
+S_StartSound: Failed to load sound '%s', file probably missing from disk/repository
+%s(%d): Channel does not have a mixer for sound '%s'.
+[%s] %s : src %d : channel %d : %d dB : vol %.2f : time %.3f
+	 dspmix %1.2f : distmix %1.2f : lvol %1.2f : cvol %1.2f : rvol %1.2f : rlvol %1.2f : rrvol %1.2f
+	 x: %4f y: %4f z: %4f
+S_StartSound
+Stopping All Sounds...
+Unknown
+Stopping: Channel:%2d %s
+snd_ducktovolume
+snd_duckerattacktime
+snd_duckerreleasetime
+snd_duckerthreshold
+S_UpdateVoicesPerFrame
+Usage:  playdelay delay_in_msec (negative to skip ahead) soundname
+sndplaydelay
+(%2db) %6i : %s
+Total: %.2f MB
+LowPass
+HighPass
+BandPass
+VeryHigh
+Filter Type
+Cutoff Frequency
+Bandwidth
+Filter Quality
+AllPass
+FilteredLinear
+Lowpass4Tap
+Plain4Tap
+Delay Type
+ms Delay
+Feedback
+Cutoff Freq
+Filter bandwidth
+ms Delay (tap 1)
+ms Delay (tap 2)
+ms Delay (tap 3)
+Filter Bandwidth
+Modulation Frequency
+Modulation Depth
+Mod Glide Time
+FX Mix (1.0 == wet)
+ms delay max
+ms delay min
+delay count
+parallel filters
+ms of mod depth
+Mod rate
+Reverb Width ms
+Reverb Depth ms
+Reverb Height ms
+Width Reflectivity
+Depth Reflectivity
+Height Reflectivity
+Extra taps
+Delay Scale
+Delay Count
+Feedback scale
+Triangle
+Square Wave
+Forward Saw
+LOG Fade in
+LOG fade out
+Fade In
+Fade Out
+LFO Type
+Mod Rate (Hz)
+Is Oneshot
+Octaves shifted
+time slice ms
+crossfade ms
+Exponential
+Envelope Type
+Peak Amplitude
+Decay target amplitude
+Sustain target amplitude
+Attack time (ms)
+Decay time (ms)
+Sustain time (ms)
+Release time (ms)
+Exponential Ramp
+Threshold dB
+Mod Frequency
+Mod Depth
+Mix (1.0 = wet)
+Distortion Threshold
+Distortion Mix (1.0 = wet)
+Distortion feedback
+Mod Rate
+Mod Glide (ms)
+Random Modulation
+DSP: Warning, failed to allocate delay line.
+DSP: Warning, failed to allocate filter for delay line.
+Sound DSP: Failed to lock.
+DSP: Warning, failed to allocate filter.
+DSP: Warning, failed to allocate mod delay.
+DSP: Warning, failed to allocate reverb.
+DSP: Warning, failed to allocate flt for reverb.
+DSP: Warning, failed to allocate delay for reverb.
+DSP: Warning, failed to allocate diffusor.
+DSP: Warning, failed to allocate delay for diffusor.
+DSP: Warning, failed to allocate LFO.
+DSP: Warning, failed to allocate pitch shifter.
+DSP: Warning, failed to allocate delay for pitch shifter.
+DSP: Warning, failed to allocate envelope.
+DSP: Warning, failed to allocate envelope follower.
+DSP: Warning, failed to allocate chorus.
+DSP: Warning, failed to allocate lfo or mdy for chorus.
+DSP: Warning, failed to allocate amp.
+DSP: Warning, clamping out of range parameter.
+total preset slots used: %d 
+Sound DSP: preset failed to init.
+dsp_automatic
+dsp_off
+dsp_volume
+dsp_vol_5ch
+dsp_vol_4ch
+dsp_vol_2ch
+WARNING: DSP preset failed to allocate.
+VERTICAL SHAFT Detected 
+DUCT Detected 
+HALL Detected 
+TUNNEL Detected 
+ROOM Detected 
+OPEN SIDED OUTDOOR AREA Detected 
+OUTSIDE COURTYARD Detected 
+OUTSIDE ALLEY Detected 
+OUTSIDE STREET Detected 
+adsp_room_min
+adsp_duct_min
+adsp_hall_min
+adsp_tunnel_min
+adsp_street_min
+adsp_alley_min
+adsp_courtyard_min
+adsp_openspace_min
+adsp_openwall_min
+adsp_openstreet_min
+adsp_opencourtyard_min
+mix_min
+mix_max
+duration
+db_mixdrop
+processors
+DSP_LoadPresetFile: unable to load '%s'
+error:%s
+DSP_LoadPresetFile
+c:\buildslave\destinations_staging_win64\build\src\soundsystem\snd_dsp.cpp
+dsp_presets
+effectname
+preview.editor.000
+preview.editor.001
+preview.editor
+VMixEditTool001
+ARoomDSP
+MasterVolume
+IsUnderwater
+IsAutomaticRoom
+snd_envelope_rate
+soundstacks/mixgraph.vmix
+-vmix_disable
+-vmix_file
+VMIX ERROR: %s (error %s)!
+CMainAudioGraph::CMainAudioGraph
+c:\buildslave\destinations_staging_win64\build\src\soundsystem\snd_mix.cpp
+VMIX ERROR: Can't find mixgraph: %s!
+Set an input mix value
+mix_input
+Main Output
+soundstacks/dsp_core.vmix
+out of voice sources, won't lipsync %s
+snd_mixer_master_level
+snd_mixer_master_dsp
+snd_showclassname
+snd_list
+snd_disable_mixer_solo
+Default_Mix
+snd_soundmixer
+(%s:%s) 
+localPlayer
+ : %s : vol: %4.2f, sndlvl: %4.2f 
+%s:%s: 
+snd_disable_mixer_duck
+Setting Mixer %s: MixGroup %s: %s : %f
+Error: MixGroup %s cannot be resolved!
+Error: MixGroup %s, in LayerTriggers cannot be resolved!
+Parameters: mix group name, [vol, mute, solo], value
+Set named Mixgroup of current mixer to mix vol, mute, solo.
+snd_setmixer
+Parameters: mix group name, layer name, [vol, mute, solo], value, amount
+Setting MixLayer %s
+Set named Mixgroup of named mix layer to mix vol, mute, solo.
+snd_setmixlayer
+Parameters: mixer name, mix amount
+Setting MixLayer %s : mix %f
+Set named mix layer mix amount.
+snd_soundmixer_setmixlayer_amount
+Parameters: mix layer name, mix group name, trigger amount
+Set named mix layer / mix group, trigger amount.
+snd_soundmixer_set_trigger_factor
+snd_soundmixer_version
+Reload soundmixers.txt file.
+snd_soundmixer_flush
+MixGroup %s:
+cplayervoice
+Error: Parsing soundmixers.txt, mixgroup rules incomplete at group %s!
+Error: Parsing soundmixers.txt, mixgroup rules incomplete!
+Error: Parsing soundmixers.txt, soundmixer mix group values incomplete!
+Error: MixGroup %s, in SoundMixer %s, cannot be resolved!
+MixGroup %s: %f : %f : %f : %f : %f 
+MixLayer triggered %s:
+Can't find mix layer %s
+Error: MixLayer Trigger entries require minimum 2 arguments after layer trigger for %s
+scripts/soundmixers.txt
+Unable to load sound system data.
+Starting verification of Steam Game Cache.
+Retry launching after completion.
+MXR_LoadAllSoundMixers
+c:\buildslave\destinations_staging_win64\build\src\soundsystem\snd_mixgroups.cpp
+Total Mix Groups Rules: %i
+Total Mix Layers: %i
+MixGroups
+Parsing MixGroups:
+SoundMixers
+Parsing SoundMixers:
+MixLayers
+Parsing MixLayers:
+LayerTriggers
+Parsing LayerTriggers:
+Error: Too many mix groups! MixGroup %s ignored
+Error: Too many sound mixers! SoundMixer %s ignored
+SoundMixer %s:
+Error: Too many mix layers! MixLayer %s ignored
+MixLayers %s:
+vol: %3.2f 
+lvl: %3.2f 
+dsp: %3.2f 
+solo: %3.2f 
+mute: %3.2f
+List all mixers to dev console.
+snd_soundmixer_list_mixers
+g_mastermixlayer:
+List all mix layers to dev console.
+snd_soundmixer_list_mix_layers
+List all mix groups to dev console.
+snd_soundmixer_list_mix_groups
+	VOL: %f
+	LVL: %f
+	DSP: %f
+	MUTE: %f
+	SOLO: %f
+Get data related to mix group matching string
+snd_getmixer
+NULL m_pSfx
+Spew message to console any time async sound loading blocks on file i/o.
+snd_async_spew_blocking
+Spew streaming info ( 0=Off, 1=streams, 2=buffers
+snd_async_stream_spew
+Spew stream pool failures.
+snd_async_stream_fail
+Blocking I/O hitch.  Freed memory while streaming in %s
+%f Async I/O Bumped priority for %s (%8.2f msec)
+Won't age handle!
+	[%2d] %16.16s : %s (%d)
+CAsyncWavDataCache:  %i sounds total %s, %.2f %% of capacity
+Flush all unlocked async audio data
+snd_async_flush
+Show async memory stats
+snd_async_showmem
+Show brief async memory stats
+snd_async_showmem_summary
+Show async memory stats for just non-streamed music
+snd_async_showmem_music
+CTSQueue: Misaligned queue
+CTSQueue<class CAsyncWaveData *,0>::CTSQueue
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\destinations_staging_win64\build\src\public\tier0\tslist.h
+Incorrect sampling rate in %s (mp3 frames are at %dHz, .vsnd file has %dHz)
+c:\buildslave\destinations_staging_win64\build\src\soundsystem\snd_wave_mixer_mp3.cpp
+CAudioMixerWaveMP3::OnCachedDataAvailable
+m_pStream
+Failed to decode %s
+Sampling rate error on %s. Header: %d, mp3: %d
+snd_async_minsize
+Prefetch common sounds from directories specified in scripts/sound_prefetch.txt
+snd_prefetch_common
+WaveFixupTmpFile( '%s' ) failed to open file for editing
+Fixup corrupted .wav file if engine crashed during startmovie/endmovie, etc.
+movie_fixwave
+Usage: movie_fixwave wavname
+movie_fixwave: File '%s' does not exist
+Copying '%s' to '%s'
+Performing fixup on '%s'
+Reference distance for snd_refdb
+snd_refdist
+Reference dB at snd_refdist
+snd_refdb
+snd_gain
+snd_gain_max
+snd_gain_min
+operator_stacks
+update_stack
+reference_operator
+reference_stack
+operator_variables
+core_update_default
+snd_sos_default_update_stack
+snd_compare_KV_convert
+invalid stack
+CSoundEvent: %s
+Stack: %s
+Fields:
+public.
+Event Data: %i
+%s: %s (%i : %i)
+Event VSNDS:
+PurgeAndDeleteAll: Deleting orphaned CSoundEvent pointer for %s via shutdown
+snd_sos_use_case_sensitive_soundevents
+ProcessSoundEvent:  %s unable to get referenced stack %s. Soundevent deleted and removed.
+field_override
+data_type
+ProcessSoundEvent: %s found field %s with "data_type" during conversion comparison, which is no longer supported. Please add "soundevent_data" to stack %s
+ProcessSoundEvent: %s unable to find field name %s either in public or event data on stack %s.
+ProcessSoundEvent: %s unable to get "base" sound event %s
+preload_vsnds
+ProcessSoundEvent: %s unable to get referenced stack %s. Soundevent deleted and removed.
+ProcessSoundEvent: Sound Event %s field %s illegal empty array detected.
+ProcessSoundEvent: Sound Event %s field %s data count doesn't match field type.
+ProcessSoundEvent: %s field %s has more elements than stack %s has allocated and the field is not specified as soundevent_data. Element count constrained.
+ProcessSoundEvent: %s field %s has a different number of atomic elements than the field data type. Skipping
+SetDataFromKV3: KV3 type BOOL does not match field %s type.
+SetDataFromKV3: KV3 type UINT64 does not match field %s type.
+SetDataFromKV3: KV3 type FLOAT does not match field %s type.
+AddSoundEvent:AddSoundEvent event with empty name
+AddSoundEvent:  %s has a hash collision with existing %s
+AddSoundEvent event with empty name
+CVSoundEventScriptTypeManager::AddSoundEvent:  %s has a hash collision with existing %s
+AddNewSoundEvent:  %s has a hash collision with existing %s
+AddSoundEvents: SoundEvent %s was unable to convert to KV3.
+AddSoundEvents: SoundEvent file %s was not compiled from a KeyValues3 file and is being converted. Please recompile.
+AddSoundEvents: event with empty name
+GetSoundEvent: unable to get event by hash %i
+GetSoundEvent: unable to get event by name %s
+GetSoundEventUpdateStackHash: unable to get event by hash %i
+GetSoundEventUpdateStackHash: unable to get event by name %s
+<INVALID>
+GetSoundEventStackParamInfoVector: unable to get event by hash %i
+GetSoundEventStackParamInfoVector: unable to get event by name %s
+GetSoundEventFieldData: unable to get event by hash %i
+GetSoundEventFieldData: unable to get event by name %s
+UpdateSoundEvents: event with empty name
+STACK COMPARE FAIL: %s->%s
+PARAM COUNT COMPARE FAIL: %s->%s
+PARAMINFO COMPARE FAIL: %s->%s
+PARAMDATA COMPARE FAIL: %s->%s : %s
+FIELDATASIZE COMPARE FAIL: %s->%s
+FIELDATA COMPARE FAIL: %s->%s
+FIELINFO COMPARE FAIL: %s->%s
+VSNDVEC COMPARE SIZE FAIL: %s->%s
+VSNDVEC COMPARE FAIL: %s->%s
+SOUNDEVENT COMPARE SUCCESS: %s->%s
+Usage:  snd_compare_soundevents soundevent1 soundevent2
+Compare the compiled and loaded contents of 2 soundevents.
+snd_compare_soundevents
+Usage:  snd_print_soundevent <soundeventname>
+Unable to find soundevent: %s
+Print the data associated with the specified soundevent.
+snd_print_soundevent
+List all available soundevents
+snd_list_soundevents
+List all available soundevents using specified stack name
+snd_list_soundevents_by_stack
+Usage:  snd_remove_soundevent <soundeventname>
+Remove the specified soundevent
+snd_remove_soundevent
+Remove all soundevents
+snd_remove_all_soundevents
+SoundSystem
+snd_mute_losefocus
+speaker_config
+ID of the sound device to use
+sound_device_override
+SoundSystem001
+WARNING: Invalid vsnd version '%d' for file: %s
+VSND::HandleResourceDataBlockingLoad
+CVSoundTypeManager::HandleResourceDataBlockingLoad
+c:\buildslave\destinations_staging_win64\build\src\soundsystem\soundsystem.cpp
+ResourceSystem009
+resourcesystem
+Addon unloaded, unloading sound resources.
+bandwidth
+frequency
+-directsound
+-sdlaudio
+#OS_Default_Device
+-debugsoundqueue
+Attempted preload of soundevent %s with no vsnds
+Queue took %f msec to drain
+Queue sound '%s'
+AsyncSoundQueue
+CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList<struct CQueuedVSoundLoader::AsyncSoundQueue_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CQueuedVSoundLoader::AsyncSoundQueue_t,unsigned short>,unsigned short> >::AllocInternal
+c:\buildslave\destinations_staging_win64\build\src\public\tier1\utllinkedlist.h
+CUtlLinkedList overflow! (exhausted index range)
+RESOURCE_TYPE_SOUND
+Can't find mixgroup name %s for submix
+%s set to %.2f / %d
+Input %s: %.3f [%d]
+input %s received updated value from processor %d (%.2f, %d)
+Bad command in vmix!
+Cannot find mix input %s
+channels
+sendOperator
+exclusive
+processor_type
+PresetDSP
+VMIX: Specified both effect %d and effectname %s
+automatic
+VMIX: Unknown filter type for DSP:%s
+VMIX: Unknown processor type %s (name %s)
+int_value
+input_type
+connection_type
+connection_id
+connection_input
+VMIX: Can't find processor %s for input %s
+command
+submix0
+submix1
+outputsubmix
+processor0
+m_Submixes
+m_Processors
+m_Inputs
+m_MixCommands
+test.filter
+Lowpass
+Underwater
+UnderwaterDSP
+PlayerDSP
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+voice_scale
+voice_loopback
+voice_fadeouttime
+voice_threshold_delay
+voice_threshold
+voice_gain_rate
+voice_gain_downward_multiplier
+voice_gain_target
+voice_gain_max
+CPlayerVoiceStream
+sounds/%s_%llu.vsnd
+Dropping Voice data (%d bytes)
+purecall
+invalid_parameter
+Release
+soundsystem
+BinaryProperties_GetValue
+Intentionally vague touch behavior for %p
+soundsystem.dll
+SoundOpSystemEdit001
+SndToolHelp
+Public Stack Params
+Edited Params
+operator_override
+On Start
+On Update
+On Stop
+On Prestart
+unknown stack type
+start_stack
+stop_stack
+prestart_stack
+output_
+Match Event Name: %s
+Match SubString ?: %s
+Match Event Type: %i
+Match Entity Index: %i
+Match Event Hash: %i
+Timed ?: %s
+Duration: %f
+StartTime: %f
+StopTime: %f
+CurTime: %f
+Active ?: %s
+Free ?: %s
+Spew data about the list of block entries.
+snd_sos_show_block_debug
+snd_sos_show_entry_match_free
+FREEING MATCH ENTRY:
+---invalid event---
+SndOperators
+input_execute
+execute_once
+Stack Shutdown: Stack: %s : Operator: %s
+%*s%s.%s: 
+*SoundEvent Data*
+no stack mem
+(connected: %s %i )
+%dOffset: %i
+%*sName: %s
+%*sNameSpace: %s
+%*sName: %s
+input_duration
+input_active
+input_entity_index
+input_event_type
+match_event_name
+match_substring
+match_this_event
+soundevent_block
+Error: Operator %s, EntryMatchList has no free slots!
+ERROR: sound event %s operator %s
+event_name
+exit_if_blocked
+output_is_blocked
+soundevent_block_test
+snd_op_test_convar
+convar_set
+Operator Error: Event %s: %s
+CSosOperatorSetConvar
+Warning: Unable to set convar value: %s
+CSosOperatorConvar
+convar_get
+Warning: Unable to acquire convar value: %s
+math_delta
+input_level
+input_distance
+calc_distant_dsp
+output_ent_dormant
+output_success
+output_position
+output_id_deleted
+output_position_y
+output_position_x
+output_entity_is_player
+output_position_z
+output_angles
+output_is_selected_by_local_player
+output_velocity_vector_x
+output_velocity_vector
+output_velocity_vector_z
+output_velocity_vector_y
+output_velocity_xy
+output_velocity
+input_default_local_position
+input_default_world_position
+attachment
+use_world_position
+SoundEvent %s, input_entity_index %i was valid but no longer is
+game_entity_info
+MASK_WATER
+mask_type
+input_position
+dota_ground_under_water
+game_get_point_contents
+input_folliage_loss
+input_near_min
+calc_falloff
+input_distant_min
+input_near_max
+input_distant_exp
+input_distant_max
+input_tail_max
+input_tail_min
+input_curve_amount
+calc_falloff_vr
+input_max
+input_min
+calc_falloff_curve
+input_atten
+math_filter_float
+input_max_velocity
+accumulate_indexed_speakers
+input_index
+function
+math_func_float
+normalize_trig
+greater_than
+greater_than_or_equal
+less_than
+less_than_or_equal
+invert_scale
+not_equal
+math_float
+output_float
+distance
+math_string
+math_float3
+left_front
+math_speakers
+left_rear
+right_front
+right_rear
+CSosOperatorSpeakers
+Error: Operator %s, unknown sound operator attribute %s
+input11
+input10
+math_accumulate12_float
+input12
+Error: %s : Math expression type not currently supported in sound operator math_accumulate12_float
+CSosOperatorFloatAccumulate12
+input_position2
+input_position1
+calc_segment
+calc_distance
+input_pos
+output_pos
+input_line_end
+input_line_start
+input_map_min
+calc_closest_point_on_line
+clamp_range
+input_map_max
+math_remap_float
+default_to_max
+input_Y1
+input_X1
+input_Y2
+input_X2
+input_Y3
+input_X3
+input_Y4
+input_X4
+math_curve_2d_4knot
+curve_type
+input_listener_position
+input_angles
+calc_angles_facing
+input_source_position
+math_random_float
+round_to_int
+input_rand_max
+input_rand_min
+math_randomize_float
+noise_type
+sparse_convolution
+input_y
+input_x
+math_perlin_noise
+input_z
+input_radius_max
+input_radius_min
+input_switch
+math_random_float3
+ctrl_switch_float
+ctrl_switch3_float
+input_switch_offset
+ctrl_switch3_float3
+ctrl_switch_float3
+math_velocity
+ctrl_switch12_float
+input_count
+math_inrange_float
+math_db_to_gain
+math_average8_float
+math_gain_to_db
+output_level
+output_volume
+output_mixgroups
+output_dsp
+input_class_name
+input_vsnd
+input_soundlevel
+input_is_player
+soundmixer_get_mixgroup
+mixgroup
+Error: Unable to find mixgroup for filepath %s
+CSosOperatorMixGroup
+input_trigger
+%*smixgroup: %s
+soundmixer_set_trigger
+input_mixgroups
+mixlayer
+Error: MixLayer operator has invalid mix group index!
+soundmixer_set_mixlayer
+Warning: Failed to get mix layer %s!
+Error: MixLayer operator has invalid mix layer index!
+Error: Failed to get mix group %s!
+CSosOperatorMixLayer
+soundmixer_set_mixlayer_amount
+input_trace_interval
+input_radius
+occlusion_db_loss
+input_scalar
+calc_audibility
+calc_occlusion_src1
+forward
+backward
+random_weighted
+random_exclusive
+%s::Execute: Can't find operator stack %s in %s
+output_opvar_exists
+output_element_count
+input_operator_name
+input_stack_name
+input_use_namespace
+input_field_name
+check_event_data
+input_get_parent
+opvar_get_info
+weights_field_name
+opvar_set_float
+CSosOperatorGetOpVarInfo
+input_clear_selection
+array_selection_type
+CSosOperatorGetOpVarFloat
+opvar_get_float
+CSosOperatorIncrementOpVarFloat
+opvar_increment_float
+CSosOperatorSetOpVarFloat3
+opvar_set_float3
+CSosOperatorGetOpVarFloat3
+opvar_get_float3
+CSosOperatorSetOpVarString
+opvar_set_string
+CSosOperatorGetOpVarString
+opvar_get_string
+invalid_vsnd
+opvar_get_vsnd
+output_opvar_elements
+CSosOperatorGetOpVarVsnd
+CSosOperatorGetOpVarArrayIndex
+opvar_get_random_array_index
+output_max_index
+input_position_0
+input_entry_count
+input_position_2
+input_position_1
+input_position_4
+input_position_3
+input_position_6
+input_position_5
+util_pos_vec8
+input_position_7
+input_speaker_volumes
+input_start
+input_pitch
+input_fade_out
+input_memory_type
+input_delay
+output_vsnd_finished
+input_restart_time
+output_vsnd_looping
+output_vsnd_playing
+vmix_start_vsnd: %s Voice count >= MAX_VOICES, aborting starting vsnd %s
+vmix_start_vsnd
+vmix_start_vsnd has empty vsnd string
+submix_name
+vmix_submix_send
+send_type
+import_stack
+SoundStack %s unable to find imported stack %s
+sos_import_stack
+input_stop
+sos_reference_stack
+input_clear_dependencies
+input_add_dependent
+input_goto_end
+soundevent_control
+input_goto_operator
+input_goto_head
+output_goto_count
+input_max_loop_count
+soundevent_name
+sos_goto
+output_entity_classname
+output_entity_index
+output_host_elapsed_time
+output_elapsed_time
+output_unstopped
+output_stopped
+output_dependencies
+output_stop_elapsed_time
+soundevent_get_info
+stopped_includes_dependencies
+input_listener_index
+soundevent_set_info
+output_listener_position
+output_listener_is_underwater
+output_listener_left
+output_listener_forward
+output_listener_front
+output_listener_up
+output_snd_gain_convar
+output_listener_count
+output_snd_gamesound_convar
+output_snd_musicvolume_convar
+get_system_globals
+output_snd_gamevoice_convar
+game_get_source_info
+input_master_volume
+input_listener_left
+input_rear_stereo_scale
+input_size
+calc_spatialize_speakers
+input_spread_max
+input_spread_min
+input_spread_min_value
+input_spread_max_value
+input_listener_up
+input_listener_forward
+output_rear
+normalize_spread
+output_above
+output_below
+calc_spatialize_VR
+input_spawn_oneshots
+input_use_parent_seed
+pass_opvar_args
+input_update_opvar_args
+econ_replacement
+spawn_orphans
+soundevent_start
+output_event_finished
+nullfield
+Error: Invalid SoundEvent Hash %i from entry %s
+%*sSoundEvent Hash: %d
+Warning: sos_start_soundevent unable to read opvar %s for passing from event %s
+snd_sos_show_operator_stop_entry
+match_event_type
+input_max_events
+match_duration_type
+match_event_duration
+stop_oldest
+match_entity
+output_events_matching
+invert_match
+event_type
+soundevent_limiter
+%*s(%08x):Stopping: %s (%08x) : elapsed time: %.2fs
+input_pause
+input_start_value
+util_timer
+input_force_start_value
+input_end_value
+util_timer_ramp
+input_force_end_value
+output_interval_not_elapsed
+output_interval_elapsed
+util_interval_timer
+input_interval
+input_track_name
+snd_sos_show_queuetotrack
+input_sync_field_name
+input_sync_track_name
+priority_override
+input_priority
+output_time_to_next_syncpoint
+block_equal_priority
+track_queue
+output_time_to_start
+Continue: elapsed time: %f, next sync time: %f, local elapsed: %f, local sync: %f
+Wait: elapsed time: %f, next sync time: %f, local elapsed: %f, local sync: %f, length: %f, num loops: %i
+public.start_point
+Warning: track_queue: No track name specified on %s, playing without track features
+Warning: cannot sync to soundevent %s on track %s, because it has no start/end points defined
+public.end_point
+track_stop
+Queued: elapsed time: %f, next sync time: %f, length: %f
+util_float_to_speakers
+util_null
+output_1
+output_0
+util_elements_float3
+output_2
+input_1
+input_0
+util_pack_float3
+input_2
+SOS PRINT FLOAT: %s: %f
+util_print_float
+SOS PRINT FLOAT3: %s: %f, %f, %f
+util_print_float3
+SOS PRINT STRING: %s: %s
+util_print_string
+SOS PRINT STRING: %s: %s
+util_print_vsnd
+snd_sos_show_operator_start
+snd_sos_show_operator_init
+snd_sos_show_operator_updates
+snd_sos_show_operator_prestart
+snd_sos_show_operator_parse
+snd_sos_show_operator_shutdown
+snd_sos_show_operator_event_filter
+snd_sos_list_operator_updates
+snd_sos_show_operator_not_executing
+snd_sos_show_operator_operator_filter
+snd_sos_show_operator_field_filter
+snd_sos_show_operator_event_and_stack
+snd_sos_show_soundevent_param_overwrite
+snd_sos_print_full_field_info
+string_token
+SoundEvent_error
+float_max_speakers
+float_distance
+float_positive
+float_attenuation
+float_size
+float_scale2
+float_trig
+decibel_atten
+decibel
+entity_index
+decibel_level
+Type Name: %s
+Atomic Type: %i
+Field Type: %i
+Data Size: %i
+Data Count: %i
+Interp Min: %f
+Interp Type: %i
+SosOpFieldInfo_t::SetValue: index %i out of range on %s
+Interp Max: %f
+SosOpFieldInfo_t::GetValue: index %i out of range on %s
+ERROR: missing enum name!
+SosOpFieldInfo_t::ValueToString: Unable to find ENUM match for %i on %s
+ERROR: missing enum tokenset!
+SosOpFieldInfo_t::ValueToString: Unable to find ENUM tokenset on %s
+%s%s%llu
+%s, UNKNOWN %i
+Error: Unknown atomic data type!
+<UNRESOLVED>
+Operator Index: %i
+Operator Field: %s
+Value Operator Offset: %i
+Element Count: %i
+Connection Offset: %i
+Value Stack Offset: %i
+Default: %s
+Tokenset: %p
+Operator Field: %s = 
+Total Size: %i
+CSosOperatorStack::ImportMembers: Importing operator with same name as existing operator: %s
+CSosOperatorStack::GetTotalOperatorSize: Invalid operator index %i in %s
+CSosOperatorStack::ReferenceCopyMemPool: Null mempool in %s
+CSosOperatorStack::SetOpFieldData: Incoming data size %i greater than field %s, %i on %s
+CSosOperatorStack::GetOperatorNameSpace: Invalid operator index %i in %s
+CSosOperatorStack::SetOpField: Unable to find operator field hash %i in %s
+snd_sos_opvar_debug
+CSosOperatorStack::GetOpField: Unable to find operator field hash %i in %s
+CSosOperatorStack::SetOpField: Unable to find opfield %s.%s in %s
+Update SoundEvent: %s
+CSosOperatorStack::GetOpField: Unable to find opfield %s.%s in %s
+%*sOperator Stack: %s
+%*sSize: %i
+Operator Stack: %s
+%s Operator Fields: %i
+%s = %s: %i : %i : %i : %i : %i
+CSosOperatorStack::ParseKV: Operator %s : Unknown sound operator type %s in stack %s
+operator
+CSosOperatorStack::ParseKV: Stack %s, has operator %s already declared, second declaration ignored
+CSosOperatorStack::ParseKV: Operator %s index differs in stack %s
+CSosOperatorStack::ParseKV: Operator %s invalid index in stack %s
+CSosOperatorStack::ParseKV Trying illegal operator overwrite %s in stack %s
+CSosOperatorStack::InitFromSoundEvent: Unable to resolve soundevent from hash %i.. this should not happen
+Soundevent param overwrites: %s:
+Stack List:
+CSosOperatorStack::InitFromSoundEvent: Unable to reference operator stack in stack %s, soundevent %s
+UPDATE Operators:
+DATA Operators:
+Adding operator stack matching existing name: %s
+STOP Operators:
+%*sCue Stacks:
+Sound Operators Collection:
+%*sUpdate Stacks:
+%*sStart Stacks:
+%*sStop Stacks:
+Can't find sound event to remove for %s!
+snd_sos_test_soundmessage
+Stack Execution List:
+~CSosOperatorSystem: Deleting orphaned CSosOperatorStack pointer for %s via shutdown
+%i = %i : %i list dependents : %i update depdendents
+strings
+soundstacks/sosstrings.txt
+Warning: Can't find sos strings file: %s!
+Warning: %s (error %s)!
+CSosOperatorSystem::StartSoundEvent Unable to find soundevent %s
+String Count: %i
+CSosOperatorSystem::StartSoundEvent Unable to start soundevent %s
+snd_sos_soundevent_filter
+%s: Sound event executionlist has exceeded MAX_VOICES. Index %i : %s
+<invalid soundevent name>
+CSosOperatorSystem::StartSoundEvent called with invalid soundevent hash
+Attempting to stop non-existent soundevent: %s
+Attempted re-use of a soundevent guid to start a new soundevent: %s
+%s: Has a failed sound event message.
+CSosOperatorSystem::HandleSetSoundEventFieldsMessageQueue
+%s: Has a failed library stack message.
+CSosOperatorSystem::HandleSetLibStackFieldsMessageQueue
+CSosOperatorSystem::SetOpField: Unable to find operator stack from guid %d
+Stack %s: Unable to connect input to specified field: %s
+CSosOperatorSystem::SetOpField: Unable to find operator stack %s
+Error: Operator %s, problems parsing operator field %s
+_editor_
+Invalid field type %s for field %s
+Unknown field type %s for field %s
+interp_min
+interp_type
+soundevent_data
+interp_max
+operator_arg_field
+reserve_array
+Currently sets a single float operator field
+Usage:  snd_sos_set_operator_field <stackname> <operator> <field> <index> <float>
+snd_sos_set_operator_field_by_guid
+snd_sos_set_operator_field
+Currently gets info for a single operator field
+Usage:  snd_sos_get_operator_field <stackname> <operator> <field>
+Detected %d-level recursion in sound operator stack, abort!
+snd_sos_get_operator_field_info
+Stack execution list overflow!
+Abort processing sound event %s (scheduled recursively will not process this frame)
+Flush and re-parse the sound operator system
+Usage:  snd_sos_resolve_execute_operator <stackname> <operator>
+snd_sos_flush_operators
+snd_sos_resolve_execute_operator
+Resolve the inputs and execute one specified operator from a specified stack
+snd_sos_print_stack_list
+Prints a list of currently available stacks
+snd_sos_print_strings
+Prints a list of currently cached strings
+Prints a list of currently available operators
+Available Operators:
+Usage:  snd_sos_print_operator_stack <stackname>
+snd_sos_print_operators
+snd_sos_print_operator_stack
+Prints a master list of currently exposed variables
+Prints the current stack execution list
+Usage:  snd_sos_print_exec_list
+Usage:  snd_sos_start_soundevent <eventname>
+snd_sos_print_stack_exec_list
+snd_sos_start_soundevent
+Starts a specified soundevent
+Stops a specified soundevent
+Usage:  snd_sos_stop_soundevent_guid <guid>
+Usage:  snd_sos_stop_soundevent_index <index>
+snd_sos_stop_soundevent_guid
+Stops all soundevents currently on the execution list
+snd_sos_stop_soundevent_index
+CSosOperatorStack: %i
+snd_sos_stop_all_soundevents
+SosBaseDataTypeDef_t: %i
+SosOpFieldInfo_t: %i
+Total Stacks: %i
+SosFieldTypeInterpDef_t: %i
+Total Stack Ref Fields: %i
+Total Stack Fields: %i
+Total Stack Pool Mem: %i
+Total Stack Fields mem: %i
+Total USED Stack Fields: %i
+Total USED Stacks: %i
+Total USED Stack Fields mem: %i
+Total USED Stack Ref Fields: %i
+Total Stack Mem Usage(ish): %i : %ik
+Total USED Stack Pool Mem: %i
+Used stack: %s
+Total USED Stack Mem Usage(ish): %i : %ik
+snd_sos_print_class_sizes
+Prints the sizes of relevant sos classes.
+CVSoundStackScriptTypeManager::Allocate can't parse stack %s
+CVSoundStackScriptTypeManager::Allocate stack with empty name
+c:\buildslave\destinations_staging_win64\build\src\soundsystem\snd_op_sys\sos_system.cpp
+ToolsStartup
+GameStartup
+soundevents/soundevents_manifest_tools.vrman
+soundevents/soundevents_manifest.vrman
+soundstacks/soundstacks_manifest.vrman
+construction_stack
+SoundOpSystem001
+CSoundOpSystem::Connect
+The soundsystem requires the filesystem to run!
+CDefaultIntrospectedTypeManager<7738156623707665270,struct VSoundStackScript_t>::Init
+WARNING: Attempting to set fields on a stopped sound
+__UNKNOWN__
+RESOURCE_TYPE_SOUNDEVENTSCRIPT
+HSoundEventScript
+RESOURCE_TYPE_SOUNDSTACKSCRIPT
+HSoundStackScript
+CBaseIntrospectedTypeManager:  Missing TYPEMETA MDiskDataForResourceType
+CDefaultIntrospectedTypeManager<8319404589508883318,struct VSoundEventScript_t>::Init
+CBaseIntrospectedTypeManager:  Bindings don't match.
+c:\buildslave\destinations_staging_win64\build\src\public\resourcefile\introspectedtypemanager.h
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct CSosPackedFieldData::Entry_t,3,short>,struct CSosPackedFieldData::Entry_t,short>::AddToTailGetPtr
+CUtlLeanVectorFixedGrowableBase<struct CSosPackedFieldData::Entry_t,3,short>::EnsureCapacity
+%s allocation count overflow
+c:\buildslave\destinations_staging_win64\build\src\public\tier1\utlleanvector.h
+<unknown>
+GetVSndNameForSoundEvent( %s ) missing
+snd_sos_show_track_list
+CUtlVector
+Vector2D
+CUtlString
+SosEditItemInfo_t
+SosEditItemType_t
+SOS_EDIT_ITEM_TYPE_SOUNDEVENTS
+SelectedEditItemInfo_t
+SOS_EDIT_ITEM_TYPE_LIBRARYSTACKS
+SOS_EDIT_ITEM_TYPE_SOUNDEVENT
+SOS_EDIT_ITEM_TYPE_OPERATOR
+SOS_EDIT_ITEM_TYPE_STACK
+From Enum Binding
+SOS_EDIT_ITEM_TYPE_FIELD
+itemName
+itemType
+itemKVString
+itemTypeName
+From Class Binding
+itemPos
+m_EditItems
+m_GameData
+m_SoundName
+m_SoundEvents
+m_OperatorsKV
+CAtomicManipulator<class CResourceArray<struct VSoundEvent_t> >::Allocate
+ERROR: CAtomicManipulator::Allocate() Cannot allocate CResourceArray
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate CResourceArray
+c:\buildslave\destinations_staging_win64\build\src\public\resourcefile\resourcestream.h
+ERROR: CAtomicManipulator::Copy() Cannot copy CResourceArray(FIXME: maybe you can?)
+CAtomicManipulator<class CResourceArray<struct VSoundEvent_t> >::AllocateAndCopy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate CResourceArray
+CAtomicManipulator<class CResourceArray<struct VSoundEvent_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VSoundEvent_t> >::Deallocate
+CResourceArray
+CResourceString
+VSoundEventScript_t
+MDiskDataForResourceType
+VSoundEvent_t
+VSoundStackScript_t
+VSoundStack_t
+m_StackKV
+m_StackName
+CAtomicManipulator<class CResourceArray<struct VSoundStack_t> >::Allocate
+m_SoundStacks
+CAtomicManipulator<class CResourceArray<struct VSoundStack_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VSoundStack_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct VSoundStack_t> >::Deallocate
+?UUUUUU
+?333333
+fff?fff?
+?fff?fff?fff?fff?
+Access violation - no RTTI data!
+Bad dynamic_cast!
+[*ncd>TQ
+\>$hkDh$h>
+&	$@06p
+ B\kji2
+&	$@06p
+ B\kji2
+[*ncd>TQ
+\>$hkDh$h>
+f>sinhf
+X 843"8
+5m8>8=t
+c:\buildslave\destinations_staging_win64\build\src\soundsystem\Retail\win64\soundsystem.pdb
+soundsystem.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+PlaySoundA
+WINMM.dll
+CMemAllocSystemInitialize
+Plat_IsInDebugSession
+g_pMemAlloc
+LoggingSystem_IsChannelEnabled
+Plat_GetProcAddresses
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+Warning
+LoggingSystem_Log
+?ConMsg@@YAXPEBDZZ
+CommandLine
+LoggingSystem_RegisterLoggingChannel
+LoggingSystem_AddTagToChannel
+??0CThreadMutex@@QEAA@XZ
+??1CThreadMutex@@QEAA@XZ
+?Lock@CThreadMutex@@QEAAXXZ
+?Unlock@CThreadMutex@@QEAAXXZ
+COM_TimestampedLog
+Plat_GetLocalTime
+?Lock@CThreadFastMutex@@AECAXII@Z
+Plat_FloatTime
+Plat_GetComputerName
+g_VProfCurrentProfile
+?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
+?ExitScope@CVProfile@@QEAAXXZ
+ThreadInterlockedExchange64
+?DevMsg@@YAXPEBDZZ
+?DevWarning@@YAXPEBDZZ
+Plat_ExitProcess
+InvokeMiniDumpHandler
+GetDefaultMiniDumpTypeFlags
+Plat_ShouldCollectMiniDumpsForFatalErrors
+LOG_GENERAL
+AssertMsg_ConditionFailed
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+Plat_WindowToOsSpecificHandle
+Plat_GetModuleFilename
+Plat_GetModuleProcAddress
+Plat_LoadModuleRaw
+EarlyInit_Tier0
+KeyValuesSystem
+Plat_UUIDFromString
+Plat_UUIDToString
+GetCPUInformation
+ThreadSleep
+Plat_RelativeTicks
+Plat_VirtualAlloc
+Plat_VirtualFree
+Plat_LoadCOM
+Plat_RequireCOM
+?AllocPooledFiber@CFiber@@SAPEAV1@W4SizeBuckets_t@1@_K@Z
+?DetachFromStackContext@CFiber@@QEAAPEAXXZ
+?SetThreadFiberMemoryRange@CFiber@@IEAAX_K@Z
+?ReleasePooledFiber@CFiber@@AEAAXXZ
+g_pCurrentFiberTL
+Plat_LoadSDL
+Plat_RequireSDL
+tier0.dll
+g_pScheduledFunctions
+RegisterStringToken
+RandomInt
+RandomFloat
+??0CUniformRandomStream@@QEAA@XZ
+vstdlib.dll
+GetCurrentThreadId
+TlsGetValue
+TlsSetValue
+GetModuleHandleA
+LoadLibraryA
+FreeLibrary
+GetProcAddress
+EnterCriticalSection
+LeaveCriticalSection
+MultiByteToWideChar
+WideCharToMultiByte
+CloseHandle
+GetLastError
+GetCurrentProcessId
+DeleteCriticalSection
+EncodePointer
+DecodePointer
+GetStringTypeW
+ReadFile
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+GetCPInfo
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+LCMapStringW
+ExitProcess
+GetModuleHandleExW
+IsValidCodePage
+GetOEMCP
+GetConsoleMode
+ReadConsoleW
+WriteFile
+GetConsoleCP
+SetFilePointerEx
+GetStdHandle
+GetFileType
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetModuleFileNameW
+LoadLibraryExW
+SetStdHandle
+WriteConsoleW
+FlushFileBuffers
+OutputDebugStringW
+CreateFileW
+KERNEL32.dll
+Plat_GetEnv
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+?SpinLockForWrite@CThreadSpinRWLock@@AEAAXI@Z
+Plat_GetOSType
+Plat_IsHighDPI
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+---empty---
+vsndevts
+vsndstck
+.?AVCPostConnectCallback@@
+.?AVIResourceAllocatorUtils@@
+.?AVCResourceAllocatorUtils@@
+.?AV?$ISchemaSearchTester@PEBVCSchemaClassInfo@@@@
+.?AUCValueSearchTester_ClassIntrospectionHandle_t@MDiskDataForResourceType@@
+.?AVCSchemaVisitorBase@@
+.?AVCSchemaFieldVisitor@@
+.?AVCExtrefTraversal@@
+.?AVCResourceReferenceFixupTraversal@@
+.?AVCReferenceCleanupTraversal@@
+.?AV?$CSchemaFieldVisitorInfoMap@VCExtrefTraversal@@@@
+.?AVCSchemaVisitorInfoMapBase@@
+.?AVCAudioDeviceNull2@@
+.?AUIXAudio2EngineCallback@@
+.?AUIXAudio2VoiceCallback@@
+.?AVCAudioXAudio2@@
+.?AVCXAudioCallbacks@@
+.?AVCAudioDirectSound2@@
+.?AVCAudioSDL@@
+.?AUIUnknown@@
+.?AUIMMNotificationClient@@
+.?AVCMMNotificationClient@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVConCommand@@
+.?AVConVar@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AVexception@std@@
+.?AVbad_cast@std@@
+.?AVIKeyValuesErrorSpew@@
+.?AVCDefaultKeyValuesErrorSpew@@
+.?AVCSchemaInstallCallback@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_typeid@std@@
+.?AV__non_rtti_object@std@@
+.?AVbad_exception@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVerror_category@std@@
+.?AVCAudioCaptureDevice@@
+.?AVIAudioDevice2@@
+.?AVCMilesMP3@@
+.?AVIAudioStream@@
+.?AVCVAudio@@
+.?AVIVAudio@@
+.?AVCSfxTable@@
+.?AVCDSPEditor@@
+.?AVCPresetDSP@@
+.?AVIVMixToolServices@@
+.?AVCAudioProcessor@@
+.?AV?$CRefCounted@V?$CRefCountServiceBase@$00VCRefMT@@@@@@
+.?AV?$CRefCountServiceBase@$00VCRefMT@@@@
+.?AVCMainAudioGraph@@
+.?AVIMixFilter@@
+.?AVCMouthInfo@@
+.?AVCAudioSource@@
+.?AVCAudioSourceCached@@
+.?AVCAudioSourceMP3@@
+.?AVCAsyncWavDataCache@@
+.?AVIAsyncWavDataCache@@
+.?AVCAudioMixerEncoded@@
+.?AVCAudioMixerWave@@
+.?AVCAudioMixer@@
+.?AVCAudioMixerWaveADPCM@@
+.?AVCAudioMixerWaveMP3@@
+.?AVIAudioStreamEvent@@
+.?AVCAudioSourceMemWave@@
+.?AVCAudioSourceWave@@
+.?AVIResourceTypeManager@@
+.?AVCSimpleFilter@@
+.?AV?$CTier2AppSystem@VISoundSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VISoundSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VISoundSystem@@@@
+.?AV?$CBaseAppSystem@VISoundSystem@@@@
+.?AVCSoundSystem@@
+.?AVCVSoundTypeManager@@
+.?AVIVConCommDataReceived@@
+.?AVISoundSystem2@@
+.?AVISoundSystem@@
+.?AVIAppSystem@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVCAudioSource_PlayerVoiceStream@@
+.?AV?$CTier2AppSystem@VISoundOpSystemEdit@@$0A@@@
+.?AV?$CTier1AppSystem@VISoundOpSystemEdit@@$0A@@@
+.?AV?$CTier0AppSystem@VISoundOpSystemEdit@@@@
+.?AV?$CBaseAppSystem@VISoundOpSystemEdit@@@@
+.?AVCSosEdit@@
+.?AVISoundOpSystemEdit@@
+.?AVCSosDependent@@
+.?AVCSosOperator@@
+.?AVCSosOperatorBlockTest@@
+.?AVCSosOperatorBlockEvents@@
+.?AVCSosOperatorSetConvar@@
+.?AVCSosOperatorConvar@@
+.?AVCSosOperatorDelta@@
+.?AVCSosOperatorDistantDSP@@
+.?AVCSosOperatorDotaGroundUnderWater@@
+.?AVCSosOperatorPointContents@@
+.?AVCSosOperatorEntityInfo@@
+.?AVCSosOperatorFalloffTail@@
+.?AVCSosOperatorFalloffVR@@
+.?AVCSosOperatorFalloff@@
+.?AVCSosOperatorFloatFilter@@
+.?AVCSosOperatorIterateAndMergeSpeakers@@
+.?AVCSosOperatorGainToDB@@
+.?AVCSosOperatorDBToGain@@
+.?AVCSosOperatorMathAverage8@@
+.?AVCSosOperatorInRangeFloat@@
+.?AVCSosOperatorVelocity@@
+.?AVCSosOperatorLogicSwitch12Float@@
+.?AVCSosOperatorLogicSwitch3Float3@@
+.?AVCSosOperatorLogicSwitchFloat3@@
+.?AVCSosOperatorLogicSwitch3Float@@
+.?AVCSosOperatorLogicSwitch@@
+.?AVCSosOperatorRandomFloat3@@
+.?AVCSosOperatorNoise@@
+.?AVCSosOperatorRandomizeFloat@@
+.?AVCSosOperatorRandom@@
+.?AVCSosOperatorFacing@@
+.?AVCSosOperatorCurve4@@
+.?AVCSosOperatorRemapValue@@
+.?AVCSosOperatorPointOnLine@@
+.?AVCSosOperatorDistance@@
+.?AVCSosOperatorFloatAccumulate12@@
+.?AVCSosOperatorSpeakers@@
+.?AVCSosOperatorString@@
+.?AVCSosOperatorVec3@@
+.?AVCSosOperatorFloat@@
+.?AVCSosOperatorFunc1@@
+.?AVCSosOperatorMixTrigger@@
+.?AVCSosOperatorMixGroup@@
+.?AVCSosOperatorMixLayerAmount@@
+.?AVCSosOperatorMixLayer@@
+.?AVCSosOperatorAudibility@@
+.?AVCSosOperatorOcclusion@@
+.?AVCSosOperatorGetOpVarArrayIndex@@
+.?AVCSosOperatorGetOpVarVsnd@@
+.?AVCSosOperatorGetOpVarString@@
+.?AVCSosOperatorSetOpVarString@@
+.?AVCSosOperatorGetOpVarFloat3@@
+.?AVCSosOperatorSetOpVarFloat3@@
+.?AVCSosOperatorIncrementOpVarFloat@@
+.?AVCSosOperatorGetOpVarFloat@@
+.?AVCSosOperatorSetOpVarFloat@@
+.?AVCSosOperatorGetOpVarInfo@@
+.?AVCSosOperatorPosVec8@@
+.?AVCSosOperatorSubmix@@
+.?AVCSosOperatorPlayVSnd@@
+.?AVCSosOperatorGlobals@@
+.?AVCSosOperatorSetEventInfo@@
+.?AVCSosOperatorStackInfo@@
+.?AVCSosOperatorGoTo@@
+.?AVCSosOperatorStackControl@@
+.?AVCSosOperatorReferenceStack@@
+.?AVCSosOperatorImportStack@@
+.?AVCSosOperatorSourceInfo@@
+.?AVCSosOperatorSpatializeVR@@
+.?AVCSosOperatorSpatializeSpeakers@@
+.?AVCSosOperatorStartSoundEvent@@
+.?AVCSosStartSoundEventQueueInfo_t@@
+.?AVCSosStartSoundEventInfo_t@@
+.?AVCSosEventInfoWithFieldData_t@@
+.?AVCSosEventInfo_t@@
+.?AVCSosOperatorStopSoundEvents@@
+.?AVCSosOperatorIntervalTimer@@
+.?AVCSosOperatorTimerRamp@@
+.?AVCSosOperatorTimer@@
+.?AVCSosOperatorStopTrack@@
+.?AVCSosOperatorQueueToTrack@@
+.?AVCSosOperatorPrintVsnd@@
+.?AVCSosOperatorPrintString@@
+.?AVCSosOperatorPrintFloat3@@
+.?AVCSosOperatorPrintFloat@@
+.?AVCSosOperatorFloatToFloat3@@
+.?AVCSosOperatorFloat3ToFloat@@
+.?AVCSosOperatorFloatToSpeakers@@
+.?AVCSosOperatorNull@@
+.?AV?$CTier2AppSystem@VISoundOpSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VISoundOpSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VISoundOpSystem@@@@
+.?AV?$CBaseAppSystem@VISoundOpSystem@@@@
+.?AVCSoundOpSystem@@
+.?AV?$CDefaultIntrospectedTypeManager@$0GLGDHEHDGEGOHDHG@UVSoundStackScript_t@@@@
+.?AVCVSoundStackScriptTypeManager@@
+.?AVCSosOperatorStackCollection@@
+.?AVISoundOpSystem@@
+.?AVCVSoundEventScriptTypeManager@@
+.?AV?$CDefaultIntrospectedTypeManager@$0HDHEHGGFGEGOHDHG@UVSoundEventScript_t@@@@
+.?AVCSoundEventManager@@
+.?AVISoundEventManager@@
+.?AVCBaseIntrospectedTypeManager@@
+.?AVCSosSetLibraryStackFieldsInfo_t@@
+.?AVCSosSetSoundEventFieldsInfo_t@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@USosEditItemInfo_t@@V?$CUtlMemory@USosEditItemInfo_t@@H@@@@USosEditItemInfo_t@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@USosEditItemInfo_t@@V?$CUtlMemory@USosEditItemInfo_t@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@USosEditItemInfo_t@@V?$CUtlMemory@USosEditItemInfo_t@@H@@@@@@
+.?AV?$CSchemaClassBinding@USelectedEditItemInfo_t@@@@
+.?AV?$CSchemaClassBinding@USosEditItemInfo_t@@@@
+.?AV?$CSchemaEnumBinding@W4SosEditItemType_t@@@@
+.?AVISchemaCollectionManipulator@@
+.?AV?$CSchemaManipulator@VVector2D@@@@
+.?AU?$CAtomicManipulator@VVector2D@@@@
+.?AV?$CSchemaManipulator@VCUtlString@@@@
+.?AVISchemaManipulator@@
+.?AU?$CAtomicManipulator@VCUtlString@@@@
+.?AVIAtomicManipulator@@
+.?AVCSchemaClassBindingBase@@
+.?AVCSchemaEnumBindingBase@@
+.?AVISchemaBinding@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVSoundEvent_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVSoundEvent_t@@@@@@
+.?AV?$CSchemaClassBinding@UVSoundEventScript_t@@@@
+.?AV?$CSchemaClassBinding@UVSoundEvent_t@@@@
+.?AV?$CSchemaManipulator@VCResourceString@@@@
+.?AU?$CAtomicManipulator@VCResourceString@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVSoundStack_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVSoundStack_t@@@@@@
+.?AV?$CSchemaClassBinding@UVSoundStackScript_t@@@@
+.?AV?$CSchemaClassBinding@UVSoundStack_t@@@@
+.?AVCSchemaRegistration_soundsystem@@
+.?AVCSchemaRegistration@@
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+160919232140Z0#

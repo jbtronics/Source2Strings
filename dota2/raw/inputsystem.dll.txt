@@ -1,0 +1,1043 @@
+`.rdata
+@.reloc
+Hc^(;^8u
+@SVWAUAVH
+ A^A]_^[
+t,E8g@t
+tBE8g@t"D8
+t<E8g@t
+tRE8g@t
+@tBE8g@t"D8
+t(E8g@t
+t#E8g@t
+t%E8g@t
+tFE8g@t
+\$0Hc_0;_@u	H
+uOHc{0H
+H;{hu>f
+t:H;{hu4fA
+tPL;Ihu@f
+t@M;Zhu:fA
+t0M;Zhu*f
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+PA_A^A\_^
+|$ ATAVAWH
+ A_A^A\
+UVWATAUAVAWH
+A_A^A]A\_^]
+|$ ATAVAWH
+ A_A^A\
+@SUAUAVAWH
+@A_A^A]][
+@SUWAVAWH
+@A_A^_][
+\$ UVWATAVH
+0uU9zDu
+@A^A\_^]
+|$PHc{@$
+@UAVAWH
+|$@Hcyp;
+D$<9T$0wE9T$4w?9T$8w9;
+L$ SVWH
+@SVATAWH
+XA_A\^[
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+A_A^A]A\_^[]
+SUATAWH
+XA_A\][
+@UATAUAVAWH
+@A_A^A]A\]
+t+HcC$LcC
+@SUAUAWH
+(A_A]][
+t+HcC$LcC
+t(HcC$HcK
++C$xiHc
+ATAVAWH
+ A_A^A\
+fffffff
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+` AUAVAWH
+t$8Hc0I
+\$0D9=Fd
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+t$ WAVAWH
+t$ WATAUAVAWH
+0A_A^A]A\_
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+@SUVWATAVAWH
+PA_A^A\_^][
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+AUAVAWH
+0A_A^A]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+MATCHFRAMEWORK_001
+PanoramaUIClient001
+PanoramaTextServices001
+ToolFramework2_002
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+EconItemToolModel_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+MODEL_PROCESSING_SERVICES_INTERFACE_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client002
+Source2ClientUI001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers002
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+WorkshopSetup001
+ModelDocCommandSystem001
+NavSystem001
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+c:\buildslave\source2_dota_rel_win64\build\src\interfaces\interfaces.cpp
+%i %i %i %i
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar(%s) defined with infinite float value (%s)
+RegisterConfigValue: Unknown error constructing config value "%s"!
+CGlobalConfigValueRegistry::HookUpConfigValue
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\configvalue.cpp
+VALVE-MODULE-DEBUG-%08X
+%s/bin/%s
+BuiltDebug
+-allowdebug
+Module %s is a debug build
+Sys_LoadModule
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\interface.cpp
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+@X@CUtlString::FormatV
+%s unable to grow buffer to fit string
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\utlstring.cpp
+unknown
+KeyValues Error: %s in file %s
+(*%s*), 
+ ReadToken overflow
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KV Conditional Evaluation Error
+#include
+#include is NULL 
+#base is NULL 
+LoadFromBuffer: expected '{', found '%s'
+RecursiveLoadFromBuffer:  recursion overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  got conditional between key and value
+UPDATE_STRING_TOKEN_DATABASE
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+VScript
+VScriptDbg
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+_nextafter
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+InputStackSystemVersion001
+InputSystemVersion001
+inputsystem
+-inputss_update_spew
+ISS: Cursor invisible from '%s'
+ISS: Cursor icon from '%s'
+ISS: Mouse capture enabled from '%s'
+ISS: Mouse capture disabled from '%s'
+enabled
+disabled
+ISS: Relative mouse %s from '%s'
+ISS: Cursor clip %s from '%s'
+ISS: Standard cursors from '%s'
+allowed
+disallowed
+ISS: IME %s from '%s'
+ISS: Cursor invisible from default
+ISS: Mouse capture disabled from default
+ISS: Cursor clip disabled from default
+ISS: Relative mouse disabled from default
+ISS: Standard cursors from default
+ISS: IME allowed from default
+CInputStackSystem:  empty
+CInputStackSystem:  %s is %s for state %x
+visible
+CInputStackSystem:  %s cursor %s
+CInputStackSystem:  %s capture set to 0x%p
+CInputStackSystem:  %s cursor clip set to 0x%p
+CInputStackSystem:  %s relative mouse mode %s
+CInputStackSystem:  %s IME %s
+CInputStackSystem:  nothing enabled
+MSWHEEL_ROLLMSG
+InputSystem
+Cursor size scaling factor.
+cl_cursor_scale
+Automatic cursor size scaling.
+cl_auto_cursor_scale
+-input_message_spew
+-input_button_code_is_scan_code
+-disable_cursor_clip
+-pass_vk_processkey
+XInput1_3.dll
+ConfigurationSystem_001
+vstdlib
+IMEManager001
+imemanager
+ScaleformUI001
+PanoramaUIEngine001
+CInputSystem::SleepUntilInput
+CInputSystem::AttachToWindow: Tried to attach to the same window twice!
+inactive
+DetectApplicationActive:  polling determined app should be %s
+SDL_FIRSTEVENT
+SDL_QUIT
+SDL_APP_TERMINATING
+SDL_APP_LOWMEMORY
+SDL_APP_WILLENTERBACKGROUND
+SDL_APP_DIDENTERBACKGROUND
+SDL_APP_WILLENTERFOREGROUND
+SDL_APP_DIDENTERFOREGROUND
+SDL_WINDOWEVENT
+SDL_SYSWMEVENT
+SDL_KEYDOWN
+SDL_KEYUP
+SDL_TEXTEDITING
+SDL_TEXTINPUT
+SDL_KEYMAPCHANGED
+SDL_MOUSEMOTION
+SDL_MOUSEBUTTONDOWN
+SDL_MOUSEBUTTONUP
+SDL_MOUSEWHEEL
+SDL_JOYAXISMOTION
+SDL_JOYBALLMOTION
+SDL_JOYHATMOTION
+SDL_JOYBUTTONDOWN
+SDL_JOYBUTTONUP
+SDL_JOYDEVICEADDED
+SDL_JOYDEVICEREMOVED
+SDL_CONTROLLERAXISMOTION
+SDL_CONTROLLERBUTTONDOWN
+SDL_CONTROLLERBUTTONUP
+SDL_CONTROLLERDEVICEADDED
+SDL_CONTROLLERDEVICEREMOVED
+SDL_CONTROLLERDEVICEREMAPPED
+SDL_FINGERDOWN
+SDL_FINGERUP
+SDL_FINGERMOTION
+SDL_DOLLARGESTURE
+SDL_DOLLARRECORD
+SDL_MULTIGESTURE
+SDL_CLIPBOARDUPDATE
+SDL_DROPFILE
+SDL_USEREVENT
+SDL_LASTEVENT
+SDL:  got %s
+mouse %d %s at %d %d on window %d
+SDL: Window %d shown
+SDL: Window %d hidden
+SDL: Window %d exposed
+SDL: Window %d moved to %d,%d
+SDL: Window %d resized to %dx%d
+SDL: Window %d size changed [%d,%d]
+SDL: Window %d minimized
+SDL: Window %d maximized
+SDL: Window %d restored
+SDL: Mouse entered window %d
+SDL: Mouse left window %d
+SDL: Window %d gained keyboard focus
+SDL: Window %d lost keyboard focus
+SDL: Window %d closed
+SDL: Window %d got unknown event %d
+PrimaryUserId is %d
+KEYDOWN (%s): sdlkeycode=%d sdlscancode=%d SDL_GetKeyName='%s' buttoncode=%d buttonname='%s' ButtonCode_GetLocalKeyNameUTF8='%s'
+KEYUP (%s) sdlkeycode=%d sdlscancode=%d buttoncode=%d buttonname='%s'
+TEXTINPUT '%s'
+INACTIVE
+WM_ACTIVATE with %s
+-cursor_scale_percent
+Failed to scale image for cursor to %d,%d (hot %d,%d; scaling %g): %s
+/cursor.res
+Failed to load image for cursor from %s: %s
+Failed to load cursor from %s: %s
+UpdateCaptureOnFocusChange:  releasing capture of 0x%p
+UpdateCaptureOnFocusChange:  enabling capture of 0x%p
+EnableMouseCapture:  releasing capture of 0x%p
+EnableMouseCapture:  enabling capture of 0x%p
+'is active'
+'is NOT active'
+enabling
+disabling
+UpdateCursorClipOnFocusChange:  %s SDL_SetWindowGrab on 0x%p (%s) %s
+SetCursorClip:  disabling SDL_SetWindowGrab on 0x%p (%s)
+SetCursorClip:  %s SDL_SetWindowGrab on 0x%p (%s) %s
+SDL_WINDOWS_NO_CLOSE_ON_ALT_F4
+IE_ButtonPressed
+IE_ButtonReleased
+IE_ButtonDoubleClicked
+IE_AnalogValueChanged
+IE_ButtonPressedRepeating
+IE_CursorPositionChanged
+IE_Quit
+IE_ControllerInserted
+IE_ControllerUnplugged
+IE_Close
+IE_WindowSizeChanged
+IE_ActivateApp
+IE_ActivateWindow
+IE_WindowMove
+IE_CopyData
+IE_KeyTyped
+IE_KeyCodeTyped
+IE_KeyCodeReleased
+IE_InputLanguageChanged
+IE_IMESetWindow
+IE_IMEStartComposition
+IE_IMEComposition
+IE_IMEEndComposition
+IE_IMEShowCandidates
+IE_IMEChangeCandidates
+IE_IMECloseCandidates
+IE_IMERecomputeModes
+unknown event
+SDL says cursor is %s and is set to 0x%p
+not using
+SDL is %s relative mouse
+Current coordinate bias %s: %g,%g scale %g,%g
+focused
+out of focus
+Windows says 0x%p (%s) is capturing mouse and we are %s and %s
+Windows says clipping to %d %d %d %d
+SDL clip window state on 0x%p is %s
+__UNKNOWN__
+Wingman warrior centering hack.
+joy_wingmanwarrior_centerhack
+Wingman warrior hack related to turn axes.
+joy_wingmanwarrior_turnhack
+Analog axis range before a button press is registered.
+joy_axisbutton_threshold
+joystick not found -- driver not present
+initializing SDL joystick %d %s
+KP_DIVIDE
+KP_MULTIPLY
+KP_MINUS
+KP_PLUS
+KP_ENTER
+SEMICOLON
+BACKSPACE
+CAPSLOCK
+NUMLOCK
+SCROLLLOCK
+UPARROW
+LEFTARROW
+DOWNARROW
+RIGHTARROW
+CAPSLOCKTOGGLE
+NUMLOCKTOGGLE
+SCROLLLOCKTOGGLE
+AC_BACK
+AC_BOOKMARKS
+AC_FORWARD
+AC_HOME
+AC_REFRESH
+AC_SEARCH
+AC_STOP
+ALTERASE
+AMPERSAND
+ASTERISK
+AUDIOMUTE
+AUDIONEXT
+AUDIOPLAY
+AUDIOPREV
+AUDIOSTOP
+BRIGHTNESSDOWN
+BRIGHTNESSUP
+CALCULATOR
+CLEARAGAIN
+COMPUTER
+CURRENCYSUBUNIT
+CURRENCYUNIT
+DECIMALSEPARATOR
+DISPLAYSWITCH
+EXCLAIM
+EXECUTE
+GREATER
+KBDILLUMDOWN
+KBDILLUMTOGGLE
+KBDILLUMUP
+KP_AMPERSAND
+KP_BACKSPACE
+KP_BINARY
+KP_CLEAR
+KP_CLEARENTRY
+KP_COLON
+KP_COMMA
+KP_DBLAMPERSAND
+KP_DBLVERTICALBAR
+KP_DECIMAL
+KP_EQUALS
+KP_EQUALSAS400
+KP_EXCLAM
+KP_GREATER
+KP_HASH
+KP_HEXADECIMAL
+KP_LEFTBRACE
+KP_LEFTPAREN
+KP_LESS
+KP_MEMADD
+KP_MEMCLEAR
+KP_MEMDIVIDE
+KP_MEMMULTIPLY
+KP_MEMRECALL
+KP_MEMSTORE
+KP_MEMSUBTRACT
+KP_OCTAL
+KP_PERCENT
+KP_PLUSMINUS
+KP_POWER
+KP_RIGHTBRACE
+KP_RIGHTPAREN
+KP_SPACE
+KP_VERTICALBAR
+LEFTPAREN
+MEDIASELECT
+PERCENT
+PRINTSCREEN
+QUESTION
+QUOTEDBL
+RETURN2
+RIGHTPAREN
+SEPARATOR
+THOUSANDSSEPARATOR
+UNDERSCORE
+VOLUMEDOWN
+VOLUMEUP
+INVERTED_EXCLAMATION_MARK
+CENT_SIGN
+POUND_SIGN
+CURRENCY_SIGN
+YEN_SIGN
+BROKEN_BAR
+SECTION_SIGN
+DIAERESIS
+COPYRIGHT_SIGN
+FEMININE_ORDINAL_INDICATOR
+LEFT_POINTING_DOUBLE_ANGLE_QUOTATION_MARK
+NOT_SIGN
+REGISTERED_SIGN
+DEGREE_SIGN
+DEGREE_SYMBOL
+PLUS_MINUS_SIGN
+SUPERSCRIPT_TWO
+SUPERSCRIPT_THREE
+ACUTE_ACCENT
+MICRO_SIGN
+PILCROW_SIGN
+MIDDLE_DOT
+CEDILLA
+SUPERSCRIPT_ONE
+MASCULINE_ORDINAL_INDICATOR
+RIGHT_POINTING_DOUBLE_ANGLE_QUOTATION_MARK
+VULGAR_FRACTION_ONE_QUARTER
+VULGAR_FRACTION_ONE_HALF
+VULGAR_FRACTION_THREE_QUARTERS
+INVERTED_QUESTION_MARK
+MULTIPLICATION_SIGN
+SHARP_S
+A_WITH_GRAVE
+A_WITH_ACUTE
+A_WITH_CIRCUMFLEX
+A_WITH_TILDE
+A_WITH_DIAERESIS
+A_WITH_RING_ABOVE
+C_WITH_CEDILLA
+E_WITH_GRAVE
+E_WITH_ACUTE
+E_WITH_CIRCUMFLEX
+E_WITH_DIAERESIS
+I_WITH_GRAVE
+I_WITH_ACUTE
+I_WITH_CIRCUMFLEX
+I_WITH_DIAERESIS
+N_WITH_TILDE
+O_WITH_GRAVE
+O_WITH_ACUTE
+O_WITH_CIRCUMFLEX
+O_WITH_TILDE
+O_WITH_DIAERESIS
+DIVISION_SIGN
+O_WITH_STROKE
+U_WITH_GRAVE
+U_WITH_ACUTE
+U_WITH_CIRCUMFLEX
+U_WITH_DIAERESIS
+Y_WITH_ACUTE
+Y_WITH_DIAERESIS
+EURO_SIGN
+LEFT_CURLY_BRACKET
+RIGHT_CURLY_BRACKET
+VERTICAL_BAR
+KEY_CYRILLIC_YU
+KEY_CYRILLIC_E
+KEY_CYRILLIC_HARD_SIGN
+KEY_CYRILLIC_HA
+KEY_CYRILLIC_IO
+KEY_CYRILLIC_ZHE
+KEY_CYRILLIC_BE
+MWHEELUP
+MWHEELDOWN
+POV_RIGHT
+POV_DOWN
+POV_LEFT
+X_AXIS_POS
+X_AXIS_NEG
+Y_AXIS_POS
+Y_AXIS_NEG
+Z_AXIS_POS
+Z_AXIS_NEG
+R_AXIS_POS
+R_AXIS_NEG
+U_AXIS_POS
+U_AXIS_NEG
+V_AXIS_POS
+V_AXIS_NEG
+MOUSE_X
+MOUSE_Y
+MOUSE_WHEEL
+A_BUTTON
+B_BUTTON
+X_BUTTON
+Y_BUTTON
+L_SHOULDER
+R_SHOULDER
+S1_RIGHT
+S1_LEFT
+S1_DOWN
+L_TRIGGER
+R_TRIGGER
+S2_RIGHT
+S2_LEFT
+S2_DOWN
+00000409
+Updates game keyboard layout to current windows keyboard setting.
+key_updatelayout
+0 => Cross-shaped deadzone (default), 1 => Square deadzone.
+joy_deadzone_mode
+XInputGetState
+XInputSetState
+XInputGetCapabilities
+XInputGetKeystroke
+quit_x360
+purecall
+invalid_parameter
+Release
+BinaryProperties_GetValue
+Intentionally vague touch behavior for %p
+inputsystem.dll
+c:\buildslave\source2_dota_rel_win64\build\src\inputsystem\Retail\win64\inputsystem.pdb
+inputsystem.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+GetWindowThreadProcessId
+CallWindowProcA
+SetWindowLongPtrW
+GetSystemMetrics
+ReleaseCapture
+SystemParametersInfoA
+GetWindowTextA
+GetForegroundWindow
+GetCapture
+RegisterWindowMessageA
+SendMessageA
+GetWindowLongPtrW
+GetClipCursor
+SetForegroundWindow
+GetKeyState
+SetCapture
+SetActiveWindow
+LoadKeyboardLayoutA
+MapVirtualKeyExA
+GetKeyboardLayout
+GetFocus
+USER32.dll
+ImmIsUIMessageA
+IMM32.dll
+CommandLine
+CMemAllocSystemInitialize
+g_pMemAlloc
+Plat_IsHighDPI
+Plat_WindowToOsSpecificHandle
+Plat_SetupFPUControlWord
+Plat_MilliSecTickDiff
+Plat_GetWindowMonitorIndex
+Warning
+ETWMouseWheel
+ETWMouseMove
+ETWKeyDown
+ETWMouseDown
+?ConMsg@@YAXPEBDZZ
+ETWMouseUp
+Plat_GetDesktopResolution
+Plat_ScreenToWindowCoords
+Plat_GetDefaultMonitorIndex
+Plat_GetWindowClientSize
+Plat_WindowToScreenCoords
+Plat_RelativeTicks
+Plat_LoadSDL
+g_VProfCurrentProfile
+Plat_OsSpecificHandleToPlatWindow
+Plat_RequireSDL
+LoggingSystem_RegisterLoggingChannel
+Plat_MSTime
+?ExitScope@CVProfile@@QEAAXXZ
+?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+Plat_ShouldCollectMiniDumpsForFatalErrors
+Plat_DebugPrint
+Plat_GetModuleFilename
+Plat_GetModuleProcAddress
+Plat_LoadModuleRaw
+EarlyInit_Tier0
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+GetDefaultMiniDumpTypeFlags
+Plat_IsInDebugSession
+Plat_ExitProcess
+LOG_GENERAL
+InvokeMiniDumpHandler
+V_qsort_s
+tier0.dll
+RegisterStringToken
+vstdlib.dll
+GetCurrentProcessId
+GetTickCount
+GetProcAddress
+CloseHandle
+GetLastError
+WaitForSingleObject
+FreeLibrary
+LoadLibraryExA
+CreateFileMappingA
+MultiByteToWideChar
+WideCharToMultiByte
+GetCurrentThreadId
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+ExitProcess
+GetModuleHandleExW
+RtlUnwindEx
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+EnterCriticalSection
+LeaveCriticalSection
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+LCMapStringW
+OutputDebugStringW
+GetStringTypeW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetStdHandle
+SetFilePointerEx
+WriteConsoleW
+CreateFileW
+KERNEL32.dll
+V_tier0_snprintf
+V_tier0_sscanf
+Plat_getwd
+?DevWarning@@YAXPEBDZZ
+CreateSimpleThread
+ReleaseThreadHandle
+GetThreadedLoadLibraryFunc
+StackToolsNotify_LoadedModule
+StackToolsNotify_BeginLoadingModule
+StackToolsNotify_EndLoadingModule
+V_tier0_vsnprintfRet
+V_tier0_strtoi64
+V_tier0_strtod
+V_tier0_vscprintf
+KeyValuesSystem
+V_tier0_wcstoi64
+V_GetErrno
+V_SetErrno
+?DevMsg@@YAXPEBDZZ
+Plat_GetEnv
+Plat_GetOSType
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVCPostConnectCallback@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVConCommand@@
+.?AVConVar@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVIKeyValuesErrorSpew@@
+.?AVCDefaultKeyValuesErrorSpew@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVIInputStackSystem@@
+.?AV?$CTier1AppSystem@VIInputStackSystem@@$0A@@@
+.?AVCInputStackSystem@@
+.?AV?$CTier0AppSystem@VIInputStackSystem@@@@
+.?AV?$CTier2AppSystem@VIInputStackSystem@@$0A@@@
+.?AVIAppSystem@@
+.?AV?$CBaseAppSystem@VIInputStackSystem@@@@
+.?AVIInputSystem@@
+.?AV?$CTier1AppSystem@VIInputSystem@@$0A@@@
+.?AV?$CBaseAppSystem@VIInputSystem@@@@
+.?AV?$CTier2AppSystem@VIInputSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VIInputSystem@@@@
+.?AVCInputSystem@@
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+161012213610Z0#

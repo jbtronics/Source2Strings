@@ -1,0 +1,514 @@
+!This program cannot be run in DOS mode.
+`BINK16
+`BINK32
+`BINKP8
+`RADCODE
+`BINKBSS
+@BINKDATA`-
+BINKCONSqV
+@RADDATA
+RADCONST
+
+CorExitProcess
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+February
+January
+Saturday
+Thursday
+Wednesday
+Tuesday
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+mss64.dll
+GetLogicalProcessorInformation
+kernel32
+8UUPEh|
+>1/PUUU
+=UUUUUU
+,HR><y5
+n>WUUUUU
+?log10f
+_nextafter
+C:\devel\projects\bink\build\binkw64.pdb
+AIL_mem_alloc_lock_info
+AIL_release_sample_handle
+AIL_minimum_sample_buffer_size
+AIL_load_sample_buffer
+AIL_sample_user_data
+AIL_register_EOB_callback
+AIL_digital_latency
+AIL_mem_free_lock
+AIL_set_sample_user_data
+AIL_set_sample_playback_rate
+AIL_sample_buffer_available
+AIL_stop_sample
+AIL_init_sample
+AIL_allocate_sample_handle
+AIL_resume_sample
+AIL_set_sample_buffer_count
+AIL_set_sample_volume_pan
+AIL_set_sample_channel_levels
+AIL_sample_buffer_info
+RegisterClassA
+ChangeDisplaySettingsA
+IsWindowVisible
+GetSystemMetrics
+GetCursorPos
+DefWindowProcA
+ReleaseDC
+PeekMessageA
+CreateWindowExA
+UnregisterClassA
+ShowCursor
+BeginPaint
+GetClassLongPtrA
+GetClientRect
+IsIconic
+GetWindowRect
+ScreenToClient
+SetCursor
+DestroyWindow
+ClientToScreen
+EndPaint
+GetWindow
+GetWindowThreadProcessId
+GetActiveWindow
+GetWindowLongA
+GetTopWindow
+GetWindowLongPtrA
+USER32.dll
+GetPixel
+SetStretchBltMode
+CreateCompatibleBitmap
+CreateCompatibleDC
+SelectObject
+DeleteObject
+SetPixel
+GetDIBits
+StretchBlt
+GetDeviceCaps
+CreateDIBSection
+DeleteDC
+GDI32.dll
+SetErrorMode
+FreeLibrary
+GetProcAddress
+LoadLibraryA
+GetModuleHandleA
+GetSystemInfo
+GetCurrentProcessId
+OutputDebugStringA
+QueryPerformanceCounter
+GetTickCount
+GetEnvironmentVariableA
+QueryPerformanceFrequency
+CreateFileA
+SetFilePointer
+ReadFile
+GetLastError
+CloseHandle
+HeapAlloc
+HeapFree
+HeapCreate
+TlsGetValue
+SetUnhandledExceptionFilter
+WaitForSingleObject
+GetCurrentThread
+InitializeCriticalSection
+TlsSetValue
+LeaveCriticalSection
+CreateSemaphoreA
+SetThreadPriority
+ReleaseSemaphore
+RaiseException
+EnterCriticalSection
+GetThreadPriority
+CreateMutexA
+DeleteCriticalSection
+SetThreadAffinityMask
+ReleaseMutex
+TlsAlloc
+ResumeThread
+CreateThread
+KERNEL32.dll
+waveOutPrepareHeader
+waveOutOpen
+waveOutUnprepareHeader
+waveOutSetVolume
+waveOutReset
+waveOutRestart
+waveOutPause
+waveOutWrite
+waveOutClose
+timeGetTime
+timeEndPeriod
+timeBeginPeriod
+WINMM.dll
+CoCreateInstance
+CoInitializeEx
+ole32.dll
+GetCurrentThreadId
+FlsSetValue
+GetCommandLineA
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+IsDebuggerPresent
+RtlVirtualUnwind
+RtlLookupFunctionEntry
+RtlCaptureContext
+EncodePointer
+DecodePointer
+FlsGetValue
+FlsFree
+SetLastError
+FlsAlloc
+GetModuleHandleW
+ExitProcess
+SetHandleCount
+GetStdHandle
+GetFileType
+GetStartupInfoA
+GetModuleFileNameA
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+HeapSetInformation
+HeapDestroy
+RtlUnwindEx
+GetSystemTimeAsFileTime
+GetCPInfo
+GetOEMCP
+IsValidCodePage
+HeapReAlloc
+WriteFile
+InitializeCriticalSectionAndSpinCount
+GetLocaleInfoA
+GetStringTypeA
+MultiByteToWideChar
+GetStringTypeW
+LCMapStringA
+LCMapStringW
+HeapSize
+LocalAlloc
+binkw64.dll
+BinkBufferBlit
+BinkBufferCheckWinPos
+BinkBufferClear
+BinkBufferClose
+BinkBufferGetDescription
+BinkBufferGetError
+BinkBufferLock
+BinkBufferOpen
+BinkBufferSetDirectDraw
+BinkBufferSetHWND
+BinkBufferSetOffset
+BinkBufferSetResolution
+BinkBufferSetScale
+BinkBufferUnlock
+BinkCheckCursor
+BinkClose
+BinkCloseTrack
+BinkControlBackgroundIO
+BinkControlPlatformFeatures
+BinkCopyToBuffer
+BinkCopyToBufferRect
+BinkDDSurfaceType
+BinkDX8SurfaceType
+BinkDX9SurfaceType
+BinkDoFrame
+BinkDoFrameAsync
+BinkDoFrameAsyncWait
+BinkDoFramePlane
+BinkFreeGlobals
+BinkGetError
+BinkGetFrameBuffersInfo
+BinkGetKeyFrame
+BinkGetPalette
+BinkGetPlatformInfo
+BinkGetRealtime
+BinkGetRects
+BinkGetSummary
+BinkGetTrackData
+BinkGetTrackID
+BinkGetTrackMaxSize
+BinkGetTrackType
+BinkGoto
+BinkIsSoftwareCursor
+BinkLogoAddress
+BinkNextFrame
+BinkOpen
+BinkOpenDirectSound
+BinkOpenMiles
+BinkOpenTrack
+BinkOpenWaveOut
+BinkOpenWithOptions
+BinkOpenXAudio2
+BinkPause
+BinkRegisterFrameBuffers
+BinkRequestStopAsyncThread
+BinkRestoreCursor
+BinkService
+BinkServiceSound
+BinkSetError
+BinkSetFileOffset
+BinkSetFrameRate
+BinkSetIO
+BinkSetIOSize
+BinkSetMemory
+BinkSetPan
+BinkSetSimulate
+BinkSetSoundOnOff
+BinkSetSoundSystem
+BinkSetSoundTrack
+BinkSetSpeakerVolumes
+BinkSetVideoOnOff
+BinkSetVolume
+BinkSetWillLoop
+BinkShouldSkip
+BinkStartAsyncThread
+BinkWait
+BinkWaitStopAsyncThread
+RADTimerRead
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+=amD|Vu
+wA::(9j
+2%2%2%VJ
+Q?jE3lu
+hAYTF U
+r]Y\?X\
+Kv@}c/=
+vUUPUUPU
+g)H%9r%
+'Z?~mww
+8U"f9:)3
+ch=g]Mz
+v	@h+ @
+uY@lb}@#
+z/F+wLF1>nF
+OHHJfiH{
+I6'*I#CFI
+/>(;|?Z<c?
+y?=MQ?+h
+{?=MQ?+h
+o>MFo>h
+m>c0m>G
+k>zrk>1
+c]>.	]>|
+L>`?L>,
+C>E5C>Q
+B>V{B>S
+8>*D8>[
+~3>X 3>'
+	>PP	>t
+z=U#y=-
+]=8}[=e
+K=bMJ=6
+'=0R&=a
+n<Xrh<{*b<
+;0S{;a1b;
+DDRAW.DLL
+DirectDrawCreate
+MouseTypeWind
+256 color mode not supported.
+Unable to create DIBSection.
+Video mode not supported.
+No capable blitting style available.
+DirectDraw is not available
+Out of memory.
+C:\devel\projects\bink\src\sdk\decode\win32\binkbuf.c
+DirectDraw YV12 overlay
+DirectDraw YUY2 overlay
+DirectDraw UYVY overlay
+DirectDraw YV12 off-screen surface
+DirectDraw YUY2 off-screen surface
+DirectDraw UYVY off-screen surface
+DirectDraw RGB off-screen video surface
+DirectDraw RGB off-screen system surface
+DirectDraw primary surface
+DIB Section
+C:\devel\projects\bink\src\sdk\decode\binkread.c
+Bink list mutex
+Bink global sound mutex
+Bink global io mutex
+Bink global blit mutex
+Waiting on Bink list mutex
+Waiting on Bink global sound mutex
+Waiting on Bink instance sound mutex
+Sound mix
+Global sound mix
+Bink Snd
+Sound mix delay
+Wait for frame IO to complete
+Waiting on Bink instance priority io mutex
+ratemem
+IO buffer
+Bink %d/%s/%s (%s)
+Percent Full
+Bink %d/%s/%s
+Data rate
+Bink %d/%s (%s)
+Bink IO
+No IO to do
+Waiting for both io mutexes
+Waiting on Bink instance io mutex
+Waiting on Bink global IO mutex
+No file IO provider installed.
+Error opening file.
+Not a Bink file.
+The file doesn't contain any compressed frames yet.
+The file has a corrupt header.
+Error reading Bink header.
+This file has bad frame size data.
+Bink instance sound mutex
+Bink instance io mutex
+Bink instance priority io mutex
+Waiting on Bink global blit mutex
+YUV to RGB 
+Decompress
+c:\devel\projects\bink\src\sdk\decode\binkdoframe.inl
+Decompress audio
+Decompress video
+ (0891)!
+"*2:;3+#
+$,4<=5-%
+&.6>?7/'
+;:980123+*)( !"#
+$%&'/.-,4567?>=<
+ (0891)*2:;3+#"!
+$,4<=5-.6>?7/'&%
+#+"*!) (08192:3;<4=5>6?7/'.&-%,$
+'&/.76?>=<54-,%$#"+*32;:9810)(! 
+ !"#()*+012389:;
+$%&',-./4567<=>?
+'/&.%-$,#+"*!) (1089:2;3<4=567?>
+ !"#$%&'/.-,+*)(01234567?>=<;:98
+ ()!"#+*21089:;34<=>?765-,$%&./'
+&'./67>?<=45,-$%"#*+23:;8901() !
+ (!)"*#+3;2:1908<4=5>6?7/'.&-%,$
+$,4<=>?7/'&%-56. (089:;3+#"!)12*
+! ()*"#+3;:219804<=56>?7/'&.-,$%
+<4,$%&'/7?>=5.-680( !"#+3;:91*)2
+?>67/.-5=<4,$%&'8019:2*)( !"#+3;
+ !()0189:;23*+"#
+$%,-45<=>?67./&'
+@ABCDEFGHIJKLMNO
+_ B!X T!\ C!Z V!^ B!Y U!] C![ W!_ C1X E2\ D1Z V2^ C1Y E2] D1[ W2_0D2X1F3\0E2Z1G3^0D2Y1F3]0E2[1G3_0FBJ1HD\0GCK1IE^0FBJ1HD]0GCK1IE_ EAI GC\ FBZ HD^ EAI GC] FB[ HD_
+o 2!U C!Y 2!W D!l 2!V C!j 2!X D!n 2!U C!Y 2!W D!m 2!V C!k 2!X D!o
+o "!S "!h "!U "!l "!T "!j "!f "!n "!S "!i "!U "!m "!T "!k "!g "!o
+ 2!4 3!e 2!4 3!i 2!4 3!g 2!4 3!| 2!4 3!f 2!4 3!z 2!4 3!h 2!4 3!~ 2!4 3!e 2!4 3!i 2!4 3!g 2!4 3!} 2!4 3!f 2!4 3!{ 2!4 3!h 2!4 3!
+ !()"#*+018923:;
+$%,-&'./45<=67>?
+DSOUND.DLL
+DirectSoundCreate
+C:\devel\projects\bink\src\sdk\decode\binkmss.c
+MSS64.DLL
+Bink now requires Miles version 7.
+RAD_USE_TGT
+read header
+C:\devel\projects\bink\src\sdk\decode\binkfile.c
+read frame
+seek to new position
+wait on background
+blocking read
+Loop Seek Period
+seek to file start
+doing background read
+Waiting for async work
+C:\devel\projects\bink\src\sdk\decode\binkasyncthread.c
+There is already an async decompression in progress on this HBINK.
+CreateSemaphore failed.
+CreateMutex failed.
+BinkAsy0
+CreateThread failed.
+Async queue full.
+Broken async queue.
+Out of range thread number.
+Already loaded on this thread number.
+Invalid thread number.
+Wait not queued for this thread.
+IsDebuggerPresent
+KERNEL32
+RAD_NO_SET_THREAD_NAMES
+SetThreadIdealProcessor
+TryEnterCriticalSection
+InitializeCriticalSectionAndSpinCount
+SwitchToThread
+@@?bbhnQRQJ
+ssL%FFb
+0077RRn
+$$E*077
+@@?bhEKR770
+0011+LFEb
+077777Rn
+  FEEEK
+tooonnnnn
+>DDKKR77
+0011RLng
+@@bbbhhnQX770
+ssQQ++FFF?b
+0077771RKh
+0777777XR
+ @@@bbhhhKR77
+ @@@bbb
+sssQL%%&&
+ @@@bbb
+000011+LFF?b
+0077777771Lhh
+0077777
+G&%%%%%
+EEEEDDDJ
+ttoonnnnnnnnnmmsQX^
+y77770Q

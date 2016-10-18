@@ -1,0 +1,431 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
++A<_^][
+YYuTVWh
+YYu-9D$
+< tK<	tG
+PPPPPPPP
+UQPXY]Y[
+t+WWVPV
+bad allocation
+2error(QProcess::ProcessError)
+1procError(QProcess::ProcessError)
+2readyReadStandardError()
+1readStdError()
+2error(QAbstractSocket::SocketError)
+1socketError()
+2disconnected()
+1socketConnectionClosed()
+2connected()
+1socketConnected()
+assistant_adp
+localhost
+Failed to start Qt Assistant.
+Qt Assistant crashed.
+Error while running Qt Assistant.
+Communication error
+Could not connect to Assistant: Host not found
+Could not connect to Assistant: Connection refused
+2readyReadStandardOutput()
+1readPort()
+Cannot connect to Qt Assistant.
+-server
+QAssistantClient
+assistantOpened()
+assistantClosed()
+error(QString)
+openAssistant()
+closeAssistant()
+showPage(QString)
+socketConnected()
+socketConnectionClosed()
+readPort()
+procError(QProcess::ProcessError)
+socketError()
+readStdError()
+Qt_GetCustomAllocators
+tier0.dll
+CorExitProcess
+mscoree.dll
+.mixcrt
+EncodePointer
+KERNEL32.DLL
+DecodePointer
+FlsFree
+FlsSetValue
+FlsGetValue
+FlsAlloc
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+An application has made an attempt to load the C runtime library incorrectly.
+Please contact the application's support team for more information.
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- not enough space for locale information
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- CRT not initialized
+- unable to initialize heap
+- not enough space for lowio initialization
+- not enough space for stdio initialization
+- pure virtual function call
+- not enough space for _onexit/atexit table
+- unable to open console device
+- unexpected heap error
+- unexpected multithread lock error
+- not enough space for thread data
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.
+- not enough space for environment
+- not enough space for arguments
+- floating point support not loaded
+Microsoft Visual C++ Runtime Library
+<program name unknown>
+Runtime Error!
+Program: 
+InitializeCriticalSectionAndSpinCount
+kernel32.dll
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+GetProcessWindowStation
+GetUserObjectInformationA
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+USER32.DLL
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+February
+January
+Saturday
+Thursday
+Wednesday
+Tuesday
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+??0QTcpSocket@@QAE@PAVQObject@@@Z
+?metaObject@QTcpSocket@@UBEPBUQMetaObject@@XZ
+?qt_metacast@QTcpSocket@@UAEPAXPBD@Z
+?qt_metacall@QTcpSocket@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+?isSequential@QAbstractSocket@@UBE_NXZ
+?close@QAbstractSocket@@UAEXXZ
+?atEnd@QAbstractSocket@@UBE_NXZ
+?bytesAvailable@QAbstractSocket@@UBE_JXZ
+?bytesToWrite@QAbstractSocket@@UBE_JXZ
+?canReadLine@QAbstractSocket@@UBE_NXZ
+?waitForReadyRead@QAbstractSocket@@UAE_NH@Z
+?waitForBytesWritten@QAbstractSocket@@UAE_NH@Z
+?readData@QAbstractSocket@@MAE_JPAD_J@Z
+?readLineData@QAbstractSocket@@MAE_JPAD_J@Z
+?writeData@QAbstractSocket@@MAE_JPBD_J@Z
+??1QTcpSocket@@UAE@XZ
+?error@QAbstractSocket@@QBE?AW4SocketError@1@XZ
+?connectToHost@QAbstractSocket@@QAEXABVQString@@GV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+QtNetwork4.dll
+?append@QString@@QAEAAV1@ABV1@@Z
+??0QString@@QAE@ABV0@@Z
+?tr@QMetaObject@@QBE?AVQString@@PBD0@Z
+?trUtf8@QMetaObject@@QBE?AVQString@@PBD0@Z
+?tr@QMetaObject@@QBE?AVQString@@PBD0H@Z
+?trUtf8@QMetaObject@@QBE?AVQString@@PBD0H@Z
+??4QString@@QAEAAV0@ABVQLatin1String@@@Z
+??0QProcess@@QAE@PAVQObject@@@Z
+?connect@QObject@@SA_NPBV1@PBD01W4ConnectionType@Qt@@@Z
+??1QFileInfo@@QAE@XZ
+?free@QString@@CAXPAUData@1@@Z
+	?isDir@QFileInfo@@QBE_NXZ
+??0QFileInfo@@QAE@ABVQString@@@Z
+??4QString@@QAEAAV0@ABV0@@Z
+?shared_null@QString@@0UData@1@A
+?fromLatin1_helper@QString@@CAPAUData@1@PBDH@Z
+??0QObject@@QAE@PAV0@@Z
+?event@QObject@@UAE_NPAVQEvent@@@Z
+?eventFilter@QObject@@UAE_NPAV1@PAVQEvent@@@Z
+?timerEvent@QObject@@MAEXPAVQTimerEvent@@@Z
+?childEvent@QObject@@MAEXPAVQChildEvent@@@Z
+?customEvent@QObject@@MAEXPAVQEvent@@@Z
+?connectNotify@QObject@@MAEXPBD@Z
+?disconnectNotify@QObject@@MAEXPBD@Z
+?open@QIODevice@@UAE_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?pos@QIODevice@@UBE_JXZ
+?size@QIODevice@@UBE_JXZ
+?seek@QIODevice@@UAE_N_J@Z
+?reset@QIODevice@@UAE_NXZ
+?metaObject@QProcess@@UBEPBUQMetaObject@@XZ
+?qt_metacast@QProcess@@UAEPAXPBD@Z
+?qt_metacall@QProcess@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+?isSequential@QProcess@@UBE_NXZ
+?close@QProcess@@UAEXXZ
+?atEnd@QProcess@@UBE_NXZ
+?bytesAvailable@QProcess@@UBE_JXZ
+?bytesToWrite@QProcess@@UBE_JXZ
+?canReadLine@QProcess@@UBE_NXZ
+?waitForReadyRead@QProcess@@UAE_NH@Z
+?waitForBytesWritten@QProcess@@UAE_NH@Z
+?readData@QProcess@@MAE_JPAD_J@Z
+?readLineData@QIODevice@@MAE_JPAD_J@Z
+?writeData@QProcess@@MAE_JPBD_J@Z
+?setupChildProcess@QProcess@@MAEXXZ
+??1QProcess@@UAE@XZ
+?kill@QProcess@@QAEXXZ
+?waitForFinished@QProcess@@QAE_NH@Z
+?terminate@QProcess@@QAEXXZ
+?blockSignals@QObject@@QAE_N_N@Z
+?clear@QString@@QAEXXZ
+?state@QProcess@@QBE?AW4ProcessState@1@XZ
+??1QTextStream@@UAE@XZ
+??6QTextStream@@QAEAAV0@ABVQString@@@Z
+??0QTextStream@@QAE@PAVQIODevice@@@Z
+?simplified@QString@@QBE?AV1@XZ
+?qFree@@YAXPAX@Z
+?fromLatin1@QString@@SA?AV1@PBDH@Z
+?readAllStandardError@QProcess@@QAE?AVQByteArray@@XZ
+?shared_null@QListData@@2UData@1@A
+?shared_null@QMapData@@2U1@A
+?disconnect@QObject@@SA_NPBV1@PBD01@Z
+?toUShort@QString@@QBEGPA_NH@Z
+?readAllStandardOutput@QProcess@@QAE?AVQByteArray@@XZ
+?continueFreeData@QMapData@@QAEXH@Z
+?detach3@QListData@@QAEPAUData@1@XZ
+?node_create@QMapData@@QAEPAUNode@1@QAPAU21@HH@Z
+?append@QListData@@QAEPAPAXXZ
+?createData@QMapData@@SAPAU1@H@Z
+?node_delete@QMapData@@QAEXQAPAUNode@1@HPAU21@@Z
+??1QObject@@UAE@XZ
+?start@QProcess@@QAEXABVQString@@ABVQStringList@@V?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z
+?qt_metacast@QObject@@UAEPAXPBD@Z
+?activate@QMetaObject@@SAXPAVQObject@@PBU1@HPAPAX@Z
+?qt_metacall@QObject@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+?staticMetaObject@QObject@@2UQMetaObject@@B
+QtCore4.dll
+HeapAlloc
+GetProcessHeap
+HeapFree
+HeapReAlloc
+GetProcAddress
+GetModuleHandleA
+GetCurrentThreadId
+GetCommandLineA
+GetVersionExA
+ExitProcess
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+InterlockedIncrement
+SetLastError
+GetLastError
+InterlockedDecrement
+SetHandleCount
+GetStdHandle
+GetFileType
+GetStartupInfoA
+DeleteCriticalSection
+GetModuleFileNameA
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+HeapDestroy
+HeapCreate
+VirtualFree
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+LeaveCriticalSection
+EnterCriticalSection
+WriteFile
+LoadLibraryA
+InitializeCriticalSection
+GetCPInfo
+GetOEMCP
+IsValidCodePage
+VirtualAlloc
+RtlUnwind
+HeapSize
+MultiByteToWideChar
+GetLocaleInfoA
+GetStringTypeA
+GetStringTypeW
+LCMapStringA
+LCMapStringW
+KERNEL32.dll
+QtAssistantClient4.dll
+??0QAssistantClient@@QAE@ABVQString@@PAVQObject@@@Z
+??1QAssistantClient@@UAE@XZ
+??_7QAssistantClient@@6B@
+?assistantClosed@QAssistantClient@@IAEXXZ
+?assistantOpened@QAssistantClient@@IAEXXZ
+?closeAssistant@QAssistantClient@@UAEXXZ
+?error@QAssistantClient@@IAEXABVQString@@@Z
+?isOpen@QAssistantClient@@QBE_NXZ
+?metaObject@QAssistantClient@@UBEPBUQMetaObject@@XZ
+?openAssistant@QAssistantClient@@UAEXXZ
+?procError@QAssistantClient@@AAEXW4ProcessError@QProcess@@@Z
+?qt_metacall@QAssistantClient@@UAEHW4Call@QMetaObject@@HPAPAX@Z
+?qt_metacast@QAssistantClient@@UAEPAXPBD@Z
+?readPort@QAssistantClient@@AAEXXZ
+?readStdError@QAssistantClient@@AAEXXZ
+?setArguments@QAssistantClient@@QAEXABVQStringList@@@Z
+?showPage@QAssistantClient@@UAEXABVQString@@@Z
+?socketConnected@QAssistantClient@@AAEXXZ
+?socketConnectionClosed@QAssistantClient@@AAEXXZ
+?socketError@QAssistantClient@@AAEXXZ
+?staticMetaObject@QAssistantClient@@2UQMetaObject@@B
+?tr@QAssistantClient@@SA?AVQString@@PBD0@Z
+?tr@QAssistantClient@@SA?AVQString@@PBD0H@Z
+?trUtf8@QAssistantClient@@SA?AVQString@@PBD0@Z
+?trUtf8@QAssistantClient@@SA?AVQString@@PBD0H@Z
+.?AVQAssistantClient@@
+.?AVQObject@@
+.?AVQTcpSocket@@
+.?AVQAbstractSocket@@
+.?AVQIODevice@@
+.?AVQProcess@@
+.?AVtype_info@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX
+01070V0\0
+1-171F1^1d1~1
+2%2,222B2H2U2[2{2
+3%3Y3`3k3
+4@4Q4_4l4
+6#6-636W6
+7*82888?8Z8
+:,:K:q:
+<"=J=j=p=~=
+>I>^>l>
+?(?A?m?
+151<1U1\1~1
+183<3@3D3H3L3P3T3X3\3`3d3y3
+4 4&4,42484>4D4J4P4V4\4b4h4n4t4z4
+4;5L5b5r5
+6@6X6d6j6
+898>8(9=9C9L9S9r9
+9":*:6:>:R:]:b:t:~:
+;I;N;Y;^;|;
+=,=2=F=M=g=q=w=
+>+>L>V>q>
+0N0a0g0s0y0
+1%11161;1A1E1K1P1V1^1j1
+2 2<2N2
+2%3.3:3p3y3
+455e5w5
+616?6N6
+8P9V9i9s9
+94:F:w:
+:Q;X;j;
+1%1I1P1Z1
+3;4E4f4
+415I5T5x5
+5 6E6X6q6
+9+9?9E9
+;o;x;~;
+<#<0<@<r<x<
+3$3o3w3
+5#6/6B6T6o6w6
+7G7X7l7r7y7
+:!:&:5:>:K:V:h:{:
+;!;(;-;6;C;I;c;t;z;
+%0j0=2H2P2e2
+41575C5
+5*6_6x6
+7 7$7n7t7x7|7
+8 8A8k8
+:G<^<d<t<y<
+=,?3?9?_?
+3*3<3N3`3
+6"6,646?6o6
+:?:X:_:g:l:p:t:
+;N;T;X;\;`;
+<!<K<}<
+?$?,?4?@?I?N?T?^?g?r?~?
+4(4Y5v5
+2034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,00040
+10141L1\1`1t1x1
+2 2$2(2<2@2P2T2X2\2d2|2
+3(3H3h3
+404L4P4l4p4
+505P5p5
+0$0<0X0x0
+3$3,343<3D3L3T3\3d3l3t3|3
+5 5$5(5,5054585<5@5
+6 6$6(60646`:t;x;
+< <$<(<8<@<D<H<L<P<T<X<\<`<d<p<0=4=

@@ -1,0 +1,4505 @@
+!This program cannot be run in DOS mode.
+@.reloc
+Invalid parameter passed to C runtime function.
+ inflate 1.1.4 Copyright 1995-2002 Mark Adler 
+ deflate 1.1.4 Copyright 1995-2002 Jean-loup Gailly 
+								
+I@33s?333?
+I@0123456789ABCDEF
+GeomTex
+Light0Dir
+Light0Row0
+Light0Row1
+Light0Row2
+Light0SH
+MinCosThresh
+NormTex
+ShadTex
+Microsoft (R) D3DX9 Shader Compiler
+GeomTex
+Light0Dir
+Light0Row0
+Light0Row1
+Light0Row2
+Light0SH
+MinCosThresh
+NormTex
+ShadTex
+Microsoft (R) D3DX9 Shader Compiler 4.09.02.1154 PRIVATE
+GeomTex
+Light0Dir
+Light0Row0
+Light0Row1
+Light0Row2
+Light0SH
+MinCosThresh
+NormTex
+ShadTex
+Microsoft (R) D3DX9 Shader Compiler 4.09.02.1154 PRIVATE
+TMatRow0
+TMatRow1
+TMatRow2
+TMatRow3
+Microsoft (R) D3DX9 Shader Compiler 4.09.02.1154 PRIVATE
+SrcTex0
+SrcTex1
+vBlendColor
+Microsoft (R) D3DX9 Shader Compiler 4.09.02.1154 PRIVATE
+SrcTex0
+SrcTex1
+SrcTex2
+SrcTex3
+SrcTex4
+SrcTex5
+vBlendColor
+Microsoft (R) D3DX9 Shader Compiler 4.09.02.1154 PRIVATE
+SrcTex0
+SrcTex1
+SrcTex2
+SrcTex3
+SrcTex4
+SrcTex5
+SrcTex6
+SrcTex7
+vBlendColor
+Microsoft (R) D3DX9 Shader Compiler 4.09.02.1154 PRIVATE
+Saved by D3DX
+(a>Dke>
+e#?RZ$?pO%?iD&??9'?
+f7?6Y8?
+pG?q`H?
+iV?xXW?
+6f?	#g?
+(="H6=Y
+y:>hF>>
+hl>:Kp>
+g!?Yw"?
+X0?fk1?
+@=?4T>?
+JW?KbX?
+	`?r"a?
+@x? [y?Qvz?
+GenuineIntel
+>p[3?p[3?
+km>ir!>o
+3>-	X?b
+/?u"!?%?
+W%?S[J>
+%O?PrG?) ]>6
+>p[3?p[3?
+km>ir!>o
+3>-	X?b
+/?u"!?%?
+W%?S[J>
+%O?PrG?) ]>6
+Software\Microsoft\Direct3D
+d3d9.dll
+DebugSetMute
+d3d9d.dll
+D3DXDoNotMute
+D3DX: (WARN) Overloaded ::new and ::delete operators do not conform to C++ standards:
+D3DX: (WARN) An allocation of zero bytes should return a unique non-null pointer to at
+D3DX: (WARN) least zero bytes. Deletion of a null pointer should quietly do nothing.
+D3DX: (WARN) D3DX relies upon this behavior.
+gdi32.dll
+GetCharABCWidthsI
+GetCharWidthI
+GetFontUnicodeRanges
+usp10.dll
+ScriptItemize
+ScriptShape
+ScriptPlace
+ScriptBreak
+ScriptJustify
+ScriptTextOut
+ScriptGetProperties
+ScriptFreeCache
+ScriptRecordDigitSubstitution
+ScriptApplyDigitSubstitution
+ScriptGetFontProperties
+ScriptStringAnalyse
+ScriptStringOut
+ScriptStringFree
+ScriptStringCPtoX
+ScriptString_pSize
+xof 0303txt 0032        template XSkinMeshHeader         {             <3CF169CE-FF7C-44ab-93C0-F78F62D172E2>             WORD nMaxSkinWeightsPerVertex;             WORD nMaxSkinWeightsPerFace;             WORD nBones;         }         template VertexDuplicationIndices         {             <B8D65549-D7C9-4995-89CF-53A9A8B031E3>             DWORD nIndices;             DWORD nOriginalVertices;             array DWORD indices[nIndices];         }         template FaceAdjacency         {             <A64C844A-E282-4756-8B80-250CDE04398C>             DWORD nIndices;             array DWORD indices[nIndices];         }         template SkinWeights         {             <6F0D123B-BAD2-4167-A0D0-80224F25FABB>             STRING transformNodeName;             DWORD nWeights;             array DWORD vertexIndices[nWeights];             array float weights[nWeights];             Matrix4x4 matrixOffset;         }         template Patch         {             <A3EB5D44-FC22-429D-9AFB-3221CB9719A6>             DWORD nControlIndices;             array DWORD controlIndices[nControlIndices];         }         template PatchMesh         {             <D02C95CC-EDBA-4305-9B5D-1820D7704BBF>             DWORD nVertices;             array Vector vertices[nVertices];             DWORD nPatches;             array Patch patches[nPatches];             [ ... ]         }         template PatchMesh9         {             <B9EC94E1-B9A6-4251-BA18-94893F02C0EA>             DWORD Type;             DWORD Degree;             DWORD Basis;             DWORD nVertices;             array Vector vertices[nVertices];             DWORD nPatches;             array Patch patches[nPatches];             [ ... ]         } template EffectFloats         {             <F1CFE2B3-0DE3-4e28-AFA1-155A750A282D>             DWORD nFloats;             array float Floats[nFloats];         }         template EffectString         {             <D55B097E-BDB6-4c52-B03D-6051C89D0E42>             STRING Value;         }         template EffectDWord         {             <622C0ED0-956E-4da9-908A-2AF94F3CE716>             DWORD Value;         } template EffectParamFloats         {             <3014B9A0-62F5-478c-9B86-E4AC9F4E418B>             STRING ParamName;             DWORD nFloats;             array float Floats[nFloats];         } template EffectParamString         {             <1DBC4C88-94C1-46ee-9076-2C28818C9481>             STRING ParamName;             STRING Value;         }         template EffectParamDWord         {             <E13963BC-AE51-4c5d-B00F-CFA3A9D97CE5>             STRING ParamName;             DWORD Value;         }         template EffectInstance         {             <E331F7E4-0559-4cc2-8E99-1CEC1657928F>             STRING EffectFilename;             [ ... ]         } template AnimTicksPerSecond         {             <9E415A43-7BA6-4a73-8743-B73D47E88476>             DWORD AnimTicksPerSecond;         }         template CompressedAnimationSet         {             <7F9B00B3-F125-4890-876E-1C42BF697C4D>             DWORD CompressedBlockSize;             FLOAT TicksPerSec;             DWORD PlaybackType;             DWORD BufferLength;             array DWORD CompressedData[BufferLength];         } 
+xof 0303txt 0032        template FVFData         {             <B6E70A0E-8EF9-4e83-94AD-ECC8B0C04897>             DWORD dwFVF;             DWORD nDWords;             array DWORD data[nDWords];         }         template VertexElement         {             <F752461C-1E23-48f6-B9F8-8350850F336F>             DWORD Type;             DWORD Method;             DWORD Usage;             DWORD UsageIndex;         }         template DeclData         {             <BF22E553-292C-4781-9FEA-62BD554BDD93>             DWORD nElements;             array VertexElement Elements[nElements];             DWORD nDWords;             array DWORD data[nDWords];         }         template PMAttributeRange         {             <917E0427-C61E-4a14-9C64-AFE65F9E9844>             DWORD iFaceOffset;             DWORD nFacesMin;             DWORD nFacesMax;             DWORD iVertexOffset;             DWORD nVerticesMin;             DWORD nVerticesMax;         }         template PMVSplitRecord         {             <574CCC14-F0B3-4333-822D-93E8A8A08E4C>             DWORD iFaceCLW;             DWORD iVlrOffset;             DWORD iCode;         }         template PMInfo         {             <B6C3E656-EC8B-4b92-9B62-681659522947>             DWORD nAttributes;             array PMAttributeRange attributeRanges[nAttributes];             DWORD nMaxValence;             DWORD nMinLogicalVertices;             DWORD nMaxLogicalVertices;             DWORD nVSplits;             array PMVSplitRecord splitRecords[nVSplits];             DWORD nAttributeMispredicts;             array DWORD attributeMispredicts[nAttributeMispredicts];         } 
+DisableMMX
+DisablePSGP
+DisableD3DXPSGP
+D3DXValidIndices: An invalid index value(%d) was found on face %d
+D3DXValidIndices: An invalid neighbor index value(%d) was found on face %d
+D3DXValidIndices: A point(%d) was found more than once in triangle %d
+D3DXValidIndices: A neighbor triangle index(%d) was found more than once on triangle %d
+D3DXValidIndices:   (Likely problem is that two triangles share same points with opposite orientations)
+D3DXValidMesh: A bowtie was found.  Bowties can be fixed by call D3DXCleanMesh
+D3DXValidMesh:     A bowtie is the usage of a single vertex by two separate fans of triangles.
+D3DXValidMesh:     The fix is to duplicate the vertex so that each fan has its own vertex.
+D3DXValidMesh: Bowtie found around vertex %d shared by faces %d and %d
+Patch %i degenerate
+Texture0@Name
+Failed to create x file data object!
+Out of memory!
+Ambient
+Emissive
+Diffuse
+Specular
+Texture1
+bad allocation
+D3DXCreateText: MakeLinesFromTTPolygon failed
+D3DXCreateText: GetOutlineTextMetrics failed.  Probably no font selected
+D3DXCreateText: No text specified
+D3DXCreateText: Invalid deviation parameter
+D3DXCreateText: Invalid extrusion parameter
+D3DXCreateText: GetTextMetrics failed.  Probably no font selected
+D3DXCreateText: Non vector font selected
+D3DXCreateText: CreateOFContext failed
+D3DXCreateText: GetGlyphOutline failed
+D3DXCreateText: Alloc of glyphBuf failed
+D3DXCreateText: MakeDisplayListFromGlyph failed
+D3DXUseFontOutlines:LoopOrientation : Total loop angle is zero, assuming CW orientation
+#?RADIANCE
+#File created by Microsoft (R) D3DX library
+FORMAT=32-bit_rle_rgbe
+#Timestamp: 
+%u %u%s
+-1.000000
+-Y %u +X %u
+#?RADIANCE
+FORMAT=
+EXPOSURE=
+32-bit_rle_rgbe
+32-bit_rle_xyze
+read error
+vs_3_sw
+vs_2_sw
+vs.3.sw
+vs.2.sw
+ps_3_sw
+ps_2_sw
+ps.3.sw
+ps.2.sw
+d3dx9_31.dll
+D3DXAssembleShaderFromFileA
+D3DAssemble
+D3DXAssembleShaderFromFileW
+D3DXAssembleShaderFromResourceA
+D3DXAssembleShaderFromResourceW
+D3DXAssembleShader
+D3DXCompileShaderFromFileA
+D3DCompile
+D3DXCompileShaderFromFileW
+D3DXCompileShaderFromResourceA
+D3DXCompileShaderFromResourceW
+D3DXCompileShader
+D3DPreprocess
+D3DDisassemble
+<body bgcolor="#000000">
+pixelshader 
+vertexshader 
+%s[%d] = 
+//listing for: %s[%d]
+//listing of all techniques and passes with embedded asm listings 
+technique 
+    pass 
+        vertexshader = 
+            asm {
+        //No embedded vertex shader
+        pixelshader = 
+            asm {
+        //No embedded pixel shader
+<uninitialized>
+resource
+D3DXCreateEffectCompilerFromFileA
+__fx_2_0__
+D3DXCreateEffectCompilerFromFileW
+D3DXCreateEffectCompilerFromResourceA
+D3DXCreateEffectCompilerFromResourceW
+D3DXCreateEffectCompiler
+D3DXCreateEffectFromFileExA
+D3DXCreateEffectFromFileExW
+D3DXCreateEffectFromResourceExA
+D3DXCreateEffectFromResourceExW
+D3DXCreateEffectEx
+D3DX Effect Compiler
+d3d10.dll
+d3d10_1.dll
+TEXCOORDSIZE4_7
+TEXCOORDSIZE4_6
+TEXCOORDSIZE4_5
+TEXCOORDSIZE4_4
+TEXCOORDSIZE4_3
+TEXCOORDSIZE4_2
+TEXCOORDSIZE4_1
+TEXCOORDSIZE4_0
+TEXCOORDSIZE3_7
+TEXCOORDSIZE3_6
+TEXCOORDSIZE3_5
+TEXCOORDSIZE3_4
+TEXCOORDSIZE3_3
+TEXCOORDSIZE3_2
+TEXCOORDSIZE3_1
+TEXCOORDSIZE3_0
+TEXCOORDSIZE2_7
+TEXCOORDSIZE2_6
+TEXCOORDSIZE2_5
+TEXCOORDSIZE2_4
+TEXCOORDSIZE2_3
+TEXCOORDSIZE2_2
+TEXCOORDSIZE2_1
+TEXCOORDSIZE2_0
+TEXCOORDSIZE1_7
+TEXCOORDSIZE1_6
+TEXCOORDSIZE1_5
+TEXCOORDSIZE1_4
+TEXCOORDSIZE1_3
+TEXCOORDSIZE1_2
+TEXCOORDSIZE1_1
+TEXCOORDSIZE1_0
+LASTBETA_D3DCOLOR
+LASTBETA_UBYTE4
+DIRECTIONAL
+PROJECTED
+MIN_MAG_MIP_LINEAR
+MIN_MAG_LINEAR_MIP_POINT
+MIN_LINEAR_MAG_POINT_MIP_LINEAR
+MIN_LINEAR_MAG_MIP_POINT
+MIN_POINT_MAG_MIP_LINEAR
+MIN_POINT_MAG_LINEAR_MIP_POINT
+MIN_MAG_POINT_MIP_LINEAR
+MIN_MAG_MIP_POINT
+GAUSSIANQUAD
+PYRAMIDALQUAD
+ANISOTROPIC
+ALPHAREPLICATE
+COMPLEMENT
+CONSTANT
+SPECULAR
+TFACTOR
+TEXTURE
+CURRENT
+DIFFUSE
+SELECTMASK
+MULTIPLYADD
+DOTPRODUCT3
+BUMPENVMAPLUMINANCE
+BUMPENVMAP
+MODULATEINVCOLOR_ADDALPHA
+MODULATEINVALPHA_ADDCOLOR
+MODULATECOLOR_ADDALPHA
+MODULATEALPHA_ADDCOLOR
+PREMODULATE
+BLENDCURRENTALPHA
+BLENDTEXTUREALPHAPM
+BLENDFACTORALPHA
+BLENDTEXTUREALPHA
+BLENDDIFFUSEALPHA
+ADDSMOOTH
+ADDSIGNED2X
+ADDSIGNED
+MODULATE4X
+MODULATE2X
+MODULATE
+SELECTARG2
+SELECTARG1
+SPHEREMAP
+CAMERASPACEREFLECTIONVECTOR
+CAMERASPACEPOSITION
+CAMERASPACENORMAL
+PASSTHRU
+REVSUBTRACT
+SUBTRACT
+CLIPPLANE5
+CLIPPLANE4
+CLIPPLANE3
+CLIPPLANE2
+CLIPPLANE1
+CLIPPLANE0
+TWEENING
+3WEIGHTS
+2WEIGHTS
+1WEIGHTS
+0WEIGHTS
+DISABLE
+CONTINUOUS
+DISCRETE
+QUINTIC
+QUADRATIC
+MATERIAL
+DECRSAT
+INCRSAT
+REPLACE
+GREATEREQUAL
+NOTEQUAL
+GREATER
+LESSEQUAL
+MIRRORONCE
+INVBLENDFACTOR
+BLENDFACTOR
+BOTHINVSRCALPHA
+BOTHSRCALPHA
+SRCALPHASAT
+INVDESTCOLOR
+DESTCOLOR
+INVDESTALPHA
+DESTALPHA
+INVSRCALPHA
+SRCALPHA
+INVSRCCOLOR
+SRCCOLOR
+WIREFRAME
+GOURAUD
+MIPLODBIAS
+$PRESHADER_PS
+$PRESHADER_VS
+STATEBLOCK
+SAMPLER
+DMAPOFFSET
+ELEMENTINDEX
+SRGBTEXTURE
+MAXANISOTROPY
+MAXMIPLEVEL
+MIPMAPLODBIAS
+MIPFILTER
+MINFILTER
+MAGFILTER
+BORDERCOLOR
+ADDRESSW
+ADDRESSV
+ADDRESSU
+PIXELSHADERCONSTANT4
+PIXELSHADERCONSTANT3
+PIXELSHADERCONSTANT2
+PIXELSHADERCONSTANT1
+PIXELSHADERCONSTANT
+PIXELSHADERCONSTANTI
+PIXELSHADERCONSTANTB
+PIXELSHADERCONSTANTF
+VERTEXSHADERCONSTANT4
+VERTEXSHADERCONSTANT3
+VERTEXSHADERCONSTANT2
+VERTEXSHADERCONSTANT1
+VERTEXSHADERCONSTANT
+VERTEXSHADERCONSTANTI
+VERTEXSHADERCONSTANTB
+VERTEXSHADERCONSTANTF
+PIXELSHADER
+VERTEXSHADER
+LIGHTENABLE
+LIGHTPHI
+LIGHTTHETA
+LIGHTATTENUATION2
+LIGHTATTENUATION1
+LIGHTATTENUATION0
+LIGHTFALLOFF
+LIGHTRANGE
+LIGHTDIRECTION
+LIGHTPOSITION
+LIGHTAMBIENT
+LIGHTSPECULAR
+LIGHTDIFFUSE
+LIGHTTYPE
+MATERIALPOWER
+MATERIALEMISSIVE
+MATERIALSPECULAR
+MATERIALAMBIENT
+MATERIALDIFFUSE
+TEXTURETRANSFORM
+WORLDTRANSFORM
+VIEWTRANSFORM
+PROJECTIONTRANSFORM
+PATCHSEGMENTS
+TEXTURETRANSFORMFLAGS
+BUMPENVLOFFSET
+BUMPENVLSCALE
+TEXCOORDINDEX
+BUMPENVMAT11
+BUMPENVMAT10
+BUMPENVMAT01
+BUMPENVMAT00
+RESULTARG
+ALPHAARG2
+ALPHAARG1
+ALPHAARG0
+ALPHAOP
+COLORARG2
+COLORARG1
+COLORARG0
+COLOROP
+BLENDOPALPHA
+DESTBLENDALPHA
+SRCBLENDALPHA
+SEPARATEALPHABLENDENABLE
+DEPTHBIAS
+SRGBWRITEENABLE
+COLORWRITEENABLE3
+COLORWRITEENABLE2
+COLORWRITEENABLE1
+CCW_STENCILFUNC
+CCW_STENCILPASS
+CCW_STENCILZFAIL
+CCW_STENCILFAIL
+TWOSIDEDSTENCILMODE
+ENABLEADAPTIVETESSELLATION
+ADAPTIVETESS_W
+ADAPTIVETESS_Z
+ADAPTIVETESS_Y
+ADAPTIVETESS_X
+MAXTESSELLATIONLEVEL
+MINTESSELLATIONLEVEL
+ANTIALIASEDLINEENABLE
+SLOPESCALEDEPTHBIAS
+SCISSORTESTENABLE
+NORMALDEGREE
+POSITIONDEGREE
+BLENDOP
+TWEENFACTOR
+COLORWRITEENABLE
+INDEXEDVERTEXBLENDENABLE
+DEBUGMONITORTOKEN
+PATCHEDGESTYLE
+MULTISAMPLEMASK
+MULTISAMPLEANTIALIAS
+POINTSCALE_C
+POINTSCALE_B
+POINTSCALE_A
+POINTSCALEENABLE
+POINTSPRITEENABLE
+POINTSIZE_MAX
+POINTSIZE_MIN
+POINTSIZE
+CLIPPLANEENABLE
+VERTEXBLEND
+EMISSIVEMATERIALSOURCE
+AMBIENTMATERIALSOURCE
+SPECULARMATERIALSOURCE
+DIFFUSEMATERIALSOURCE
+NORMALIZENORMALS
+LOCALVIEWER
+COLORVERTEX
+FOGVERTEXMODE
+AMBIENT
+LIGHTING
+CLIPPING
+TEXTUREFACTOR
+STENCILWRITEMASK
+STENCILMASK
+STENCILREF
+STENCILFUNC
+STENCILPASS
+STENCILZFAIL
+STENCILFAIL
+STENCILENABLE
+RANGEFOGENABLE
+FOGDENSITY
+FOGSTART
+FOGTABLEMODE
+FOGCOLOR
+SPECULARENABLE
+FOGENABLE
+ALPHABLENDENABLE
+DITHERENABLE
+ALPHAFUNC
+ALPHAREF
+CULLMODE
+DESTBLEND
+SRCBLEND
+LASTPIXEL
+ALPHATESTENABLE
+ZWRITEENABLE
+SHADEMODE
+FILLMODE
+ZENABLE
+cluster %d has bad singular value[%d]
+%d:%lg,
+Safe minimum
+Precision
+No transpose
+Columnwise
+Forward
+Backward
+Epsilon
+Transpose
+Non-unit
+CSTRING
+UNICODE
+<%.8x-%.4x-%.4x-%.2x%.2x-%.2x%.2x%.2x%.2x%.2x%.2x>
+xof %stxt 
+template %s {
+BINARY_RESOURCE 
+array %s %s
+BINARY_RESOURCE
+ULONGLONG
+TEMPLATE
+%8x-%4x-%4x-%2x%2x-%2x%2x%2x%2x%2x%2x
+indexColor
+kernel32.dll
+GlobalMemoryStatusEx
+%s %s {
+Application transferred too many scanlines
+Invalid SOS parameters for sequential JPEG
+Corrupt JPEG data: found marker 0x%02x instead of RST%d
+Premature end of JPEG file
+Warning: unknown JFIF revision number %d.%02d
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: %u extraneous bytes before marker 0x%02x
+Inconsistent progression sequence for component %d coefficient %d
+Unknown Adobe color transform code %d
+Obtained XMS handle %u
+Freed XMS handle %u
+Unrecognized component IDs %d %d %d, assuming YCbCr
+JFIF extension marker: RGB thumbnail image, length %u
+JFIF extension marker: palette thumbnail image, length %u
+JFIF extension marker: JPEG-compressed thumbnail image, length %u
+Opened temporary file %s
+Closed temporary file %s
+  Ss=%d, Se=%d, Ah=%d, Al=%d
+    Component %d: dc=%d ac=%d
+Start Of Scan: %d components
+Start of Image
+    Component %d: %dhx%dv q=%d
+Start Of Frame 0x%02x: width=%u, height=%u, components=%d
+Smoothing not supported with nonstandard sampling ratios
+At marker 0x%02x, recovery action %d
+Selected %d colors for quantization
+Quantizing to %d colors
+Quantizing to %d = %d*%d*%d colors
+        %4u %4u %4u %4u %4u %4u %4u %4u
+Unexpected marker 0x%02x
+Miscellaneous marker 0x%02x, length %u
+    with %d x %d thumbnail image
+JFIF extension marker: type 0x%02x, length %u
+Warning: thumbnail image size does not match data length %u
+JFIF APP0 marker: version %d.%02d, density %dx%d  %d
+        %3d %3d %3d %3d %3d %3d %3d %3d
+End Of Image
+Obtained EMS handle %u
+Freed EMS handle %u
+Define Restart Interval %u
+Define Quantization Table %d  precision %d
+Define Huffman Table 0x%02x
+Define Arithmetic Table 0x%02x: 0x%02x
+Unknown APP14 marker (not Adobe), length %u
+Unknown APP0 marker (not JFIF), length %u
+Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
+Caution: quantization tables are too coarse for baseline JPEG
+6b  27-Mar-1998
+Copyright (C) 1998, Thomas G. Lane
+Write to XMS failed
+Read from XMS failed
+Image too wide for this implementation
+Virtual array controller messed up
+Unsupported marker type 0x%02x
+Application transferred too few scanlines
+Write failed on temporary file --- out of disk space?
+Seek failed on temporary file
+Read failed on temporary file
+Failed to create temporary file %s
+Invalid JPEG file structure: SOS before SOF
+Invalid JPEG file structure: two SOI markers
+Unsupported JPEG process: SOF type 0x%02x
+Invalid JPEG file structure: missing SOS marker
+Invalid JPEG file structure: two SOF markers
+Cannot quantize to more than %d colors
+Cannot quantize to fewer than %d colors
+Cannot quantize more than %d color components
+Insufficient memory (case %d)
+Not a JPEG file: starts with 0x%02x 0x%02x
+Quantization table 0x%02x was not defined
+JPEG datastream contains no image
+Huffman table 0x%02x was not defined
+Backing store not supported
+Requested feature was omitted at compile time
+Not implemented yet
+Invalid color quantization mode change
+Scan script does not transmit all data
+Cannot transcode due to multiple use of quantization table %d
+Premature end of input file
+Empty input file
+Maximum supported image dimension is %u pixels
+Missing Huffman code table entry
+Huffman code size table overflow
+Fractional sampling not implemented yet
+Output file write error --- out of disk space?
+Input file read error
+Didn't expect more than one scan
+Write to EMS failed
+Read from EMS failed
+Empty JPEG image (DNL not supported)
+Bogus DQT index %d
+Bogus DHT index %d
+Bogus DAC value 0x%x
+Bogus DAC index %d
+Unsupported color conversion request
+Too many color components: %d, max %d
+CCIR601 sampling not implemented yet
+Suspension not allowed here
+Buffer passed to JPEG library is too small
+Bogus virtual array access
+JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
+Improper call to JPEG library in state %d
+Invalid scan script at entry %d
+Bogus sampling factors
+Invalid progressive parameters at scan script entry %d
+Invalid progressive parameters Ss=%d Se=%d Ah=%d Al=%d
+Unsupported JPEG data precision %d
+Invalid memory pool code %d
+Sampling factors too large for interleaved scan
+Wrong JPEG library version: library is %d, caller expects %d
+Bogus marker length
+Bogus JPEG colorspace
+Bogus input colorspace
+Bogus Huffman table definition
+IDCT output block size %d not supported
+DCT coefficient out of range
+Invalid component ID %d in SOS
+Bogus buffer control mode
+MAX_ALLOC_CHUNK is wrong, please fix
+ALIGN_TYPE is wrong, please fix
+Sorry, there are legal restrictions on arithmetic coding
+Bogus message code %d
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+BKbhTb~XBK!;
+?Potential overflow in png_zalloc()
+Valid palette required for paletted images
+Unable to write international text
+No IDATs written into file
+Application was compiled with png.h from libpng-%.20s
+Application  is  running with png.c from libpng-%.20s
+Incompatible libpng version in application and library
+png_write_info was never called before png_write_row.
+zlib error
+Ignoring attempt to set negative chromaticity value
+Ignoring attempt to set chromaticity value exceeding 21474.83
+Limiting gamma to 21474.83
+Setting gamma=0
+Setting negative gamma to zero
+Palette size 0, hIST allocation skipped.
+Insufficient memory for hIST chunk data.
+Image width or height is zero in IHDR
+image size exceeds user limits in IHDR
+Invalid image size in IHDR
+Width is too large for libpng to process pixels
+Invalid bit depth in IHDR
+Invalid color type in IHDR
+Invalid color type/bit depth combination in IHDR
+Unknown interlace method in IHDR
+Unknown compression method in IHDR
+Unknown filter method in IHDR
+Insufficient memory for pCAL purpose.
+Insufficient memory for pCAL units.
+Insufficient memory for pCAL params.
+Insufficient memory for pCAL parameter.
+Insufficient memory to process iCCP chunk.
+Insufficient memory to process iCCP profile.
+iTXt chunk not supported.
+No memory for sPLT palettes.
+Insufficient memory to create name.
+Insufficient memory to create entries.
+Out of memory while processing unknown chunk.
+Out of memory processing unknown chunk.
+Call to NULL write function
+Write Error
+Attempted to set both read_data_fn and write_data_fn in
+the same structure.  Resetting read_data_fn to NULL.
+zlib memory error
+zlib version error
+Unknown zlib error
+Not a PNG file
+PNG file corrupted by ASCII conversion
+Missing IHDR before IDAT
+Missing PLTE before IDAT
+Ignoring extra png_read_update_info() call; row buffer not reallocated
+Invalid attempt to read row data
+Not enough image data
+Extra compressed data
+Decompression error
+Call to NULL read function
+Read Error
+It's an error to set both read_data_fn and write_data_fn in the 
+same structure.  Resetting write_data_fn to NULL.
+Invalid bit depth
+Invalid color type
+Invalid image width
+Invalid image height
+Width too large for libpng to process image data.
+NULL row buffer for row %ld, pass %d
+png_do_rgb_to_gray found nongray pixel
+png_do_dither returned rowbytes=0
+Out of Memory
+Overflow in png_memcpy_check.
+Overflow in png_memset_check.
+Unknown compression type %d
+Invalid bit depth for grayscale image
+Invalid bit depth for RGB image
+Invalid bit depth for paletted image
+Invalid bit depth for grayscale+alpha image
+Invalid bit depth for RGBA image
+Invalid image color type specified
+Invalid compression type specified
+Invalid filter type specified
+Invalid interlace type specified
+Invalid number of colors in palette
+Ignoring request to write a PLTE chunk in grayscale PNG
+Invalid zlib compression method or flags in IDAT
+Invalid sRGB rendering intent specified
+Empty keyword in iCCP chunk
+Empty keyword in sPLT chunk
+Invalid sBIT depth specified
+Invalid cHRM white point specified
+Invalid cHRM red point specified
+Invalid cHRM green point specified
+Invalid cHRM blue point specified
+Invalid number of transparent colors specified
+Ignoring attempt to write tRNS chunk out-of-range for bit_depth
+Ignoring attempt to write 16-bit tRNS chunk when bit_depth is 8
+Can't write tRNS with an alpha channel
+Invalid background palette index
+Ignoring attempt to write 16-bit bKGD chunk when bit_depth is 8
+Ignoring attempt to write bKGD chunk out-of-range for bit_depth
+Invalid number of histogram entries specified
+zero length keyword
+Out of memory while procesing keyword
+invalid keyword character 0x%02X
+trailing spaces removed from keyword
+leading spaces removed from keyword
+extra interior spaces removed from keyword
+Zero length keyword
+keyword length must be 1 - 79 characters
+Empty keyword in tEXt chunk
+Empty keyword in zTXt chunk
+Unrecognized unit type for oFFs chunk
+Unrecognized equation type for pCAL chunk
+%12.12e
+Unrecognized unit type for pHYs chunk
+Invalid time specified for tIME chunk
+PNG unsigned integer out of range.
+CRC error
+Not enough memory to decompress chunk
+Not enough memory to decompress chunk.
+Not enough memory to decompress chunk..
+Buffer error in compressed datastream in %s chunk
+Data error in compressed datastream in %s chunk
+Incomplete compressed datastream in %s chunk
+Not enough memory for text.
+Unknown zTXt compression type %d
+Out of place IHDR
+Invalid IHDR chunk
+Missing IHDR before PLTE
+Invalid PLTE after IDAT
+Duplicate PLTE chunk
+Ignoring PLTE chunk in grayscale PNG
+Invalid palette chunk
+Truncating incorrect tRNS chunk length
+Truncating incorrect info tRNS chunk length
+No image in file
+Incorrect IEND chunk length
+Missing IHDR before gAMA
+Invalid gAMA after IDAT
+Out of place gAMA chunk
+Duplicate gAMA chunk
+Incorrect gAMA chunk length
+Ignoring gAMA chunk with gamma=0
+Ignoring incorrect gAMA value when sRGB is also present
+Missing IHDR before sBIT
+Invalid sBIT after IDAT
+Out of place sBIT chunk
+Duplicate sBIT chunk
+Incorrect sBIT chunk length
+Missing IHDR before cHRM
+Invalid cHRM after IDAT
+Missing PLTE before cHRM
+Duplicate cHRM chunk
+Incorrect cHRM chunk length
+Invalid cHRM white point
+Invalid cHRM red point
+Invalid cHRM green point
+Invalid cHRM blue point
+Ignoring incorrect cHRM value when sRGB is also present
+Missing IHDR before sRGB
+Invalid sRGB after IDAT
+Out of place sRGB chunk
+Duplicate sRGB chunk
+Incorrect sRGB chunk length
+Unknown sRGB intent
+Missing IHDR before iCCP
+Invalid iCCP after IDAT
+Out of place iCCP chunk
+Duplicate iCCP chunk
+Malformed iCCP chunk
+Ignoring nonzero compression type in iCCP chunk
+Profile size field missing from iCCP chunk
+Ignoring truncated iCCP profile.
+Missing IHDR before sPLT
+Invalid sPLT after IDAT
+malformed sPLT chunk
+sPLT chunk has bad length
+sPLT chunk too long
+sPLT chunk requires too much memory
+Missing IHDR before tRNS
+Invalid tRNS after IDAT
+Duplicate tRNS chunk
+Incorrect tRNS chunk length
+Missing PLTE before tRNS
+Zero length tRNS chunk
+tRNS chunk not allowed with alpha channel
+Missing IHDR before bKGD
+Invalid bKGD after IDAT
+Missing PLTE before bKGD
+Duplicate bKGD chunk
+Incorrect bKGD chunk length
+Incorrect bKGD chunk index value
+Missing IHDR before hIST
+Invalid hIST after IDAT
+Missing PLTE before hIST
+Duplicate hIST chunk
+Incorrect hIST chunk length
+Missing IHDR before pHYs
+Invalid pHYs after IDAT
+Duplicate pHYs chunk
+Incorrect pHYs chunk length
+Missing IHDR before oFFs
+Invalid oFFs after IDAT
+Duplicate oFFs chunk
+Incorrect oFFs chunk length
+Missing IHDR before pCAL
+Invalid pCAL after IDAT
+Duplicate pCAL chunk
+No memory for pCAL purpose.
+Invalid pCAL data
+Invalid pCAL parameters for equation type
+No memory for pCAL params.
+Missing IHDR before sCAL
+Invalid sCAL after IDAT
+Duplicate sCAL chunk
+Out of memory while processing sCAL chunk
+malformed width string in sCAL chunk
+malformed height string in sCAL chunk
+Invalid sCAL data
+Out of place tIME chunk
+Duplicate tIME chunk
+Incorrect tIME chunk length
+Missing IHDR before tEXt
+No memory to process text chunk.
+Not enough memory to process text chunk.
+Insufficient memory to process text chunk.
+Missing IHDR before zTXt
+Out of memory processing zTXt chunk.
+Zero length zTXt chunk
+Unknown compression type in zTXt chunk
+Not enough memory to process zTXt chunk.
+Insufficient memory to store zTXt chunk.
+unknown critical chunk
+invalid chunk type
+Ignoring bad adaptive filter type
+Decompression Error
+Extra compressed data.
+Extra compression data
+Row has too many bytes to allocate in memory.
+unknown compression method
+invalid window size
+incorrect header check
+need dictionary
+incorrect data check
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid bit length repeat
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+oversubscribed dynamic bit lengths tree
+incomplete dynamic bit lengths tree
+oversubscribed literal/length tree
+incomplete literal/length tree
+oversubscribed distance tree
+incomplete distance tree
+empty distance tree with lengths
+invalid literal/length code
+invalid distance code
+d3dcompiler_43.dll
+</font>
+<font color = "#%s">
+!)@UUUUUU
+#I>KWU>t
+l{>b$|>
+UG>)&<>31
+I9333333
+d3dx9_43.pdb
+@USVWATAUH
+hA]A\_^[]
+@USVWATAUH
+A]A\_^[]
+WATAUAVAWH
+A_A^A]A\_
+x ATAUAVH
+S D+C D
+ A^A]A\
+UVWATAUAVAWH
+`A_A^A]A\_^]
+x UATAUAVAWH
+C0L98u9H
+A_A^A]A\]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+t$ WATAUAVAWH
+A_A^A]A\_
+\$ UVWATAUAVAWH
+t$(D!l$ 
+A_A^A]A\_^]
+p WATAUH
+tvA9\$ u
+A9\$ taH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+USVWATAUAVAWH
+D;kP~HL
+A_A^A]A\_^[]
+USVWATAUAVAWH
+D+T$XD+D$PH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+;t$P}JD
+|$PLct$\I
+~kHcL$PL
+~{HcT$PL
+A_A^A]A\_^[]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+s D9t$PuiD
+D9d$hu^
+uSD9l$\uLE;
+A_A^A]A\_^]
+{0M9/u>
+c@M9,$uRD9k$tLD
+UVWATAUH
+yPL9'ur
+{0L9'u8H
+{8L9'uLD9c$tFD
+A]A\_^]
+[ D9\$ u6
+9D$8u-9D$<u'H
+[ D9\$ uH
+9D$8u?9D$<u9
+[ D9\$ u
+VWATAUAVH
+A^A]A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+x UATAUAVAWH
+A_A^A]A\]
+x UATAUAVAWH
+D9khu?H
+D9kltgD8
+D9khu\H
+A_A^A]A\]
+VWATAUAVH
+A^A]A\_^
+t$ WATAUAVAWH
+A_A^A]A\_
+UVWATAUH
+A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+USVWATAUAVH
+A^A]A\_^[]
+@USVWATAUAVH
+A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+{X9{Hv3L
+k(H9k8tS
+K@H9,9t
+x UATAUAVAWH
+\$`D9[x
+A_A^A]A\]
+t$ WATAUAVAWH
+ 9^0vCH
+ A_A^A]A\_
+UVWATAUAVAWH
+B(L9^hu
+u&M9]Pu
+E9]htAI
+B(M9]0u
+A_A^A]A\_^]
+tV;Q|sQD;Q0s
+D;Q0t/9Qxw
+tX;Q|sSH
+J9T	8t$J
+J9T	@t$J
+J9T	Ht$J
+tt;Q|soH
+t';Q|s"H
+vSA;AHwMM
+v<;HHw7L
+8B;T	,u#N
+v/;AHw*D
+APA;P,u
+v];AHwX
+JP;Q,uE
+uJI9Jpu	M
+L9Iht&L
+WATAUAVAWH
+C|A9D$xA
+C4A9D$0A
+C$A9D$ A
+D9s0vRA
+0A_A^A]A\_
+x ATAUAVH
+0A^A]A\
+H UVWATAUAVAWH
+T$@9\$,t
+D$P!]@H
+A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+0A_A^A]A\_^]
+@USVWATAUAVAWH
+L$,D;ch
+^C D9[Du
+A_A^A]A\_^[]
+UVWATAUAVAWH
+L!t$0L!t$PL!l$8E3
+D!mgD9kD
+L$0L!l$PL!l$0L
+D9KDveL
+A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+\$ UVWATAUAVAWH
+pA_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+D9l$pv2L
+D$0H;L$H
+UVWATAUAVAWH
+U8!t$@H!t$8H!t$HH
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+\$ UVWATAUAVAWH
+H!t$(!t$ E3
+A_A^A]A\_^]
+@USVWATAUAVAWH
+L9fPt%I
+A_A^A]A\_^[]
+\$ UVWATAUAVAWH
+H!\$xH!]
+9|$`v3L
+A_A^A]A\_^]
+UWATAUAVH
+A^A]A\_]
+H!|$@H!|$0H
+USVWATH
+x ATAUAVH
+K UVWATAUAVAWI
+!t$HH!t$@H
+A_A^A]A\_^]
+c UAUAVH
+UVWATAUH
+@A]A\_^]
+SUVWATAUAVAWH
+D$0H!l$(H!l$ E3
+HA_A^A]A\_^][
+UVWATAUH
+H!u@H!uHH!u
+`A]A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+H VWAUAVAWH
+A_A^A]_^
+ A]A\_H
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+0A^A]A\
+ A]A\_H
+x ATAUAVH
+0A^A]A\
+ A]A\_H
+x ATAUAVH
+0A^A]A\
+ A]A\_H
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+0A^A]A\
+ A]A\_H
+x ATAUAVH
+0A^A]A\
+ A]A\_H
+x ATAUAVH
+0A^A]A\
+ A]A\_H
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+0A^A]A\
+UVWATAUH
+A]A\_^]
+x ATAUAVH
+USVWATAUAVAWH
+A_A^A]A\_^[]
+x ATAUAVH
+0A^A]A\
+@USVWATH
+x ATAUAVH
+USVWATAUAVAWH
+A_A^A]A\_^[]
+x ATAUAVH
+ A^A]A\H
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+0A^A]A\
+ A]A\_H
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+ A^A]A\H
+X UVWATAUAVAWH
+A_A^A]A\_^]
+ A]A\_H
+x ATAUAVH
+@A^A]A\
+USVWATH
+ A]A\_H
+0A]A\_H
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+@A^A]A\
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+ A^A]A\H
+ A]A\_H
+x ATAUAVH
+ A^A]A\H
+ A]A\_H
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+@A^A]A\
+p UWATH
+p UWATAUAVH
+A^A]A\_]
+p UWATAUAVH
+A^A]A\_]
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+D$HD9t$L
+A_A^A]A\_^]
+UVWATAUAVAWH
+D$HD9t$L
+A_A^A]A\_^]
+K SUVWH
+@USVWATAUAVAWH
+D$8L9l$`
+D9l$Tt=
+L$0D;t$pu"M
+A_A^A]A\_^[]
+x ATAUAVH
+@A^A]A\
+L$ VWATAUAVH
+0A^A]A\_^
+L$ VWATAUAWH
+0A_A]A\_^
+UVWATAUAVAWH
+H!D$`!D$h!D$l!D$pE3
+A_A^A]A\_^]
+UVWATAUAVAWH
+|$LD;l$0
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+@USVWATH
+UVWATAUAVAWH
+u~D9/uyH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVH
+A^A]A\_^[]
+x ATAUAVH
+E9$2vV3
+ A^A]A\
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUH
+9\$`u"L
+0A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+D$`L9d$X
+D;D$PwAE
+A_A^A]A\_^[]
+UVWATAUH
+9\$`u"L
+0A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+D$`L9d$X
+D;D$PwAE
+A_A^A]A\_^[]
+x ATAUAVH
+WATAUAVAWH
+ A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+D9K0vo3
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+x ATAUAVH
+WATAUAVAWH
+ A_A^A]A\_
+@USVWATAUAVAWH
+H!\$XH!\$hH!]
+t$<D;t$4
+t$<D9t$4
+t$<D;t$4
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@SUVWATH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+D$89D$@t
+A_A^A]A\_^]
+UVWATAUAVAWH
+\$hL9l$PuQ
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+{ ATAUAVH
+0A^A]A\
+p WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAUAVH
+A^A]A\_^
+\$ UVWATAUAVAWH
+|$hL9|$Pt
+P`L9|$pt
+P`L9|$`t
+P`L9|$xt
+A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+VWATAUAVH
+A^A]A\_^
+UVWATAUAVAWH
+@A_A^A]A\_^]
+{ ATAUAVH
+0A^A]A\
+@UATAUAVAWH
+e0A_A^A]A\]
+p WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAUAVH
+A^A]A\_^
+\$ UVWATAUAVAWH
+|$hL9|$Pt
+P`L9|$pt
+P`L9|$`t
+P`L9|$xt
+A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+VWATAUAVH
+A^A]A\_^
+UVWATAUAVAWH
+@A_A^A]A\_^]
+p WATAUAVAWH
+ A_A^A]A\_
+F{T;{\vC
+sL+sH9sPs
+F{d;{hvC
+sL+sH9sPs
+t$ WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+PA_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+D9w v8I
+D9w4v&I
+A_A^A]A\_^]
+p WATAUAVAWH
+D9C v:3
+A_A^A]A\_
+p WATAVH
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+p WATAUAVAWH
+ A_A^A]A\_
+F{T;{\vC
+sL+sH9sPs
+F{d;{hvC
+sL+sH9sPs
+@USVWATAUAVAWH
+D$P9D$xr
+T$`A9T$Pt
+A_A^A]A\_^[]
+t$ WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+PA_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+D9o v4I
+D9o4v+I
+A_A^A]A\_^]
+p WATAUAVAWH
+D9C v:3
+A_A^A]A\_
+p WAUAVH
+SUVWATAUAVAWH
+D$0D;A 
+HA_A^A]A\_^][
+|$ UATAUAVAWH
+A_A^A]A\]
+@SUVWATAUH
+A]A\_^][
+L$ UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+@SUVWATAUH
+A]A\_^][
+|$ UATAUAVAWH
+A_A^A]A\]
+L$ UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+L$`D;t$hr
+ A_A^A]A\_^]
+UVWATAUAVAWH
+L$`D;|$hr
+ A_A^A]A\_^]
+UVWATAUAVAWH
+EpHcuhH
+A_A^A]A\_^]
+UVWATAUAVAWH
+EpHcuhH
+pA_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+x ATAUAVH
+ A^A]A\
+x ATAUAVH
+ A^A]A\
+\$ UVWATAUH
+A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+9D$`rLH
+UVWATAUAVAWH
+H!t$pH!t$xH
+A_A^A]A\_^]
+9D$`rLH
+X UVWATAUAVAWH
+A_A^A]A\_^]
+`A;9v[H
+VA;9vQH
+XA;9vSH
+X UVWATAUAVAWH
+A_A^A]A\_^]
+fA;9vaH
+SUVWATAUAVAWH
+XA_A^A]A\_^][
+UATAUAVAWH
+A_A^A]A\]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+x ATAVAWH
+ A_A^A\
+WATAUAVAWH
+0A_A^A]A\_
+p WATAUAVAWH
+A_A^A]A\_
+|$ UATAUAVAWH
+fD9<QuxH
+A_A^A]A\]
+USVWATAUAVAWH
+fD94GtQD
+fD90t<A
+A_A^A]A\_^[]
+WATAUAVAWH
+ A_A^A]A\_
+fD9L$(t
+x ATAUAWH
+f9,QtfE;
+ A_A]A\
+WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+;E@~0D+o(H
+`A_A^A]A\_^]
+x ATAUAVE3
+IfD94_t1A
+SUVWATAUAVAWH
+9T$0uCD
+XA_A^A]A\_^][
+USVWATAUAVAWH
+xA_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+t)C8<"u#L
+0A_A^A]A\_^]
+USVWATAUAVH
+`A^A]A\_^[]
+x ATAUE3
+UVWATAUAVAWH
+D9\$0u;E
+PA_A^A]A\_^]
+USVWATAUAVAWH
+xA_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+t)C8<"u#L
+0A_A^A]A\_^]
+UVWATAUH
+`A]A\_^]
+WATAUAVAWH
+0A_A^A]A\_
+x ATAUAV
+|$8A^A]A\
+UATAUAVAWH
+A_A^A]A\]
+B\A)z0I
+|$ UATAUAVAWH
+A_A^A]A\]
+J\A)z0M
+USVWATAUAVAWH
+A_A^A]A\_^[]
+WATAUAVAWH
+A_A^A]A\_
+x ATAUAVAWH
+A_A^A]A\
+UVWATAUAVAWH
+L$<@8|$Pu
+u	D9t$8u
+L$<@8|$Pu
+D9s tAD
+D9s0tAD
+CtD;CduVD;C|uPD;CluJL
+CxD;ChuYD;
+uPD;CpuJL
+ctD9cdu
+D$<@8|$Pu
+A_A^A]A\_^]
+` UAUAVH
+t|D9s0t!
+chD;cxupL
+tnA9i0u
+AlA9i8u
+USVWATAUAVAWH
+A_A^A]A\_^[]
+WATAUAVAWH
+GLf9GDu
+GPf9GLu
+GHf9GPu
+GRf9GVt
+A_A^A]A\_
+x ATAUAVAWH
+VUUUf9w
+fD9$Bt	A
+A_A^A]A\
+UVWATAUAVAWH
+L$6@8|$Hu
+	fE9<Ku1
+CLfD;CDu]fD;CPuVfD;CHuOL
+fD9t$Tt
+CNfD;CFu^fD;CRuWfD;CJuPL
+fD9t$Tt
+cLfD9cDu
+CPf9CHu
+CRf9CJu
+fD;kRt3fD9sRt,
+fE9,Bt1A
+A_A^A]A\_^]
+` UAUAVH
+sFf9sVt
+sLf9sTu
+cFfD;cN
+cJfD9cT
+BbfA9B`u
+WATAUAVAWH
+ A_A^A]A\_
+H9y u5D
+UVWATAUAVAWH
+0A_A^A]A\_^]
+PfA9;tBM+
+@UATAUAVAWH
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+f94Jt	A
+t$ WATAUAVAWL
+A_A^A]A\_
+t$ WATAUAVAWL
+|$ A+D$(H
+A_A^A]A\_
+L$ SVWH
+\$ UVWATAUH
+PA]A\_^]
+fD9	t\L
+x UATAUAVAWH
+!t$P!t$L
+L$THcD$8HcT$LE
+L$THcT$L
+\$8Mc6A
+L$HHcD$LH
+0HcD$PH
+tnHcD$LH
+A_A^A]A\]
+UVWATAUAVAWH
+L9ugtaA
+A_A^A]A\_^]
+UVWATAUAVAWH
+L9mgtaA
+A_A^A]A\_^]
+UVWATAUAVAWH
+L9|$@t	H
+PhL9|$`t	H
+PxL9|$Xt
+L9|$@t	H
+PhL9|$Ht	H
+A_A^A]A\_^]
+x ATAUAVH
+ A^A]A\
+USVWATAUAVAWH
+A_A^A]A\_^[]
+D$hD;L$p
+H9EPt:H
+fD9	t)L
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+D;<(u6D
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+USVWATAUAVAWH
+t,9L$4u$A
+>L9|$@t	H
+PxL9|$Ht	H
+A_A^A]A\_^[]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUH
+A]A\_^]
+@SUVWATAUAVH
+A^A]A\_^][
+X UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+p WATAUAVAWH
+A_A^A]A\_
+` UAUAVH
+VWATAUAVH
+A^A]A\_^
+UVWATAUAVAWH
+PA_A^A]A\_^]
+@USVWATAUAVAWH
+L$PD9d$xv
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUH
+A]A\_^[]
+@USVWATAUAVAWH
+D$pD98s-
+|$hH9|$Ht
+|$XH9|$pt
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+t$hH9t$`t
+t$XH9t$pt
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ UWATAUAVH
+A^A]A\_]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+A_A^A]A\_^[]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+@D9mXt1M
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+H!t$xH!t$pH!t$hH!t$`H!t$XH!t$PL
+A_A^A]A\_^[]
+D$P9D$$}gHcD$$HcL$$H
+v%HcD$$HcL$$H
+D$X9D$,
+HcD$,HcL$,H
+D$$HcD$,
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+X UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+D!T$tE3
+A_A^A]A\_^]
+UVWATAUAVAWH
+D!T$lE3
+,BfF9,Ju
+A_A^A]A\_^]
+@USVWATAUAVH
+@A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAUAVH
+A^A]A\_^
+|$ UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+f9s<u#f
+A_A^A]A\_
+|$ UATAUH
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+x ATAUAVH
+ A^A]A\
+UVWATAUAVAWH
+0A_A^A]A\_^]
+x ATAUAVH
+ A^A]A\
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UWATAUAVH
+A^A]A\_]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+x UATAUAVAWH
+A_A^A]A\]
+X UVWATAUAVAWH
+A_A^A]A\_^]
+UWATAUAVH
+A^A]A\_]
+WATAUAVAWH
+A_A^A]A\_
+UWATAUAVH
+A^A]A\_]
+x UATAUAVAWH
+A_A^A]A\]
+VWATAUAVH
+A^A]A\_^
+s WATAUAVAWH
+A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVH
+@A^A]A\
+x ATAUAVH
+ A^A]A\
+L$ UVWATAUAVAWH
+`A_A^A]A\_^]
+X UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAUAVAWH
+e A_A^A]A\]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+p WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+pA_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWATAUH
+xA]A\_^][
+@SUVWATAUH
+xA]A\_^][
+@USVWATAUH
+A]A\_^[]
+@USVWATAUAVAWH
+t29E u-H
+A_A^A]A\_^[]
+UVWATAUH
+P`D9mLu/H
+A]A\_^]
+UVWATAUH
+pA]A\_^]
+UVWATAUH
+pA]A\_^]
+UVWATAUH
+A]A\_^]
+t$ UWATH
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+@USVWATAUAVAWH
+x:D9\$dt!L
+A_A^A]A\_^[]
+USVWATAUH
+XA]A\_^[]
+SUVWATAUAVH
+A^A]A\_^][
+SUVWATAUAVH
+A^A]A\_^][
+SUVWATH
+@A\_^][
+SUVWATAUAVH
+A^A]A\_^][
+SUVWATAUAVH
+A^A]A\_^][
+USVWATAUH
+XA]A\_^[]
+SUVWATAUAVH
+A^A]A\_^][
+SUVWATAUAVH
+A^A]A\_^][
+@USVWAUAVAWH
+l$d;D$P
+A_A^A]_^[]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+X UVWATAUAVAWH
+A_A^A]A\_^]
+X UVWATAUAVAWH
+A_A^A]A\_^]
+X UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+X UVWATAUAVAWH
+d$hD9|$p
+d$hD;d$p
+A_A^A]A\_^]
+USVWATAUAVAWH
+d$@D;d$D
+\$@;\$D
+A_A^A]A\_^[]
+WATAUAVAWH
+G\D+GTD
+G(D9~Ht@
+0A_A^A]A\_
+VWATAUAVH
+A^A]A\_^
+.A0z/u-
+.A4z"u 
+p WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+p WATAUAVAWH
+A_A^A]A\_
+p WATAUAVAWH
+A_A^A]A\_
+p WATAUAVAWH
+A_A^A]A\_
+p WATAUAVAWH
+)|$@D9qht
+A_A^A]A\_
+p WATAUAVAWH
+)|$@D9qht
+A_A^A]A\_
+p WATAUAVAWH
+A_A^A]A\_
+x ATAUAVH
+@A^A]A\
+p WATAUAVAWH
+)|$@D9qht
+A_A^A]A\_
+p WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+p WATAUAVAWH
+A_A^A]A\_
+p WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+)|$0D9qht
+A_A^A]A\_^]
+p WATAUAVAWH
+A_A^A]A\_
+x ATAUAVH
+@A^A]A\
+p WATAUAVAWH
+A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+x ATAUAVH
+@A^A]A\
+p WATAUAVAWH
+A_A^A]A\_
+p WATAUAVAWH
+)l$0D9qht
+A_A^A]A\_
+p WATAUAVAWH
+)l$ D9qht
+A_A^A]A\_
+UVWATAUAVAWH
+)|$0D9yht
+A_A^A]A\_^]
+p WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+)|$0D9qht
+A_A^A]A\_^]
+p WATAUAVAWH
+)|$@D9qht
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+p WATAUAVAWH
+A_A^A]A\_
+p WATAUAVAWH
+A_A^A]A\_
+=YUY2t(=GRGBt
+=UYVYu$
+[(=YUY2t!=GRGB
+=YUY2t!=GRGB
+=BC4St{=BC5StP=BC4Ut/=BC5U
+@SUVWATAUAVAWH
+HA_A^A]A\_^][
+.[4z3u1
+.c8z+u)
+.k<z#u!
+x ATAUAVH
+0A^A]A\
+\$ UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+x UATAUAVAWH
+A_A^A]A\]
+UVWATAUH
+A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+x UATAUAVAWH
+D$q<Yu'
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ UWATH
+UVWATAUH
+A]A\_^]
+SUVWATAUAVAWH
+XA_A^A]A\_^][
+D9cLtzE
+D$(fD;g
+C<L9d$@t
+UVWATAUH
+PA]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UWATAUAVH
+!t$@!t$8!t$0
+A^A]A\_]
+X UVWATAUAVAWH
+LcL$TIc
+A_A^A]A\_^]
+L$ UVWATAUAVAWH
+{H uY9s
+A9CPuFM
+A9CTu8M
+A9CXu*H
+C A9Cdt	H
+D$ ;D$$s
+`A_A^A]A\_^]
+UVWATAUAVAWH
+?YUY2tj
+?GRGBtB
+?RGBGt:
+?UYVYt2
+A_A^A]A\_^]
+t$ UWATAUAVH
+=DXT1t!=DXT2t
+A^A]A\_]
+D$T=DXT1t
+=DXT1th=DXT2ta=YUY2t4=DXT3tS=DXT4tL=DXT5tE=GRGBt
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+=YUY2tS=DXT3
+=GRGBt+=RGBGt$=UYVYt
+x ATAUAVH
+ A^A]A\
+@SUVWATAUAVAWH
+8A_A^A]A\_^][
+WATAUAVAWH
+A_A^A]A\_
+@SUVWATAUAVAWH
+hA_A^A]A\_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWATAUAVAWH
+hA_A^A]A\_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+t$ WATAUAVAWH
+=DXT1t#=DXT2t
+ A_A^A]A\_
+t$ WATAUAVAWD
+A_A^A]A\_
+t$ WATAUAVAWD
+A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+VWATAUAVAWH
+A_A^A]A\_^
+WATAUAVAWH
+A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+x ATAUAVAWH
+A_A^A]A\
+WATAUAVAWH
+A_A^A]A\_
+VWATAUAVAWH
+A_A^A]A\_^
+x ATAUAVAWH
+A_A^A]A\
+x ATAUAVAWH
+A_A^A]A\
+UVWATAUH
+A]A\_^]
+p UWATAUAWH
+A_A]A\_]
+x UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+D$H!|$@H
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+D$H!|$@H
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+D$H!|$@H
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+D$H!|$@H
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+D$H!|$@H
+A_A^A]A\_^[]
+@SUVWATH
+ A\_^][
+L$PH!|$HL
+H!|$`H!|$h!|$pM
+L$PH!\$HM
+VWATAUAVH
+A^A]A\_^
+UVWATAUAVAWH
+t-@8|$Ht
+A_A^A]A\_^]
+6A;8v1H
+L$ SUVWH
+UVWATAUAVAWH
+H9\$PuLI
+A_A^A]A\_^]
+D$H9D$@
+H9iPtAH
+H9kXtBH
+|$ UATAUAVAWH
+A_A^A]A\]
+l$ VWATH
+t$ WATAUAVAWH
+D9k8vNL
+D9k8v/D
+ A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+T$HfA;[
+l$@fA;Z
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+@USVWATAUAVAWH
+l$0H!t$(H
+|$H!t$@D
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+l$0H!t$(H
+|$H!t$@D
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+l$@H!t$8H
+|$H!t$@D
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+l$@H!t$8H
+|$H!t$@D
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+l$0H!t$(H
+|$H!t$@D
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+x UATAUAVAWH
+L$ ;L$L
+A_A^A]A\]
+L$ H9y t
+L$`H!y H
+L$ H9y t
+L$`H!y H
+@USVWATAUAVAWH
+H I9O t
+xA_A^A]A\_^[]
+ucD9Z(u]
+UWATAUAVH
+H!}0H!}
+A^A]A\_]
+l$ VWATH
+L$@+HxH
+H WATAUAVAWH
+tV<.u\H
+ A_A^A]A\_
+t$ WATAUH
+t!D9c s
+x ATAUAVH
+ A^A]A\
+x ATAUAVAWD
+|$@A_A^A]A\
+WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVAWD
+|$@A_A^A]A\
+WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVAW3
+l$0A_A^A]A\
+WATAUAVAWH
+D9D$hvxH
+ A_A^A]A\_
+x ATAUAVAW3
+l$0A_A^A]A\
+WATAUAVAWH
+D9D$hvxH
+ A_A^A]A\_
+x ATAUAVH
+ A^A]A\
+t$ WATAUAVAWH
+ A_A^A]A\_
+t$ WATAUAVAWH
+ A_A^A]A\_
+t$ WATAUAVAWH
+ A_A^A]A\_
+t$ WATAUAVAWH
+ A_A^A]A\_
+x ATAUAWH
+ A_A]A\
+9l8PvbD
+UVWATAUAVAWH
+0A_A^A]A\_^]
+O 9O$sV
+f;_Js&H
+@SUVWATAUAVAWH
+@t@f;K,t
+XA_A^A]A\_^][
+UVWATAUAVAWH
+D9z$ueL
+D;C s6H
+A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUH
+0A]A\_^]
+UVWATAUAVAWH
+D9WPv%H
+D9WPv|A
+D9WPvmM
+D$ L9ght
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+t$ WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+;Q@sCD;A@s=H
+t$ WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+f9Czt&fD;[vsyE3
+fD;[vs,E
+A3L$@A#
+H@A3L$@
+L$@f9O2
+L$`f9O4
+G L9\$p
+D$Bf9G0f
+GG0f+Gdf
+D$`f9G4f
+D$@f9G2f
+fD9{xs?
+Erf9C~f
+CpfE;l$
+D8oBtzH
+A_A^A]A\_^]
+UVWATAUAVAWH
+f9Czt,f9Kzt&fD;[vsyE3
+fD;[vs,E
+A3L$@A#
+H@A3L$@
+L$@f9O:
+L$`f9O<
+G L9\$p
+D$Bf9G8f
+GG8f+Gdf
+D$`f9G<f
+D$@f9G:f
+fD9{xs?
+Erf9C~f
+CpfE;l$
+D8oFtzH
+A_A^A]A\_^]
+VWATAUAVH
+ A^A]A\_^
+x ATAUAVH
+!x H!x(H!x
+ A^A]A\
+x ATAUAVH
+!x H!x(H!x
+ A^A]A\
+x ATAUAVH
+!x H!x(H!x
+ A^A]A\
+!x H!x(H!x
+x ATAUAVH
+!x H!x(H!x
+ A^A]A\
+!x H!x(H!x
+x ATAUAVH
+!x H!x(H!x
+ A^A]A\
+WATAUAVAWH
+!x H!x(H!x
+ A_A^A]A\_
+!x H!x(H!x
+WATAUAVAWH
+!x H!x(H!x
+ A_A^A]A\_
+WATAUAVAWH
+!x H!x(H!x
+ A_A^A]A\_
+VWATAUAVH
+!p H!p(H!p
+ A^A]A\_^
+!x H!x(H!x
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+!x H!x(H!x
+ A_A^A]A\_
+UVWATAUAVAWH
+ A_A^A]A\_^]
+s WATAUAVAWH
+W E9G E
+A_A^A]A\_
+UVWATAUAVAWH
+F f9Cvu
+PA_A^A]A\_^]
+s.D9J(u(D9J,u"
+|$ UATAUAVAWH
+A_A^A]A\]
+H WATAUAVAWH
+tV<.u\H
+ A_A^A]A\_
+UVWATAUAVAWH
+L9yhuAH
+0A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+|$(fD;CH
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+VWATAUAVH
+D9s0vpI
+	uBL9t9
+L9w(t{E
+D9w vrI
+L9s(tyA
+D9s vpI
+	uBL9t9
+A^A]A\_^
+VWATAUAVH
+ A^A]A\_^
+D:XfD;d
+q8H9z t
+D$@M9X t89x
+q8H9z t
+D$@M9X t89x
+q8I9A u:H9y
+WATAUAVAWH
+C"f;~vs(H
+ A_A^A]A\_
+f;_~sH9\$hD
+WATAUAVAWH
+ A_A^A]A\_
+t$ WATAUH
+Cbf9C`u+D
+Cjf9Chu)D
+Cpf9Cnu)D
+x ATAUAVH
+t'f;s,L
+f;kJs%D
+ A^A]A\
+@USVWATAUAVAWH
+D$@M9T$"trA
+h@	A	|$
+	E;D$*t?A
+A_A^A]A\_^[]
+@USVWATAUAVH
+@A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+SUVWATAUAVAWH
+A_A^A]A\_^][
+tv9D$8v
+@USVWATAUAVAWH
+XA_A^A]A\_^[]
+@USVWATAUAVAWH
+HA_A^A]A\_^[]
+@USVWATH
+M@H;N t#H
+ A\_^[]
+@USVWATH
+M@H;N t#H
+ A\_^[]
+WATAUAVAWH
+ A_A^A]A\_
+\$ UVWH
+t$ WATAUAVAWH
+ A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+t$ WATAUAVAWH
+ A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+t$ WATAUAVAWH
+ A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVH
+ A^A]A\
+x ATAUAVH
+ A^A]A\
+x ATAUAVH
+ A^A]A\
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+@A_A^A]A\_^]
+USVWATAUAVAWH
+hA_A^A]A\_^[]
+USVWATAUAVAWH
+hA_A^A]A\_^[]
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+USVWATAUAVAWH
+hA_A^A]A\_^[]
+USVWATAUAVAWH
+hA_A^A]A\_^[]
+UVWATAUAVAWH
+xrfE;>s H
+0A_A^A]A\_^]
+USVWATAUAVAWH
+HA_A^A]A\_^[]
+UVWATAUAVAWH
+xrfE;>s H
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+D$PD;D$@r
+t$ WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+D9t$\t#A
+L$HD9t$\t9
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+@A_A^A]A\_^]
+X UVWATAUAVAWH
+A_A^A]A\_^]
+X UVWATAUAVAWH
+\$`D;l$8
+A_A^A]A\_^]
+SUVWATAUAVAWH
+L$$9L$(
+H9\$@t	I
+L$$;L$(
+A_A^A]A\_^][
+X UVWATAUAVAWH
+d$@D;d$,
+A_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+@USVWATAUH
+XA]A\_^[]
+@USVWATAUAVAWH
+l$hLcL$TL
+D$pHc|$D3
+\$0E;8s
+\$0D;\$L
+l$PD;l$x
+A_A^A]A\_^[]
+t$ WATAUH
+t'9t$`u&
+t$ WATAUH
+UATAUAVAWH
+!|$(H!|$ H
+m<D9d$D
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+x ATAUAWH
+ A_A]A\
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+t$ UWATAUAVH
+A^A]A\_]
+t$ UWATAUAVH
+A^A]A\_]
+UATAUAVAWH
+A_A^A]A\]
+UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+A_A^A]A\_
+x ATAUAVH
+@A^A]A\
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UWATAUAVH
+L9wpuGH
+D9w|vxH
+D9wxvWM
+A^A]A\_]
+UVWATAUAVAWH
+|$hI9|$Pu?I
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+V D9z ti
+nHD;k<u
+fHD;c$u
+fHD;cdu
+D$X;D$P
+L$hD;D$x
+D;fHt,D9c$s
+c D9cds
+A_A^A]A\_^]
+X UVWATAUAVAWH
+\$DD9\$h
+L$8D8\$4
+G F9\8 
+T$XD;D$h
+A_A^A]A\_^]
+UVWATAUAVAWH
+T$DD9\$L
+L$PF9\! tP
+L$8D9\$T
+D8\$0t'A
+L$8;L$T
+T$D;T$L
+A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+USVWATAUAVAWH
+T$@F9L( 
+T$hD;D$`
+A_A^A]A\_^[]
+USVWATAUAVAWH
+L9y`t(H
+|$XD;T$@s
+A_A^A]A\_^[]
+USVWATAUAVAWH
+D$X;D$x
+A_A^A]A\_^[]
+USVWATAUAVAWH
+D$2D98u
+A_A^A]A\_^[]
+UVWATAUAVAWH
+L$x;T$,
+A_A^A]A\_^]
+UVWATAUAVAWH
+H9Q`t$H
+T$h;L$0
+PXH9t$pt	H
+A_A^A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+@VWATAUAWH
+0A_A]A\_^
+WATAUAVAWH
+t4A;*w/E;:v*
+A_A^A]A\_
+UVWATAUAVAWH
+P8A9D$hu
+P@A9D$lu
+pA_A^A]A\_^]
+UVWATAUAVAWH
+L$hD;t$(
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+E9CTv I+
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ WATAUH
+UVWATAUAVAWH
+D$DA9F0
+|$HA9~4
+T$DE9V0
+T$pE;F0
+d$HE;f4
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+L$XD;l$H
+A_A^A]A\_^[]
+UVWATAUAVAWH
+T$0D9[0
+T$0D;[0
+`A_A^A]A\_^]
+UVWATAUAVAWH
+D$(E9F4
+D$(E;F4
+A_A^A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+x ATAUAVH
+ A^A]A\
+UVWATAUAVAWH
+]d!]h!]l!\$4D;m
+A_A^A]A\_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+D;t$|t!
+A9x(v8H
+A_A^A]A\_^[]
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+@A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+x UATAUAVAWH
+L$pD9a0v'3
+78_<t D9n
+\$$C9\&
+t$xC;T&
+A_A^A]A\]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+USVWATAUAVH
+A^A]A\_^[]
+` UAUAVH
+UVWATAUAVAWH
+PA_A^A]A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+p WATAUH
+x\9_ vUL
+SUVWATAUAVAWH
+8A_A^A]A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+x UATAUAVAWH
+h@D+h`D;H@
+A@+A`D;
+H@+H`D;
+A_A^A]A\]
+USVWATAUAVAWH
+H!|$PH!|$XH!|$0M
+A_A^A]A\_^[]
+UVWATAUAVAWH
+H!D$X!D$`!D$d
+PXL!l$0D
+A_A^A]A\_^]
+UVWATAUAVAWH
+PXL!t$xD
+H9t$xt	H
+A_A^A]A\_^]
+UVWATAUAVAWH
+L9o`uIL9oPuCH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+T$PE94*uEA
+D$P9D$0
+F94(uaE9u
+cF94(tjE9u
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+SUVWATAUAVAWH
+XA_A^A]A\_^][
+SUVWATAUAVAWH
+xA_A^A]A\_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+SUVWATAUAVAWH
+L!d$(E3
+HA_A^A]A\_^][
+USVWATAUAVAWH
+L!|$8!5<
+A_A^A]A\_^[]
+UVWATAUAVAWH
+8T$Pt&I
+8D$Pt'H
+A_A^A]A\_^]
+X UVWATAUH
+A]A\_^]
+D9Upv@L
+D9Epv3I
+D9EpvrM
+D9Epv6L
+UVWATAUH
+A]A\_^]
+UVWATAUH
+E9Epv4I
+E9EpvrM
+E9Epv5L
+pA]A\_^]
+p UWATH
+UVWATAUAVAWH
+0A_A^A]A\_^]
+<H+D$0L
+p UWATAUAVH
+A^A]A\_]
+UVWATAUAVAWH
+A_A^A]A\_^]
+T$XD+L$@H
+UVWATAUAVAWH
+D;C@s&H
+A_A^A]A\_^]
+UWATAUAVH
+A^A]A\_]
+SUVWATAUAVAWH
+hA_A^A]A\_^][
+UVWATAUAVAWH
+PA_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+u2HcD$pH
+A_A^A]A\_^]
+UVWATAUAVAWH
+)t$@Mc>
+PA_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+UVWATAUAVAWH
+A9<$|3E
+A9<$|@E
+A9<$|8E
+A9<$|=E
+0A_A^A]A\_^]
+H WATAUAVAWH
+A9<$|4A
+A9<$|-E
+A_A^A]A\_
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+\$pHcD$xH
+|sLcL$xHc
+|$pHcD$xM
+xHcL$xHc
+ A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+SUVWATAUAVAWH
+A_A^A]A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+H WATAUAVAWH
+0A_A^A]A\_
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+x ATAUAVH
+WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+H UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+SUVWATAUAVAWH
+hA_A^A]A\_^][
+t$ WATAUAVAWL
+A_A^A]A\_
+UVWATAUH
+A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+H9_ v-H
+H9_hv0H
+K@H9K8u*H
+UVWATAUAVAWH
+m@L9k`t
+uHL9k`t
+m@L9k`t
+m@L9)t6A
+L9k8v$H
+ A_A^A]A\_^]
+UVWATAUAVAWH
+}HL9{`t
+}HL9{`t!L
+}HL9{`t
+}HL9{`t.L
+}HL9{`t
+ A_A^A]A\_^]
+UVWAUAWH
+E0L9C`t
+L9C`t&H
+E0L9C`t
+ A_A]_^]
+H9_8t+H9_ v%H
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+x UATAUAVAWH
+A_A^A]A\]
+H9wPt-H
+H9w8v$H
+H9w0t+H9w
+x ATAUAVH
+@A^A]A\
+UVWATAUAVAWH
+D$Pxof 
+D$T0304
+D$Xbin H
+D$\0032H
+A_A^A]A\_^]
+H9{@v H
+H9{8t+H9{ v%H
+UVWATAUAVAWH
+D$Pxof 
+D$T0304
+D$Xbin H
+D$\0032H
+A_A^A]A\_^]
+|$`xof 
+|$P0303t
+|$P0302
+|$X0032u	
+|$X0064uD
+UVWATAUH
+0A]A\_^]
+x ATAUAVH
+ A^A]A\
+@SUVWATAUH
+x	H9t$ r
+8A]A\_^][
+@SUVWATAUAVH
+A^A]A\_^][
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+x ATAUAVH
+@A^A]A\
+t.H9{hv(H
+0032uzH
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+H9y(v!H
+@SUVWATAUAVH
+I;EPw:3
+PA^A]A\_^][
+@SUVWATAUAVH
+PA^A]A\_^][
+H9y(t+H9y
+@USVWATH
+0A\_^[]
+t$ UWATAUAVH
+D9e8v3H
+ A^A]A\_]
+@USVWATAUAVAWH
+t!L9-1v
+8A_A^A]A\_^[]
+H9{(v$H
+\$ UVWH
+H9Y(v$H
+H9y(v$H
+t(H;Q(s
+VWATAUAVH
+0A^A]A\_^
+t'H9y(t
+WATAUAVAWH
+0A_A^A]A\_
+WATAUAVAWH
+0A_A^A]A\_
+{ ATAUAVH
+H9\$Pv)H
+0A^A]A\
+UVWATAUAVAWH
+u-D!T$ H
+@A_A^A]A\_^]
+T$PH9T$ vbL
+T$PH;T$ s
+WATAUAVAWH
+H9\$0v.L
+A_A^A]A\_
+UVWATAUH
+mHL9i`t
+mHM9l$`t
+m0M9l$`t
+m0M9l$`
+m0M9l$`t
+ A]A\_^]
+t$ UWATH
+\$ UVWATAUH
+A]A\_^]
+UWATAUAVH
+A^A]A\_]
+UWATAUAVH
+A^A]A\_]
+t$ WATAUH
+txt =tzip
+9D$Pu$H
+L$hH+HxH
+@USVWATAVH
+EPH+BxL
+L9vHv"H
+V0H+HxH
+XA^A\_^[]
+H9{Hv$H
+H9yHv$H
+UVWATAUAVAWH
+OXH9OPu*H
+`A_A^A]A\_^]
+t$ WATAUH
+tJH9_@v&H
+NXH9NPu*H
+UVWATAUAVAWH
+KHH9K@u*H
+`A_A^A]A\_^]
+x UATAUAVAWH
+L9{@v*H
+L9{@v"H
+A_A^A]A\]
+H9{Pv H
+x UATAUAVAWH
+D9v8u-H
+M0H!D$ 
+0A_A^A]A\]
+L9I v5L
+WATAUAVAWH
+ A_A^A]A\_
+H9{@v&H
+UVWATAUAVAWH
+E@H9Y(t
+I9\$8v'I
+ A_A^A]A\_^]
+KHH9K@u*H
+x ATAUAVH
+H9N@u*H
+ A^A]A\
+WATAUAVAWH
+ A_A^A]A\_
+H9{@v&H
+ChH9E t
+H9{8v"H
+H9y8v"H
+t&H;Q@s
+VWATAUAVH
+ A^A]A\_^
+UVATAUAVH
+ A^A]A\^]
+x ATAUAVH
+ A^A]A\
+@SUVWATAUAVAWLcZ
+A_A^A]A\_^][
+x ATAUAVH
+whHcGhA
+whHcGhD
+ A^A]A\
+x ATAUAVH
+ A^A]A\
+WATAUAVAWH
+ A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVD
+t$0A^A]A\
+x ATAUAVD
+YdLcI`L
+t$ WATAUAVAWH
+sdD9sL~
+C\f9{dt
+ A_A^A]A\_
+UVWATAUAVAWH
+E@D90u	H
+A_A^A]A\_^]
+WATAUAVAW
+Y4Hcl$PL
+\$HfD9D$Xt
+B$E;B s
+R$A;R s
+t$@A_A^A]A\_
+x UATAUAVAWH
+A_A^A]A\]
+G$D;G s
+S$D;S s
+KHH9K@u*H
+u"HcE8L
+@SVWATH
+|$ ATAUAVH
+D9p$t=I
+ A^A]A\
+~)fffffff
+t$ WAUAVH
+VWAUAVAWH
+ A_A^A]_^
+UVWATAUAVAWH
+ A_A^A]A\_^]
+tfL9+uXD
+@SUWATAVH
+@A^A\_][
+@SWATAUAVH
+@A^A]A\_[
+tV9{XuQH
+t$ WATAVH
+\$ UWATAUAVH
+u+D9>}&H
+ A^A]A\_]
+O$fffffff
+@UVWAVH
+@SATAUAWH
+hA_A]A\[
+@UVWATAVAWH
+A_A^A\_^]
+|$ ATAUAVD
+d$@Hcy8D
+|$8A^A]A\
+@SUVWATAUAVAWH
+8A_A^A]A\_^][
+SVAVAWH
+xA_A^^[
+SVAVAWH
+SUVWATAUAVAWH
+L$`D9s8
+>;CH}cA
+xA_A^A]A\_^][
+@SVWATAUH
+8ffffff
+`A]A\_^[
+D$0HcG$I
+D$X9D$Ps*H
+D$P;D$X
+T$\IcA$L
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+D9l$$t5Hc\$ H
+A_A^A]A\_^]
+|$ ATAUAVH
+ A^A]A\
+ Hct$PM
+O fffffff
+@UVATAWH
+SVWATAVH
+A^A\_^[
+@SUVATAVH
+D$hHcN8H
+ A^A\^][
+@UAVAWH
+l$HE9C8
+|$ ATAUAVH
+@A^A]A\
+u(HcWxH
+D9c8~PH
+ATAUAWH
+PA_A]A\
+t?fffff
+SATAUAVAWH
+A_A^A]A\[
+VWATAUAWH
+ A_A]A\_^
+SUVWAWH
+G49E`ub
+El9Ed}v
+MlHcUdM
+El9Edub
+`A__^][
+@SUVWATAUH
+8A]A\_^][
+KX9sL~^H
+@SVAUAVAWH
+ A_A^A]^[
+@SAVAWH
+t$ WATAUAVAWH
+A_A^A]A\_
+@SATAUAVAWH
+@A_A^A]A\[
+UWATAUH
+HA]A\_]
+l$ VATAUH
+{X9sL~OH
+d$(A9t$
+D$0fffff
+~)fffffff
+SUVWATAUAVAWH
+;CH|JLc
+D;s4}$H
+hA_A^A]A\_^][
+@SVWATAUH
+ ffffff
+`A]A\_^[
+UVWATAUH
+ A]A\_^]
+SUVWATAVAWH
+@A_A^A\_^][
+|$ ATAUAVH
+ A^A]A\
+SUVWATAUH
+HA]A\_^][
+L$ SUVWATAUAWH
+ A_A]A\_^][
+@SWATAWH
+(A_A\_[
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWAUAWH
+ A_A]_^[
+\$ UVWATAUH
+t89{0u3D
+pA]A\_^]
+|$ ATAUAVH
+ A^A]A\
+t89n0u0
+\$ UVWATAUAVAWH
+L$ D9!u
+A_A^A]A\_^]
+SVAUAVH
+XA^A]^[
+@UVAUAVH
+UVAUAVH
+(A^A]^]
+|$ ATAUH
+|$0A]A\
+|$ ATAUAVAWH
+|$HLcy8
+t$0ffff
+|$@A_A^A]A\
+y0Hci8A
+WATAUAVAWH
+A_A^A]A\_
+u,fA99u&fA9y u
+SAUAVAWH
+A_A^A][
+ujfE9H ucfE9H0u\fE9H@uUfE9HPuNfE9H`uGfE9Hpu@A
+u`fE9W uYfE9W0uRfE9W@uKfE9WPuDfE9W`u=fE9Wpu6A
+|$ ATAUAVA
+|$8A^A]A\
+|$ ATAUAVA
+|$8A^A]A\
+H(D8A)t
+UATAUAVAWH
+A_A^A]A\]
+ D8X(uOH
+*D8Y(u2H
+H(D8Y)u
+\@8y(udH
+H(@8y)t3@8y(u-L
+H(@8y)u
+T$0z"u f
+.A8z"u H
+.H9E t-
+.@@zsuqH;
+UVWATAUAVAWH
+A_A^A]A\_^]
+x ATAUAVH
+D$ H9E tqH
+0A^A]A\
+D$ H9E 
+WATAUAVAWH
+@ M9A t
+.A8zGuE
+.A@z9u7I
+.B8z3u1
+.B@z%u#H
+0A_A^A]A\_
+.@8z"u 
+.B8z3u1
+.B@z%u#H9]
+.C8z-u+
+t$ UWATAUAVH
+t:D86t5
+A^A]A\_]
+D$ IEND
+WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVH
+ A^A]A\
+x ATAUAVH
+ A^A]A\
+t$ UWATAUAVH
+E#zTXtD
+A^A]A\_]
+UVWATAUH
+`A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+x ATAUAVAW
+|$@A_A^A]A\
+x ATAUAW
+|$8A_A]A\
+SUVWAUAVAWH
+A_A^A]_^][
+UVWATAUAVAWH
+PA_A^A]A\_^]
+D$$PLTE
+D$ IDAT
+\$ UVWATAUH
+pA]A\_^]
+t$ UWATAUAVH
+A^A]A\_]
+\$ UVWH
+D$$hIST@
+\$ UVWATAUH
+PA]A\_^]
+@SUVWATH
+D$(tEXt
+@A\_^][
+@USVWATAUAVH
+pA^A]A\_^[]
+\$ UVWATAUAVAWH
+pA_A^A]A\_^]
+@USVWATH
+@A\_^[]
+\$ UVWATAUAVAWH
+pA_A^A]A\_^]
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+|$ UATAUAVAWH
+0A_A^A]A\]
+@SUVWATAUAVAWH
+xA_A^A]A\_^][
+l$ VWATH
+@SUVWATH
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ WATAUH
+H;|$Pwj
+@USVWATAUAWH
+A_A]A\_^[]
+\$ UVWH
+@SUVWATH
+UVWATAUAVAWH
+`A_A^A]A\_^]
+\$ UVWH
+t$ WATAUH
+\$ UVWATAUH
+PA]A\_^]
+x ATAUAVH
+ A^A]A\
+s WATAUAVAWH
+A_A^A]A\_
+x ATAUAVH
+ A^A]A\
+x UATAUAVAWH
+A_A^A]A\]
+|$ UATAVH
+UVWATAUAVAWH
+H!u H!u
+A_A^A]A\_^]
+x UATAUAVAWH
+|$hL9|$xt
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+H!t$XH!t$HE3
+A_A^A]A\_^]
+UVWATAUAVAWH
+L$H;L$t
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+D!d$(L!d$ H
+UVWATAUAVAWH
+H!|$PH!|$`H!|$hE3
+L$\;L$x
+A_A^A]A\_^]
+x ATAUAVH
+ A^A]A\
+SUVWATAUAVAWH
+(A_A^A]A\_^][
+SUVWATAUAVAWH
+(A_A^A]A\_^][
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+@A_A^A]A\_^]
+UATAUAVAWH
+|$8D9{\
+|$xD9{X
+D9|$0u-
+HcT$0Hk
+Hct$0Hk
+D$x;CXL
+t$8;S\s$L
+A_A^A]A\]
+VWATAUAVAWLc\$XHc|$`D
+l$HA_A^A]A\_^
+WATAUAVAWH
+A_A^A]A\_
+H WATAVH
+l$ VWATH
+s^D;[x~
+@SUVWATAUAVAWL
+A_A^A]A\_^][
+SUVWATAUAVAWH
+)\$0Nc\'
+A_A^A]A\_^][
+@WAUAVH
+UATAUAVAWH
+D9sdvnL
+A_A^A]A\]
+@USVWATAUAVAWH
+d$DD9gd
+A_A^A]A\_^[]
+UATAUAVAWH
+D9sdvpL
+A_A^A]A\]
+@USVWATAUAVAWH
+d$DD9gd
+A_A^A]A\_^[]
+@WAUAVH
+p UWATH
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+PA_A^A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+H!\$XH!\$`3
+A_A^A]A\_^]
+x ATAUAVH
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+] L+l$@K
+A_A^A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+B0A9r(v%I
+A_A^A]A\_^]
+x ATAUAVH
+ A^A]A\
+{ ATAUAVH
+x ATAUAVH
+@A^A]A\
+t$ WATAUAVAWH
+0A_A^A]A\_
+t$ WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+8\$xt%E
+A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+t$ WATAUAVAWH
+{0D9S(v|M
+ A_A^A]A\_
+x ATAUAVAWL
+h A9x(vQH
+|$@A_A^A]A\
+x ATAUAVAWL
+h A9x(vPH
+|$@A_A^A]A\
+B0A9j(v;H
+B0A9j(v5H
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+WATAUAVAWH
+A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+CpE8t$pujM
+D9s(v\M
+@A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+USVWATAUAVAWH
+A9|$(vgL
+hA_A^A]A\_^[]
+UVWATAUAVAWH
+x-D8}Ht	L9
+`A_A^A]A\_^]
+UVWATAUH
+ A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+xt8\$PtNH
+UVWATAUAVAWH
+@A_A^A]A\_^]
+USVWATAUAVAWH
+H;^Hv]H;
+MgD;N(s^
+]g9~8vm
+L;nHv]L;
+]g9~8vf
+H9xxtf9~(vaL
+A_A^A]A\_^[]
+USVWATAUAVAWH
+t$0E;t$
+A_A^A]A\_^[]
+USVWATAUAVAWH
+L9x@vKH
+hA_A^A]A\_^[]
+UVWATAUAVAWH
+M9}hv?E3
+D9C(vTM
+pA_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+x,D8uou
+A_A^A]A\_^]
+USVWATAUAVAWH
+L9GhviE3
+M9MhvvH
+L9whv`E3
+L9shv`E3
+xA_A^A]A\_^[]
+ATAUAVH
+@A^A]A\
+UATAUAVAWH
+F8<)u2Hi
+A_A^A]A\]
+t=H9;t*L
+VWATAUAVH
+A^A]A\_^
+x ATAUAVH
+UVWATAUAVAWH
+m_D8(ts
+A_A^A]A\_^]
+D9n(vEM
+FM9Phv@
+SUVWATAUAVAWH
+8A_A^A]A\_^][
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+K UVWATAUAVAWH
+u3H9]hvM
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A9_(vxM
+ A_A^A]A\_^]
+USVWATAUAVAWH
+C,;C$rz+C$
+A_A^A]A\_^[]
+USVWATAUAVAWH
+hA_A^A]A\_^[]
+H UATAUAVAWH
+A9y(u(M
+A_A^A]A\]
+USVWATAUAVAWH
+L$8H;A@H
+E9O(vHE3
+E9](vhE3
+mxE;](r
+A_A^A]A\_^[]
+A0D9Q(vf
+UVWATAUAVAWH
+UgD8z$t
+xTD8}gt	H
+A_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+|$8H!|$@H!|$HH!|$P
+u%L9D$H
+\$`H!\$hH!\$pH!\$xH
+HcD$HA;
+A_A^A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UATAUAVAWH
+C,;C$rx+C$
+A_A^A]A\]
+x ATAUAWH
+USWATAUAVH
+A^A]A\_[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+x ATAUAVH
+0A^A]A\
+UVWATAUAVAWH
+A_A^A]A\_^]
+SUVWATAUAVAWH
+A_A^A]A\_^][
+UVWATAUAVAWH
+@A_A^A]A\_^]
+UATAUAVAWH
+D9k(vXM
+xuE8/tpH
+K0D9k(v H
+A_A^A]A\]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+USVWATAUAVAWH
+D9~8vVI
+egD;f(sA
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVH
+A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+UVWATAUAVAWH
+|$XH!|$`H!|$h
+H!|$XH!|$`A
+A_A^A]A\_^]
+|$ UATAUH
+p WATAUH
+WATAUAVAWH
+0A_A^A]A\_
+S L9Jhv
+UVWATAUAVAWH
+L9yPvYA
+A_A^A]A\_^]
+t$ WATAUH
+x ATAUAVH
+0A^A]A\
+x ATAUAVH
+D9K(vrL
+0A^A]A\
+H!t$(H!t$0H!t$8H!t$@H
+\$(9o(v%
+D9K(vsI
+H0D9P(v"I
+UWATAUAVH
+A^A]A\_]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+t$ WATAUAVAWL
+A_A^A]A\_
+W D9r t
+\$ UVWATAUAVAWH
+ A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+L9v@vuE3
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@WAUAVH
+UATAUAVAWH
+L$ I9L$p
+L$ I;D$p
+|$(M9|$ 
+D8z,uVA
+D8y(ugE
+M9|$HvpM
+D8y(uEH
+B,;B$ry+B$
+L$ I9L$p
+L$ I;D$p
+|$(M9|$ 
+D8z,uVA
+D8y(ugE
+M9|$HvpM
+D8y(uEH
+B,;B$ry+B$
+A_A^A]A\]
+x ATAUM
+I9]pvjI
+|$0A]A\
+` UAUAVH
+I9MHv H
+t$ WATAUAVAWH
+D$PD9i 
+D9k(vhM
+ A_A^A]A\_
+B,;B$rw+B$
+x UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+p WATAUAVAWH
+A_A^A]A\_
+USVWATAUAVAWH
+EWO9D<@vx3
+A_A^A]A\_^[]
+@WAUAVH
+UVWATAUAVAWH
+L$pL;t+
+0A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+USVWATAUAVAWH
+UgI9T$@vI3
+}oD9K(v
+M9qhv,E3
+A_A^A]A\_^[]
+USVWATAUAVAWH
+\$0A9\$(
+\$0A;\$(r
+A_A^A]A\_^[]
+USVWATAUAVAWH
+D$@L9|$X
+O@D!>E8|
+l$hL9|$x
+H;D$xs.
+A_A^A]A\_^[]
+SUVWATAUAVAWH
+(A_A^A]A\_^][
+USVWATAUAVAWH
+UgM9E@vPI
+D9C(v#3
+M9`hv,E3
+9S(v#E3
+A_A^A]A\_^[]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+h L9uhv^E3
+;T$ht93
+ A_A^A]A\_^]
+USVWATAUAVAWH
+\$8E9t$(
+\$8A;\$(r
+A_A^A]A\_^[]
+WATAUAVAWH
+A_A^A]A\_
+p WATAUH
+@WAUAVH
+t$ WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVH
+L9c v,H
+3L9cPu*L
+0A^A]A\
+t$ WATAUAVAWH
+ A_A^A]A\_
+UATAUAVAWH
+D9`0t0D9`@t*D9`Pt$I
+A_A^A]A\]
+USVWATAUAVAWH
+$t*A9L$
+L$0A;L$ t
+D$0A3D$ 3
+k(D;c0t
+L$0A;N t
+F0A3F 3
+D$@D;c0t
+k(D;c0t
+A_A^A]A\_^[]
+UVWATAUAVAWH
+H9rXvWH
+A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+@WATAUH
+@VWATAUAWH
+0A_A]A\_^
+USVWATAUAVAWH
+A_A^A]A\_^[]H
+Y H9Y0u
+WATAUAVAWH
+Q H9Q0u
+ A_A^A]A\_
+x ATAUAVH
+H91u	9q
+c(HcK(H
+GNHcK(H
+c(HcK(H
+GLHcK(H
+c(HcK(H
+GNHcK(H
+c(HcK(H
+OLHcS(H
+c(HcS(H
+ A^A]A\
+x ATAUAVAWD
+A_A^A]A\
+C8D+C|-
+x ATAUAWH
+ A_A]A\
+x ATAUAVH
+u:9{||	
+ A^A]A\
+USVWATAUAVAWH
+T$PI;T$@t"M
+u'M;D$@t M
+UoA9|$(
+L$XM9L$Pt7E
+A_A^A]A\_^[]
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+UVWATAUAVAWH
+PA_A^A]A\_^]
+x ATAUAVAW
+i(IcQ(A
+~bIcQ(E
+i(IcQ(A
+~_IcQ(E
+i(IcQ(A
+~bIcQ(E
+i(IcQ(A
+~_IcQ(E
+i(IcQ(A
+~bIcQ(E
+i(IcQ(A
+	~\IcQ(E
+i(IcQ(A
+|$@A_A^A]A\
+~WHcS(A
+~XHcS(E
+~ZIcS(A
+C(IcS(A
+C(IcK(I
+~XHcS(D
+x ATAUAVAW3
+B(IcR(A
+~ZIcR(A
+B(IcR(A
+A_A^A]A\
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+GHH+G@L
+GPL;G@t
+WXH9WPt
+0A_A^A]A\_
+x ATAUAVH
+w@H9GXu
+ A^A]A\
+UVWATAUAVAWH
+H;N@suH
+FHH+F@H
+NXA_A^A]A\_^]
+@USVWATH
+@A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+SUVWATAUAVAWH
+A_A^A]A\_^][
+SUVWATAUAVAWH
+A_A^A]A\_^][
+USVWATAUAVAWH
+A_A^A]A\_^[]
+SUVWATAUAVAWH
+A_A^A]A\_^][
+USVWATAUAVAWH
+A_A^A]A\_^[]
+t$ WATAUH
+        H
+VWATAUAVH
+ A^A]A\_^
+l$ VWATH
+tsH!t$8H!t$0!t$(H!t$ A
+ATAUAVH
+ A^A]A\
+H3E H3E
+@SUVWATH
+PA\_^][
+\$ UVWATAUAVAWH
+9D$Xt`E
+A_A^A]A\_^]
+__CxxFrameHandler
+??3@YAXPEAX@Z
+??2@YAPEAX_K@Z
+iswspace
+iswalpha
+iswdigit
+iswpunct
+_stricmp
+_purecall
+memmove
+_finite
+_vsnprintf
+_clearfp
+_strdup
+setlocale
+realloc
+_strtime
+_strdate
+longjmp
+isspace
+isdigit
+_vsnwprintf
+isalnum
+wcstombs
+isxdigit
+isalpha
+_tempnam
+_XcptFilter
+_initterm
+_amsg_exit
+__C_specific_handler
+msvcrt.dll
+_unlock
+__dllonexit
+_onexit
+?terminate@@YAXXZ
+isleadbyte
+_fileno
+_snprintf
+__badioinfo
+__pioinfo
+_lseeki64
+_isatty
+SelectObject
+DeleteObject
+DeleteDC
+CreateCompatibleDC
+SetMapMode
+SetTextAlign
+CreateFontIndirectW
+CreateFontIndirectA
+GetFontLanguageInfo
+GetTextMetricsW
+GetTextMetricsA
+SetBkMode
+SetBkColor
+SetTextColor
+GetCharacterPlacementW
+GetCharacterPlacementA
+GetObjectA
+GetObjectW
+GetGlyphOutlineA
+CreateDIBSection
+ExtTextOutW
+MoveToEx
+ExtTextOutA
+TranslateCharsetInfo
+GetOutlineTextMetricsA
+GetCurrentObject
+GetGlyphOutlineW
+GDI32.dll
+DisableThreadLibraryCalls
+VirtualProtect
+GetVersionExA
+LoadLibraryA
+GetProcAddress
+FreeLibrary
+GetModuleHandleA
+OutputDebugStringA
+WideCharToMultiByte
+MultiByteToWideChar
+VirtualAlloc
+VirtualFree
+IsProcessorFeaturePresent
+GetTempPathA
+GetTempFileNameA
+CreateFileA
+ReadFile
+CloseHandle
+DeleteFileA
+WriteFile
+IsDBCSLeadByte
+GetLastError
+GetFileSizeEx
+CreateFileW
+GetFullPathNameW
+FormatMessageA
+LocalFree
+InitializeCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+UnmapViewOfFile
+FreeResource
+MapViewOfFile
+CreateFileMappingA
+GetFileSize
+SizeofResource
+LockResource
+LoadResource
+FindResourceA
+DeleteFileW
+SetFilePointer
+CompareStringA
+MoveFileA
+GetTempFileNameW
+MoveFileW
+SetEndOfFile
+GetSystemInfo
+GlobalMemoryStatus
+ExpandEnvironmentStringsA
+IsBadCodePtr
+IsBadReadPtr
+IsBadWritePtr
+CreateMutexA
+WaitForSingleObject
+ReleaseMutex
+HeapAlloc
+HeapFree
+GetProcessHeap
+RtlVirtualUnwind
+RtlLookupFunctionEntry
+RtlCaptureContext
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+KERNEL32.dll
+RegOpenKeyA
+RegQueryValueExA
+RegCloseKey
+ADVAPI32.dll
+FindResourceW
+_setjmp
+d3dx9_43.dll
+D3DXAssembleShader
+D3DXAssembleShaderFromFileA
+D3DXAssembleShaderFromFileW
+D3DXAssembleShaderFromResourceA
+D3DXAssembleShaderFromResourceW
+D3DXBoxBoundProbe
+D3DXCheckCubeTextureRequirements
+D3DXCheckTextureRequirements
+D3DXCheckVersion
+D3DXCheckVolumeTextureRequirements
+D3DXCleanMesh
+D3DXColorAdjustContrast
+D3DXColorAdjustSaturation
+D3DXCompileShader
+D3DXCompileShaderFromFileA
+D3DXCompileShaderFromFileW
+D3DXCompileShaderFromResourceA
+D3DXCompileShaderFromResourceW
+D3DXComputeBoundingBox
+D3DXComputeBoundingSphere
+D3DXComputeIMTFromPerTexelSignal
+D3DXComputeIMTFromPerVertexSignal
+D3DXComputeIMTFromSignal
+D3DXComputeIMTFromTexture
+D3DXComputeNormalMap
+D3DXComputeNormals
+D3DXComputeTangent
+D3DXComputeTangentFrame
+D3DXComputeTangentFrameEx
+D3DXConcatenateMeshes
+D3DXConvertMeshSubsetToSingleStrip
+D3DXConvertMeshSubsetToStrips
+D3DXCreateAnimationController
+D3DXCreateBox
+D3DXCreateBuffer
+D3DXCreateCompressedAnimationSet
+D3DXCreateCubeTexture
+D3DXCreateCubeTextureFromFileA
+D3DXCreateCubeTextureFromFileExA
+D3DXCreateCubeTextureFromFileExW
+D3DXCreateCubeTextureFromFileInMemory
+D3DXCreateCubeTextureFromFileInMemoryEx
+D3DXCreateCubeTextureFromFileW
+D3DXCreateCubeTextureFromResourceA
+D3DXCreateCubeTextureFromResourceExA
+D3DXCreateCubeTextureFromResourceExW
+D3DXCreateCubeTextureFromResourceW
+D3DXCreateCylinder
+D3DXCreateEffect
+D3DXCreateEffectCompiler
+D3DXCreateEffectCompilerFromFileA
+D3DXCreateEffectCompilerFromFileW
+D3DXCreateEffectCompilerFromResourceA
+D3DXCreateEffectCompilerFromResourceW
+D3DXCreateEffectEx
+D3DXCreateEffectFromFileA
+D3DXCreateEffectFromFileExA
+D3DXCreateEffectFromFileExW
+D3DXCreateEffectFromFileW
+D3DXCreateEffectFromResourceA
+D3DXCreateEffectFromResourceExA
+D3DXCreateEffectFromResourceExW
+D3DXCreateEffectFromResourceW
+D3DXCreateEffectPool
+D3DXCreateFontA
+D3DXCreateFontIndirectA
+D3DXCreateFontIndirectW
+D3DXCreateFontW
+D3DXCreateKeyframedAnimationSet
+D3DXCreateLine
+D3DXCreateMatrixStack
+D3DXCreateMesh
+D3DXCreateMeshFVF
+D3DXCreateNPatchMesh
+D3DXCreatePMeshFromStream
+D3DXCreatePRTBuffer
+D3DXCreatePRTBufferTex
+D3DXCreatePRTCompBuffer
+D3DXCreatePRTEngine
+D3DXCreatePatchMesh
+D3DXCreatePolygon
+D3DXCreateRenderToEnvMap
+D3DXCreateRenderToSurface
+D3DXCreateSPMesh
+D3DXCreateSkinInfo
+D3DXCreateSkinInfoFVF
+D3DXCreateSkinInfoFromBlendedMesh
+D3DXCreateSphere
+D3DXCreateSprite
+D3DXCreateTeapot
+D3DXCreateTextA
+D3DXCreateTextW
+D3DXCreateTexture
+D3DXCreateTextureFromFileA
+D3DXCreateTextureFromFileExA
+D3DXCreateTextureFromFileExW
+D3DXCreateTextureFromFileInMemory
+D3DXCreateTextureFromFileInMemoryEx
+D3DXCreateTextureFromFileW
+D3DXCreateTextureFromResourceA
+D3DXCreateTextureFromResourceExA
+D3DXCreateTextureFromResourceExW
+D3DXCreateTextureFromResourceW
+D3DXCreateTextureGutterHelper
+D3DXCreateTextureShader
+D3DXCreateTorus
+D3DXCreateVolumeTexture
+D3DXCreateVolumeTextureFromFileA
+D3DXCreateVolumeTextureFromFileExA
+D3DXCreateVolumeTextureFromFileExW
+D3DXCreateVolumeTextureFromFileInMemory
+D3DXCreateVolumeTextureFromFileInMemoryEx
+D3DXCreateVolumeTextureFromFileW
+D3DXCreateVolumeTextureFromResourceA
+D3DXCreateVolumeTextureFromResourceExA
+D3DXCreateVolumeTextureFromResourceExW
+D3DXCreateVolumeTextureFromResourceW
+D3DXDebugMute
+D3DXDeclaratorFromFVF
+D3DXDisassembleEffect
+D3DXDisassembleShader
+D3DXFVFFromDeclarator
+D3DXFileCreate
+D3DXFillCubeTexture
+D3DXFillCubeTextureTX
+D3DXFillTexture
+D3DXFillTextureTX
+D3DXFillVolumeTexture
+D3DXFillVolumeTextureTX
+D3DXFilterTexture
+D3DXFindShaderComment
+D3DXFloat16To32Array
+D3DXFloat32To16Array
+D3DXFrameAppendChild
+D3DXFrameCalculateBoundingSphere
+D3DXFrameDestroy
+D3DXFrameFind
+D3DXFrameNumNamedMatrices
+D3DXFrameRegisterNamedMatrices
+D3DXFresnelTerm
+D3DXGenerateOutputDecl
+D3DXGeneratePMesh
+D3DXGetDeclLength
+D3DXGetDeclVertexSize
+D3DXGetDriverLevel
+D3DXGetFVFVertexSize
+D3DXGetImageInfoFromFileA
+D3DXGetImageInfoFromFileInMemory
+D3DXGetImageInfoFromFileW
+D3DXGetImageInfoFromResourceA
+D3DXGetImageInfoFromResourceW
+D3DXGetPixelShaderProfile
+D3DXGetShaderConstantTable
+D3DXGetShaderConstantTableEx
+D3DXGetShaderInputSemantics
+D3DXGetShaderOutputSemantics
+D3DXGetShaderSamplers
+D3DXGetShaderSize
+D3DXGetShaderVersion
+D3DXGetVertexShaderProfile
+D3DXIntersect
+D3DXIntersectSubset
+D3DXIntersectTri
+D3DXLoadMeshFromXA
+D3DXLoadMeshFromXInMemory
+D3DXLoadMeshFromXResource
+D3DXLoadMeshFromXW
+D3DXLoadMeshFromXof
+D3DXLoadMeshHierarchyFromXA
+D3DXLoadMeshHierarchyFromXInMemory
+D3DXLoadMeshHierarchyFromXW
+D3DXLoadPRTBufferFromFileA
+D3DXLoadPRTBufferFromFileW
+D3DXLoadPRTCompBufferFromFileA
+D3DXLoadPRTCompBufferFromFileW
+D3DXLoadPatchMeshFromXof
+D3DXLoadSkinMeshFromXof
+D3DXLoadSurfaceFromFileA
+D3DXLoadSurfaceFromFileInMemory
+D3DXLoadSurfaceFromFileW
+D3DXLoadSurfaceFromMemory
+D3DXLoadSurfaceFromResourceA
+D3DXLoadSurfaceFromResourceW
+D3DXLoadSurfaceFromSurface
+D3DXLoadVolumeFromFileA
+D3DXLoadVolumeFromFileInMemory
+D3DXLoadVolumeFromFileW
+D3DXLoadVolumeFromMemory
+D3DXLoadVolumeFromResourceA
+D3DXLoadVolumeFromResourceW
+D3DXLoadVolumeFromVolume
+D3DXMatrixAffineTransformation
+D3DXMatrixAffineTransformation2D
+D3DXMatrixDecompose
+D3DXMatrixDeterminant
+D3DXMatrixInverse
+D3DXMatrixLookAtLH
+D3DXMatrixLookAtRH
+D3DXMatrixMultiply
+D3DXMatrixMultiplyTranspose
+D3DXMatrixOrthoLH
+D3DXMatrixOrthoOffCenterLH
+D3DXMatrixOrthoOffCenterRH
+D3DXMatrixOrthoRH
+D3DXMatrixPerspectiveFovLH
+D3DXMatrixPerspectiveFovRH
+D3DXMatrixPerspectiveLH
+D3DXMatrixPerspectiveOffCenterLH
+D3DXMatrixPerspectiveOffCenterRH
+D3DXMatrixPerspectiveRH
+D3DXMatrixReflect
+D3DXMatrixRotationAxis
+D3DXMatrixRotationQuaternion
+D3DXMatrixRotationX
+D3DXMatrixRotationY
+D3DXMatrixRotationYawPitchRoll
+D3DXMatrixRotationZ
+D3DXMatrixScaling
+D3DXMatrixShadow
+D3DXMatrixTransformation
+D3DXMatrixTransformation2D
+D3DXMatrixTranslation
+D3DXMatrixTranspose
+D3DXOptimizeFaces
+D3DXOptimizeVertices
+D3DXPlaneFromPointNormal
+D3DXPlaneFromPoints
+D3DXPlaneIntersectLine
+D3DXPlaneNormalize
+D3DXPlaneTransform
+D3DXPlaneTransformArray
+D3DXPreprocessShader
+D3DXPreprocessShaderFromFileA
+D3DXPreprocessShaderFromFileW
+D3DXPreprocessShaderFromResourceA
+D3DXPreprocessShaderFromResourceW
+D3DXQuaternionBaryCentric
+D3DXQuaternionExp
+D3DXQuaternionInverse
+D3DXQuaternionLn
+D3DXQuaternionMultiply
+D3DXQuaternionNormalize
+D3DXQuaternionRotationAxis
+D3DXQuaternionRotationMatrix
+D3DXQuaternionRotationYawPitchRoll
+D3DXQuaternionSlerp
+D3DXQuaternionSquad
+D3DXQuaternionSquadSetup
+D3DXQuaternionToAxisAngle
+D3DXRectPatchSize
+D3DXSHAdd
+D3DXSHDot
+D3DXSHEvalConeLight
+D3DXSHEvalDirection
+D3DXSHEvalDirectionalLight
+D3DXSHEvalHemisphereLight
+D3DXSHEvalSphericalLight
+D3DXSHMultiply2
+D3DXSHMultiply3
+D3DXSHMultiply4
+D3DXSHMultiply5
+D3DXSHMultiply6
+D3DXSHPRTCompSplitMeshSC
+D3DXSHPRTCompSuperCluster
+D3DXSHProjectCubeMap
+D3DXSHRotate
+D3DXSHRotateZ
+D3DXSHScale
+D3DXSaveMeshHierarchyToFileA
+D3DXSaveMeshHierarchyToFileW
+D3DXSaveMeshToXA
+D3DXSaveMeshToXW
+D3DXSavePRTBufferToFileA
+D3DXSavePRTBufferToFileW
+D3DXSavePRTCompBufferToFileA
+D3DXSavePRTCompBufferToFileW
+D3DXSaveSurfaceToFileA
+D3DXSaveSurfaceToFileInMemory
+D3DXSaveSurfaceToFileW
+D3DXSaveTextureToFileA
+D3DXSaveTextureToFileInMemory
+D3DXSaveTextureToFileW
+D3DXSaveVolumeToFileA
+D3DXSaveVolumeToFileInMemory
+D3DXSaveVolumeToFileW
+D3DXSimplifyMesh
+D3DXSphereBoundProbe
+D3DXSplitMesh
+D3DXTessellateNPatches
+D3DXTessellateRectPatch
+D3DXTessellateTriPatch
+D3DXTriPatchSize
+D3DXUVAtlasCreate
+D3DXUVAtlasPack
+D3DXUVAtlasPartition
+D3DXValidMesh
+D3DXValidPatchMesh
+D3DXVec2BaryCentric
+D3DXVec2CatmullRom
+D3DXVec2Hermite
+D3DXVec2Normalize
+D3DXVec2Transform
+D3DXVec2TransformArray
+D3DXVec2TransformCoord
+D3DXVec2TransformCoordArray
+D3DXVec2TransformNormal
+D3DXVec2TransformNormalArray
+D3DXVec3BaryCentric
+D3DXVec3CatmullRom
+D3DXVec3Hermite
+D3DXVec3Normalize
+D3DXVec3Project
+D3DXVec3ProjectArray
+D3DXVec3Transform
+D3DXVec3TransformArray
+D3DXVec3TransformCoord
+D3DXVec3TransformCoordArray
+D3DXVec3TransformNormal
+D3DXVec3TransformNormalArray
+D3DXVec3Unproject
+D3DXVec3UnprojectArray
+D3DXVec4BaryCentric
+D3DXVec4CatmullRom
+D3DXVec4Cross
+D3DXVec4Hermite
+D3DXVec4Normalize
+D3DXVec4Transform
+D3DXVec4TransformArray
+D3DXWeldVertices
+UYVYRGBGYUY2GRGBDXT1DXT2DXT3DXT4DXT5F
+>_y@>^/%?
+zqJ?wdL>
+O!C?wdL>
+k.?wdL>)=
+O!C?wdL>
+LS0?*6F
+dV>S?o=
+)?~T3>;q
+'R>{jY?
+B?fN+?b
+>jMk?*p
+	?hxS>b
+O$?$b&?VH
+[O;B{i?
+qr/?Pq,
+bJ4?Gt/
+;Vc-?1E!
+-%+>,f|
+>>M?Pp1<
+A?,~'?Ae|
+zlK<l|.
+7?A~2?V
+?xDQ?^fX
+?,D;?2!
+<A>x)%>
+2)?Mg7?
+~O><M.?
+]X<2<.?'
+-4?<M.?
+$[>'Pt?
+`U>'Pt?
+xof 0302bin 0064
+Coords2d
+Matrix4x4
+ColorRGBA
+ColorRGB
+IndexedColor
+ColorRGBA
+indexColor
+Boolean
+truefalse
+Boolean2d
+Boolean
+MaterialWrap
+Boolean
+TextureFilename
+filename
+Material
+ColorRGBA
+faceColor
+ColorRGB
+specularColor
+ColorRGB
+emissiveColor
+MeshFace
+nFaceVertexIndices
+faceVertexIndices
+nFaceVertexIndices
+MeshFaceWraps
+nFaceWrapValues
+Boolean2d
+faceWrapValues
+nFaceWrapValues
+MeshTextureCoords
+nTextureCoords
+Coords2d
+textureCoords
+nTextureCoords
+MeshMaterialList
+nMaterials
+nFaceIndexes
+faceIndexes
+nFaceIndexes
+Material
+MeshNormals
+nNormals
+normals
+nNormals
+nFaceNormals
+MeshFace
+faceNormals
+nFaceNormals
+MeshVertexColors
+nVertexColors
+IndexedColor
+vertexColors
+nVertexColors
+nVertices
+vertices
+nVertices
+MeshFace
+FrameTransformMatrix
+Matrix4x4
+frameMatrix
+FloatKeys
+nValues
+TimedFloatKeys
+FloatKeys
+AnimationKey
+keyType
+TimedFloatKeys
+AnimationOptions
+openclosed
+positionquality
+Animation
+AnimationSet
+Animation
+InlineData
+ProgressiveMesh
+InlineData
+StringProperty
+PropertyBag
+StringProperty
+ExternalVisual
+guidExternalVisual
+RightHanded
+bRightHanded
+Error decoding compressed text
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+070822223102Z
+120825070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA0
+091207224029Z
+110307224029Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+Microsoft Corporation0
+3http://crl.microsoft.com/pki/crl/products/CSPCA.crl0H
+,http://www.microsoft.com/pki/certs/CSPCA.crt0
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+060916010447Z
+190915070000Z0y1
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA0
+080725190217Z
+130725191217Z0
+Washington1
+Redmond1
+Microsoft Corporation1
+MOPR1'0%
+nCipher DSE ESN:7A82-688A-9F921%0#
+Microsoft Time-Stamp Service0
+3http://crl.microsoft.com/pki/crl/products/tspca.crl0H
+,http://www.microsoft.com/pki/certs/tspca.crt0
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Code Signing PCA
+ http://www.microsoft.com/directx0
+Washington1
+Redmond1
+Microsoft Corporation1#0!
+Microsoft Timestamping PCA
+100522003051Z0#

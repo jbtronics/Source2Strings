@@ -1,0 +1,1322 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+l$(LcnlL
+UVWATAUH
+0A]A\_^]
+WATAUAVAWH
+0A_A^A]A\_
+SUVWATAUAVAWH
+HA_A^A]A\_^][
+D$0H;D$8u
+UVWATAUH
+0A]A\_^]
+t$ WATAUH
+@WATAUH
+t$ WATAUH
+SUVWATH
+PA\_^][
+@SUVWATH
+PA\_^][
+SUVWATH
+@A\_^][
+C 9G u4H
+SUVWATAUH
+XA]A\_^][
+SUVWATAUAVH
+A^A]A\_^][
+SUVWATH
+0A\_^][
+SUVWATAUAVH
+L$xD;(H
+0A^A]A\_^][
+@SUVWATAUAVH
+PA^A]A\_^][
+|$ ATAUAVH
+ A^A]A\
+UVWATAUAVAWH
+A_A^A]A\_^]
+SUVWATH
+0A\_^][
+UWATAUAVH
+A^A]A\_]
+SUVWATAUH
+8A]A\_^][
+SUVWATAUAVH
+PA^A]A\_^][
+SUVWATAUAVAWH
+8A_A^A]A\_^][
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVH
+A^A]A\_^[]
+SUVWATAUAVAWH
+8A_A^A]A\_^][
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUH
+0A]A\_^]
+UWATAUAVH
+A^A]A\_]
+SUVWATH
+`A\_^][
+t$ WATAUH
+UWATAUAVH
+A^A]A\_]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+A_A^A]A\_
+SUVWATAUAVH
+L$xD;(H
+0A^A]A\_^][
+@UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUH
+PA]A\_^]
+ATAUAVH
+UVWATAUH
+`A]A\_^]
+hpIcHlH
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+USVWATAUH
+A]A\_^[]
+9HptZffff
+USVWATAUH
+A]A\_^[]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+D9Il|)3
+USVWATAUH
+A]A\_^[]
+@UVWATAUAVAWH
+`A_A^A]A\_^]
+L$ UVWH
+u H9w t@H
+t$ WATAUH
+@UVWATAUH
+A]A\_^]
+UVWATAUH
+L$hD; H
+0A]A\_^]
+USVWATAUAVAWH
+d$0IcD$
+A_A^A]A\_^[]
+WATAUAVAWH
+A_A^A]A\_
+USVWATH
+@VATAVH
+@UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAUAVH
+A^A]A\_^
+t$ WAUAVH
+t$ WATAUAVAWH
+ A_A^A]A\_
+p WATAUH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+ATAUAVH
+ A^A]A\
+fffffff
+ATAUAVH
+@A^A]A\
+t$ WATAUH
+@SUVWATAUAVH
+zux!l$ E3
+A^A]A\_^][
+WATAUAVAWH
+A_A^A]A\_
+SVWATAUAVAWH
+0A_A^A]A\_^[
+u"E9Q t
+B(I9A(u
+u5E9Q t
+E9A u#I
+WATAUAVAWH
+ A_A^A]A\_
+@SVWATAUAVAWH
+L!l$HL!l$@
+D$PL9oXt
+A_A^A]A\_^[
+ATAUAVH
+0A^A]A\
+|$ ATAUAVH
+VWATAUAVH
+A^A]A\_^
+UVWATAUAVAWH
+`A_A^A]A\_^]
+UVWATAUAVAWH
+E9,$~T3
+A_A^A]A\_^]
+WATAUAVAWH
+@A_A^A]A\_
+ATAUAVH
+x ATAUAVH
+< tG<	tC
+ A^A]A\
+s\HcL$HH
+!D$8!D$HM
+tO<_t<<$t8<<t4<>t0<-t,<a|
+<z~$<A|
+tb<A|M<P
+<1~1<3~$<4t9<5t
+D8\$(u|H
+M94$tiA
+|$ UATAUAVAWH
+A_A^A]A\]
+/L9\$ t
+UVWATAUAVAWH
+A_A^A]A\_^]
+UATAUAVAWH
+A_A^A]A\]
+UWATAUAVH
+M94$t|A
+uQI91tLH
+A^A]A\_]
+WATAUAVAWH
+0A_A^A]A\_
+@SUVWATAUAVH
+PA^A]A\_^][
+@UATAUAVAWH
+A_A^A]A\]
+UVWATAUH
+D$&8\$&t-8X
+@A]A\_^]
+D8\$8t#H
+WATAUAVAWH
+A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+@UATAUAVAWH
+!t$(H!t$ A
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+p WATAUAVAWH
+A_A^A]A\_
+L$ SUVWH
+WATAUAVAWH
+0A_A^A]A\_
+@SUVWATAUAVAWH
+?CuND8g
+A_A^A]A\_^][
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+H9L$Xt'H
+@SUVWATAUAVH
+A^A]A\_^][
+!t$(H!t$ H
+|$ ATAUAVH
+0A^A]A\
+s WATAUAVAWH
+~/8\$vt)H
+9t$P~98\$vt3H
+A_A^A]A\_
+x ATAUAVH
+ A^A]A\
+7;|$0t,
+H(H9J(u
+Driver not loaded
+QSqlQuery::value: not positioned on a valid record
+QSqlQuery::seek: cannot seek backwards in a forward only query
+QSqlQuery::exec: database not open
+QSqlQuery::exec: empty query
+QSqlQuery::prepare: database not open
+QSqlQuery::prepare: empty query
+QSqlQuery::prepare: no driver
+qt_sql_default_connection
+com.trolltech.Qt.QSqlDriverFactoryInterface
+QSqlDatabase(invalid)
+", open=
+, user="
+", port=
+", host="
+", database="
+QSqlDatabase(driver="
+QSqlDatabasePrivate::removeDatabase: connection '%s' is still in use, all queries will cease to work.
+/sqldrivers
+QSqlDatabasePrivate::addDatabase: duplicate connection name '%s', old connection removed.
+QSqlDatabasePrivate::database: unable to open database:
+QSqlDatabase: an instance of QCoreApplication is required for loading driver plugins
+QSqlDatabase: available drivers: %s
+QSqlDatabase: %s driver not loaded
+, auto-value: "
+, typeID: 
+, generated: 
+, required: 
+, precision: 
+, length: 
+QSqlField(
+QSqlRecord(
+isIdentifierEscapedImplementation
+QString
+IdentifierType
+stripDelimitersImplementation
+subscribeToNotificationImplementation
+unsubscribeFromNotificationImplementation
+ IS NULL
+SELECT 
+UPDATE 
+VALUES (
+INSERT INTO 
+DELETE FROM 
+0123456789abcdef
+subscribedToNotificationsImplementation
+QStringList
+QSqlError(
+Forward-only queries cannot be used in a data model
+No Fields to update
+ORDER BY 
+Unable to find table 
+Unable to delete row
+ WHERE 
+Unable to select fields from table 
+No table name given
+ WHERE (
+) AND (
+ LEFT JOIN
+ AS %1_%2_%3
+relTblAl_%1
+relTblAl_
+QSqlDriver
+notification(QString)
+subscribeToNotificationImplementation(QString)
+unsubscribeFromNotificationImplementation(QString)
+QStringList
+subscribedToNotificationsImplementation()
+identifier,type
+isIdentifierEscapedImplementation(QString,IdentifierType)
+QString
+stripDelimitersImplementation(QString,IdentifierType)
+QSqlDriverPlugin
+com.trolltech.Qt.QFactoryInterface
+QSqlDriverFactoryInterface
+QSqlQueryModel
+QSqlTableModel
+row,record
+primeInsert(int,QSqlRecord&)
+beforeInsert(QSqlRecord&)
+beforeUpdate(int,QSqlRecord&)
+beforeDelete(int)
+submit()
+revert()
+submitAll()
+revertAll()
+QSqlRelationalTableModel
+revertRow(int)
+Qt_GetCustomAllocators
+tier0.dll
+bad exception
+CorExitProcess
+ Complete Object Locator'
+ Class Hierarchy Descriptor'
+ Base Class Array'
+ Base Class Descriptor at (
+ Type Descriptor'
+`local static thread guard'
+`managed vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`vector copy constructor iterator'
+`dynamic atexit destructor for '
+`dynamic initializer for '
+`eh vector vbase copy constructor iterator'
+`eh vector copy constructor iterator'
+`managed vector destructor iterator'
+`managed vector constructor iterator'
+`placement delete[] closure'
+`placement delete closure'
+`omni callsig'
+ delete[]
+`local vftable constructor closure'
+`local vftable'
+`udt returning'
+`copy constructor closure'
+`eh vector vbase constructor iterator'
+`eh vector destructor iterator'
+`eh vector constructor iterator'
+`virtual displacement map'
+`vector vbase constructor iterator'
+`vector destructor iterator'
+`vector constructor iterator'
+`scalar deleting destructor'
+`default constructor closure'
+`vector deleting destructor'
+`vbase destructor'
+`string'
+`local static guard'
+`typeof'
+`vcall'
+`vbtable'
+`vftable'
+operator
+ delete
+__unaligned
+__restrict
+__ptr64
+__clrcall
+__fastcall
+__thiscall
+__stdcall
+__pascal
+__cdecl
+__based(
+`non-type-template-parameter
+unsigned 
+<ellipsis>
+,<ellipsis>
+ throw(
+`template-parameter
+cli::pin_ptr<
+cli::array<
+`anonymous namespace'
+generic-type-
+template-parameter-
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+extern "C" 
+[thunk]:
+public: 
+protected: 
+private: 
+virtual 
+static 
+`template static data member destructor helper'
+`template static data member constructor helper'
+`local static destructor helper'
+`adjustor{
+`vtordisp{
+`vtordispex{
+volatile 
+volatile
+ volatile
+signed 
+<unknown>
+wchar_t
+UNKNOWN
+__int128
+__int32
+__int64
+__int16
+std::nullptr_t
+GetProcessWindowStation
+GetUserObjectInformationW
+GetLastActivePopup
+GetActiveWindow
+MessageBoxW
+HH:mm:ss
+dddd, MMMM dd, yyyy
+MM/dd/yy
+December
+November
+October
+September
+February
+January
+Saturday
+Thursday
+Wednesday
+Tuesday
+Unknown exception
+SystemFunction036
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+united-states
+united-kingdom
+trinidad & tobago
+south-korea
+south-africa
+south korea
+south africa
+puerto-rico
+pr-china
+pr china
+new-zealand
+hong-kong
+holland
+great britain
+england
+britain
+america
+swedish-finland
+spanish-venezuela
+spanish-uruguay
+spanish-puerto rico
+spanish-peru
+spanish-paraguay
+spanish-panama
+spanish-nicaragua
+spanish-modern
+spanish-mexican
+spanish-honduras
+spanish-guatemala
+spanish-el salvador
+spanish-ecuador
+spanish-dominican republic
+spanish-costa rica
+spanish-colombia
+spanish-chile
+spanish-bolivia
+spanish-argentina
+portuguese-brazilian
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+italian-swiss
+irish-english
+german-swiss
+german-luxembourg
+german-lichtenstein
+german-austrian
+french-swiss
+french-luxembourg
+french-canadian
+french-belgian
+english-usa
+english-us
+english-uk
+english-trinidad y tobago
+english-south africa
+english-nz
+english-jamaica
+english-ire
+english-caribbean
+english-can
+english-belize
+english-aus
+english-american
+dutch-belgian
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+Norwegian-Nynorsk
+C:\Valve\ThirdPartyCode\lgpl\qt\qt_valve_win64\lib\QtSql4.pdb
+?tr@QMetaObject@@QEBA?AVQString@@PEBD0@Z
+?trUtf8@QMetaObject@@QEBA?AVQString@@PEBD0@Z
+?tr@QMetaObject@@QEBA?AVQString@@PEBD0H@Z
+?trUtf8@QMetaObject@@QEBA?AVQString@@PEBD0H@Z
+??1QString@@QEAA@XZ
+??0QString@@QEAA@XZ
+??0QString@@QEAA@AEBVQLatin1String@@@Z
+??0QLatin1String@@QEAA@PEBD@Z
+??0QVariant@@QEAA@XZ
+?event@QObject@@UEAA_NPEAVQEvent@@@Z
+?eventFilter@QObject@@UEAA_NPEAV1@PEAVQEvent@@@Z
+?timerEvent@QObject@@MEAAXPEAVQTimerEvent@@@Z
+?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
+?customEvent@QObject@@MEAAXPEAVQEvent@@@Z
+?connectNotify@QObject@@MEAAXPEBD@Z
+?disconnectNotify@QObject@@MEAAXPEBD@Z
+?ref@QBasicAtomicInt@@QEAA_NXZ
+?shared_null@QMapData@@2U1@A
+??1QVariant@@QEAA@XZ
+?free@QVectorData@@SAXPEAU1@H@Z
+??MQString@@QEBA_NAEBV0@@Z
+?qWarning@@YAXPEBDZZ
+?continueFreeData@QMapData@@QEAAXH@Z
+??0QVariant@@QEAA@AEBV0@@Z
+??0QString@@QEAA@AEBV0@@Z
+?node_create@QMapData@@QEAAPEAUNode@1@QEAPEAU21@HH@Z
+?allocate@QVectorData@@SAPEAU1@HH@Z
+?deref@QBasicAtomicInt@@QEAA_NXZ
+?createData@QMapData@@SAPEAU1@H@Z
+??4QBasicAtomicInt@@QEAAAEAV0@H@Z
+?reallocate@QVectorData@@SAPEAU1@PEAU1@HHH@Z
+??9QBasicAtomicInt@@QEBA_NH@Z
+??8QBasicAtomicInt@@QEBA_NH@Z
+??0QAtomicInt@@QEAA@H@Z
+?isEmpty@QString@@QEBA_NXZ
+?trimmed@QString@@QEBA?AV1@XZ
+??4QVariant@@QEAAAEAV0@AEBV0@@Z
+??_7QFactoryInterface@@6B@
+??4QAtomicInt@@QEAAAEAV0@H@Z
+??4QString@@QEAAAEAV0@AEBV0@@Z
+?shared_null@QHashData@@2U1@A
+?nextNode@QHashData@@SAPEAUNode@1@PEAU21@@Z
+?firstNode@QHashData@@QEAAPEAUNode@1@XZ
+??8QString@@QEBA_NAEBV0@@Z
+?QStringList_join@QtPrivate@@YA?AVQString@@PEBVQStringList@@AEBV2@@Z
+?QStringList_contains@QtPrivate@@YA?AVQBool@@PEBVQStringList@@AEBVQString@@W4CaseSensitivity@Qt@@@Z
+?shared_null@QListData@@2UData@1@A
+??1QDebug@@QEAA@XZ
+??6QDebug@@QEAAAEAV0@_N@Z
+??6QTextStream@@QEAAAEAV0@D@Z
+??6QTextStream@@QEAAAEAV0@H@Z
+??6QDebug@@QEAAAEAV0@AEBVQString@@@Z
+??6QDebug@@QEAAAEAV0@PEBD@Z
+?begin@QListData@@QEBAPEAPEAXXZ
+?end@QListData@@QEBAPEAPEAXXZ
+?qHash@@YAIAEBVQString@@@Z
+?allocateNode@QHashData@@QEAAPEAXH@Z
+?qFree@@YAXPEAX@Z
+?clear@QString@@QEAAXXZ
+??1QByteArray@@QEAA@XZ
+?constData@QByteArray@@QEBAPEBDXZ
+?toLocal8Bit@QString@@QEBA?AVQByteArray@@XZ
+?detach_grow@QListData@@QEAAPEAUData@1@PEAHH@Z
+?detach@QListData@@QEAAPEAUData@1@H@Z
+??0QFactoryLoader@@QEAA@PEBDAEBVQString@@W4CaseSensitivity@Qt@@@Z
+?metaObject@QFactoryLoader@@UEBAPEBUQMetaObject@@XZ
+?qt_metacast@QFactoryLoader@@UEAAPEAXPEBD@Z
+?qt_metacall@QFactoryLoader@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+??1QFactoryLoader@@UEAA@XZ
+??1QReadLocker@@QEAA@XZ
+?unlock@QReadWriteLock@@QEAAXXZ
+??0QReadLocker@@QEAA@PEAVQReadWriteLock@@@Z
+?free_helper@QHashData@@QEAAXP6AXPEAUNode@1@@Z@Z
+?freeNode@QHashData@@QEAAXPEAX@Z
+?append@QListData@@QEAAPEAPEAXXZ
+?realloc@QListData@@QEAAXH@Z
+?detach_helper2@QHashData@@QEAAPEAU1@P6AXPEAUNode@1@PEAX@ZP6AX0@ZHH@Z
+d	?hasShrunk@QHashData@@QEAAXXZ
+?willGrow@QHashData@@QEAA_NXZ
+??0QReadWriteLock@@QEAA@XZ
+??1QReadWriteLock@@QEAA@XZ
+??1QWriteLocker@@QEAA@XZ
+??0QWriteLocker@@QEAA@PEAVQReadWriteLock@@@Z
+?qAddPostRoutine@@YAXP6AXXZ@Z
+?data@QByteArray@@QEAAPEADXZ
+?qWarning@@YA?AVQDebug@@XZ
+?lockForRead@QReadWriteLock@@QEAAXXZ
+?keys@QFactoryLoader@@QEBA?AVQStringList@@XZ
+	?instance@QCoreApplication@@SAPEAV1@XZ
+?toLatin1@QString@@QEBA?AVQByteArray@@XZ
+	?instance@QFactoryLoader@@QEBAPEAVQObject@@AEBVQString@@@Z
+??8QVariant@@QEBA_NAEBV0@@Z
+??4QVariant@@QEAAAEAV0@$$QEAV0@@Z
+??0QVariant@@QEAA@W4Type@0@@Z
+?isNull@QVariant@@QEBA_NXZ
+??6@YA?AVQDebug@@V0@AEBVQVariant@@@Z
+?typeToName@QVariant@@SAPEBDW4Type@1@@Z
+?maybeSpace@QDebug@@QEAAAEAV1@XZ
+??6QTextStream@@QEAAAEAV0@AEBVQString@@@Z
+?isValid@QVariant@@QEBA_NXZ
+?shared_null@QVectorData@@2U1@A
+??0QChar@@QEAA@UQLatin1Char@@@Z
+?size@QString@@QEBAHXZ
+?constData@QString@@QEBAPEBVQChar@@XZ
+?arg@QString@@QEBA?AV1@HHHAEBVQChar@@@Z
+?fromLatin1@QString@@SA?AV1@PEBDH@Z
+?toString@QVariant@@QEBA?AVQString@@XZ
+?toUpper@QString@@QEBA?AV1@XZ
+?data@QString@@QEAAPEAVQChar@@XZ
+??0QString@@QEAA@HW4Initialization@Qt@@@Z
+>	?grow@QVectorData@@SAHHHH_N@Z
+??YQString@@QEAAAEAV0@AEBV0@@Z
+??4QString@@QEAAAEAV0@$$QEAV0@@Z
+??1QObjectPrivate@@UEAA@XZ
+??0QObjectPrivate@@QEAA@H@Z
+??0QObject@@IEAA@AEAVQObjectPrivate@@PEAV0@@Z
+??1QObject@@UEAA@XZ
+??0QGenericReturnArgument@@QEAA@PEBDPEAX@Z
+??0QGenericArgument@@QEAA@PEBDPEBX@Z
+	?invokeMethod@QMetaObject@@SA_NPEAVQObject@@PEBDW4ConnectionType@Qt@@VQGenericReturnArgument@@VQGenericArgument@@444444444@Z
+?endsWith@QString@@QEBA_NAEBVQChar@@W4CaseSensitivity@Qt@@@Z
+?startsWith@QString@@QEBA_NAEBVQChar@@W4CaseSensitivity@Qt@@@Z
+?chop@QString@@QEAAXH@Z
+?mid@QString@@QEBA?AV1@HH@Z
+??8QString@@QEBA_NAEBVQLatin1String@@@Z
+?prepend@QString@@QEAAAEAV1@AEBVQLatin1String@@@Z
+?endsWith@QString@@QEBA_NAEBVQLatin1String@@W4CaseSensitivity@Qt@@@Z
+??4QCharRef@@QEAAAEAV0@AEBVQChar@@@Z
+??AQString@@QEAA?AVQCharRef@@H@Z
+?length@QString@@QEBAHXZ
+?append@QString@@QEAAAEAV1@VQChar@@@Z
+?append@QString@@QEAAAEAV1@AEBV1@@Z
+?append@QString@@QEAAAEAV1@AEBVQLatin1String@@@Z
+?reserve@QString@@QEAAXH@Z
+??YQString@@QEAAAEAV0@VQChar@@@Z
+??BQByteRef@@QEBA?BDXZ
+??AQByteArray@@QEAA?AVQByteRef@@H@Z
+?size@QByteArray@@QEBAHXZ
+?toByteArray@QVariant@@QEBA?AVQByteArray@@XZ
+?number@QString@@SA?AV1@HH@Z
+?replace@QString@@QEAAAEAV1@VQChar@@AEBVQLatin1String@@W4CaseSensitivity@Qt@@@Z
+?truncate@QString@@QEAAXH@Z
+?isSpace@QChar@@QEBA_NXZ
+?at@QString@@QEBA?BVQChar@@H@Z
+?toString@QDateTime@@QEBA?AVQString@@W4DateFormat@Qt@@@Z
+??1QDateTime@@QEAA@XZ
+?isValid@QDateTime@@QEBA_NXZ
+?toDateTime@QVariant@@QEBA?AVQDateTime@@XZ
+?toString@QTime@@QEBA?AVQString@@W4DateFormat@Qt@@@Z
+?isValid@QTime@@QEBA_NXZ
+?toTime@QVariant@@QEBA?AVQTime@@XZ
+?toString@QDate@@QEBA?AVQString@@W4DateFormat@Qt@@@Z
+?isValid@QDate@@QEBA_NXZ
+?toDate@QVariant@@QEBA?AVQDate@@XZ
+??4QString@@QEAAAEAV0@AEBVQLatin1String@@@Z
+?toBool@QVariant@@QEBA_NXZ
+?type@QVariant@@QEBA?AW4Type@1@XZ
+??0QObject@@QEAA@PEAV0@@Z
+??0QString@@QEAA@PEBVQChar@@H@Z
+?unicode@QChar@@QEAAAEAGXZ
+?size@QListData@@QEBAHXZ
+?removeGuard@QMetaObject@@SAXPEAPEAVQObject@@@Z
+?changeGuard@QMetaObject@@SAXPEAPEAVQObject@@PEAV2@@Z
+?squeeze@QString@@QEAAXXZ
+?at@QListData@@QEBAPEAPEAXH@Z
+	?indexOf@QString@@QEBAHVQChar@@HW4CaseSensitivity@Qt@@@Z
+?replace@QString@@QEAAAEAV1@HHAEBV1@@Z
+?toList@QVariant@@QEBA?AV?$QList@VQVariant@@@@XZ
+?resize@QString@@QEAAXH@Z
+??0QAbstractTableModel@@IEAA@AEAVQAbstractItemModelPrivate@@PEAVQObject@@@Z
+~	?index@QAbstractTableModel@@UEBA?AVQModelIndex@@HHAEBV2@@Z
+?parent@QAbstractTableModel@@EEBA?AVQModelIndex@@AEBV2@@Z
+M	?hasChildren@QAbstractTableModel@@EEBA_NAEBVQModelIndex@@@Z
+?setData@QAbstractItemModel@@UEAA_NAEBVQModelIndex@@AEBVQVariant@@H@Z
+?itemData@QAbstractItemModel@@UEBA?AV?$QMap@HVQVariant@@@@AEBVQModelIndex@@@Z
+?setItemData@QAbstractItemModel@@UEAA_NAEBVQModelIndex@@AEBV?$QMap@HVQVariant@@@@@Z
+?mimeTypes@QAbstractItemModel@@UEBA?AVQStringList@@XZ
+?mimeData@QAbstractItemModel@@UEBAPEAVQMimeData@@AEBV?$QList@VQModelIndex@@@@@Z
+?dropMimeData@QAbstractTableModel@@UEAA_NPEBVQMimeData@@W4DropAction@Qt@@HHAEBVQModelIndex@@@Z
+?supportedDropActions@QAbstractItemModel@@UEBA?AV?$QFlags@W4DropAction@Qt@@@@XZ
+	?insertRows@QAbstractItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
+?removeRows@QAbstractItemModel@@UEAA_NHHAEBVQModelIndex@@@Z
+?flags@QAbstractItemModel@@UEBA?AV?$QFlags@W4ItemFlag@Qt@@@@AEBVQModelIndex@@@Z
+?sort@QAbstractItemModel@@UEAAXHW4SortOrder@Qt@@@Z
+?buddy@QAbstractItemModel@@UEBA?AVQModelIndex@@AEBV2@@Z
+?match@QAbstractItemModel@@UEBA?AV?$QList@VQModelIndex@@@@AEBVQModelIndex@@HAEBVQVariant@@HV?$QFlags@W4MatchFlag@Qt@@@@@Z
+?span@QAbstractItemModel@@UEBA?AVQSize@@AEBVQModelIndex@@@Z
+?submit@QAbstractItemModel@@UEAA_NXZ
+?revert@QAbstractItemModel@@UEAAXXZ
+??1QAbstractTableModel@@UEAA@XZ
+?qMalloc@@YAPEAX_K@Z
+??1QModelIndex@@QEAA@XZ
+?endInsertRows@QAbstractItemModel@@IEAAXXZ
+?beginInsertRows@QAbstractItemModel@@IEAAXAEBVQModelIndex@@HH@Z
+?createIndex@QAbstractItemModel@@IEBA?AVQModelIndex@@HHPEAX@Z
+?qMemCopy@@YAPEAXPEAXPEBX_K@Z
+?endRemoveColumns@QAbstractItemModel@@IEAAXXZ
+?beginRemoveColumns@QAbstractItemModel@@IEAAXAEBVQModelIndex@@HH@Z
+?reset@QAbstractItemModel@@IEAAXXZ
+?endRemoveRows@QAbstractItemModel@@IEAAXXZ
+?beginRemoveRows@QAbstractItemModel@@IEAAXAEBVQModelIndex@@HH@Z
+?endInsertColumns@QAbstractItemModel@@IEAAXXZ
+?beginInsertColumns@QAbstractItemModel@@IEAAXAEBVQModelIndex@@HH@Z
+??1QAbstractItemModelPrivate@@UEAA@XZ
+??0QAbstractItemModelPrivate@@QEAA@XZ
+i	?headerData@QAbstractItemModel@@UEBA?AVQVariant@@HW4Orientation@Qt@@H@Z
+??0QVariant@@QEAA@AEBVQString@@@Z
+j	?headerDataChanged@QAbstractItemModel@@IEAAXW4Orientation@Qt@@HH@Z
+?latin1@QLatin1String@@QEBAPEBDXZ
+??9QString@@QEBA_NAEBV0@@Z
+?dataChanged@QAbstractItemModel@@IEAAXAEBVQModelIndex@@0@Z
+??YQString@@QEAAAEAV0@AEBVQLatin1String@@@Z
+??0QVariant@@QEAA@AEBVQLatin1String@@@Z
+?sibling@QModelIndex@@QEBA?AV1@HH@Z
+?node_delete@QMapData@@QEAAXQEAPEAUNode@1@HPEAU21@@Z
+??9QVariant@@QEBA_NAEBV0@@Z
+	?insertRow@QAbstractItemModel@@QEAA_NHAEBVQModelIndex@@@Z
+?isEmpty@QListData@@QEBA_NXZ
+?prepend@QString@@QEAAAEAV1@AEBV1@@Z
+?arg@QString@@QEBA?AV1@AEBV1@HAEBVQChar@@@Z
+?section@QString@@QEBA?AV1@VQChar@@HHV?$QFlags@W4SectionFlag@QString@@@@@Z
+?fromLatin1@QChar@@SA?AV1@D@Z
+?compare@QString@@QEBAHAEBV1@W4CaseSensitivity@Qt@@@Z
+?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
+?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?staticMetaObject@QObject@@2UQMetaObject@@B
+?qt_metacast@QAbstractTableModel@@UEAAPEAXPEBD@Z
+?qt_metacall@QAbstractTableModel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?staticMetaObject@QAbstractTableModel@@2UQMetaObject@@B
+QtCore4.dll
+HeapAlloc
+GetProcessHeap
+HeapFree
+HeapReAlloc
+GetProcAddress
+GetModuleHandleA
+DecodePointer
+EncodePointer
+RtlLookupFunctionEntry
+RtlUnwindEx
+GetCurrentThreadId
+FlsSetValue
+GetCommandLineA
+WriteFile
+GetStdHandle
+GetModuleFileNameW
+GetLocaleInfoW
+GetLastError
+FlsGetValue
+FlsFree
+SetLastError
+GetCurrentThread
+FlsAlloc
+RaiseException
+RtlPcToFileHeader
+HeapSize
+GetModuleHandleW
+ExitProcess
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+RtlVirtualUnwind
+RtlCaptureContext
+SetHandleCount
+InitializeCriticalSectionAndSpinCount
+GetFileType
+GetStartupInfoW
+DeleteCriticalSection
+GetModuleFileNameA
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStringsW
+HeapSetInformation
+GetVersion
+HeapCreate
+HeapDestroy
+QueryPerformanceCounter
+GetTickCount
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+LeaveCriticalSection
+FatalAppExitA
+EnterCriticalSection
+SetConsoleCtrlHandler
+LoadLibraryW
+GetCPInfo
+GetOEMCP
+IsValidCodePage
+FreeLibrary
+LCMapStringW
+MultiByteToWideChar
+GetStringTypeW
+GetUserDefaultLCID
+GetLocaleInfoA
+EnumSystemLocalesA
+IsValidLocale
+KERNEL32.dll
+QtSql4.dll
+??0QSqlCachedResult@@IEAA@PEBVQSqlDriver@@@Z
+??0QSqlDatabase@@IEAA@AEBVQString@@@Z
+??0QSqlDatabase@@IEAA@PEAVQSqlDriver@@@Z
+??0QSqlDatabase@@QEAA@AEBV0@@Z
+??0QSqlDatabase@@QEAA@XZ
+??0QSqlDriver@@QEAA@PEAVQObject@@@Z
+??0QSqlDriverCreatorBase@@QEAA@AEBV0@@Z
+??0QSqlDriverCreatorBase@@QEAA@XZ
+??0QSqlDriverFactoryInterface@@QEAA@AEBU0@@Z
+??0QSqlDriverFactoryInterface@@QEAA@XZ
+??0QSqlDriverPlugin@@QEAA@PEAVQObject@@@Z
+??0QSqlError@@QEAA@AEBV0@@Z
+??0QSqlError@@QEAA@AEBVQString@@0W4ErrorType@0@H@Z
+??0QSqlField@@QEAA@AEBV0@@Z
+??0QSqlField@@QEAA@AEBVQString@@W4Type@QVariant@@@Z
+??0QSqlIndex@@QEAA@AEBV0@@Z
+??0QSqlIndex@@QEAA@AEBVQString@@0@Z
+??0QSqlQuery@@QEAA@AEBV0@@Z
+??0QSqlQuery@@QEAA@AEBVQString@@VQSqlDatabase@@@Z
+??0QSqlQuery@@QEAA@PEAVQSqlResult@@@Z
+??0QSqlQuery@@QEAA@VQSqlDatabase@@@Z
+??0QSqlQueryModel@@IEAA@AEAVQSqlQueryModelPrivate@@PEAVQObject@@@Z
+??0QSqlQueryModel@@QEAA@PEAVQObject@@@Z
+??0QSqlRecord@@QEAA@AEBV0@@Z
+??0QSqlRecord@@QEAA@XZ
+??0QSqlRelation@@QEAA@AEBV0@@Z
+??0QSqlRelation@@QEAA@AEBVQString@@00@Z
+??0QSqlRelation@@QEAA@XZ
+??0QSqlRelationalTableModel@@QEAA@PEAVQObject@@VQSqlDatabase@@@Z
+??0QSqlResult@@IEAA@PEBVQSqlDriver@@@Z
+??0QSqlTableModel@@IEAA@AEAVQSqlTableModelPrivate@@PEAVQObject@@VQSqlDatabase@@@Z
+??0QSqlTableModel@@QEAA@PEAVQObject@@VQSqlDatabase@@@Z
+??1QSqlCachedResult@@UEAA@XZ
+??1QSqlDatabase@@QEAA@XZ
+??1QSqlDriver@@UEAA@XZ
+??1QSqlDriverCreatorBase@@UEAA@XZ
+??1QSqlDriverFactoryInterface@@UEAA@XZ
+??1QSqlDriverPlugin@@UEAA@XZ
+??1QSqlError@@QEAA@XZ
+??1QSqlField@@QEAA@XZ
+??1QSqlIndex@@QEAA@XZ
+??1QSqlQuery@@QEAA@XZ
+??1QSqlQueryModel@@UEAA@XZ
+??1QSqlRecord@@QEAA@XZ
+??1QSqlRelation@@QEAA@XZ
+??1QSqlRelationalTableModel@@UEAA@XZ
+??1QSqlResult@@UEAA@XZ
+??1QSqlTableModel@@UEAA@XZ
+??4QSqlDatabase@@QEAAAEAV0@AEBV0@@Z
+??4QSqlDriverCreatorBase@@QEAAAEAV0@AEBV0@@Z
+??4QSqlDriverFactoryInterface@@QEAAAEAU0@AEBU0@@Z
+??4QSqlError@@QEAAAEAV0@AEBV0@@Z
+??4QSqlField@@QEAAAEAV0@AEBV0@@Z
+??4QSqlIndex@@QEAAAEAV0@AEBV0@@Z
+??4QSqlQuery@@QEAAAEAV0@AEBV0@@Z
+??4QSqlRecord@@QEAAAEAV0@AEBV0@@Z
+??4QSqlRelation@@QEAAAEAV0@AEBV0@@Z
+??6@YA?AVQDebug@@V0@AEBVQSqlDatabase@@@Z
+??6@YA?AVQDebug@@V0@AEBVQSqlError@@@Z
+??6@YA?AVQDebug@@V0@AEBVQSqlField@@@Z
+??6@YA?AVQDebug@@V0@AEBVQSqlRecord@@@Z
+??8QSqlField@@QEBA_NAEBV0@@Z
+??8QSqlRecord@@QEBA_NAEBV0@@Z
+??9QSqlField@@QEBA_NAEBV0@@Z
+??9QSqlRecord@@QEBA_NAEBV0@@Z
+??_7QSqlCachedResult@@6B@
+??_7QSqlDriver@@6B@
+??_7QSqlDriverCreatorBase@@6B@
+??_7QSqlDriverFactoryInterface@@6B@
+??_7QSqlDriverPlugin@@6BQObject@@@
+??_7QSqlDriverPlugin@@6BQSqlDriverFactoryInterface@@@
+??_7QSqlQueryModel@@6B@
+??_7QSqlRelationalTableModel@@6B@
+??_7QSqlResult@@6B@
+??_7QSqlTableModel@@6B@
+??_FQSqlDriver@@QEAAXXZ
+??_FQSqlDriverPlugin@@QEAAXXZ
+??_FQSqlError@@QEAAXXZ
+??_FQSqlField@@QEAAXXZ
+??_FQSqlIndex@@QEAAXXZ
+??_FQSqlQuery@@QEAAXXZ
+??_FQSqlQueryModel@@QEAAXXZ
+??_FQSqlRelationalTableModel@@QEAAXXZ
+??_FQSqlTableModel@@QEAAXXZ
+?addBindValue@QSqlQuery@@QEAAXAEBVQVariant@@V?$QFlags@W4ParamTypeFlag@QSql@@@@@Z
+?addBindValue@QSqlResult@@IEAAXAEBVQVariant@@V?$QFlags@W4ParamTypeFlag@QSql@@@@@Z
+?addDatabase@QSqlDatabase@@SA?AV1@AEBVQString@@0@Z
+?addDatabase@QSqlDatabase@@SA?AV1@PEAVQSqlDriver@@AEBVQString@@@Z
+?append@QSqlIndex@@QEAAXAEBVQSqlField@@@Z
+?append@QSqlIndex@@QEAAXAEBVQSqlField@@_N@Z
+?append@QSqlRecord@@QEAAXAEBVQSqlField@@@Z
+?at@QSqlQuery@@QEBAHXZ
+?at@QSqlResult@@IEBAHXZ
+?beforeDelete@QSqlTableModel@@IEAAXH@Z
+?beforeInsert@QSqlTableModel@@IEAAXAEAVQSqlRecord@@@Z
+?beforeUpdate@QSqlTableModel@@IEAAXHAEAVQSqlRecord@@@Z
+?beginTransaction@QSqlDriver@@UEAA_NXZ
+?bindValue@QSqlQuery@@QEAAXAEBVQString@@AEBVQVariant@@V?$QFlags@W4ParamTypeFlag@QSql@@@@@Z
+?bindValue@QSqlQuery@@QEAAXHAEBVQVariant@@V?$QFlags@W4ParamTypeFlag@QSql@@@@@Z
+?bindValue@QSqlResult@@MEAAXAEBVQString@@AEBVQVariant@@V?$QFlags@W4ParamTypeFlag@QSql@@@@@Z
+?bindValue@QSqlResult@@MEAAXHAEBVQVariant@@V?$QFlags@W4ParamTypeFlag@QSql@@@@@Z
+?bindValueType@QSqlResult@@IEBA?AV?$QFlags@W4ParamTypeFlag@QSql@@@@AEBVQString@@@Z
+?bindValueType@QSqlResult@@IEBA?AV?$QFlags@W4ParamTypeFlag@QSql@@@@H@Z
+?bindingSyntax@QSqlResult@@IEBA?AW4BindingSyntax@1@XZ
+?boundValue@QSqlQuery@@QEBA?AVQVariant@@AEBVQString@@@Z
+?boundValue@QSqlQuery@@QEBA?AVQVariant@@H@Z
+?boundValue@QSqlResult@@IEBA?AVQVariant@@AEBVQString@@@Z
+?boundValue@QSqlResult@@IEBA?AVQVariant@@H@Z
+?boundValueCount@QSqlResult@@IEBAHXZ
+?boundValueName@QSqlResult@@IEBA?AVQString@@H@Z
+?boundValues@QSqlQuery@@QEBA?AV?$QMap@VQString@@VQVariant@@@@XZ
+?boundValues@QSqlResult@@IEBAAEAV?$QVector@VQVariant@@@@XZ
+?cache@QSqlCachedResult@@IEAAAEAV?$QVector@VQVariant@@@@XZ
+?cacheNext@QSqlCachedResult@@AEAA_NXZ
+?canFetchMore@QSqlQueryModel@@UEBA_NAEBVQModelIndex@@@Z
+?cleanup@QSqlCachedResult@@IEAAXXZ
+?clear@QSqlField@@QEAAXXZ
+?clear@QSqlQuery@@QEAAXXZ
+?clear@QSqlQueryModel@@UEAAXXZ
+?clear@QSqlRecord@@QEAAXXZ
+?clear@QSqlRelationalTableModel@@UEAAXXZ
+?clear@QSqlResult@@IEAAXXZ
+?clear@QSqlTableModel@@UEAAXXZ
+?clearValues@QSqlCachedResult@@IEAAXXZ
+?clearValues@QSqlRecord@@QEAAXXZ
+?cloneDatabase@QSqlDatabase@@SA?AV1@AEBV1@AEBVQString@@@Z
+?close@QSqlDatabase@@QEAAXXZ
+?colCount@QSqlCachedResult@@IEBAHXZ
+?columnCount@QSqlQueryModel@@UEBAHAEBVQModelIndex@@@Z
+?commit@QSqlDatabase@@QEAA_NXZ
+?commitTransaction@QSqlDriver@@UEAA_NXZ
+?connectOptions@QSqlDatabase@@QEBA?AVQString@@XZ
+?connectionName@QSqlDatabase@@QEBA?AVQString@@XZ
+?connectionNames@QSqlDatabase@@SA?AVQStringList@@XZ
+?contains@QSqlDatabase@@SA_NAEBVQString@@@Z
+?contains@QSqlRecord@@QEBA_NAEBVQString@@@Z
+?count@QSqlRecord@@QEBAHXZ
+?createField@QSqlIndex@@AEBA?AVQString@@HAEBV2@_N@Z
+?cursorName@QSqlIndex@@QEBA?AVQString@@XZ
+?d_func@QSqlDriver@@AEAAPEAVQSqlDriverPrivate@@XZ
+?d_func@QSqlDriver@@AEBAPEBVQSqlDriverPrivate@@XZ
+?d_func@QSqlQueryModel@@AEAAPEAVQSqlQueryModelPrivate@@XZ
+?d_func@QSqlQueryModel@@AEBAPEBVQSqlQueryModelPrivate@@XZ
+?d_func@QSqlRelationalTableModel@@AEAAPEAVQSqlRelationalTableModelPrivate@@XZ
+?d_func@QSqlRelationalTableModel@@AEBAPEBVQSqlRelationalTableModelPrivate@@XZ
+?d_func@QSqlTableModel@@AEAAPEAVQSqlTableModelPrivate@@XZ
+?d_func@QSqlTableModel@@AEBAPEBVQSqlTableModelPrivate@@XZ
+?data@QSqlCachedResult@@MEAA?AVQVariant@@H@Z
+?data@QSqlQueryModel@@UEBA?AVQVariant@@AEBVQModelIndex@@H@Z
+?data@QSqlRelationalTableModel@@UEBA?AVQVariant@@AEBVQModelIndex@@H@Z
+?data@QSqlTableModel@@UEBA?AVQVariant@@AEBVQModelIndex@@H@Z
+?database@QSqlDatabase@@SA?AV1@AEBVQString@@_N@Z
+?database@QSqlTableModel@@QEBA?AVQSqlDatabase@@XZ
+?databaseName@QSqlDatabase@@QEBA?AVQString@@XZ
+?databaseText@QSqlError@@QEBA?AVQString@@XZ
+?defaultConnection@QSqlDatabase@@2PEADEA
+?defaultValue@QSqlField@@QEBA?AVQVariant@@XZ
+?deleteRowFromTable@QSqlTableModel@@MEAA_NH@Z
+?detach@QSqlField@@AEAAXXZ
+?detach@QSqlRecord@@AEAAXXZ
+?detachFromResultSet@QSqlResult@@IEAAXXZ
+?displayColumn@QSqlRelation@@QEBA?AVQString@@XZ
+?driver@QSqlDatabase@@QEBAPEAVQSqlDriver@@XZ
+?driver@QSqlQuery@@QEBAPEBVQSqlDriver@@XZ
+?driver@QSqlResult@@IEBAPEBVQSqlDriver@@XZ
+?driverName@QSqlDatabase@@QEBA?AVQString@@XZ
+?driverText@QSqlError@@QEBA?AVQString@@XZ
+?drivers@QSqlDatabase@@SA?AVQStringList@@XZ
+?editStrategy@QSqlTableModel@@QEBA?AW4EditStrategy@1@XZ
+?escapeIdentifier@QSqlDriver@@UEBA?AVQString@@AEBV2@W4IdentifierType@1@@Z
+?exec@QSqlDatabase@@QEBA?AVQSqlQuery@@AEBVQString@@@Z
+?exec@QSqlQuery@@QEAA_NAEBVQString@@@Z
+?exec@QSqlQuery@@QEAA_NXZ
+?exec@QSqlResult@@MEAA_NXZ
+?execBatch@QSqlQuery@@QEAA_NW4BatchExecutionMode@1@@Z
+?execBatch@QSqlResult@@IEAA_N_N@Z
+?executedQuery@QSqlQuery@@QEBA?AVQString@@XZ
+?executedQuery@QSqlResult@@IEBA?AVQString@@XZ
+?fetch@QSqlCachedResult@@MEAA_NH@Z
+?fetchFirst@QSqlCachedResult@@MEAA_NXZ
+?fetchLast@QSqlCachedResult@@MEAA_NXZ
+?fetchMore@QSqlQueryModel@@UEAAXAEBVQModelIndex@@@Z
+?fetchNext@QSqlCachedResult@@MEAA_NXZ
+?fetchNext@QSqlResult@@MEAA_NXZ
+?fetchPrevious@QSqlCachedResult@@MEAA_NXZ
+?fetchPrevious@QSqlResult@@MEAA_NXZ
+?field@QSqlRecord@@QEBA?AVQSqlField@@AEBVQString@@@Z
+?field@QSqlRecord@@QEBA?AVQSqlField@@H@Z
+?fieldIndex@QSqlTableModel@@QEBAHAEBVQString@@@Z
+?fieldName@QSqlRecord@@QEBA?AVQString@@H@Z
+?filter@QSqlTableModel@@QEBA?AVQString@@XZ
+?finish@QSqlQuery@@QEAAXXZ
+?first@QSqlQuery@@QEAA_NXZ
+?flags@QSqlTableModel@@UEBA?AV?$QFlags@W4ItemFlag@Qt@@@@AEBVQModelIndex@@@Z
+?formatValue@QSqlDriver@@UEBA?AVQString@@AEBVQSqlField@@_N@Z
+?handle@QSqlDriver@@UEBA?AVQVariant@@XZ
+?handle@QSqlResult@@UEBA?AVQVariant@@XZ
+?hasOutValues@QSqlResult@@IEBA_NXZ
+?headerData@QSqlQueryModel@@UEBA?AVQVariant@@HW4Orientation@Qt@@H@Z
+?headerData@QSqlTableModel@@UEBA?AVQVariant@@HW4Orientation@Qt@@H@Z
+?hostName@QSqlDatabase@@QEBA?AVQString@@XZ
+?indexColumn@QSqlRelation@@QEBA?AVQString@@XZ
+?indexInQuery@QSqlQueryModel@@IEBA?AVQModelIndex@@AEBV2@@Z
+?indexInQuery@QSqlTableModel@@IEBA?AVQModelIndex@@AEBV2@@Z
+?indexOf@QSqlRecord@@QEBAHAEBVQString@@@Z
+?init@QSqlCachedResult@@IEAAXH@Z
+?insert@QSqlRecord@@QEAAXHAEBVQSqlField@@@Z
+?insertColumns@QSqlQueryModel@@UEAA_NHHAEBVQModelIndex@@@Z
+?insertRecord@QSqlTableModel@@QEAA_NHAEBVQSqlRecord@@@Z
+?insertRowIntoTable@QSqlRelationalTableModel@@MEAA_NAEBVQSqlRecord@@@Z
+?insertRowIntoTable@QSqlTableModel@@MEAA_NAEBVQSqlRecord@@@Z
+?insertRows@QSqlTableModel@@UEAA_NHHAEBVQModelIndex@@@Z
+?isActive@QSqlQuery@@QEBA_NXZ
+?isActive@QSqlResult@@IEBA_NXZ
+?isAutoValue@QSqlField@@QEBA_NXZ
+?isDescending@QSqlIndex@@QEBA_NH@Z
+?isDirty@QSqlTableModel@@QEBA_NAEBVQModelIndex@@@Z
+?isDriverAvailable@QSqlDatabase@@SA_NAEBVQString@@@Z
+?isEmpty@QSqlRecord@@QEBA_NXZ
+?isForwardOnly@QSqlQuery@@QEBA_NXZ
+?isForwardOnly@QSqlResult@@IEBA_NXZ
+?isGenerated@QSqlField@@QEBA_NXZ
+?isGenerated@QSqlRecord@@QEBA_NAEBVQString@@@Z
+?isGenerated@QSqlRecord@@QEBA_NH@Z
+?isIdentifierEscaped@QSqlDriver@@QEBA_NAEBVQString@@W4IdentifierType@1@@Z
+?isIdentifierEscapedImplementation@QSqlDriver@@IEBA_NAEBVQString@@W4IdentifierType@1@@Z
+?isNull@QSqlCachedResult@@MEAA_NH@Z
+?isNull@QSqlField@@QEBA_NXZ
+?isNull@QSqlQuery@@QEBA_NH@Z
+?isNull@QSqlRecord@@QEBA_NAEBVQString@@@Z
+?isNull@QSqlRecord@@QEBA_NH@Z
+?isOpen@QSqlDatabase@@QEBA_NXZ
+?isOpen@QSqlDriver@@UEBA_NXZ
+?isOpenError@QSqlDatabase@@QEBA_NXZ
+?isOpenError@QSqlDriver@@QEBA_NXZ
+?isReadOnly@QSqlField@@QEBA_NXZ
+?isSelect@QSqlQuery@@QEBA_NXZ
+?isSelect@QSqlResult@@IEBA_NXZ
+?isValid@QSqlDatabase@@QEBA_NXZ
+?isValid@QSqlError@@QEBA_NXZ
+?isValid@QSqlField@@QEBA_NXZ
+?isValid@QSqlQuery@@QEBA_NXZ
+?isValid@QSqlRelation@@QEBA_NXZ
+?isValid@QSqlResult@@IEBA_NXZ
+?last@QSqlQuery@@QEAA_NXZ
+?lastError@QSqlDatabase@@QEBA?AVQSqlError@@XZ
+?lastError@QSqlDriver@@QEBA?AVQSqlError@@XZ
+?lastError@QSqlQuery@@QEBA?AVQSqlError@@XZ
+?lastError@QSqlQueryModel@@QEBA?AVQSqlError@@XZ
+?lastError@QSqlResult@@IEBA?AVQSqlError@@XZ
+?lastInsertId@QSqlQuery@@QEBA?AVQVariant@@XZ
+?lastInsertId@QSqlResult@@MEBA?AVQVariant@@XZ
+?lastQuery@QSqlQuery@@QEBA?AVQString@@XZ
+?lastQuery@QSqlResult@@IEBA?AVQString@@XZ
+?length@QSqlField@@QEBAHXZ
+?metaObject@QSqlDriver@@UEBAPEBUQMetaObject@@XZ
+?metaObject@QSqlDriverPlugin@@UEBAPEBUQMetaObject@@XZ
+?metaObject@QSqlQueryModel@@UEBAPEBUQMetaObject@@XZ
+?metaObject@QSqlRelationalTableModel@@UEBAPEBUQMetaObject@@XZ
+?metaObject@QSqlTableModel@@UEBAPEBUQMetaObject@@XZ
+?name@QSqlField@@QEBA?AVQString@@XZ
+?name@QSqlIndex@@QEBA?AVQString@@XZ
+?next@QSqlQuery@@QEAA_NXZ
+?nextResult@QSqlQuery@@QEAA_NXZ
+?nextResult@QSqlResult@@IEAA_NXZ
+?notification@QSqlDriver@@IEAAXAEBVQString@@@Z
+?numRowsAffected@QSqlQuery@@QEBAHXZ
+?number@QSqlError@@QEBAHXZ
+?numericalPrecisionPolicy@QSqlDatabase@@QEBA?AW4NumericalPrecisionPolicy@QSql@@XZ
+?numericalPrecisionPolicy@QSqlDriver@@QEBA?AW4NumericalPrecisionPolicy@QSql@@XZ
+?numericalPrecisionPolicy@QSqlQuery@@QEBA?AW4NumericalPrecisionPolicy@QSql@@XZ
+?numericalPrecisionPolicy@QSqlResult@@IEBA?AW4NumericalPrecisionPolicy@QSql@@XZ
+?open@QSqlDatabase@@QEAA_NAEBVQString@@0@Z
+?open@QSqlDatabase@@QEAA_NXZ
+?orderByClause@QSqlRelationalTableModel@@MEBA?AVQString@@XZ
+?orderByClause@QSqlTableModel@@MEBA?AVQString@@XZ
+?password@QSqlDatabase@@QEBA?AVQString@@XZ
+?port@QSqlDatabase@@QEBAHXZ
+?precision@QSqlField@@QEBAHXZ
+?prepare@QSqlQuery@@QEAA_NAEBVQString@@@Z
+?prepare@QSqlResult@@MEAA_NAEBVQString@@@Z
+?previous@QSqlQuery@@QEAA_NXZ
+?primaryIndex@QSqlDatabase@@QEBA?AVQSqlIndex@@AEBVQString@@@Z
+?primaryIndex@QSqlDriver@@UEBA?AVQSqlIndex@@AEBVQString@@@Z
+?primaryKey@QSqlTableModel@@QEBA?AVQSqlIndex@@XZ
+?primeInsert@QSqlTableModel@@IEAAXHAEAVQSqlRecord@@@Z
+?qt_metacall@QSqlDriver@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacall@QSqlDriverPlugin@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacall@QSqlQueryModel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacall@QSqlRelationalTableModel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacall@QSqlTableModel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+?qt_metacast@QSqlDriver@@UEAAPEAXPEBD@Z
+?qt_metacast@QSqlDriverPlugin@@UEAAPEAXPEBD@Z
+?qt_metacast@QSqlQueryModel@@UEAAPEAXPEBD@Z
+?qt_metacast@QSqlRelationalTableModel@@UEAAPEAXPEBD@Z
+?qt_metacast@QSqlTableModel@@UEAAPEAXPEBD@Z
+?qt_static_metacall@QSqlDriver@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?qt_static_metacall@QSqlDriverPlugin@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?qt_static_metacall@QSqlQueryModel@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?qt_static_metacall@QSqlRelationalTableModel@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?qt_static_metacall@QSqlTableModel@@CAXPEAVQObject@@W4Call@QMetaObject@@HPEAPEAX@Z
+?query@QSqlQueryModel@@QEBA?AVQSqlQuery@@XZ
+?queryChange@QSqlQueryModel@@MEAAXXZ
+?record@QSqlDatabase@@QEBA?AVQSqlRecord@@AEBVQString@@@Z
+?record@QSqlDriver@@UEBA?AVQSqlRecord@@AEBVQString@@@Z
+?record@QSqlQuery@@QEBA?AVQSqlRecord@@XZ
+?record@QSqlQueryModel@@QEBA?AVQSqlRecord@@H@Z
+?record@QSqlQueryModel@@QEBA?AVQSqlRecord@@XZ
+?record@QSqlResult@@MEBA?AVQSqlRecord@@XZ
+?registerSqlDriver@QSqlDatabase@@SAXAEBVQString@@PEAVQSqlDriverCreatorBase@@@Z
+?relation@QSqlRelationalTableModel@@QEBA?AVQSqlRelation@@H@Z
+?relationModel@QSqlRelationalTableModel@@UEBAPEAVQSqlTableModel@@H@Z
+?remove@QSqlRecord@@QEAAXH@Z
+?removeColumns@QSqlQueryModel@@UEAA_NHHAEBVQModelIndex@@@Z
+?removeColumns@QSqlRelationalTableModel@@UEAA_NHHAEBVQModelIndex@@@Z
+?removeColumns@QSqlTableModel@@UEAA_NHHAEBVQModelIndex@@@Z
+?removeDatabase@QSqlDatabase@@SAXAEBVQString@@@Z
+?removeRows@QSqlTableModel@@UEAA_NHHAEBVQModelIndex@@@Z
+?replace@QSqlRecord@@QEAAXHAEBVQSqlField@@@Z
+?requiredStatus@QSqlField@@QEBA?AW4RequiredStatus@1@XZ
+?resetBindCount@QSqlResult@@AEAAXXZ
+?result@QSqlQuery@@QEBAPEBVQSqlResult@@XZ
+?revert@QSqlTableModel@@UEAAXXZ
+?revertAll@QSqlTableModel@@QEAAXXZ
+?revertRow@QSqlRelationalTableModel@@UEAAXH@Z
+?revertRow@QSqlTableModel@@UEAAXH@Z
+?rollback@QSqlDatabase@@QEAA_NXZ
+?rollbackTransaction@QSqlDriver@@UEAA_NXZ
+?rowCount@QSqlQueryModel@@UEBAHAEBVQModelIndex@@@Z
+?rowCount@QSqlTableModel@@UEBAHAEBVQModelIndex@@@Z
+?savePrepare@QSqlResult@@MEAA_NAEBVQString@@@Z
+?seek@QSqlQuery@@QEAA_NH_N@Z
+?select@QSqlRelationalTableModel@@UEAA_NXZ
+?select@QSqlTableModel@@UEAA_NXZ
+?selectStatement@QSqlRelationalTableModel@@MEBA?AVQString@@XZ
+?selectStatement@QSqlTableModel@@MEBA?AVQString@@XZ
+?setActive@QSqlResult@@MEAAX_N@Z
+?setAt@QSqlResult@@MEAAXH@Z
+?setAutoValue@QSqlField@@QEAAX_N@Z
+?setConnectOptions@QSqlDatabase@@QEAAXAEBVQString@@@Z
+?setCursorName@QSqlIndex@@QEAAXAEBVQString@@@Z
+?setData@QSqlRelationalTableModel@@UEAA_NAEBVQModelIndex@@AEBVQVariant@@H@Z
+?setData@QSqlTableModel@@UEAA_NAEBVQModelIndex@@AEBVQVariant@@H@Z
+?setDatabaseName@QSqlDatabase@@QEAAXAEBVQString@@@Z
+?setDatabaseText@QSqlError@@QEAAXAEBVQString@@@Z
+?setDefaultValue@QSqlField@@QEAAXAEBVQVariant@@@Z
+?setDescending@QSqlIndex@@QEAAXH_N@Z
+?setDriverText@QSqlError@@QEAAXAEBVQString@@@Z
+?setEditStrategy@QSqlTableModel@@UEAAXW4EditStrategy@1@@Z
+?setFilter@QSqlTableModel@@UEAAXAEBVQString@@@Z
+?setForwardOnly@QSqlQuery@@QEAAX_N@Z
+?setForwardOnly@QSqlResult@@MEAAX_N@Z
+?setGenerated@QSqlField@@QEAAX_N@Z
+?setGenerated@QSqlRecord@@QEAAXAEBVQString@@_N@Z
+?setGenerated@QSqlRecord@@QEAAXH_N@Z
+?setHeaderData@QSqlQueryModel@@UEAA_NHW4Orientation@Qt@@AEBVQVariant@@H@Z
+?setHostName@QSqlDatabase@@QEAAXAEBVQString@@@Z
+?setJoinMode@QSqlRelationalTableModel@@QEAAXW4JoinMode@1@@Z
+?setLastError@QSqlDriver@@MEAAXAEBVQSqlError@@@Z
+?setLastError@QSqlQueryModel@@IEAAXAEBVQSqlError@@@Z
+?setLastError@QSqlResult@@MEAAXAEBVQSqlError@@@Z
+?setLength@QSqlField@@QEAAXH@Z
+?setName@QSqlField@@QEAAXAEBVQString@@@Z
+?setName@QSqlIndex@@QEAAXAEBVQString@@@Z
+?setNull@QSqlRecord@@QEAAXAEBVQString@@@Z
+?setNull@QSqlRecord@@QEAAXH@Z
+?setNumber@QSqlError@@QEAAXH@Z
+?setNumericalPrecisionPolicy@QSqlDatabase@@QEAAXW4NumericalPrecisionPolicy@QSql@@@Z
+?setNumericalPrecisionPolicy@QSqlDriver@@QEAAXW4NumericalPrecisionPolicy@QSql@@@Z
+?setNumericalPrecisionPolicy@QSqlQuery@@QEAAXW4NumericalPrecisionPolicy@QSql@@@Z
+?setNumericalPrecisionPolicy@QSqlResult@@IEAAXW4NumericalPrecisionPolicy@QSql@@@Z
+?setOpen@QSqlDriver@@MEAAX_N@Z
+?setOpenError@QSqlDriver@@MEAAX_N@Z
+?setPassword@QSqlDatabase@@QEAAXAEBVQString@@@Z
+?setPort@QSqlDatabase@@QEAAXH@Z
+?setPrecision@QSqlField@@QEAAXH@Z
+?setPrimaryKey@QSqlTableModel@@IEAAXAEBVQSqlIndex@@@Z
+?setQuery@QSqlQueryModel@@QEAAXAEBVQSqlQuery@@@Z
+?setQuery@QSqlQueryModel@@QEAAXAEBVQString@@AEBVQSqlDatabase@@@Z
+?setQuery@QSqlResult@@MEAAXAEBVQString@@@Z
+?setQuery@QSqlTableModel@@IEAAXAEBVQSqlQuery@@@Z
+?setReadOnly@QSqlField@@QEAAX_N@Z
+?setRecord@QSqlTableModel@@QEAA_NHAEBVQSqlRecord@@@Z
+?setRelation@QSqlRelationalTableModel@@UEAAXHAEBVQSqlRelation@@@Z
+?setRequired@QSqlField@@QEAAX_N@Z
+?setRequiredStatus@QSqlField@@QEAAXW4RequiredStatus@1@@Z
+?setSelect@QSqlResult@@MEAAX_N@Z
+?setSort@QSqlTableModel@@UEAAXHW4SortOrder@Qt@@@Z
+?setSqlType@QSqlField@@QEAAXH@Z
+?setTable@QSqlRelationalTableModel@@UEAAXAEBVQString@@@Z
+?setTable@QSqlTableModel@@UEAAXAEBVQString@@@Z
+?setType@QSqlError@@QEAAXW4ErrorType@1@@Z
+?setType@QSqlField@@QEAAXW4Type@QVariant@@@Z
+?setUserName@QSqlDatabase@@QEAAXAEBVQString@@@Z
+?setValue@QSqlField@@QEAAXAEBVQVariant@@@Z
+?setValue@QSqlRecord@@QEAAXAEBVQString@@AEBVQVariant@@@Z
+?setValue@QSqlRecord@@QEAAXHAEBVQVariant@@@Z
+?size@QSqlQuery@@QEBAHXZ
+?sort@QSqlTableModel@@UEAAXHW4SortOrder@Qt@@@Z
+?sqlStatement@QSqlDriver@@UEBA?AVQString@@W4StatementType@1@AEBV2@AEBVQSqlRecord@@_N@Z
+?staticMetaObject@QSqlDriver@@2UQMetaObject@@B
+?staticMetaObject@QSqlDriverPlugin@@2UQMetaObject@@B
+?staticMetaObject@QSqlQueryModel@@2UQMetaObject@@B
+?staticMetaObject@QSqlRelationalTableModel@@2UQMetaObject@@B
+?staticMetaObject@QSqlTableModel@@2UQMetaObject@@B
+?staticMetaObjectExtraData@QSqlDriver@@0UQMetaObjectExtraData@@B
+?staticMetaObjectExtraData@QSqlDriverPlugin@@0UQMetaObjectExtraData@@B
+?staticMetaObjectExtraData@QSqlQueryModel@@0UQMetaObjectExtraData@@B
+?staticMetaObjectExtraData@QSqlRelationalTableModel@@0UQMetaObjectExtraData@@B
+?staticMetaObjectExtraData@QSqlTableModel@@0UQMetaObjectExtraData@@B
+?stripDelimiters@QSqlDriver@@QEBA?AVQString@@AEBV2@W4IdentifierType@1@@Z
+?stripDelimitersImplementation@QSqlDriver@@IEBA?AVQString@@AEBV2@W4IdentifierType@1@@Z
+?submit@QSqlTableModel@@UEAA_NXZ
+?submitAll@QSqlTableModel@@QEAA_NXZ
+?subscribeToNotification@QSqlDriver@@QEAA_NAEBVQString@@@Z
+?subscribeToNotificationImplementation@QSqlDriver@@IEAA_NAEBVQString@@@Z
+?subscribedToNotifications@QSqlDriver@@QEBA?AVQStringList@@XZ
+?subscribedToNotificationsImplementation@QSqlDriver@@IEBA?AVQStringList@@XZ
+?tableName@QSqlRelation@@QEBA?AVQString@@XZ
+?tableName@QSqlTableModel@@QEBA?AVQString@@XZ
+?tables@QSqlDatabase@@QEBA?AVQStringList@@W4TableType@QSql@@@Z
+?tables@QSqlDriver@@UEBA?AVQStringList@@W4TableType@QSql@@@Z
+?text@QSqlError@@QEBA?AVQString@@XZ
+?tr@QSqlDriver@@SA?AVQString@@PEBD0@Z
+?tr@QSqlDriver@@SA?AVQString@@PEBD0H@Z
+?tr@QSqlDriverPlugin@@SA?AVQString@@PEBD0@Z
+?tr@QSqlDriverPlugin@@SA?AVQString@@PEBD0H@Z
+?tr@QSqlQueryModel@@SA?AVQString@@PEBD0@Z
+?tr@QSqlQueryModel@@SA?AVQString@@PEBD0H@Z
+?tr@QSqlRelationalTableModel@@SA?AVQString@@PEBD0@Z
+?tr@QSqlRelationalTableModel@@SA?AVQString@@PEBD0H@Z
+?tr@QSqlTableModel@@SA?AVQString@@PEBD0@Z
+?tr@QSqlTableModel@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QSqlDriver@@SA?AVQString@@PEBD0@Z
+?trUtf8@QSqlDriver@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QSqlDriverPlugin@@SA?AVQString@@PEBD0@Z
+?trUtf8@QSqlDriverPlugin@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QSqlQueryModel@@SA?AVQString@@PEBD0@Z
+?trUtf8@QSqlQueryModel@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QSqlRelationalTableModel@@SA?AVQString@@PEBD0@Z
+?trUtf8@QSqlRelationalTableModel@@SA?AVQString@@PEBD0H@Z
+?trUtf8@QSqlTableModel@@SA?AVQString@@PEBD0@Z
+?trUtf8@QSqlTableModel@@SA?AVQString@@PEBD0H@Z
+?transaction@QSqlDatabase@@QEAA_NXZ
+?type@QSqlError@@QEBA?AW4ErrorType@1@XZ
+?type@QSqlField@@QEBA?AW4Type@QVariant@@XZ
+?typeID@QSqlField@@QEBAHXZ
+?unsubscribeFromNotification@QSqlDriver@@QEAA_NAEBVQString@@@Z
+?unsubscribeFromNotificationImplementation@QSqlDriver@@IEAA_NAEBVQString@@@Z
+?updateRowInTable@QSqlRelationalTableModel@@MEAA_NHAEBVQSqlRecord@@@Z
+?updateRowInTable@QSqlTableModel@@MEAA_NHAEBVQSqlRecord@@@Z
+?userName@QSqlDatabase@@QEBA?AVQString@@XZ
+?value@QSqlField@@QEBA?AVQVariant@@XZ
+?value@QSqlQuery@@QEBA?AVQVariant@@H@Z
+?value@QSqlRecord@@QEBA?AVQVariant@@AEBVQString@@@Z
+?value@QSqlRecord@@QEBA?AVQVariant@@H@Z
+?virtual_hook@QSqlCachedResult@@MEAAXHPEAX@Z
+?virtual_hook@QSqlResult@@MEAAXHPEAX@Z
+.?AVQSqlDriverCreatorBase@@
+.?AVQSqlNullResult@@
+.?AVQSqlResult@@
+.?AVQSqlNullDriver@@
+.?AVQSqlDriver@@
+.?AVQObject@@
+.?AUQSqlDriverFactoryInterface@@
+.?AUQFactoryInterface@@
+.?AVQFactoryLoader@@
+.?AVQSqlDriverPrivate@@
+.?AVQObjectPrivate@@
+.?AVQObjectData@@
+.?AVQSqlDriverPlugin@@
+.?AVQSqlCachedResult@@
+.?AVQSqlQueryModel@@
+.?AVQAbstractTableModel@@
+.?AVQAbstractItemModel@@
+.?AVQSqlQueryModelPrivate@@
+.?AVQAbstractItemModelPrivate@@
+.?AVQSqlTableModel@@
+.?AVQSqlTableModelPrivate@@
+.?AVQRelatedTableModel@@
+.?AVQSqlRelationalTableModel@@
+.?AVQSqlRelationalTableModelPrivate@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVexception@std@@
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVbad_cast@std@@
+.?AVbad_typeid@std@@
+.?AV__non_rtti_object@std@@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING

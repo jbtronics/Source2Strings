@@ -1,0 +1,872 @@
+`.rdata
+@.reloc
+t$0Hc1H
+@UAVAWH
+WATAUAVAWH
+ A_A^A]A\_
+SUVWAVH
+H9](t	H
+USVWAWH
+\$d9\$`
+\$d;\$`
+t$ WATAUAVAWH
+ A_A^A]A\_
+l$ VWATAVAWH
+0A_A^A\_^H
+@UAVAWH
+UVWATAWH
+PA_A\_^]
+\$ VWAWH
+																																																																																																																														
+									
+UVWAVAWH
+0A_A^_^]
+USVAUAWH
+A_A]^[]
+t$X9t$8
+|$X;|$8
+t$ WATAUAVAWH
+ A_A^A]A\_
+kID8kJu*H
+\$ UWAUAVAWH
+D8>tXLc
+A_A^A]_]
+|$ ATAVAWH
+0A_A^A\
+l$ VWAVH
+t$(HcGH
+UATAVAWH
+A_A^A\]
+H9A uiH
+H9A urH
+H9A u>H
+|$PHcy@$
+ATAVAWH
+ A_A^A\
+fffffff
+UVWATAUAVAWH
+|$hD9L$H@
+D$<D9L$Ht
+d$4t	fD
+d$4D9L$t
+t$dD9L$Ht
+t$dD8L$@t
+t$XD8L$8t
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+` AUAVAWH
+t$8Hc0I
+\$0D9=f
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+t$ WATAUAVAWH
+0A_A^A]A\_
+@UATAUAVAWH
+A_A^A]A\]
+t$ WAVAWH
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+@SUVWATAVAWH
+PA_A^A\_^][
+AUAVAWH
+0A_A^A]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+MATCHFRAMEWORK_001
+ScaleformUI001
+PanoramaUIEngine001
+PanoramaUIClient001
+PanoramaTextServices001
+ToolFramework2_002
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+EconItemToolModel_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+MODEL_PROCESSING_SERVICES_INTERFACE_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client002
+Source2ClientUI001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers002
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+WorkshopSetup001
+ModelDocCommandSystem001
+NavSystem001
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+c:\buildslave\source2_dota_rel_win64\build\src\interfaces\interfaces.cpp
+CUtlString::FormatV
+%s unable to grow buffer to fit string
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\utlstring.cpp
+RegisterConfigValue: Unknown error constructing config value "%s"!
+CGlobalConfigValueRegistry::HookUpConfigValue
+c:\buildslave\source2_dota_rel_win64\build\src\tier1\configvalue.cpp
+VScript
+VScriptDbg
+}h><PP:
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+_nextafter
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+Spew IME Supported info.
+ime_supported_info
+Spew IME HKL info.
+ime_hkl_info
+Chinese (Traditional) - Phonetic
+Phonetic
+phon.ime
+TINTLGNT.IME
+New Phonetic
+MSTCIPHA.IME
+Chinese (Traditional) - New Phonetic
+Chinese (Traditional) - New Phonetic 2010
+New Phonetic 2010
+Chinese (Traditional) - ChangJie
+ChangJie
+chajei.ime
+Chinese (Traditional) - New ChangJie
+New ChangJie
+Chinese (Traditional) - New ChangJie 2010
+New ChangJie 2010
+CINTLGNT.IME
+IMTCC14.IME
+IMTCP14.IME
+IMTCQ14.IME
+New Quick 2010
+MSTCICJA.IME
+Chinese (Traditional) - Big5 Code
+Chinese (Traditional) - Array
+Chinese Traditional Array (version 6.0)
+winar30.ime
+Chinese (Traditional) - Quick
+quick.ime
+Chinese (Traditional) - DaYi
+Chinese Traditional DaYi (version 6.0)
+dayi.ime
+Chinese (Traditional) - Unicode
+Unicode
+Chinese (Traditional) - US Keyboard
+Unknown
+Chinese (Traditional) - Alphanumeric
+Alphanumeric
+Microsoft IME
+Japanese Microsoft IME
+imjp81.ime
+Japanese Input System (MS-IME2002)
+MS-IME 2002
+imjp9.ime
+Microsoft IME Standard 2003
+imjp8.ime
+Microsoft IME Standard 2002
+imjp12.ime
+MS-IME 2007
+imjp14.ime
+Japanese IME 2010
+ATOK 2008
+ATOK 2009
+ATOK22W.IME
+Google Japanese Input
+Korean Input System (IME 2000)
+Korean 2000
+imekr61.ime
+Korean IME 2000
+imekr70.ime
+Korean IME 2003
+imkr12.ime
+Korean IME 2007
+imkr14.ime
+Korean IME 2010
+imekr.ime
+Korean IME 2002
+Korean Microsoft IME
+Microsoft 
+Chinese (Simplified) - US Keyboard
+Chinese (Simplified)
+Microsoft Pinyin
+Chinese (Simplified) - QuanPin
+Quan Pin
+Chinese Simplified QuanPin (version 6.0)
+winpy.ime
+Chinese (Simplified) - ShuangPin
+Shuang Pin
+Chinese Simplified ShuangPin (version 6.0)
+winsp.ime
+Chinese (Simplified) - ZhengMa
+ZhengMa
+Chinese Simplified ZhengMa (version 6.0)
+Zheng Ma
+winzm.ime
+Chinese (Simplified) - NeiMa
+Chinese (Simplified) - Microsoft Pinyin IME 3.0
+MSPinyin IME 3.0
+Chinese (Simplified) - Microsoft Pinyin IME
+MSPinyin IME
+Chinese (Simplified) - Microsoft Pinyin New Experience Input Style
+pintlgnt.ime
+Microsoft Pinyin IME 3.0
+IMSC40A.IME
+IMSC12li.IME
+Microsoft Pinyin IME 2007
+IMSC14.IME
+Microsoft Pinyin IME 2010
+winabc.ime
+ABC IME
+winabcx.ime
+itABC IME v5.30
+Chinese (Simplified) - Wubi86
+Chinese (Simplified) - Wubi98
+Google Pinyin
+Sogou Pinyin
+GOOGLEPINYIN2.IME
+sogoupy.ime
+Sogou Pinyin IME
+BAIDUCN.IME
+Baidu Pinyin IME
+QQPinyin
+NianQing
+WINWB86.IME
+WINWB98.IME
+JJ Pinyin
+LIUNT.IME
+New Quick
+Zheng Ma 6.0
+Shuang Pin 6.0
+Quan Pin 6.0
+DaYi 6.0
+Array 6.0
+) - ChangJie
+Microsoft 
+) - Phonetic
+) - New Phonetic
+) - New ChangJie
+ (version 6.0)
+CHEWING.IME
+New Chewing IME
+(%d) Tag: %s
+   System Name: '%s'
+   Common Name: '%s'
+%d Supported IME.
+(%d) HKL: 0x%8.8x
+   Layout: '%s'
+   IME Filename: '%s'
+Discovered %d HKL Keys.
+Using internal list of %d supported IMEs.
+IME Error: GetLocaleInfoW() Failed. Error Initializing Input Language Name (GetLastError() = %d)
+GetReadinString
+ShowReadingWindow
+Version
+GetFileVersionInfoSizeA
+GetFileVersionInfoA
+VerQueryValueA
+DirectInput
+Katakana_FullShape
+Hiragana_FullShape
+Katakana_HalfShape
+Alphanumeric_FullShape
+Alphanumeric_HalfShape
+IME Error:Opening Registry Key failed (%d)
+IME Error: Retrieving subkey information failed (%d)
+IME Error: Enumerating Registry Subkeys Failed (%d)
+IME Error: Expected 8 digit hex value, got '%s'
+IME Error: Opening Registry subkey Failed (%d)
+IME Error: Obtaining Layout Text failed for '%s'
+IME Error: Obtaining IME Filename failed for '%s'
+Considering Language: LANGID: 0x%8.8x, Name: '%s'
+   Identified as English.
+   Identified as Chinese (Traditional).
+   Identified as Chinese (Simplified).
+   Identified as Korean.
+   Identified as Japanese.
+   Unsupported Language.
+IME Finalize Composition (%d Chars):
+0x%4.4x 
+IME Composition (%d Chars):
+UNKNOWN
+Set Current Language: %s
+SetActiveUIView(): IMEUIView: 0x%8.8p
+IME Error: Window Handle to IME is NULL!
+The COM library is already initialized on this thread.
+A previous call to CoInitializeEx specified the concurrency model for this thread as multithread apartment (MTA).
+Setting up using Windows Vista IME.
+Setting up using Windows XP IME.
+Detected Windows Version %d.%d
+Failure in obtaining list of installed IMEs! IME is disabled.
+HandleIMEEvent( Pre-Process )
+HandleIMEEvent()
+%s: hWnd:0x%8.8llx, uMsg:0x%8.8x, wParam:0x%8.8x, lParam:0x%8.8x
+WM_LBUTTONDOWN
+WM_LBUTTONUP
+WM_KEYDOWN
+WM_KEYUP
+WM_CHAR
+WM_DEADCHAR
+WM_SYSKEYDOWN
+WM_SYSKEYUP
+WM_SYSCHAR
+WM_SYSDEADCHAR
+WM_UNICHAR
+WM_INPUTLANGCHANGE
+WM_IME_STARTCOMPOSITION
+WM_IME_COMPOSITION
+WM_IME_ENDCOMPOSITION
+WM_IME_NOTIFY
+WM_IME_SETCONTEXT
+WM_IME_CONTROL
+WM_IME_COMPOSITIONFULL
+WM_IME_SELECT
+WM_IME_KEYDOWN
+WM_IME_KEYUP
+WM_IME_CHAR
+Unknown IME message
+IMN_CLOSESTATUSWINDOW
+IMN_OPENSTATUSWINDOW
+IMN_CHANGECANDIDATE
+IMN_CLOSECANDIDATE
+IMN_OPENCANDIDATE
+IMN_SETCONVERSIONMODE
+IMN_SETSENTENCEMODE
+IMN_SETOPENSTATUS
+IMN_SETCANDIDATEPOS
+IMN_SETCOMPOSITIONFONT
+IMN_SETCOMPOSITIONWINDOW
+IMN_SETSTATUSWINDOWPOS
+IMN_GUIDELINE
+IMN_PRIVATE
+Unknown IMN_??? message
+   %s: %s
+Failed to CoCreateInstance( CLSID_TF_ThreadMgr ).
+Failed to QueryInterface( IID_ITfSource ).
+Failed to GetCompartment( GUID_COMPARTMENT_KEYBOARD_INPUTMODE_CONVERSION_GFX ).
+Failed to create compartment sink.
+Failed to AdviseSink( IID_ITfCompartmentEventSink ).
+Discovered %d installed languages.
+Considering LANGID: 0x%8.8x, Profile Description: '%s'
+   Skipping due to unexpected profile characters.
+   Skipping due to not enabled nor active.
+Registering IME. Profile: '%s', IME filename: '%s'
+   Successfully Registered (Index: %d).
+   Not Supported.
+Could not find requested IME in supported IME list!
+--> You requested: %s
+Failure in COM. CoCreateInstance from alternate thread?
+StatusWindow_OnShape
+StatusWindow_OnInputMode
+Hiragana
+Full-Width Katakana
+Full-Width Alphanumeric
+Half-Width Katakana
+Half-Width Alphanumeric
+StatusWindow_OnSymbol
+C\No IME's Installed!
+IME Error: Failure to Initialize InputProcessorProfiles! (%d)
+Registering IME. Layout: '%s', IME filename: '%s'
+Failure to activate input language '%s'
+TSF: Failed to CoCreateInstance.
+TSF: Failed to load the TSF thread manager.
+TSF: Failed to initialize thread manager sink.
+TSF: Failed to initialize UI Element sink.
+TSF Init() Failure!
+Japanese
+English
+Chinese
+JAPANESE_HIRAGANA
+Russian
+JAPANESE_KATAKANA_HALF
+JAPANESE_KATAKANA_FULL
+ALPHANUMERIC_HALF
+ALPHANUMERIC_FULL
+CHINESE
+ime_info
+Spew IME info.
+IMEManager001
+SetIMEEnabled %d
+IME Error: Invalid Window Handle. No IME support possible.
+purecall
+Release
+invalid_parameter
+BinaryProperties_GetValue
+imemanager
+Intentionally vague touch behavior for %p
+imemanager.dll
+c:\buildslave\source2_dota_rel_win64\build\src\imemanager\Retail\win64\imemanager.pdb
+imemanager.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+GetKeyboardLayout
+ActivateKeyboardLayout
+GetKeyboardLayoutList
+DefWindowProcW
+SendInput
+MapVirtualKeyW
+ToUnicodeEx
+GetKeyboardState
+GetWindowInfo
+USER32.dll
+RegQueryValueExW
+RegQueryInfoKeyW
+RegEnumKeyExA
+RegOpenKeyExA
+RegOpenKeyExW
+RegCloseKey
+ADVAPI32.dll
+ImmGetIMEFileNameA
+ImmGetContext
+ImmReleaseContext
+ImmGetConversionStatus
+ImmGetOpenStatus
+ImmIsUIMessageA
+ImmSetConversionStatus
+ImmSetOpenStatus
+ImmAssociateContextEx
+ImmGetCompositionStringW
+ImmGetVirtualKey
+ImmSetCandidateWindow
+ImmGetCandidateListW
+ImmGetProperty
+ImmSetCompositionWindow
+ImmNotifyIME
+ImmSetCompositionStringW
+ImmIsUIMessageW
+IMM32.dll
+CMemAllocSystemInitialize
+g_pMemAlloc
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+LoggingSystem_GetChannelVerbosity
+Plat_RequireCOM
+Plat_LoadCOM
+Plat_RequireOleAut
+Plat_LoadOleAut
+Plat_WindowToOsSpecificHandle
+LoggingSystem_RegisterLoggingChannel
+Plat_ShouldCollectMiniDumpsForFatalErrors
+Plat_DebugPrint
+Plat_GetModuleFilename
+Plat_GetModuleProcAddress
+Plat_LoadModuleRaw
+EarlyInit_Tier0
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+GetDefaultMiniDumpTypeFlags
+Plat_IsInDebugSession
+Plat_ExitProcess
+LOG_GENERAL
+InvokeMiniDumpHandler
+V_qsort_s
+tier0.dll
+GetLocaleInfoW
+GetLastError
+GetProcAddress
+LoadLibraryA
+GetVersionExA
+MultiByteToWideChar
+WideCharToMultiByte
+CloseHandle
+GetCurrentProcessId
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+GetCurrentThreadId
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+SetLastError
+ExitProcess
+GetModuleHandleExW
+RtlUnwindEx
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+LCMapStringW
+EnterCriticalSection
+LeaveCriticalSection
+GetStringTypeW
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+ReadFile
+GetConsoleMode
+ReadConsoleW
+OutputDebugStringW
+SetStdHandle
+SetFilePointerEx
+FlushFileBuffers
+GetConsoleCP
+WriteConsoleW
+CreateFileW
+KERNEL32.dll
+V_tier0_vsnprintfRet
+V_tier0_vscprintf
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVCPostConnectCallback@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVICommandCallback@@
+.?AVConCommand@@
+.?AVICommandCompletionCallback@@
+.?AVConCommandBase@@
+.?AVCIMENamesManager@@
+.?AV?$CConCommandMemberAccessor@VCIMENamesManager@@@@
+.?AVIMEManagerBase@@
+.?AVGFxIMEManagerWin32@@
+.?AUITfInputProcessorProfileActivationSink@@
+.?AUITfCompartmentEventSink@@
+.?AVCIMENamesManagerVista@@
+.?AUIUnknown@@
+.?AVCIMENamesManagerXP@@
+.?AUITfThreadMgrEventSink@@
+.?AVCTSF@@
+.?AUITfUIElementSink@@
+.?AVGFxIMEVista@@
+.?AVGFxIMEWin32Impl@@
+.?AVGFxIMEXP@@
+.?AVIAppSystem@@
+.?AV?$CTier2AppSystem@VIIMEManager@@$0A@@@
+.?AV?$CBaseAppSystem@VIIMEManager@@@@
+.?AV?$CTier1AppSystem@VIIMEManager@@$0A@@@
+.?AV?$CConCommandMemberAccessor@VCIMEManager@@@@
+.?AVIIMEManager@@
+.?AV?$CTier0AppSystem@VIIMEManager@@@@
+.?AVCIMEManager@@
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+161012213546Z0#

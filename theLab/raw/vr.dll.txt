@@ -1,0 +1,1376 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@_RDATA
+@.reloc
+|$ ATAVAWH
+ A_A^A\
+L$ SVWH
+|$ ATAVAWH
+ A_A^A\
+W`9^P~-
+A(D;A@|
+l$ VWAVH
+UWAVAWI
+UVAUAVAWI
+A_A^A]^]
+@SUVATAUAVAWH
+l$0D8/u
+pA_A^A]A\^][
+@USVAWH
+@WATAWH
+t$X9pXH
+RxHcGXM
+@USVAUH
+@UVAUAWH
+.D$Tu)H
+D$@HcGXH
+L$pHcGXH
+VD;L$p|
+RxHcGXM
+@SUVWAVH
+`A^_^][
+D9~H~W3
+\$ UVWAVAWH
+A_A^_^]
+D$`I97u~H
+D9hXuVA
+t$ WAVAWH
+WATAUAVAWH
+ A_A^A]A\_
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+L$ SVWH
+t$@HcwH$
+D$(;wXu
+A0t#H9I8u
+@UAVAWH
+e A_A^]
+@SAVAWH
+l$@HckxH
+D$<9T$0wR9T$4wL9T$8wF;
+)t$PH9[8t
+)|$PH9[8t
+fffffff
+ATAVAWH
+ A_A^A\
+VWATAVAWH
+A_A^A\_^
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+fffffff
+.ffffff
+0ffffff
+fffffff
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+UVWATAUAVAWH
+|$hD9L$H@
+D$<D9L$Ht
+d$4t	fD
+d$4D9L$t
+t$dD9L$Ht
+t$dD8L$@t
+t$XD8L$8t
+A_A^A]A\_^]
+USVWAVH
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+SVWATAUAVAWUH
+]A_A^A]A\_^[
+@ffffff
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+t$ WATAUAVAWH
+0A_A^A]A\_
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+t$ WAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+$tPH9\$@t>
+A_A^A]A\_^]
+UWATAVAWH
+uMM9'tHH
+uQM91tLH
+A_A^A\_]
+<1~-<3~ <4t5<5t
+UATAUAVAWH
+A_A^A]A\]
+D8t$HuD
+(D$@L9t$ t0H
+D$(D8t$(u\H
+x UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+,0<	w!A
+SATAUAWUH
+]A_A]A\[
+AUAVAWH
+0A_A^A]
+@SUVWATAVAWH
+PA_A^A\_^][
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+H(H9J(u
+Release
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+IVRRenderModels_004
+IVRExtendedDisplay_001
+IVRSystem_011
+IVRApplications_004
+IVRSettings_001
+IVRChaperone_003
+IVRChaperoneSetup_005
+IVRCompositor_013
+IVROverlay_010
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\stronghandle.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\fmtstr.h
+WARNING: Trying to create a CRenderContextPtr without a valid context.
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\vertexdata.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\indexdata.h
+texcoord
+1 = spew constantly, 2 = spew when we skip a frame
+vr_spew_time
+vr_spew_position
+vr_spew_prediction
+vr_spew_fidelity_data
+vr_warp
+vr_warp_debug
+vr_warp_debug_reverse_mesh
+vr_predict
+vr_running_start_ms
+vr_present_read_pixel
+vr_present_spin_on_query
+vr_render_target_scale
+vr_companion_window_always_on
+vr_companion_window_zoom
+vr_msaa
+vr_fxaa
+vr_stencil_hidden_pixels
+vr_warp_using_mesh
+vr_warp_mesh_quads
+vr_warp_mesh_shrink_fit
+vr_eye_separation_mm
+vr_eye_separation_mm_enable
+vr_allow_zero_tracking
+vr_use_absolute_tracking
+vr_world_scale
+vr_no_transform
+vr_black_level_clamp
+vr_hmd_tracking_passthrough
+vr_anchor_use_player_start
+vr_print_controllers
+vr_mura_correction
+vr_multiview_instancing
+vr_fast_gs
+0=Off, 1=VerticalSplit, 2=Checker, 3=FixedFoveated2x
+vr_subview_mode
+vr_foveated_inner_scalar
+vr_foveated_outer_scalar
+vr_foveated_boundary
+vr_foveated_overlap
+vr_player_rotate
+vr_player_height_offset
+vr_player_x_offset
+vr_player_y_offset
+Move offset convars in direction you are looking
+vr_player_offset_move_looking_xy
+vr_player_height_offset %d ; vr_player_x_offset %d ; vr_player_y_offset %d ; vr_player_rotate %d
+Allocating %s bytes for perf test data
+c:\buildslave\vrgdc2015_staging_win64\build\src\vr\vr.cpp
+Set to 1 when you want frames to be captured by the SteamVR perf test.
+vr_perf_test_capture
+No Frame Timing data available.
+VRPerformanceTest.csv
+Couldn't write Frame Timing data.
+Writing Frame Timing info to %s (%d samples)
+FrameIndex,NumDroppedFrames,SceneRenderGpuMs,CompositorRenderGpuMs,ClientFrameIntervalMs,FidelityLevel
+%u,%u,%f,%f,%f,%i
+Average fidelity from perf test %.2f from %d valid frames
+r_multigpu_num_gpus_used
+!gathersysteminfo
+VR perf test data written to %s
+GAMEROOT
+bin\tools\bin\win32\vrperftestviewer.exe
+"%s" -file "%s"
+Launching %s
+-uploadsystemreport
+stats.m_flFidelityLevelAverage = %f
+stats.m_flFidelityFPSAverage = %f
+stats.m_flFidelityDroppedFramesAverage = %f
+stats.m_flFidelityDroppedFramesCPUAverage = %f
+stats.m_nFidelityNumFrames = %d
+AuthenticAMD
+GenuineIntel
+r_gpu_driver_high
+r_gpu_driver_low
+Driver high = 0x%x, low = 0x%x
+r_multigpu_num_gpus_found
+%d = %f
+%d = %d
+VR - ERROR! VrApplications failed to LaunchInternalProcess( %s, %s, %s ) with error code:
+%i "%s"
+Eye 0 lens center is UV( 
+Eye 1 lens center is UV( 
+vr_compute_ideal_render_target_scalars
+*** Eye %d Pixel( %d, %d ) has the smallest uv area
+*** Eye %d: %dx%d area RenderTarget( %f, %f ) Scale( %f, %f )
+vr_ghost_correction_enable
+vr_ghost_correction_editing_enable
+Ghost Correction Table:
+vr_ghost_correction_table
+vr_ghost_correction_table_reset
+vr_ghost_color
+vr_ghost_next
+Ghost correction editor - Editing %d -> %d = %d, %d, %d
+vr_ghost_previous
+vr_ghost_increment
+Ghost correction editor - %d -> %d = %d, %d, %d
+vr_ghost_decrement
+vr_ghost_csv
+VrGhostCorrectionTexture
+CVr::UpdateGhostCorrectionTexture(969): 
+-noautofidelity
+-vrperftest
+-vrperftesthmd
+-vrcompdebug
+-novrcomp
+-vrdebug
+-vr_minigames_transition
+steam.app.450390
+VR - IdentifyApplicaton steam.app.450390 BEFORE VR Init
+VR - Warning! SteamVR failed initialization with error code %s: "%s"!
+VR - Error! SteamVR failed initialization with error code %s: "%s"!
+VR - Error! SteamVR failed initialization with error code:
+%s "%s"
+VR - SteamVR Failed Initialization!
+If you don't have a VR device, you can run with -vrdebug to see vr rendering as a side-by-side stereo render.
+VR - ERROR! VrApplications failed initialization with error code %s: "%s"!
+VR - ERROR! Applications failed initialization with error code:
+%s "%s"
+VR - SteamVR VrApplications Failed!
+VR - IdentifyApplicaton steam.app.450390 AFTER VR Init
+VR - Warning! VRChaperone failed initialization with error code %s: "%s"!
+VR - ERROR! Compositor failed initialization with error code %s: "%s"!
+VR - ERROR! Compositor failed initialization with error code:
+%s "%s"
+VR - SteamVR Compositor Failed!
+Connected to SteamVR compositor!
+VR - ERROR! VrExtendedDisplay failed initialization with error code %s: "%s"!
+VR - ERROR! VrExtendedDisplay failed initialization with error code:
+%s "%s"
+VR - SteamVR VrExtendedDisplay Failed!
+SteamVR initialized!
+HMD Brand: 
+HMD Model: 
+Render Model: 
+HMD Serial Number: 
+Eye separation (IPD) from SteamVR: 
+%.2f mm
+lighthouse
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 3 3 3 3 4 4 4 6 3 4 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 13 20 11 11 10 11 11 11 11 10 10 10 11 10 11 9 9 9 9 9 9 11 11 11 11 11 11 11 11 11 23 30 23 22 22 23 23 24 23 23 23 23 23 22 23 22 22 22 20 20 20 19 19 19 22 22 22 23 23 23 36 41 38 36 35 36 36 36 36 34 35 34 35 35 35 33 33 33 33 33 33 32 32 32 31 31 31 31 31 31 55 58 55 52 52 52 54 54 54 52 52 52 52 51 52 51 51 51 49 49 49 47 47 47 48 48 48 47 47 47 95 96 95 93 93 93 94 94 94 93 92 93 91 90 91 91 91 91 87 87 87 86 86 86 85 85 85 85 85 85 165 165 165 161 161 161 163 163 163 159 159 159 160 160 160 158 158 158 155 155 155 151 151 151 151 151 151 148 148 148 220 220 220 216 216 216 217 217 217 214 214 214 215 215 215 212 212 212 209 209 209 205 205 205 203 203 203 203 203 203 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+steamsight
+vr_chaperone_hardbounds_disabled
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 7 7 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 15 22 13 16 13 12 11 11 11 9 9 9 9 9 9 9 9 9 9 9 9 7 7 7 7 7 7 7 7 7 27 39 27 27 20 27 24 24 24 23 23 23 22 22 22 22 22 22 20 20 20 19 19 19 19 19 19 18 18 18 39 48 41 39 37 39 38 38 38 36 36 36 35 35 35 34 34 34 33 33 33 31 31 31 30 30 30 29 29 29 60 66 62 58 55 57 56 54 54 54 54 54 52 52 52 51 51 51 49 49 49 47 47 47 46 46 46 44 44 44 106 110 105 104 96 98 98 95 95 93 93 93 92 92 92 90 90 90 87 87 87 84 84 84 82 82 82 80 80 80 177 182 176 175 169 173 171 168 168 166 166 166 162 162 162 160 160 160 155 155 155 151 151 151 148 148 148 146 146 146 241 242 238 234 224 230 227 224 224 222 221 221 220 220 220 215 215 215 211 211 211 205 205 205 203 203 203 200 200 200 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255
+Submitting first frame to the compositor
+Warp mesh covers 
+ of the back buffer (shrink wrap saved 
+VrGroup
+VrStartup
+VrManifest
+materials/dev/vr_warp.vmat
+materials/dev/vr_stencil.vmat
+ERROR! CVr::CreateWarpMaterialAndTexture() called with an invalid g_pResourceSystem!
+ERROR! CVr::CreateWarpMaterialAndTexture() called with an invalid g_pRenderDevice!
+ERROR! Cannot load VrStartup resource manifest for the dota render pipeline!
+CVr::CreateWarpMaterialAndTexture
+nOffset < ( nWidth * nHeight * 4 )
+VrWarpTexture%d
+-stencilmesh
+Stencil mask reduces rendering area by: 
+. Pixels per eye after stencil mask: 
+Refresh Rate: 
+%.2f Hz (%s/%s -> %s/%s) %.3f ms/frame
+-height
+vr_fidelity_level_dynamic
+vr_render_target_scale = 
+Render target size is 
+ totaling 
+ pixels per eye requiring 
+ million pixels/sec.
+Subview Mode = 
+Vertical split full resolution.
+Checker.
+Foveated 2x.
+Unknown (%d)
+ Total pixels in all subviews per eye = 
+VR prediction: client( %s us) + vsyncToPhotons( %s us ) = %s us
+HMD Position: %.2f, %.2f, %.2f
+Controller %d, input %2d
+, VR_CONTROLLER_INPUT_JOYSTICK
+joystick%d
+, VR_CONTROLLER_INPUT_TRACKPAD
+trackpad%d
+, VR_CONTROLLER_INPUT_TRIGGER 
+trigger%d
+CVr::UpdateHmdDataFromHardware(3358): ERROR! Unknown controller axis type %d!
+, name = %-10s
+, m_bIsPressed = %d, m_bIsTouched = %d, analog( %f, %f )
+Triggering haptic pulse on controller %d, input %s
+Controller %d, input %2d, VR_CONTROLLER_INPUT_BUTTON  
+button%d
+OpenVR event vr::VREvent_InputFocusCaptured
+OpenVR event vr::VREvent_InputFocusReleased
+Controller event vr::VREvent_ButtonPress  
+Controller event vr::VREvent_ButtonUnpress
+Controller event vr::VREvent_ButtonTouch  
+Controller event vr::VREvent_ButtonUntouch
+, controller %d, input %2d
+, openVrEvent.eventAgeSeconds = %f
+VR - GPU( %5.2f )
+VR - IdleGPU( %4.2f ) + GPU( %5.2f ) + WaitVsync( %4.2f ) = Total %6.3f ms
+%.1f fps
+vr_zero_tracker
+vr_info
+//-----------------------------------------------------------------------------------------
+Virtual reality command line args:
+  -vr         Enable VR (can be automatically enabled if launched from Steam in VR mode)
+  -vrdebug    Renders to the primary monitor, but still uses the HMD's tracking if available
+  -nohmd      Renders through the VR code paths without using the HMD's tracking or display
+  -scale [x]  Available with either -vrdebug or -nohmd. Will scale window by float amount (0.5 is half width & height)
+Adapter: 
+Output:  
+ (Will use first output for the adapter)
+%.2f Hz (%s/%s) %.3f ms/frame
+Window Rect:        
+%dx%d @ (%d,%d)
+Viewport Left Eye:  
+Viewport Right Eye: 
+Render Target Size: 
+FOV Left Eye  (L/R/T/B): 
+  (H/V): 
+FOV Right Eye (L/R/T/B): 
+Stereo FOV (H/V): 
+Overall FOV (H/V): 
+Clip Space Bounds Left Eye  (L/R/T/B): 
+Clip Space Bounds Right Eye (L/R/T/B): 
+Raw matrices from SteamVR (all units in meters):
+                        AbsoluteTrackingToTracking
+                   %7.3f %8.3f %8.3f %8.3f
+                           TrackingToMiddleEye
+        MiddleEyeToLeftEye                    MiddleEyeToRightEye
+%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f
+        ProjectionLeftEye                     ProjectionRightEye
+%7.3f %8.3f %8.3f %8.3f   %8.3f %8.3f %8.3f %8.3f
+//-----------------------------------------------------------------------------------------
+VrStencilLayout
+CVrStencilRenderer::Render(4263): VR - Destroying old VB for Stenciling!
+CVrStencilRenderer
+CVrStencilRendererVB
+CVrStencilRenderer::Render(4308): VR - Error! VB handle is invalid in CVrStencilRenderer!
+VrSubviewStencilLayout
+CVrSubviewStencilRenderer::Render(4452): VR - Destroying old VB for SubviewStenciling!
+CVrSubviewStencilRenderer::Render
+m_subviewArray.Count() == 2
+Subview stencil mesh reduces rendering area by 
+Pixels per eye after subview stencil mask: 
+. Renderer now requires 
+CVrSubviewStencilRenderer
+CVrSubviewStencilRendererVB
+CVrSubviewStencilRenderer::Render(4794): VR - Error! VB handle is invalid in CVrSubviewStencilRenderer!
+VrWarpQuadLayout
+CVrWarpRenderer::Render(4933): VR - Destroying old VB for warping!
+CVrWarpRenderer::Render(4940): VR - Destroying old IB for warping!
+CVrWarpRenderer::Render(4954): VR - Destroying old VB for warping!
+CVrWarpRenderer::Render(4961): VR - Destroying old IB for warping!
+VR - Error calling g_pVr->GenerateWarpMeshVbAndIb()!
+CVrWarpRenderer
+CVrWarpRendererVB
+CVrWarpRendererIB
+CVrWarpRenderer::Render(5026): VR - Error! VB handle is invalid in CVrWarpRenderer!
+CVrWarpRenderer::Render(5035): VR - Error! IB handle is invalid in CVrWarpRenderer!
+VrReconstructionQuadLayout
+CVrReconstructionRenderer::Render(5185): VR - Destroying old VB for reconstruction eye %d!
+CVrReconstructionRenderer::Render(5192): VR - Destroying old IB for reconstruction eye %d!
+CVrReconstructionRenderer::Render(5206): VR - Destroying old VB for reconstruction!
+CVrReconstructionRenderer::Render(5213): VR - Destroying old IB for reconstruction!
+CVrReconstructionRenderer::Render
+CVrReconstructionRenderer
+CVrReconstructionRendererVB
+CVrReconstructionRendererIB
+CVrReconstructionRenderer::Render(5353): VR - Error! VB handle is invalid in CVrReconstructionRenderer!
+CVrReconstructionRenderer::Render(5362): VR - Error! IB handle is invalid in CVrReconstructionRenderer!
+vr_shadows_debug
+vr_fidelity_level
+Dynamically adjust vr_fidelity_level based on current performance
+The normalized fidelity level reported back to SteamVR Perf Test
+vr_fidelity_level_reported
+vr_fidelity_threshold_frame_percent_min
+vr_fidelity_threshold_frame_percent_extrapolation
+vr_fidelity_threshold_frame_percent_max
+vr_fidelity_threshold_frame_percent_critical
+[Auto-Fidelity System] Initializing auto-fidelity system
+[Auto-Fidelity System] WARNING! Cannot init auto fidelity system with null g_pFullFileSystem!
+[Auto-Fidelity System] WARNING! Cannot init auto fidelity system with null g_pRenderDevice!
+vr_fidelity_levels.csv
+[Auto-Fidelity System] WARNING! Couldn't read vr_fidelity_levels.csv!
+-autofidelityconfig
+perftest_multigpu
+perftest
+amd_multigpu
+nvidia_multigpu
+[Auto-Fidelity System] Using '%s'
+[Auto-Fidelity System] WARNING! Cannot init auto fidelity system! pVendorName =""
+default
+[Auto-Fidelity System] Default fidelity level = %d
+[Auto-Fidelity System] %dxMSAA = %dx%d (Color + Depth + Other = %s MB)
+[Auto-Fidelity System] Initialized with %d fidelity levels
+-forcefidelitylevel
+vr_fidelity_level = [
+ after 
+ frames, 
+ seconds, last frame 
+-nohackstartup
+CRITICAL DROP vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms > %.2f
+MIN INCREASE vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms < %.2f
+TEST INCREASE vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms
+MAX DROP vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms > %.2f
+PREDICTIVE DROP vr_fidelity_level %d. Last frames = %.2fms, %.2fms, %.2fms > %.2f
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CFmtStrN<256,0>::CFmtStrN
+FmtStrVSNPrintf truncated without QUIET_TRUNCATION specified!
+string too long
+invalid string position
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+CVertexDataBase<struct CVrStencilRenderer::VrStencilVertex_t>::AdvanceVertex
+CVertexDataBase - No storage!
+CVertexDataBase - Tried to advance past the last vertex (%d)
+CVertexData<struct CVrStencilRenderer::VrStencilVertex_t>::Unlock
+this->m_pMemory
+CVertexDataBase<struct CVrSubviewStencilRenderer::VrSubviewStencilVertex_t>::AdvanceVertex
+CVertexData<struct CVrSubviewStencilRenderer::VrSubviewStencilVertex_t>::Unlock
+CVertexDataBase<struct CVrWarpRenderer::VrWarpVertex_t>::AdvanceVertex
+CVertexData<struct CVrWarpRenderer::VrWarpVertex_t>::Unlock
+CIndexData<unsigned short>::Unlock
+CVertexDataBase<struct CVrReconstructionRenderer::VrReconstructionVertex_t>::AdvanceVertex
+CVertexData<struct CVrReconstructionRenderer::VrReconstructionVertex_t>::Unlock
+g_pResourceHandleUtils
+Encountered too many releases for resource "%s"
+CStrongHandle<struct InfoForResourceTypeCTextureBase>::Shutdown
+CIndexDataBase<unsigned short>::~CIndexDataBase
+!m_pMemory
+CStrongHandle<struct InfoForResourceTypeIMaterial2>::Shutdown
+CVertexDataBase<struct CVrStencilRenderer::VrStencilVertex_t>::~CVertexDataBase
+CVertexData<struct CVrStencilRenderer::VrStencilVertex_t>::Lock
+nMaxVertexCount > 0
+CVertexDataBase<struct CVrSubviewStencilRenderer::VrSubviewStencilVertex_t>::~CVertexDataBase
+CVertexData<struct CVrSubviewStencilRenderer::VrSubviewStencilVertex_t>::Lock
+CVertexDataBase<struct CVrWarpRenderer::VrWarpVertex_t>::~CVertexDataBase
+CVertexData<struct CVrWarpRenderer::VrWarpVertex_t>::Lock
+CIndexData<unsigned short>::Lock
+nMaxIndexCount > 0
+CVertexDataBase<struct CVrReconstructionRenderer::VrReconstructionVertex_t>::~CVertexDataBase
+CVertexData<struct CVrReconstructionRenderer::VrReconstructionVertex_t>::Lock
+MemAllocClassName
+CUtlMemory::Grow
+Unaccounted
+CUtlMemory<unsigned short,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct CVr::FidelityValue_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct CVr::FidelityConvar_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<class Vector2D,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct CVrReconstructionRenderer::VrReconstructionVertex_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct SceneScratchRenderTargetInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct VrSubview_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct VrTrackedObjectData_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<int,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct VrWarpMeshVertex_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<bool,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+r?333333
+@fff>fff>fff>fff>
+c:\buildslave\vrgdc2015_staging_win64\build\src\mathlib\mathlib_base.cpp
+_VectorNormalizeFast
+fabs( vec.LengthSqr() - 1.0f ) < 1e-3
+MathLib_Init
+SSE and SSE2 are required.
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strncmp
+count >= 0
+Unaccounted
+_V_strncmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_strcmp
+V_stristr
+pSearch
+_V_strncpy
+maxLen >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+V_vsnprintf
+V_vsnprintfRet
+()$^.*+?[]|\-{},:=!
+generic
+unknown error
+iostream
+iostream stream error
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+*** ConCommand "%s" (%p) was not unregistered! Shutdown crash imminent!
+ConCommand::Dispatch
+Encountered ConCommand '%s' without a callback!
+ConCommand::AutoCompleteSuggest
+m_pParent->m_fnCompletionCallback
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+ConVarRef %s doesn't point to an existing ConVar
+Unaccounted
+CUtlMemory<struct ConCommand::CallbackInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+CUtlBuffer::AddNullTermination
+m_Memory.IsIdxValid( Index )
+Unaccounted
+CUtlMemory<unsigned char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+VScript
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\schemabindings.cpp
+InstallSchemaBindings
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+?E=$% B
+?49HoKC
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+?UUUUUU
+AUUUUUU
+?UUUUUU
+Unknown exception
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+bad exception
+?8bunz8
+?@En[vP
+?UUUUUU
+?3ScR.>
+?gibQ^AX>
+WR_l%2>
+)2STud>
+J\;5yTb
+<8bunz8
+<@En[vP
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+@^8U)zj
+-9D	/9a
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+<unknown>
+wchar_t
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+_nextafter
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+c:\buildslave\vrgdc2015_staging_win64\build\src\vr\Release\win64\vr.pdb
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+VR_GetVRInitErrorAsSymbol
+VR_GetVRInitErrorAsEnglishDescription
+VR_GetGenericInterface
+VR_IsInterfaceVersionValid
+VR_GetInitToken
+VR_InitInternal
+VR_ShutdownInternal
+openvr_api.dll
+Plat_IsInDebugSession
+Plat_ExitProcess
+LoggingSystem_RegisterLoggingChannel
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+AssertMsg_ConditionFailed
+g_pMemAlloc
+Plat_MessageBox
+Plat_FloatTime
+GetCPUInformation
+Plat_GetCPUFrequency
+Plat_GlobalMemoryStatus
+V_tier0_stricmp
+CMemAllocSystemInitialize
+CommandLine
+LoggingSystem_IsChannelEnabled
+LoggingSystem_Log
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+Warning
+??0CThreadMutex@@QEAA@XZ
+??1CThreadMutex@@QEAA@XZ
+?Lock@CThreadMutex@@QEAAXXZ
+?Unlock@CThreadMutex@@QEAAXXZ
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+g_ClockSpeed
+g_ClockSpeedMillisecondsMultiplier
+g_pGlobalMiniProfilers
+Plat_ShouldCollectMiniDumpsForFatalErrors
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+LOG_GENERAL
+tier0.dll
+LeaveCriticalSection
+GetCurrentProcessId
+GetVersionExA
+MultiByteToWideChar
+WideCharToMultiByte
+LCMapStringW
+CloseHandle
+GetProcAddress
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+GetCommandLineA
+GetCurrentThreadId
+GetLastError
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+ExitProcess
+GetModuleHandleExW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetStringTypeW
+EnterCriticalSection
+WriteFile
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+GetModuleFileNameW
+LoadLibraryExW
+SetStdHandle
+WriteConsoleW
+OutputDebugStringW
+ReadFile
+ReadConsoleW
+FlushFileBuffers
+CreateFileW
+KERNEL32.dll
+position
+0'>0c*>
+pb>pAf>
+-?[`/?291?
+RD?4KF?=GH?9FJ?8HL?
+a?y#c?sIe?
+0123456789ABCDEF
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AV?$CUtlMemory@GH@@
+.?AV?$CUtlVectorBase@GV?$CUtlMemory@GH@@@@
+.?AV?$CUtlMemory@UVrSubview_t@@H@@
+.?AV?$CUtlMemory@UVrTrackedObjectData_t@@H@@
+.?AV?$CUtlVectorBase@UFidelityValue_t@CVr@@V?$CUtlMemory@UFidelityValue_t@CVr@@H@@@@
+.?AV?$CUtlMemory@UFidelityValue_t@CVr@@H@@
+.?AV?$CUtlVectorBase@UFidelityConvar_t@CVr@@V?$CUtlMemory@UFidelityConvar_t@CVr@@H@@@@
+.?AV?$CUtlMemory@UFidelityConvar_t@CVr@@H@@
+.?AV?$CUtlMemory@HH@@
+.?AV?$CUtlMemory@VVector2D@@H@@
+.?AV?$CUtlVectorBase@VVector2D@@V?$CUtlMemory@VVector2D@@H@@@@
+.?AV?$CUtlMemory@UVrWarpMeshVertex_t@@H@@
+.?AV?$CUtlMemory@_NH@@
+.?AV?$CUtlVectorBase@UVrReconstructionVertex_t@CVrReconstructionRenderer@@V?$CUtlMemory@UVrReconstructionVertex_t@CVrReconstructionRenderer@@H@@@@
+.?AV?$CUtlMemory@UVrReconstructionVertex_t@CVrReconstructionRenderer@@H@@
+.?AV?$CUtlMemory@USceneScratchRenderTargetInfo_t@@H@@
+.?AV?$CUtlVectorBase@USceneScratchRenderTargetInfo_t@@V?$CUtlMemory@USceneScratchRenderTargetInfo_t@@H@@@@
+.?AV?$CUtlVectorBase@UVrSubview_t@@V?$CUtlMemory@UVrSubview_t@@H@@@@
+.?AV?$CUtlVectorBase@UVrTrackedObjectData_t@@V?$CUtlMemory@UVrTrackedObjectData_t@@H@@@@
+.?AV?$CUtlVectorBase@HV?$CUtlMemory@HH@@@@
+.?AV?$CUtlVectorBase@UVrWarpMeshVertex_t@@V?$CUtlMemory@UVrWarpMeshVertex_t@@H@@@@
+.?AV?$CUtlVectorBase@_NV?$CUtlMemory@_NH@@@@
+.?AVIAppSystem@@
+.?AVIVr@@
+.?AVIProceduralLayerRenderer@@
+.?AVCVr@@
+.?AV?$CTier2AppSystem@VIVr@@$0A@@@
+.?AV?$CTier1AppSystem@VIVr@@$0A@@@
+.?AV?$CTier0AppSystem@VIVr@@@@
+.?AV?$CBaseAppSystem@VIVr@@@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVCVrStencilRenderer@@
+.?AVCVrSubviewStencilRenderer@@
+.?AVCVrWarpRenderer@@
+.?AVCVrReconstructionRenderer@@
+.?AVCPostConnectCallback@@
+.?AVexception@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@UCallbackInfo_t@ConCommand@@V?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@@@
+.?AV?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVConCommand@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AV?$CUtlMemory@EH@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+?UUUUUU
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z

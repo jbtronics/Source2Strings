@@ -1,0 +1,252 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+L$ SVWH
+UVATAVAWH
+ A_A^A\^]
+@UAVAWH
+WATAUAVAWH
+@A_A^A]A\_
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+A_A^A]A\_
+fffffff
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+t$ WAVAWH
+ATAVAWH
+ A_A^A\
+t$ WATAUAVAWH
+0A_A^A]A\_
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+@SUVWATAVAWH
+PA_A^A\_^][
+AUAVAWH
+0A_A^A]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+A_A^A]A\_^]
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+failed to open libtool archive "%s"
+installed
+unable to parse libtool archive "%s"
+resident-modules
+bind-now-modules
+G_DEBUG
+unable to access file "%s"
+g_module_check_init
+g_module_unload
+initialization check failed: 
+GModule (
+module != NULL
+g_module_close
+GModule
+module->ref_count > 0
+g_module_make_resident
+g_module_symbol
+symbol_name != NULL
+symbol != NULL
+g_module_name_utf8
+module_name != NULL
+g_module_build_path
+c:\buildslave\pango_win32\build\glib-2.42.0\build\win32\vs12\Release\x64\bin\libgmodule-2.0-0.pdb
+libgmodule-2.0-0.dll
+g_module_build_path
+g_module_close
+g_module_error
+g_module_make_resident
+g_module_name_utf8
+g_module_open_utf8
+g_module_supported
+g_module_symbol
+FreeLibrary
+LoadLibraryW
+Module32First
+GetLastError
+GetProcAddress
+GetModuleHandleA
+CreateToolhelp32Snapshot
+Module32Next
+CloseHandle
+KERNEL32.dll
+g_ascii_strcasecmp
+g_strdup
+g_getenv_utf8
+g_scanner_scope_add_symbol
+g_rec_mutex_lock
+g_file_test_utf8
+g_scanner_get_next_token
+g_strconcat
+g_strdup_vprintf
+g_private_get
+g_malloc_n
+g_private_replace
+g_path_get_dirname
+g_rec_mutex_unlock
+g_scanner_destroy
+g_scanner_eof
+g_filename_display_name
+g_return_if_fail_warning
+g_win32_error_message
+g_scanner_new
+g_strdup_printf
+g_utf8_to_utf16
+g_scanner_input_file
+g_parse_debug_string
+libglib-2.0-0.dll
+GetCommandLineA
+GetCurrentThreadId
+IsDebuggerPresent
+IsProcessorFeaturePresent
+EncodePointer
+DecodePointer
+SetLastError
+ExitProcess
+GetModuleHandleExW
+MultiByteToWideChar
+WideCharToMultiByte
+GetProcessHeap
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetStartupInfoW
+GetModuleFileNameA
+HeapFree
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetModuleHandleW
+RtlUnwindEx
+EnterCriticalSection
+LeaveCriticalSection
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+WriteFile
+GetModuleFileNameW
+LoadLibraryExW
+HeapAlloc
+HeapReAlloc
+GetStringTypeW
+OutputDebugStringW
+HeapSize
+LCMapStringW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetStdHandle
+SetFilePointerEx
+WriteConsoleW
+CreateFileW
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>

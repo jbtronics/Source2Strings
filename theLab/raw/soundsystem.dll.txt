@@ -1,0 +1,4565 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@_RDATA
+@.reloc
+|$ ATAVAWH
+ A_A^A\
+@UVATAUH
+L$`+T$0
+@USWAVAWH
+A_A^_[]
+HcC$LcC
+T$8+G$A
+HcC$HcK
+@USVAVAWH
+A_A^^[]
+s WAVAWH
+D;HX~1D;
+\$ UVWATAUAVAW
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+@A_A^A]A\_
+\$ UVWH
+|$ UATAUAVAWH
+H9P tgH
+A_A^A]A\]
+USVWAWH
+x ATAVAWH
+t5D9h H
+L9h tiH
+H9x teH
+WATAUAVAWH
+9\$,|:Hi
+A_A^A]A\_
+@SUATAUAVH
+A^A]A\][
+@SUWATAVAWH
+A_A^A\_][
+l$ VWATAVAWH
+A_A^A\_^
+SVATAVH
+UVWATAUAVAWH
+`A_A^A]A\_^]
+D9hXt!L
+.~@tdL9/u
+D9hXt!L
+@USVAVH
+s WAVAWH
+|$ ATAUAVAWHcq
+xeHcT$Pf
+|$@A_A^A]A\
+x ATAVAWH
+WATAUAVAWH
+A_A^A]A\_
+t$D8@ t
+@VAVAWH
+D9k<u^D
+{0D8k8uM
+L$ SUVATAUH
+@A]A\^][
+t$ WATAVH
+t$ ATAVAWH
+t3D8 t,D8
+0A_A^A\
+@SUVATAVAWH
+HA_A^A\^][
+UVWATAUAVAWH
++l$ D+t$$D+
+PA_A^A]A\_^]
+ATAUAWH
+@A_A]A\
+@SUVAUAWH
+PA_A]^][
+D+l$ E+
+PA_A]^][
+@SUVWAUAVAWH
+0A_A^A]_^][
+@SUVWAUAWH
+8A_A]_^][
+@SUWAVH
+@SVWAVH
+|$ AVAWL
+\$XHcD$HL
+A9Spu	E
+x UATAUAVAWH
+A_A^A]A\]
+|$ ATAVAWH
+@A_A^A\
+D8g4uCH
+l$ VAVAWH
+t0@8(t)@8h`t
+UVATAUH
+t7@8(t/@8
+@SUVWAUH
+WATAUAVAWH
+ A_A^A]A\_
+|$ AVAWH
+t$XHcD$HL
+D+L$8D+
+D+|$XE+
+|$ UATAUAVAW
+A_A^A]A\]
+SUVWATAUAVAWH
+D$zA;w@
+A_A^A]A\_^][
+A`LcT$`H
+[ A;uX|
+D$`A9MX
+t$|A;uX
+A9\$X~U
+[ A;t$X|
+D$`E9t$X
+@SUVWATAVAWH
+A_A^A\_^][
+L$x+D$dA
+5HcL$THcD$dH+
+SUVWATAUAVAWH
+hA_A^A]A\_^][
+\$`D9pX~
+SWATAUAWH
+`A_A]A\_[
+@UAVAWH
+L$x+D$dA
+5HcL$THcD$dH+
+ATAVAWH
+@SUVATAUAVAWH
+A_A^A]A\^][
+L$ SVWAUAWH
+`A_A]_^[
+WATAUAVAWH
+0A_A^A]A\_
+t$0;_ u
+@SUVWAVH
+PA^_^][
+t$ WAVAWH
+@UAVAWH
+WATAUAVAWH
+A_A^A]A\_
+@USWATH
+d$hL9d$@t
+|$ ATAVAWH
+0A_A^A\
+SUVWAVAWH
+L$@HcpXL
+A_A^_^][
+\$ WAVAWH
+4HcL$tHcE
+t$0Hcq(H
+|$8;q8u
+SUVWATAUAVAWH
+x"A;Ah}
+A_A^A]A\_^][
+LcwHD;wX
+x8;s(}3H
+|$@9Yh~7H
+UVWATAUAVAWH
+x';Eh}"H
+A_A^A]A\_^]
+s WATAUAVAWH
+xR;Kh}MH
+A_A^A]A\_
+xY;Ah}TH
+x=;Ah}8H
+ Hcy E3
+9\$ ~zH
+x*;Ah}%H
+x9;Ah}4H
+x2;Ah}-H
+C@H90t	
+\$ UVWAVM
+\$@A^_^]
+l$ VWATAUAWH
+0A_A]A\_^
+@USVWAUAVAWH
+$|<@u4H
+D;t$0s&I
+A_A^A]_^[]
+tz@8|$@usH
+ATAVAWH
+0A_A^A\
+Ico A;o0uRI
+0A_A^A\
+@USVWAVH
+D$ RIFF
+D$ WAVEH
+D$ fmt 
+D$ dataH
+\$ VWAWH
+WATAUAVAWH
+@A_A^A]A\_
+t'LcAx3
+t'McJx3
+@USWATAVH
+D$LfD3B
+A^A\_[]
+K1Icu@H
+t,Lc[xE3
+UVWATAUH
+ A]A\_^]
+|$ UAVAWH
+IMSVuSH
+DNSVu"H
+@UVWAUAVH
+A^A]_^]
+ Hcr Ic
+L$ SVWH
+t.@87t)
+UATAUAVAWH
+A_A^A]A\]
+9XLv.fff
+@USVWATAVAWH
+A_A^A\_^[]
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+UVWAVAWH
+A_A^_^]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@SUVWAUAVAWH
+@A_A^A]_^][
+X UWATAUAVH
+PA^A]A\_]
+@SUWAVAWH
+PA_A^_][
+ATAUAVAWH
+8A_A^A]A\
+USWATAUI
+A]A\_[]
+UVWATAVI
+A^A\_^]
+t69G@t1H
+|$ UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+@SUVWAVH
+l$ VWATAUAWH
+A_A]A\_^
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+|$ UAVAWH
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+|$ UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UAVAWH
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+|$ UAVAWH
+UWATAVAWH
+A_A^A\_]
+|$ UAVAWH
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@SUVWAVH
+|$@Hc\$8
+@SUVWAVH
+|$@Hc\$8
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWAVH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+|$ UAVAWH
+|$ AUAVAWH
+{T@8{Pu
+9zXuV@8z
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+|$ UAVAWH
+UWATAVAWH
+A_A^A\_]
+@SUVAVH
+@UVWATH
+|$ UAVAWH
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+@SUVWATAUAVAWH
+u#D9{|t
+A_A^A]A\_^][
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+VWAUAVAWH
+ A_A^A]_^
+VWAUAVAWH
+ A_A^A]_^
+AXH9y0u
+t$ WAVAWH
+L$ SVWAVAWH
+CT+CdLc
+0HcCdHcKTH+
+t1HcCdHcKTH+
+0A_A^_^[
+SUVATAUAVAWH
+A_A^A]A\^][
+@SATAVH
+@SUVATAWH
+A_A\^][
+SUVWATAUAVAWH
+teA9z$|_H
+xA_A^A]A\_^][
+AUAVAWH
+`A_A^A]
+@UAVAWH
+VWAUAVAWH
+A_A^A]_^
+@SUVWATAUAVH
+A^A]A\_^][
+L$ SVATAVH
+9L$hu(Hc{
+(A^A\^[
+f;o,|AE
+r+f;o,}%
+}*fA;R&w#fD;
+xD;W@}?;WT
+T$8+G$A
+}#fA;R&w
+UVWATAUAVAWH
+A_A^A]A\_^]
+vsndstckH
+vsndevtsH
+vsndstckH
+vsndevtsH
+|$P9qXtN
+\$ WAVAWH
+@UAUAWH
+@SUVWAVH
+@SUVWATAVAWH
+A_A^A\_^][
+t.@8;t)
+\$ ATAVAWH
+y!HcS L
+0A_A^A\
+UVWATAUAVAWH
+uVLcK H
+A_A^A]A\_^]
+@SUVWATAUAVAWH
+tUD8(tPI
+A_A^A]A\_^][
+E1LcE H
+UVWATAUAVAWH
+L9}@t	H
+L9}Ht	H
+@A_A^A]A\_^]
+G1LcG H
+t/HcC$HcK
+t7HcC$HcK
+19D$Hu8H
+UVWATAUAVAWH
+@A_A^A]A\_^]
+ATAVAWH
+0A_A^A\
+9D$HtiA
+L$ UVWH
+L$ VWAVH
+fE94(t/E
+A9<2t(A
+@SWATAWH
+HA_A\_[
+WATAUAVAWH
+@A_A^A]A\_
+@SUVWAVH
+9>~Hfff
+@UATAUAVH
+(A^A]A\]
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+|$ ATAVAWH
+ A_A^A\
+@USATAVAWH
+A_A^A\[]
+UVAUAVH
+@SVWAWH
+USVWATAVH
+A^A\_^[]
+VWATAVAWH
+ A_A^A\_^
+WATAUAVAWH
+@A_A^A]A\_
+H9w0u%H
+vpcft	H
+@USVWATAWH
+A_A\_^[]
+L$ SWAVH
+UUUUUUUUH
+33333333H
+UVWATAUAVAWH
+D$h;sXu
+A_A^A]A\_^]
+t$ WATAUAVAWH
+UUUUUUUUI
+33333333I
+0A_A^A]A\_
+@UATAUAVAWH
+e0A_A^A]A\]
+HcwH;wX
+|$XHc:H
+UUUUUUUUH
+33333333H+
+@UVWAWH
+@UVAVAWH
+VWATAVAWH
+ A_A^A\_^
+WATAUAVAWH
+@A_A^A]A\_
+S @8n(t L
+L$p;k8|
+Hc~8;~H
+9\$(~>A
+VWATAUAVH
+PA^A]A\_^
+|$ ATAVAWH
+0A_A^A\
+@SVWAUAVH
+A^A]_^[
+@SUWAWH
+l$`Lcl$xL
+@SAUAVAWH
+(A_A^A][
+@SWAVAWH
+l$ Lcl$x
+(A_A^_[
+@SUVWAVH
+UVWAVAWH
+fD9tB u
+A_A^_^]
+VWATAVAWH
+A_A^A\_^
+T$0;S v
+@UVATAVAWH
+A_A^A\^]
+@SUVAVH
+9\$PvGff
+</t?<\t;H
+L$ SVWH
+\$ UVWH
+t+HcC$LcC
+@SUAUAWH
+(A_A]][
+t+HcC$LcC
+t(HcC$HcK
+t$@HcwH$
+D$(;wXu
+t$@HcwH$
+D$(;wXu
+t$@HcwH$
+D$(;wXu
+A0t#H9I8u
+@UAVAWH
+e A_A^]
+@SAVAWH
+l$@HckxH
+D$<9T$0wR9T$4wL9T$8wF;
+)t$PH9[8t
+)|$PH9[8t
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+D$0;D$8t
+USVWATAUAVAWH
+D8d$@u	D8#
+t8D8 t3H
+D8d$AtPH
+A_A^A]A\_^[]
+SUATAVH
+l$ AUAVAWH
+ A_A^A]
+@SUVWATAVAWH
+A_A^A\_^][
+@SVWATH
+t$ WATAUAVAWH
+0A_A^A]A\_
+|$ ATAVAWH
+ A_A^A\
+SUVWAVAWH
+(A_A^_^][
+ATAVAWH
+ A_A^A\
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+fffffff
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+pA_A^A]A\_^]
+fffffff
+.ffffff
+fffffff
+0ffffff
+@UATAVH
+l$ VAVAWH
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+SUVWATAUAVAWH
+H9D$(u^L
+L$0D;t$ s
+HA_A^A]A\_^][
+WATAUAVAWH
+A_A^A]A\_
+fffffff
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+USVWAVH
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+@ffffff
+AUAVAWH
+0A_A^A]
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+VWATAVAWH
+ A_A^A\_^
+` AUAVAWH
+t$8Hc0I
+\$0D9=B
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+SVWATAUAVAWUH
+]A_A^A]A\_^[
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+t$ WAVAWH
+@UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+$tPH9\$@t>
+A_A^A]A\_^]
+UWATAVAWH
+uMM9'tHH
+uQM91tLH
+A_A^A\_]
+<1~-<3~ <4t5<5t
+UATAUAVAWH
+A_A^A]A\]
+D8t$HuD
+(D$@L9t$ t0H
+D$(D8t$(u\H
+x UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+,0<	w!A
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+SATAUAWUH
+]A_A]A\[
+@SUVWATAVAWH
+PA_A^A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+@UAVAWH
+H(H9J(u
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\soundsystem\soundopshared.h
+CSosFieldData::SetStringData::<lambda_ed9e1456d2f950a4a595bc4157dafc85>::operator ()
+nStrLen <= nTypeSize - 1
+generic
+unknown error
+iostream
+iostream stream error
+string too long
+invalid string position
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+MemAllocClassName
+Release
+soundsystem
+CUtlMemory::Grow
+Audio Capture Device
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\device_capture.cpp
+CAudioCaptureDevice::OutputBuffer
+m_flTimeSinceOutput > flBufferTime
+Unaccounted
+CUtlMemory<short,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Dsoundsystem.dll
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+AIL_startup
+AIL_shutdown
+AIL_set_redist_directory
+RIB_find_files_provider
+RIB_free_provider_library
+RIB_request_interface
+MSS_alloc_info
+MSS_free_info
+mss64.dll
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\mp3_miles.cpp
+DecrementRefMiles
+s_MilesRefCount > 0
+Input file types
+Output file types
+ASI codec
+ASI_stream_property
+ASI_stream_open
+ASI_stream_close
+ASI_stream_process
+Output sample rate
+Output sample width
+Output channels
+Input sample rate
+Input sample width
+Input channels
+Minimum input block size
+Position
+ASI stream
+ASI_stream_seek
+ASI_stream_seek called, but it doesn't exist.
+ASISTRUCT::Seek
+CMilesMP3::Decode
+Big : voiced alveolar stop
+Mat : voiced bilabial nasal
+Put; voiceless alveolar stop
+With : voiced labial-velar approximant
+Fork : voiceless labiodental fricative
+Val : voiced labialdental fricative
+Red : voiced alveolar approximant
+Red : voiced alveolar trill
+Red : voiced retroflex approximant
+URn : rhotacized schwa
+URn : rhotacized lower-mid central vowel
+THen : voiced dental fricative
+THin : voiceless dental fricative
+SHe : voiceless postalveolar fricative
+Joy : voiced postalveolar afficate
+CHin : voiceless postalveolar affricate
+Sit : voiceless alveolar fricative
+Zap : voiced alveolar fricative
+Dig : voiced bilabial stop
+Dig : voiced alveolar flap or tap
+Lid : voiced alveolar lateral approximant
+Lid : velarized voiced alveolar lateral approximant
+No : voiced alveolar nasal
+Talk : voiceless bilabial stop
+gO : upper-mid back rounded vowel
+tOO : high back rounded vowel
+Ate : upper-mid front unrounded vowel
+cAt : semi-low front unrounded vowel
+fAther : low back unrounded vowel
+fAther : low front unrounded vowel
+fEEl : high front unrounded vowel
+Yacht : voiced palatal approximant
+cUt : lower-mid back unrounded vowel
+dOg : lower-mid back rounded vowel
+Ago : mid-central unrounded vowel
+Ago : lower-mid central unrounded vowel
+pEt : lower-mid front unrounded vowel
+fIll : semi-high front unrounded vowel
+fIll : high central unrounded vowel
+bOOk : semi-high back rounded vowel
+taG : voiced velar stop
+Help : voiceless glottal fricative
+Help : breathy-voiced glottal fricative
+Cut : voiceless velar stop
+siNG : voiced velar nasal
+aZure : voiced postalveolar fricative
+silence
+english
+italian
+schinese
+spanish
+tchinese
+japanese
+russian
+portuguese
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlbuffer.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\byteswap.h
+CByteswap::SwapBufferToTargetEndian
+count >= 0
+outputBuffer
+Unaccounted
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\cmodel.h
+Ray_t::Init
+adsp_debug
+adsp_door_height
+adsp_wall_height
+adsp_low_ceiling
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_das.cpp
+DAS_SetTraceHeight
+proom->vplayer.z <= ptrU->endpos.z
+NEW DSP NODE: size:(%.0f,%.0f) height:(%.0f) dif %.4f : refl %.4f : cobj: %.0f : sky %.0f 
+DSP PRESET: %.0f size:(%.0f,%.0f) height:(%.0f) dif %.4f : refl %.4f : cobj: %.0f : sky %.0f 
+DSP NODE
+DAS_CheckNewRoomDSP
+Unaccounted
+DAS_CheckNewRoomDSP
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_das.cpp
+soundsystem
+Specifies the position (in degrees) of the virtual front left/right headphones.
+snd_front_headphone_position
+%s = %f
+Specifies the position  (in degrees) of the virtual rear left/right headphones.
+snd_rear_headphone_position
+Specifies the position (in degrees) of the virtual front left/right speakers.
+snd_front_stereo_speaker_position
+Specifies the position (in degrees) of the virtual rear left/right speakers.
+snd_rear_stereo_speaker_position
+snd_front_surround_speaker_position
+snd_rear_surround_speaker_position
+Specifies the exponent for the pan xfade from phone to phone if the "exp" pan law is being used.
+snd_headphone_pan_exponent
+Specifies the exponent for the pan xfade from speaker to speaker if the "exp" pan law is being used.
+snd_stereo_speaker_pan_exponent
+snd_surround_speaker_pan_exponent
+Apply cos(angle) * weight before pan law
+snd_headphone_pan_radial_weight
+snd_stereo_speaker_pan_radial_weight
+snd_surround_speaker_pan_radial_weight
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dev_common.cpp
+GetSpeakerVol
+mono <= 1.0 && mono >= 0.0
+scale <= 1.0 && scale >= 0.0
+CAudioDeviceBase::SpatializeChannel
+Unaccounted
+Device_SpatializeChannel
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dev_common.cpp
+soundsystem
+InterpMonoSpread
+flMono <= 1.0 && flMono >= 0.0
+flScale <= 1.0 && flScale >= 0.0
+Unaccounted
+Device_SpatializeChannel
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dev_common.cpp
+soundsystem
+Device_ApplyDSP
+Unaccounted
+Device_ApplyDSP
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dev_common.cpp
+soundsystem
+nSampleCount == MIX_BUFFER_SIZE
+Cfff?fff?
+fff?fff?
+?fff?fff?fff?fff?
+FCVAR_NEVER_AS_STRING
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\stronghandle.h
+sounds/
+sounds/%s
+File %s did not have sounds directory in path, appending path and loading, but path needs to be fixed in resource file.
+g_pResourceHandleUtils
+Encountered too many releases for resource "%s"
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlrbtree.h
+!!m_LessFunc
+CStrongHandle<struct InfoForResourceTypeVSound_t>::Shutdown
+m_Root == InvalidIndex()
+m_FirstFree == InvalidIndex()
+m_NumElements == 0
+Unaccounted
+CUtlMemory<class CSplitScreenSlot,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+m_Elements.IsValidIterator( m_LastAlloc ) || m_NumElements == 0
+m_Elements.IsValidIterator( it )
+m_Elements.IsValidIterator( m_LastAlloc )
+snd_sos_show_client_rcv
+SoundOperatorSystem
+snd_mix_minframetime
+Sound merge method (0 == sum and clip, 1 == max, 2 == avg).
+snd_mergemethod
+If set to 1, report all sounds stopped with S_StopSound().
+snd_report_stop_sound
+If set to 1, report more error found when playing sounds.
+snd_report_verbose_error
+snd_store_filepaths
+snd_max_same_sounds
+snd_max_same_weapon_sounds
+Game volume
+snd_gamevolume
+Voice volume
+snd_voipvolume
+Game v.o. volume
+snd_gamevoicevolume
+(%s) %d
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+CActiveChannels::Add
+pChannel->activeIndex == 0
+CActiveChannels::Remove
+activeIndex >= 0 && activeIndex < m_count
+pChannel == &channels[m_list[activeIndex]]
+snd_delay_sound_shift
+Show sounds location in world
+snd_visualize
+Sound volume
+ui_volume_max
+Music volume
+snd_musicvolume
+Enable automatic buffer latency detection (requires driver support)
+snd_autodetect_latency
+snd_mixahead
+snd_mix_async
+Sound system not started
+total_channels: %d
+  %d: %s (%08lx :: %08lx)
+Play a sound.
+Play a sound at a specified volume.
+playvol
+stopsound
+List all known sounds.
+soundlist
+Describe the current sound device.
+soundinfo
+-nosound
+void S_Init( start )
+VAudioInit (MSS)-start
+VAudioInit (MSS)-finish
+Sound Initialization: Finish, Sampling Rate: %i
+S_Init( finish )
+soundlog_%i_%02i_%02i_%02i_%02i.txt
+S_FindName: NULL
+S_FindName
+sounds\
+File %s missing sounds dir. Fixing for now.
+File %s missing vsnd extension. Fixing for now.
+entry.pSfx
+S_LoadSound
+Unaccounted
+S_LoadSound
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+Unaccounted
+S_LoadSound_src2
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+S_PrecacheSound
+!"S_PrecacheSound:  Failed to create sfx"
+S_PrecacheSound_src2
+voice_steal
+%s(%d): Stealing channel from sound '%s'.
+total_channels == MAX_CHANNELS
+%s(%d): Recycle channel index %d.
+dsp_dist_min
+dsp_dist_max
+dsp_mix_min
+dsp_mix_max
+dsp_db_min
+dsp_db_mixdrop
+Play full 'near' sound at this distance
+snd_dvar_dist_min
+Play full 'far' sound at this distance
+snd_dvar_dist_max
+snd_showstart
+snd_pre_gain_dist_falloff
+SND_GetGain
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+(gain %1.3f : dist ft %1.1f) 
+snd_obscured_gain_dB
+dB drop: %1.4f 
+RemapPlayerOrMusicVols
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+voice_minimum_gain
+snd_sos_exec_when_paused
+SND_Spatialize
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+SoundServices->GetSoundSpatializtion
+SND_Spatialize
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+SND_Spatialize doppler
+SND_Spatialize
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+SND_Spatialize
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+snd_defer_trace
+(Unknown)
+[Sound] %s("%s") called. %s
+Stopping sound.
+S_StopChannelUnlocked
+%s(%d): Channel not found for sound guid '%d'.
+ChannelSetVolTargets
+ivol_offset + cvol <= CCHANVOLUMES
+\\fileserver\User\Morasky\L4Dsoundlogs\%s_%s
+\fileserver\User\Morasky\L4Dsoundlogs\
+Soundlog file %s is read-only!!
+snd_dump_filepaths: Wrote %s
+Error: Filepath arg required
+S_DumpFilePaths
+filename && filename [ 0 ]
+snd_dump_filepaths
+snd_filter
+%s(%d): params.pSfx is NULL.
+-playtest
+S_StartSound: %s Stopped.
+%s(%d): Could not pick channel for sound '%s'.
+S_StartSound: Failed to load sound '%s', file probably missing from disk/repository
+%s(%d): Channel does not have a mixer for sound '%s'.
+S_StartSound_Immediate_Src2
+ch->sfx
+ch->sfx->pSource
+StaticSound
+DynamicSound
+[%s] %s %s : src %d : channel %d : %d dB : vol %.2f : time %.3f
+	 dspmix %1.2f : distmix %1.2f : lvol %1.2f : cvol %1.2f : rvol %1.2f : rlvol %1.2f : rrvol %1.2f
+	 x: %4f y: %4f z: %4f
+Warning: S_StartSound (%s) Ignored, called with pitch 0
+S_StartSound : Speaker entity ignored looping sound: %s
+%s(%d): Sound '%s' spatialized to volume 0. Ignored.
+S_StartSound_Immediate
+%s(%d): Hooking duplicate restored song track %s
+S_StartSound
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+Stopping All Sounds...
+Unknown
+Stopping: Channel:%2d %s
+S_StopAllSounds
+g_ActiveChannels.GetActiveCount() == 0
+snd_ducktovolume
+snd_duckerattacktime
+snd_duckerreleasetime
+snd_duckerthreshold
+Lowend optimization: if nonzero, spatialize only a fraction of sound channels each frame. 1/2^x of channels will be spatialized per frame.
+snd_spatialize_roundrobin
+S_UpdateVoicesPerFrame
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+ch->activeIndex > 0
+SOS_UpdateQueue
+S_Update_Guts
+Unaccounted
+S_Update_Guts
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dma.cpp
+soundsystem
+Usage:  playdelay delay_in_msec (negative to skip ahead) soundname
+sndplaydelay
+(%2db) %6i : %s
+Total: %.2f MB
+S_GetSoundChannelVolume
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utldict.h
+CUtlRBTree<unsigned int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &),class CUtlMemory<struct UtlRBTreeNode_t<unsigned int,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::Find
+CUtlRBTree<void *,int,bool (__cdecl*)(void * const &,void * const &),class CUtlMemory<struct UtlRBTreeNode_t<void *,int>,int> >::Find
+CUtlRBTree<unsigned int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &),class CUtlMemory<struct UtlRBTreeNode_t<unsigned int,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::FindInsertionPosition
+CUtlRBTree<void *,int,bool (__cdecl*)(void * const &,void * const &),class CUtlMemory<struct UtlRBTreeNode_t<void *,int>,int> >::FindInsertionPosition
+CUtlRBTree<unsigned int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &),class CUtlMemory<struct UtlRBTreeNode_t<unsigned int,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<unsigned int,unsigned short,bool (__cdecl*)(unsigned int const &,unsigned int const &),class CUtlMemory<struct UtlRBTreeNode_t<unsigned int,unsigned short>,unsigned short> >::RemoveAll
+Unaccounted
+CUtlMemory<struct SndInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct vcon_SoundViewerItem_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+CUtlRBTree<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
+CUtlRBTree<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::RemoveAll
+CUtlRBTree<void *,int,bool (__cdecl*)(void * const &,void * const &),class CUtlMemory<struct UtlRBTreeNode_t<void *,int>,int> >::NewNode
+CUtlRBTree<void *,int,bool (__cdecl*)(void * const &,void * const &),class CUtlMemory<struct UtlRBTreeNode_t<void *,int>,int> >::RemoveAll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<unsigned int,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,int,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<void *,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_dsp.cpp
+FLT_Alloc
+POS_GetNext
+p->pos <= p->D
+POS_ONE_GetNext
+pos <= p0->D
+DSP: Warning, failed to allocate delay line.
+DSP: Warning, failed to allocate filter for delay line.
+Sound DSP: Failed to lock.
+DSP: Warning, failed to allocate filter.
+DSP: Warning, failed to allocate mod delay.
+DSP: Warning, failed to allocate reverb.
+DSP: Warning, failed to allocate flt for reverb.
+DSP: Warning, failed to allocate delay for reverb.
+DSP: Warning, failed to allocate diffusor.
+DSP: Warning, failed to allocate delay for diffusor.
+DSP: Warning, failed to allocate LFO.
+DSP: Warning, failed to allocate pitch shifter.
+DSP: Warning, failed to allocate delay for pitch shifter.
+PTC_GetNext
+pptc->iin < pptc->cin
+iout < pptc->cout
+DSP: Warning, failed to allocate envelope.
+DSP: Warning, failed to allocate envelope follower.
+DSP: Warning, failed to allocate chorus.
+DSP: Warning, failed to allocate lfo or mdy for chorus.
+DSP: Warning, failed to allocate amp.
+DSP: Warning, clamping out of range parameter.
+total preset slots used: %d 
+Sound DSP: preset failed to init.
+dsp_speaker
+dsp_automatic
+dsp_off
+dsp_slow_cpu
+dsp_volume
+dsp_vol_5ch
+dsp_vol_4ch
+dsp_vol_2ch
+DSP_Init
+idsp < CDSPS
+DSP_Free
+DSP_SetPreset
+idsp >= 0 && idsp < CDSPS
+pdsp->cchan <= DSPCHANMAX
+WARNING: DSP preset failed to allocate.
+pdsp->ppsetprev[0]
+pdsp->ipset != pdsp->ipsetprev
+ADSP_GetSize
+pa->size < ADSP_SIZE_MAX
+pa->len < ADSP_LENGTH_MAX
+pa->wid < ADSP_WIDTH_MAX
+pa->ht < ADSP_HEIGHT_MAX
+pa->reflectivity < ADSP_REFLECTIVITY_MAX
+pa->diffusion < ADSP_DIFFUSION_MAX
+VERTICAL SHAFT Detected 
+DUCT Detected 
+HALL Detected 
+TUNNEL Detected 
+ROOM Detected 
+OPEN SIDED OUTDOOR AREA Detected 
+OUTSIDE COURTYARD Detected 
+OUTSIDE ALLEY Detected 
+OUTSIDE STREET Detected 
+adsp_room_min
+adsp_duct_min
+adsp_hall_min
+adsp_tunnel_min
+adsp_street_min
+adsp_alley_min
+adsp_courtyard_min
+adsp_openspace_min
+adsp_openwall_min
+adsp_openstreet_min
+adsp_opencourtyard_min
+DSP_ConstructPreset
+DSP_ProcessStereoToMono
+!(bfadetostereo && bfadefromstereo)
+DSP_CheckRestorePresets
+DSP_ClearState
+DSP_HasExpired
+DSP_IsCrossfading
+DSP_OneShotPrevious
+DSP_Process
+pbfront
+cchan_in == 2 || cchan_in == 4 || cchan_in == 5
+scripts/dsp_presets.txt
+PARSE ERROR!!! dsp_presets.txt: unexpected '}' 
+DSP PARSE ERROR! token not found in dsp_presets.txt. Preset: %3.0f 
+DSP_LoadPresetFile: unable to open '%s'
+DSP_LoadPresetFile
+DSP Preset Loader: Out of memory.
+DSP PARSE ERROR!!! dsp_presets.txt: missing } or too many processors in preset #: %d 
+CPresetDSP::GetParameter
+!"Not Implemented"
+?333333
+Unaccounted
+CUtlMemory<struct audio_mix_command_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<class CAudioProcessor *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<float *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+%s set to %.2f
+Input %s: %.3f
+RoomDSP
+UnderwaterDSP
+PlayerDSP
+IsAutomaticRoom
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_mix.cpp
+snd_envelope_rate
+If nonzero, aggressively cull duplicate sounds during mixing. The number specifies the number of duplicates allowed to be played.
+snd_cull_duplicates
+CChannelCullList::Initialize
+Unaccounted
+CChannelCullList::Initialize
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_mix.cpp
+soundsystem
+m_channelInfo[i].m_vol >= 0
+Sound channel has a negative volume?
+MIX_BuildChannelList
+Unaccounted
+MIX_BuildChannelList
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_mix.cpp
+soundsystem
+Can't find mixgroup name %s for submix
+CVoiceSendList::AppendToSubmixList
+nIndex == uint(m_submixSends.Count() - 1)
+nSendIndex == uint( out.m_nFirstSend + out.m_nSendCount )
+CVoiceListMixState::CVoiceListMixState
+pData->m_nChannels < 3
+m_index.Count() == m_sources.Count()
+UpdateMixerStateOnVoices
+soundstacks/mixgraph.vmix
+-vmix_disable
+-vmix_file
+VMIX ERROR: %s (error %s)!
+VMIX ERROR: Can't find mixgraph: %s!
+Underwater
+Cannot find mix input %s
+MixDesc
+m_Submixes
+channels
+sendOperator
+exclusive
+m_Processors
+PresetDSP
+automatic
+frequency
+bandwidth
+Unknown filter type for DSP:%s
+m_Inputs
+m_MixCommands
+command
+submix0
+submix1
+outputsubmix
+processor0
+CAudioGraph::SendVoiceToSubmixDirect
+pEndVolumes
+CAudioGraph::SendVoiceToSubmix
+CAudioGraph::GetPreviousSends
+nIndex < MAX_CHANNELS
+CAudioGraph::GetPreviousSendArray
+Set an input mix value
+mix_input
+CAudioGraph::BuildGraph
+BuildSubmixCommands
+Unaccounted
+CAudioGraph::BuildGraph
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_mix.cpp
+soundsystem
+DSP Processed
+Room+Facing
+Main Output
+CAudioGraph::BuildGraphVMix
+Unaccounted
+CAudioGraph::BuildGraphVMix
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_mix.cpp
+soundsystem
+Bad command in vmix!
+CAudioGraph::OutputDebugInfo
+nMixes == pMix->m_debugOutputs.Count()
+MixAndOutput
+DeviceOutputBuffer
+SND_MouthUpdateAll
+rec.pSource
+out of voice sources, won't lipsync %s
+SND_MoveMouth8
+pSource->SampleRate() > 0
+Unaccounted
+CUtlMemory<struct mixstateentry_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct audio_source_input_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct audio_source_indexstate_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct voice_send_submix_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct send_operator_register_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<class CSubmix,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct graph_input_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct mix_debug_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct mouthoutput_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct mouthenvelope_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct graph_command_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<float,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+HCerror
+IsValid()
+snd_mixer_master_level
+snd_mixer_master_dsp
+snd_showclassname
+snd_list
+snd_disable_mixer_solo
+Default_Mix
+snd_soundmixer
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_mixgroups.cpp
+g_cgrouprules>0
+MXR_GetMixGroupListFromDirName
+(%s:%s) 
+localPlayer
+%s:%s: 
+MXR_GetMatchingMixGroups
+snd_disable_mixer_duck
+MXR_GetDuckVolume
+mixgroupid < g_cgrouprules
+mixgroupid >= 0 && mixgroupid < ARRAYSIZE(g_mapMixgroupidToGrouprulesid)
+Setting Mixer %s: MixGroup %s: %s : %f
+Error: MixGroup %s cannot be resolved!
+S_SetMixLayerTriggerFactor
+nMixLayerIndex != -1
+Error: MixGroup %s, in LayerTriggers cannot be resolved!
+Parameters: mix group name, [vol, mute, solo], value
+Set named Mixgroup of current mixer to mix vol, mute, solo.
+snd_setmixer
+Parameters: mix group name, layer name, [vol, mute, solo], value, amount
+Setting MixLayer %s
+Set named Mixgroup of named mix layer to mix vol, mute, solo.
+snd_setmixlayer
+Parameters: mixer name, mix amount
+Setting MixLayer %s : mix %f
+Set named mix layer mix amount.
+snd_soundmixer_setmixlayer_amount
+Parameters: mix layer name, mix group name, trigger amount
+Set named mix layer / mix group, trigger amount.
+snd_soundmixer_set_trigger_factor
+MXR_GetValuesFromMixGroupIndex
+imixgroup < CMXRGROUPMAX
+MXR_GetVolFromMixGroup
+MXR_GetVolFromMixGroup_src2
+MXR_AddClassname
+g_cgroupclass < CMXRCLASSMAX
+snd_soundmixer_version
+Reload soundmixers.txt file.
+snd_soundmixer_flush
+snd_soundmixer_parse_debug
+MixGroup %s:
+Error: Parsing soundmixers.txt, mixgroup rules incomplete!
+CHAN_STATIC
+CHAN_WEAPON
+CHAN_VOICE
+CHAN_BODY
+CHAN_ITEM
+Error: Parsing soundmixers.txt, soundmixer mix group values incomplete!
+Error: MixGroup %s, in SoundMixer %s, cannot be resolved!
+MixGroup %s: %f : %f : %f : %f : %f 
+MixLayer triggered %s:
+MXR_ParseLayerTriggers
+imixlayerid != -1
+Error: MixLayer Trigger entries require minimum 2 arguments
+scripts/soundmixers.txt
+Unable to load sound system data.
+Starting verification of Steam Game Cache.
+Retry launching after completion.
+MXR_LoadAllSoundMixers
+pbuffer
+Total Mix Groups Rules: %i
+Total Mix Layers: %i
+MixGroups
+Parsing MixGroups:
+SoundMixers
+Parsing SoundMixers:
+MixLayers
+Parsing MixLayers:
+LayerTriggers
+Parsing LayerTriggers:
+Error: Too many mix groups! MixGroup %s ignored
+Error: Too many sound mixers! SoundMixer %s ignored
+SoundMixer %s:
+Error: Too many mix layers! MixLayer %s ignored
+MixLayers %s:
+vol: %3.2f 
+lvl: %3.2f 
+dsp: %3.2f 
+solo: %3.2f 
+mute: %3.2f
+List all mixers to dev console.
+snd_soundmixer_list_mixers
+g_mastermixlayer:
+List all mix layers to dev console.
+snd_soundmixer_list_mix_layers
+List all mix groups to dev console.
+snd_soundmixer_list_mix_groups
+	VOL: %f
+	LVL: %f
+	DSP: %f
+	MUTE: %f
+	SOLO: %f
+Get data related to mix group matching string
+snd_getmixer
+SoundMixGroupSystem001
+VFileSystem017
+filesystem_stdio
+The soundmixgroupsystem system requires the filesystem to run!
+CSoundMixGroupSystem::Connect
+CUtlRBTree<struct CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short,class CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short,class CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short>,unsigned short> >::FreeNode
+IsValidIndex(i) && (i != InvalidIndex())
+Unaccounted
+CUtlMemory<struct grouplevels_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<class CLayerTrigger,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+CUtlRBTree<struct CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short,class CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short,class CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short>,unsigned short> >::RemoveAll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class SoundEventGuid_t,class CSndMixGroupTrigger_t,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+NULL m_pSfx
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_mp3_source.cpp
+Unaccounted
+CUtlMemory<int,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Spew message to console any time async sound loading blocks on file i/o.
+snd_async_spew_blocking
+Spew streaming info ( 0=Off, 1=streams, 2=buffers
+snd_async_stream_spew
+Spew stream pool failures.
+snd_async_stream_fail
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_wave_data.cpp
+CAsyncWaveData::GetFileName
+CAsyncWaveData::CreateResource
+CAsyncWaveData::AsyncCallback
+pObject
+%f Async I/O Read successful %s (%8.2f msec)
+BlockingGetDataPointer
+CAsyncWaveData::BlockingGetDataPointer
+%f BlockingGetDataPointer:  Async I/O Force %s (%8.2f msec / %8.2f msec total )
+%f Async I/O Bumped priority for %s (%8.2f msec)
+CAsyncWaveData::StartAsyncLoading
+!m_bLoaded
+!m_hAsyncControl
+CAsyncWavDataCache::AsyncLoadCache
+Unaccounted
+CAsyncWavDataCache::AsyncLoadCache
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_wave_data.cpp
+soundsystem
+idx != m_CacheHandles.InvalidIndex()
+CAsyncWavDataCache::GetDataPointer
+Unaccounted
+CAsyncWavDataCache::GetDataPointer
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_wave_data.cpp
+soundsystem
+pbPostProcessed
+CAsyncWavDataCache::IsDataLoadCompleted
+Unaccounted
+CAsyncWavDataCache::IsDataLoadCompleted
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_wave_data.cpp
+soundsystem
+CAsyncWavDataCache::SpewMemoryUsage
+	%16.16s : %s (%d)
+not resident
+	%16.16s : %s
+CAsyncWavDataCache:  %i sounds total %s, %.2f %% of capacity
+Flush all unlocked async audio data
+snd_async_flush
+Show async memory stats
+snd_async_showmem
+Show brief async memory stats
+snd_async_showmem_summary
+Show async memory stats for just non-streamed music
+snd_async_showmem_music
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\simpledatacache.h
+CSimpleDataCache<class CAsyncWaveData,struct asyncwaveparams_t>::DestroyByIndex
+m_table[nIndex].m_nLockCount == 0
+CSimpleDataCache<class CAsyncWaveData,struct asyncwaveparams_t>::IndexToHandle
+m_table[nIndex].m_pObject
+CUtlRBTree<struct CAsyncWavDataCache::CacheEntry_t,int,bool (__cdecl*)(struct CAsyncWavDataCache::CacheEntry_t const &,struct CAsyncWavDataCache::CacheEntry_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CAsyncWavDataCache::CacheEntry_t,int>,int> >::Find
+CUtlRBTree<struct CAsyncWavDataCache::CacheEntry_t,int,bool (__cdecl*)(struct CAsyncWavDataCache::CacheEntry_t const &,struct CAsyncWavDataCache::CacheEntry_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CAsyncWavDataCache::CacheEntry_t,int>,int> >::RemoveAll
+CUtlRBTree<struct CAsyncWavDataCache::CacheEntry_t,int,bool (__cdecl*)(struct CAsyncWavDataCache::CacheEntry_t const &,struct CAsyncWavDataCache::CacheEntry_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CAsyncWavDataCache::CacheEntry_t,int>,int> >::FindInsertionPosition
+CUtlRBTree<struct CAsyncWavDataCache::CacheEntry_t,int,bool (__cdecl*)(struct CAsyncWavDataCache::CacheEntry_t const &,struct CAsyncWavDataCache::CacheEntry_t const &),class CUtlMemory<struct UtlRBTreeNode_t<struct CAsyncWavDataCache::CacheEntry_t,int>,int> >::NewNode
+Unaccounted
+CUtlMemory<struct CSimpleDataCache<class CAsyncWaveData,struct asyncwaveparams_t>::cache_table_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CAsyncWavDataCache::CacheEntry_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_wave_mixer.cpp
+CreateWaveMixer
+CalcSampleSize(bits, channels) == pMixer->GetMixSampleSize()
+CAudioMixerWave::SetSampleStart
+CAudioMixerWave::AddDelaySamplesToPacket
+m_mixerData.m_indexState.m_nPacketIndex == 0
+m_mixerData.m_indexState.m_nBufferSampleOffset == 0
+m_nDelaySamples > 0
+Unaccounted
+CUtlMemory<struct audio_buffer_input_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_wave_mixer_adpcm.cpp
+CAudioMixerWaveADPCM::CAudioMixerWaveADPCM
+m_blockSize < MAX_BLOCK_SIZE
+Incorrect sampling rate in %s (mp3 frames are at %dHz, .vsnd file has %dHz)
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_wave_mixer_mp3.cpp
+CAudioMixerWaveMP3::FreeBuffer
+nOffset < Q_ARRAYSIZE(m_bufferSpace)
+( nOffset % MP3_BUFFER_SIZE ) == 0
+m_nFreeBufferCount < MP3_BUFFER_COUNT
+Sampling rate error on %s. Header: %d, mp3: %d
+CAudioMixerWaveMP3::UpdateMixerState
+m_mixerData.m_nSamplingRate == (uint)m_pStream->GetOutputRate()
+snd_async_minsize
+Prefetch common sounds from directories specified in scripts/sound_prefetch.txt
+snd_prefetch_common
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_wave_source.cpp
+CAudioMixerData::GetSampleFormat
+m_nFormat == AUDIO_FORMAT_8BIT_INT || m_nFormat == AUDIO_FORMAT_16BIT_INT
+m_nChannels == 2
+CAudioSourceCached::~CAudioSourceCached
+!m_bCacheLock
+CanDelete()
+CAudioSourceCached::ReferenceRemove
+m_nRefCount >= 0
+CAudioSourceCached::LockCache
+m_nRefCount
+CAudioSourceCached::UnlockCache
+m_hCache != 0
+m_nRefCount == 0
+CAudioSourceCached::CacheLoad
+CAudioSourceCached::CacheUnload
+m_pData == nullptr
+ConvertSamples
+CAudioSourceCached::GetDataPointer
+m_nRefCount > 0
+m_bCacheLock
+CAudioSourceMemWave::GetOutputData
+CAudioSourceMemWave::ZeroCrossingAfter
+pWaveData
+CAudioSourceMemWave::UpdateMixerData
+CreateWave
+Bad Audio file '%s'
+Missing wav file '%s'
+WaveFixupTmpFile( '%s' ) failed to open file for editing
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_wave_temp.cpp
+S_CopyFile
+Fixup corrupted .wav file if engine crashed during startmovie/endmovie, etc.
+movie_fixwave
+Usage: movie_fixwave wavname
+movie_fixwave: File '%s' does not exist
+Copying '%s' to '%s'
+Performing fixup on '%s'
+Reference distance for snd_refdb
+snd_refdist
+Reference dB at snd_refdist
+snd_refdb
+foliage dB loss per 1200 units
+snd_foliage_db_loss
+snd_gain
+snd_gain_max
+snd_gain_min
+CSosFieldData::AllocateData
+m_nAllocSize == 0 || m_nAllocSize == nDataSize
+nDataSize > 0
+m_pData
+CSosFieldData::CopyData
+pDataBuf
+Unaccounted
+CUtlMemory<class CSoundEventStackParamInfo,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<class CUtlSymbol,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+invalid stack
+CSoundEvent: %s
+Stack: %s
+Fields:
+public.
+Event Data: %i
+%s: %s (%i : %i)
+Event VSNDS:
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\soundevent.cpp
+CSoundEvent::GetFieldSelectionBits
+Overflowed selection bits record for sound event %s (field name %s)
+Usage:  snd_print_soundevent <soundeventname>
+Unable to find soundevent: %s
+Print the data associated with the specified soundevent.
+snd_print_soundevent
+List all available soundevents
+snd_list_soundevents
+List all available soundevents using specified stack name
+snd_list_soundevents_by_stack
+ToolsStartup
+soundevents/soundevents_manifest_tools.vrman
+GameStartup
+soundstacks/soundstacks_manifest.vrman
+soundevents/soundevents_manifest.vrman
+operator_stacks
+update_stack
+reference_operator
+reference_stack
+CVSoundEventScriptTypeManager::ProcessSoundEvent:  %s unable to get referenced stack %s. Soundevent deleted and removed.
+operator_variables
+field_override
+data_type
+CVSoundEventScriptTypeManager::ProcessSoundEvent: %s unable to find field name %s either in public or event data on stack %s.
+CVSoundEventScriptTypeManager::ProcessSoundEvent
+nBaseDataSize < 0xFFFF
+nTotalEventFieldMem < 4095
+pFieldMem
+pEventFieldMem
+CVSoundEventScriptTypeManager::AddSoundEvents:  %s has no operator stacks. SoundEvent deleted and removed.
+CVSoundEventScriptTypeManager::AddSoundEvent event with empty name
+CVSoundEventScriptTypeManager::AddSoundEvent:  %s has a hash collision with existing %s
+CVSoundEventScriptTypeManager::AddSoundEvents event with empty name
+CVSoundEventScriptTypeManager::GetSoundEvent unable to get event by hash %i
+CVSoundEventScriptTypeManager::GetSoundEvent unable to get event by name %s
+CVSoundEventScriptTypeManager::GetSoundEventSosKV unable to get event by hash %i
+CVSoundEventScriptTypeManager::GetSoundEventSosKV unable to get event by name %s
+CVSoundEventScriptTypeManager::GetSoundEventUpdateStackHash unable to get event by hash %i
+CVSoundEventScriptTypeManager::GetSoundEventUpdateStackHash unable to get event by name %s
+CVSoundEventScriptTypeManager::GetSoundEventStackParamInfoVector unable to get event by hash %i
+CVSoundEventScriptTypeManager::GetSoundEventStackParamInfoVector unable to get event by name %s
+CVSoundEventScriptTypeManager::GetSoundEventFieldData unable to get event by hash %i
+CVSoundEventScriptTypeManager::GetSoundEventFieldData unable to get event by name %s
+CSoundEmitterSystemBase::UpdateSoundEvents event with empty name
+Unaccounted
+CUtlMemory<class CUtlKeyValuePair<unsigned int,struct soundevent_field_info_t>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<char const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+RESOURCE_TYPE_SOUND
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\soundsystem\lowlevel.h
+audio_device_init_params_t::OverrideSpeakerConfig
+nSpeakerConfig >= 0 && nSpeakerConfig < 8
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\iresourcesystem.h
+IResourceTypeManager::GetNonStreamingDataLoadSize
+IResourceTypeManager::LoadStreamingData
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\lowlevel\mix.h
+SoundSystem
+snd_mute_losefocus
+speaker_config
+ID of the sound device to use
+sound_device_override
+SoundSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\soundsystem.cpp
+WARNING: Invalid vsnd version '%d' for file: %s
+VSND::HandleResourceDataBlockingLoad
+CVSoundTypeManager::HandleResourceDataBlockingLoad
+CSoundSystem::InitSoundSystem
+!g_pSoundServices
+ResourceSystemProtectedV001
+ResourceSystem009
+resourcesystem
+CSoundSystem::RecordStartSoundEvent
+m_bIsRecordingSoundEvents
+CSoundSystem::RecordStopSoundEvent
+CSimpleFilter::InitFilter
+m_nChannels <= 8
+CSimpleFilter::Process
+nChannelCount == m_nChannels
+CSimpleFilter::SetParameter
+CSimpleFilter::GetParameter
+-directsound
+-sdlaudio
+#OS_Default_Device
+-debugsoundqueue
+ProcessAsyncSoundQueue
+Queue took %f msec to drain
+CSoundSystem::ProcessAsyncSoundQueue
+!pSfx->m_bManifestLoadFailed
+!pSfx->m_bManifestLoadAttempted
+Queue sound '%s'
+AsyncSoundQueue
+CSoundSystem::SoundStartQueued
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlstringmap.h
+CUtlStringMap<char const *,class CUtlSymbolTable>::operator []
+n <= m_Vector.Count()
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utllinkedlist.h
+CUtlLinkedList<struct CSoundSystem::AsyncSoundQueue_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CSoundSystem::AsyncSoundQueue_t,unsigned short>,unsigned short> >::RemoveAll
+m_Head == InvalidIndex()
+m_Tail == InvalidIndex()
+m_ElementCount == 0
+CUtlLinkedList<struct CSoundSystem::AsyncSoundQueue_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CSoundSystem::AsyncSoundQueue_t,unsigned short>,unsigned short> >::Free
+IsValidIndex(elem) && IndexInRange( elem )
+CUtlLinkedList<struct CSoundSystem::AsyncSoundQueue_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CSoundSystem::AsyncSoundQueue_t,unsigned short>,unsigned short> >::LinkBefore
+IsValidIndex(elem)
+IsInList(before)
+CUtlLinkedList<struct CSoundSystem::AsyncSoundQueue_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CSoundSystem::AsyncSoundQueue_t,unsigned short>,unsigned short> >::Unlink
+CUtlLinkedList<struct CSoundSystem::AsyncSoundQueue_t,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<struct CSoundSystem::AsyncSoundQueue_t,unsigned short>,unsigned short> >::AllocInternal
+!multilist || ML
+m_Memory.IsValidIterator( m_LastAlloc ) || m_ElementCount == 0
+m_Memory.IsValidIterator( it )
+CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList overflow! (exhausted index range)
+Unaccounted
+CUtlMemory<struct audio_device_description_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct EventStartSound_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct EventStopSound_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<class CSfxTable *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct UtlLinkedListElem_t<struct CSoundSystem::AsyncSoundQueue_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct mix_debug_outputs_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\bitvec.h
+voice_scale
+voice_loopback
+voice_fadeouttime
+voice_threshold_delay
+voice_threshold
+voice_gain_rate
+voice_gain_downward_multiplier
+voice_gain_target
+voice_gain_max
+voice_overdrive
+voice_overdrivefadetime
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\voice.cpp
+CAudioSource_PlayerVoiceStream::CAudioSource_PlayerVoiceStream
+m_nSampleSize == 16
+(m_nEntityIndex.GetRaw() > 0) && (m_nEntityIndex.GetRaw() <= g_UsedEntIndices.GetNumBits()) && !g_UsedEntIndices.IsBitSet( m_nEntityIndex.GetRaw() - 1 )
+CAudioSource_PlayerVoiceStream::~CAudioSource_PlayerVoiceStream
+(m_nEntityIndex.GetRaw() > 0) && (m_nEntityIndex.GetRaw() <= g_UsedEntIndices.GetNumBits()) && g_UsedEntIndices.IsBitSet( m_nEntityIndex.GetRaw() - 1 )
+CAudioSource_PlayerVoiceStream::AppendData
+nSampleRate == m_nSampleRate
+CAudioSource_PlayerVoiceStream::SetEntityIndex
+(nNewIndex.GetRaw() > 0) && (nNewIndex.GetRaw() <= g_UsedEntIndices.GetNumBits()) && !g_UsedEntIndices.IsBitSet( nNewIndex.GetRaw() - 1 )
+CAudioSource_PlayerVoiceStream::FillPacket
+( nAdditionalNeeded + nSamplesGotten + nSamplesToDuplicate ) == VOICE_PACKET_SAMPLE_COUNT
+sounds/CPlayerVoiceStream_%llu.vsnd
+Dropping Voice data (%d bytes)
+CBitVecT<class CFixedBitVecBase<64> >::IsBitSet
+bitNum >= 0 && bitNum < this->GetNumBits()
+CBitVecT<class CFixedBitVecBase<64> >::Set
+CBitVecT<class CFixedBitVecBase<64> >::Clear
+Unaccounted
+CUtlMemory<class CAudioSource_PlayerVoiceStream *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+!	@true
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlvector.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\soundsystem\isoundopsystem.h
+CSosFieldDataBool::Init
+g_pSoundOpSystem->GetFieldTypeSize( SOFTYPE_BOOL ) == sizeof( float )
+CSosFieldDataUInt64::Init
+g_pSoundOpSystem->GetFieldTypeSize( SOFTYPE_UINT64 ) == sizeof( uint64 )
+CSosFieldDataFloat::Init
+g_pSoundOpSystem->GetFieldTypeSize( SOFTYPE_FLOAT ) == sizeof( float )
+CSosFieldDataVsnd::Init
+g_pSoundOpSystem->GetFieldTypeSize( SOFTYPE_VSND ) == sizeof( vsnds_id_t )
+CSosFieldDataToken::Init
+g_pSoundOpSystem->GetFieldTypeSize( SOFTYPE_TOKEN ) == sizeof( uint32 )
+Unaccounted
+CUtlMemory<char *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<enum PropEdIndirectionType_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\fmtstr.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\soundsystem\isoundopsystemedit.h
+CSosEditItem::GetEnumValueFromName
+SoundOpSystemEdit001
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_edit.cpp
+CSosEdit::SoFieldTypeToPropEdFieldType
+operator_override
+On Start
+On Update
+On Stop
+On Prestart
+start_stack
+stop_stack
+prestart_stack
+CSosEdit::EditGetStackTypeName
+unknown stack type
+sos_import_stack
+sos_reference_stack
+CSosEdit::GetFieldMap
+CSosEdit::GetFieldList
+CSosEdit::EditGetOperatorFieldValue
+CSosEdit::GetFullArrayDefaultString
+IsArrayType(pSosInfo) && !pSosInfo->IsAtomicDataType( SO_STRING )
+CSosEdit::EditMakeOperatorFieldString
+empty_string_temp
+CSosEdit::EditMakeOperatorFieldStringElement
+operator
+CSosEdit::GetNewOperatorFieldInfoList
+pInputs
+pOutputs
+pParams
+CSosEdit::GetOperatorOverrideFieldInfo
+import_stack
+util_null
+CSosEdit::GetOperatorFieldInfo
+CSosEdit::InitSosEditItemFromFieldInfo
+SndToolHelp
+Attribute.%s.%s
+Outputs
+Parameters
+Variables
+output_
+_notoken_
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+CFmtStrN<256,0>::CFmtStrN
+FmtStrVSNPrintf truncated without QUIET_TRUNCATION specified!
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::Find
+Unaccounted
+CUtlMemory<struct SosEditItemInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct SosOpFieldInfo_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<class CSosEditItem,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Match Event Name: %s
+Match SubString ?: %s
+Match Event Type: %i
+Match Entity Index: %i
+Match Event Hash: %i
+Timed ?: %s
+Duration: %f
+StartTime: %f
+StopTime: %f
+CurTime: %f
+Active ?: %s
+Free ?: %s
+Spew data about the list of block entries.
+snd_sos_show_block_debug
+snd_sos_show_entry_match_free
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_entry_match_system.cpp
+CSosEntryMatchList::Update
+!m_vEntryMatchList[i].m_bFree
+FREEING MATCH ENTRY:
+CSosEntryMatchList::GetFreeEntryIndex
+m_Free & bit
+CSosEntryMatchList::GetEntryFromIndex
+IsValidIndex( nIndex )
+CSosEntryMatchList::HasAMatch
+CSosEntryMatchList::UpdateSoundEventViewer
+---invalid event---
+Unaccounted
+CUtlMemory<struct vcon_SoundViewerBlockItem_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+SndOperators
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op.cpp
+CSosOperator::CSosOperator
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_FLOAT
+input_execute
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_BOOL
+execute_once
+Stack Shutdown: Stack: %s : Operator: %s
+%*s%s: 
+*SoundEvent Data*
+no stack mem
+(connected: %s %i )
+%dOffset: %i
+%*sName: %s
+%*sNameSpace: %s
+%*sName: %s
+Unaccounted
+CUtlMemory<struct SosOpFieldInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_block_entry.cpp
+CSosOperatorBlockEvents::CSosOperatorBlockEvents
+input_duration
+input_active
+input_entity_index
+input_event_type
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_STRING_64
+match_event_name
+match_substring
+match_this_event
+soundevent_block
+Error: Operator %s, EntryMatchList has no free slots!
+CSosOperatorBlockEvents::Execute
+pSosEntryMatch->MustMatchEntIndex()
+ERROR: sound event %s operator %s
+CSosOperatorBlockTest::CSosOperatorBlockTest
+event_name
+exit_if_blocked
+output_is_blocked
+soundevent_block_test
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+snd_op_test_convar
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_convar.cpp
+CSosOperatorSetConvar::CSosOperatorSetConvar
+convar_set
+CSosOperatorSetConvar
+Error: Event %s: %s
+Warning: Unable to set convar value: %s
+CSosOperatorConvar::CSosOperatorConvar
+convar_get
+CSosOperatorConvar
+Warning: Unable to acquire convar value: %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_delta.cpp
+CSosOperatorDelta::CSosOperatorDelta
+math_delta
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_distant_dsp.cpp
+CSosOperatorDistantDSP::CSosOperatorDistantDSP
+input_distance
+input_level
+calc_distant_dsp
+MASK_WATER
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_entity_info.cpp
+CSosOperatorEntityInfo::CSosOperatorEntityInfo
+output_success
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_FLOAT_3
+output_position
+output_position_x
+output_position_y
+output_position_z
+output_entity_is_player
+output_is_selected_by_local_player
+output_angles
+output_velocity_vector
+output_velocity_vector_x
+output_velocity_vector_y
+output_velocity_vector_z
+output_velocity
+output_velocity_xy
+input_default_world_position
+input_default_local_position
+use_world_position
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_TOKEN
+attachment
+game_entity_info
+CSosOperatorEntityInfo::Execute
+bWorldPositionIsValid
+CSosOperatorPointContents::CSosOperatorPointContents
+input_position
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_ENUM
+mask_type
+game_get_point_contents
+CSosOperatorDotaGroundUnderWater::CSosOperatorDotaGroundUnderWater
+dota_ground_under_water
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_falloff.cpp
+CSosOperatorFalloff::CSosOperatorFalloff
+input_folliage_loss
+calc_falloff
+CSosOperatorFalloffVR::CSosOperatorFalloffVR
+input_near_min
+input_near_max
+input_distant_min
+input_distant_max
+input_distant_exp
+input_tail_min
+input_tail_max
+calc_falloff_vr
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_filters.cpp
+CSosOperatorFloatFilter::CSosOperatorFloatFilter
+input_max_velocity
+math_filter_float
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_iterate_merge_speakers.cpp
+CSosOperatorIterateAndMergeSpeakers::CSosOperatorIterateAndMergeSpeakers
+iterate_operator
+input_max_iterations
+output_index
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_FLOAT_MAX_SPEAKERS
+iterate_merge_speakers
+greater_than
+less_than
+greater_than_or_equal
+less_than_or_equal
+not_equal
+invert_scale
+distance
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_math.cpp
+CSosOperatorFunc1::CSosOperatorFunc1
+function
+normalize_trig
+math_func_float
+CSosOperatorFloat::CSosOperatorFloat
+math_float
+CSosOperatorVec3::CSosOperatorVec3
+output_float
+math_float3
+CSosOperatorString64::CSosOperatorString64
+math_string64
+CSosOperatorSpeakers::CSosOperatorSpeakers
+math_speakers
+left_front
+right_front
+left_rear
+right_rear
+CSosOperatorSpeakers
+Error: Operator %s, unknown sound operator attribute %s
+CSosOperatorFloatAccumulate12::CSosOperatorFloatAccumulate12
+input10
+input11
+input12
+math_accumulate12_float
+CSosOperatorFloatAccumulate12
+Error: %s : Math expression type not currently supported in sound operator math_accumulate12_float
+CSosOperatorDistance::CSosOperatorDistance
+input_position1
+input_position2
+calc_distance
+CSosOperatorPointOnLine::CSosOperatorPointOnLine
+calc_segment
+output_pos
+input_pos
+input_line_start
+input_line_end
+calc_closest_point_on_line
+CSosOperatorRemapValue::CSosOperatorRemapValue
+input_min
+input_max
+input_map_min
+input_map_max
+clamp_range
+default_to_max
+math_remap_float
+CSosOperatorCurve4::CSosOperatorCurve4
+input_X1
+input_Y1
+input_X2
+input_Y2
+input_X3
+input_Y3
+input_X4
+input_Y4
+curve_type
+math_curve_2d_4knot
+CSosOperatorFacing::CSosOperatorFacing
+input_angles
+input_listener_position
+input_source_position
+calc_angles_facing
+CSosOperatorRandom::CSosOperatorRandom
+round_to_int
+math_random_float
+CSosOperatorRandomizeFloat::CSosOperatorRandomizeFloat
+input_rand_min
+input_rand_max
+math_randomize_float
+CSosOperatorRandomFloat3::CSosOperatorRandomFloat3
+input_radius_min
+input_radius_max
+math_random_float3
+CSosOperatorLogicSwitch::CSosOperatorLogicSwitch
+input_switch
+ctrl_switch_float
+CSosOperatorLogicSwitch3Float::CSosOperatorLogicSwitch3Float
+input_index
+input_switch_offset
+ctrl_switch3_float
+CSosOperatorLogicSwitchFloat3::CSosOperatorLogicSwitchFloat3
+ctrl_switch_float3
+CSosOperatorLogicSwitch3Float3::CSosOperatorLogicSwitch3Float3
+ctrl_switch3_float3
+CSosOperatorVelocity::CSosOperatorVelocity
+math_velocity
+CSosOperatorInRangeFloat::CSosOperatorInRangeFloat
+math_inrange_float
+CSosOperatorMathAverage8::CSosOperatorMathAverage8
+input_count
+math_average8_float
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_mixer.cpp
+CSosOperatorMixGroup::CSosOperatorMixGroup
+output_volume
+output_level
+output_dsp
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_FLOAT_8
+output_mixgroups
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_VSND
+input_vsnd
+input_class_name
+input_is_player
+input_soundlevel
+mixgroup
+soundmixer_get_mixgroup
+CSosOperatorMixGroup
+Error: Unable to find mixgroup for filepath %s
+%*smixgroup: %s
+CSosOperatorMixTrigger::CSosOperatorMixTrigger
+input_trigger
+input_mixgroups
+soundmixer_set_trigger
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_mixlayer.cpp
+CSosOperatorMixLayer::CSosOperatorMixLayer
+mixlayer
+soundmixer_set_mixlayer
+Error: MixLayer operator has invalid mix group index!
+Error: MixLayer operator has invalid mix layer index!
+Warning: Failed to get mix layer %s!
+CSosOperatorMixLayer
+Error: Failed to get mix group %s!
+CSosOperatorMixLayerAmount::CSosOperatorMixLayerAmount
+soundmixer_set_mixlayer_amount
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_occlusion.cpp
+CSosOperatorOcclusion::CSosOperatorOcclusion
+input_radius
+input_trace_interval
+input_scalar
+occlusion_db_loss
+calc_occlusion_src1
+forward
+backward
+random_exclusive
+random_weighted
+CSosFieldDataFloat3::Init
+g_pSoundOpSystem->GetFieldTypeSize( SOFTYPE_FLOAT_3 ) == (sizeof( float ) * 3)
+%s::Execute: Can't find operator stack %s in %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_opvar.cpp
+CSosOperatorGetOpVarInfo::CSosOperatorGetOpVarInfo
+output_element_count
+output_opvar_exists
+input_stack_name
+input_operator_name
+input_field_name
+input_use_namespace
+input_get_parent
+check_event_data
+weights_field_name
+opvar_get_info
+CSosOperatorGetOpVarInfo
+CSosOperatorSetOpVarFloat::CSosOperatorSetOpVarFloat
+opvar_set_float
+CSosOperatorGetOpVarFloat::CSosOperatorGetOpVarFloat
+array_selection_type
+input_clear_selection
+opvar_get_float
+CSosOperatorGetOpVarFloat
+CSosOperatorIncrementOpVarFloat::CSosOperatorIncrementOpVarFloat
+opvar_increment_float
+CSosOperatorIncrementOpVarFloat
+CSosOperatorSetOpVarFloat3::CSosOperatorSetOpVarFloat3
+opvar_set_float3
+CSosOperatorSetOpVarFloat3
+CSosOperatorGetOpVarFloat3::CSosOperatorGetOpVarFloat3
+opvar_get_float3
+CSosOperatorGetOpVarFloat3
+CSosOperatorSetOpVarString::CSosOperatorSetOpVarString
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_STRING_256
+opvar_set_string
+CSosOperatorSetOpVarString
+CSosOperatorGetOpVarString::CSosOperatorGetOpVarString
+opvar_get_string
+CSosOperatorGetOpVarString
+CSosOperatorGetOpVarVsnd::CSosOperatorGetOpVarVsnd
+opvar_get_vsnd
+invalid_vsnd
+CSosOperatorGetOpVarVsnd
+CSosOperatorGetOpVarArrayIndex::CSosOperatorGetOpVarArrayIndex
+output_opvar_elements
+opvar_get_random_array_index
+CSosOperatorGetOpVarArrayIndex
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_pos_vec8.cpp
+CSosOperatorPosVec8::CSosOperatorPosVec8
+output_max_index
+input_entry_count
+input_position_0
+input_position_1
+input_position_2
+input_position_3
+input_position_4
+input_position_5
+input_position_6
+input_position_7
+util_pos_vec8
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_sms.cpp
+CSosOperatorPlayVSnd::CSosOperatorPlayVSnd
+input_start
+input_speaker_volumes
+input_fade_out
+input_pitch
+input_delay
+input_memory_type
+input_restart_time
+output_vsnd_finished
+output_vsnd_playing
+output_vsnd_looping
+vmix_start_vsnd
+vmix_start_vsnd has empty vsnd string
+CSosOperatorSubmix::CSosOperatorSubmix
+submix_name
+send_type
+vmix_submix_send
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_sos.cpp
+CSosOperatorImportStack::CSosOperatorImportStack
+CSosOperatorReferenceStack::CSosOperatorReferenceStack
+CSosOperatorStackControl::CSosOperatorStackControl
+input_stop
+input_add_dependent
+input_clear_dependencies
+soundevent_control
+CSosOperatorGoTo::CSosOperatorGoTo
+input_goto_end
+input_goto_head
+pFieldData.GetBaseDataTypeDef()->m_nSOFDataType == SOFTYPE_STRING_128
+input_goto_operator
+output_goto_count
+sos_goto
+CSosOperatorStackInfo::CSosOperatorStackInfo
+output_elapsed_time
+output_host_elapsed_time
+output_stopped
+output_unstopped
+output_stop_elapsed_time
+output_dependencies
+soundevent_name
+stopped_includes_dependencies
+soundevent_get_info
+soundevent_set_info
+CSosOperatorGlobals::CSosOperatorGlobals
+input_listener_index
+output_listener_is_underwater
+output_listener_position
+output_listener_forward
+output_listener_left
+output_listener_up
+output_listener_front
+output_listener_count
+output_snd_gain_convar
+output_snd_musicvolume_convar
+output_snd_gamesound_convar
+output_snd_gamevoice_convar
+get_system_globals
+snd_sos_show_source_info
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_source_info.cpp
+CSosOperatorSourceInfo::CSosOperatorSourceInfo
+output_entity_index
+output_entity_classname
+game_get_source_info
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_spatialize.cpp
+CSosOperatorSpatializeSpeakers::CSosOperatorSpatializeSpeakers
+input_master_volume
+input_rear_stereo_scale
+input_listener_left
+calc_spatialize_speakers
+CSosOperatorSpatializeVR::CSosOperatorSpatializeVR
+input_size
+input_spread_min
+input_spread_max
+input_spread_max_value
+input_spread_min_value
+input_listener_forward
+input_listener_up
+normalize_spread
+output_rear
+output_below
+output_above
+calc_spatialize_VR
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlleanvector.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_start_soundevent.cpp
+CSosOperatorStartSoundEvent::CSosOperatorStartSoundEvent
+input_use_parent_seed
+input_spawn_oneshots
+input_update_opvar_args
+pass_opvar_args
+spawn_orphans
+econ_replacement
+output_event_finished
+soundevent_start
+Error: Invalid SoundEvent Hash %i from entry %s
+nullfield
+Warning: sos_start_soundevent unable to read opvar %s for passing from event %s
+%*sSoundEvent Hash: %d
+snd_sos_show_operator_stop_entry
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_stop_soundevents.cpp
+CSosOperatorStopSoundEvents::CSosOperatorStopSoundEvents
+input_max_events
+match_event_type
+match_entity
+stop_oldest
+invert_match
+output_events_matching
+soundevent_limiter
+CSosOperatorStopSoundEvents::Execute
+sosEntryMatch.MustMatchSoundeventHash()
+event_type
+%*s(%08x):Stopping: %s (%08x) : elapsed time: %.2fs
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_timers.cpp
+CSosOperatorTimer::CSosOperatorTimer
+input_pause
+util_timer
+CSosOperatorTimerRamp::CSosOperatorTimerRamp
+input_start_value
+input_end_value
+input_force_start_value
+input_force_end_value
+util_timer_ramp
+CSosOperatorIntervalTimer::CSosOperatorIntervalTimer
+output_interval_elapsed
+output_interval_not_elapsed
+input_interval
+util_interval_timer
+snd_sos_show_queuetotrack
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_tracks.cpp
+CSosOperatorQueueToTrack::CSosOperatorQueueToTrack
+input_track_name
+input_sync_track_name
+input_sync_field_name
+input_priority
+priority_override
+block_equal_priority
+track_queue
+public.start_point
+public.end_point
+CSosOperatorStopTrack::CSosOperatorStopTrack
+track_stop
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_op_util.cpp
+CSosOperatorFloatToSpeakers::CSosOperatorFloatToSpeakers
+util_float_to_speakers
+CSosOperatorFloat3ToFloat::CSosOperatorFloat3ToFloat
+output_0
+output_1
+output_2
+util_elements_float3
+CSosOperatorFloatToFloat3::CSosOperatorFloatToFloat3
+input_0
+input_1
+input_2
+util_pack_float3
+CSosOperatorPrintFloat::CSosOperatorPrintFloat
+util_print_float
+SOS PRINT FLOAT: %s: %f
+CSosOperatorPrintFloat3::CSosOperatorPrintFloat3
+util_print_float3
+SOS PRINT FLOAT3: %s: %f, %f, %f
+CSosOperatorPrintString::CSosOperatorPrintString
+util_print_string
+SOS PRINT STRING: %s: %s
+CSosOperatorPrintVsnd::CSosOperatorPrintVsnd
+util_print_vsnd
+SOS PRINT STRING: %s: %s
+string_token
+float_max_speakers
+string64
+string128
+string256
+float_positive
+float_distance
+float_size
+float_attenuation
+float_trig
+float_scale2
+decibel
+decibel_atten
+decibel_level
+entity_index
+CUtlBuffer::GetVarInt
+HSoundEventScript
+RESOURCE_TYPE_SOUNDEVENTSCRIPT
+HSoundStackScript
+RESOURCE_TYPE_SOUNDSTACKSCRIPT
+<unknown>
+CSosPackedFieldData::AddOrReplace
+!IsReadOnly()
+m_data.TellPut() + fieldData.GetAllocSize() < UINT16_MAX
+CSosFieldDataInt::Init
+g_pSoundOpSystem->GetFieldTypeSize( SOFTYPE_INT ) == sizeof( int )
+CSosFieldDataFloat2::Init
+g_pSoundOpSystem->GetFieldTypeSize( SOFTYPE_FLOAT_2 ) == (sizeof( float ) * 2)
+CSosFieldDataFloat4::Init
+g_pSoundOpSystem->GetFieldTypeSize( SOFTYPE_FLOAT_4 ) == (sizeof( float ) * 4)
+CSosFieldDataFloat6::Init
+g_pSoundOpSystem->GetFieldTypeSize( SOFTYPE_FLOAT_6 ) == (sizeof( float ) * 6)
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\soundevent.h
+CVSoundEventScriptTypeManager::GetSoundDuration
+CVSoundEventScriptTypeManager::GetVSndNameForSoundEvent
+%s allocation count overflow
+CUtlLeanVectorImpl<class CUtlLeanVectorFixedGrowableBase<struct CSosPackedFieldData::Entry_t,3,short>,struct CSosPackedFieldData::Entry_t,short>::AddToTailGetPtr
+CBaseIntrospectedTypeManager:  Missing TYPEMETA MDiskDataForResourceType
+CDefaultIntrospectedTypeManager<8319404589508883318,struct VSoundEventScript_t>::Init
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcefile\introspectedtypemanager.h
+CBaseIntrospectedTypeManager:  Bindings don't match.
+CUtlLeanVectorFixedGrowableBase<struct CSosPackedFieldData::Entry_t,3,short>::EnsureCapacity
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_system.h
+CSosOperatorSystem::IsValidFieldDataType
+uint( nType ) < g_nSosBaseDataTypesCount
+CSosOperatorSystem::GetBaseDataType
+IsValidFieldDataType( nDataType )
+snd_sos_show_operator_init
+snd_sos_show_operator_start
+snd_sos_show_operator_prestart
+snd_sos_show_operator_updates
+snd_sos_show_operator_shutdown
+snd_sos_show_operator_parse
+snd_sos_list_operator_updates
+snd_sos_show_operator_event_filter
+snd_sos_show_operator_operator_filter
+snd_sos_show_operator_not_executing
+snd_sos_show_operator_event_and_stack
+snd_sos_show_operator_field_filter
+snd_sos_print_full_field_info
+snd_sos_show_soundevent_param_overwrite
+SoundEvent_error
+Type Name: %s
+Field Type: %i
+Atomic Type: %i
+Data Count: %i
+Data Size: %i
+Interp Type: %i
+Interp Min: %f
+Interp Max: %f
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_system.cpp
+SosOpFieldInfo_t::SetValue
+pStackMem
+SosOpFieldInfo_t::SetValue: index %i out of range on %s
+SosOpFieldInfo_t::GetValue: index %i out of range on %s
+SosOpFieldInfo_t::ValueToString: Unable to find ENUM match for %i on %s
+ERROR: missing enum name!
+SosOpFieldInfo_t::ValueToString: Unable to find ENUM tokenset on %s
+ERROR: missing enum tokenset!
+%s %llu
+%s, UNKNOWN %i 
+Operator Field: %s
+Operator Index: %i
+Element Count: %i
+Value Operator Offset: %i
+Value Stack Offset: %i
+Connection Offset: %i
+Tokenset: %p
+Default: %s
+Total Size: %i
+Operator Field: %s = 
+CSosOperatorStack::CSosOperatorStack
+m_pStack
+m_pOperatorMap
+m_pOperatorFieldMap
+pStackList
+CSosOperatorStack::ImportMembers: Importing operator with same name as existing operator: %s
+CSosOperatorStack::ImportMembers
+nTotalOffset >= 0
+CSosOperatorStack::CopyMemPool
+GetMemPtr() && pSrcStack
+CSosOperatorStack::ReferenceCopyMemPool
+CSosOperatorStack::ReferenceCopyMemPool: Null mempool in %s
+CSosOperatorStack::ReferenceStack
+GetMemPtr()
+CSosOperatorStack::GetOperatorOffset
+m_pStack->IsValidIndex( nOpIndex )
+CSosOperatorStack::GetTotalOperatorSize: Invalid operator index %i in %s
+CSosOperatorStack::GetOperatorNameSpace: Invalid operator index %i in %s
+CSosOperatorStack::SetOpFieldData
+CSosOperatorStack::SetOpFieldData: Incoming data size %i greater than field %s, %i on %s
+snd_sos_opvar_debug
+CSosOperatorStack::SetOpField: Unable to find operator field hash %i in %s
+CSosOperatorStack::SetOpField: Unable to find opfield %s.%s in %s
+CSosOperatorStack::GetOpField
+CSosOperatorStack::GetOpField: Unable to find operator field hash %i in %s
+CSosOperatorStack::GetOpField: Unable to find opfield %s.%s in %s
+CSosOperatorStack::GetOpFieldBySelection
+CSosOperatorStack::GetNewOpFieldArrayIndex
+CSosOperatorStack::BuildOperatorIndexToFieldMap
+Unaccounted
+CSosOperatorStack::BuildOperatorIndexToFieldMap
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_system.cpp
+soundsystem
+CSosOperatorStack::Execute
+Unaccounted
+CSosOperatorStack::Execute
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_system.cpp
+soundsystem
+Update SoundEvent: %s
+Operator Stack: %s
+m_pStack->IsValidIndex( nGotoOperatorIndex )
+CSosOperatorStack::ResolveConnections
+%*sOperator Stack: %s
+%*sSize: %i
+%s Operator Fields: %i
+%s = %s: %i : %i : %i : %i : %i
+CSosOperatorStack::ParseKV: Operator %s : Unknown sound operator type %s in stack %s
+CSosOperatorStack::ParseKV: Operator %s index differs in stack %s
+CSosOperatorStack::ParseKV: Stack %s, has operator %s already declared, second declaration ignored
+CSosOperatorStack::ParseKV
+nTotalSize >= 0
+CSosOperatorStack::ParseKV Trying illegal operator overwrite %s in stack %s
+CSosOperatorStack::ParseKV: Operator %s invalid index in stack %s
+CSosOperatorStackList::InitFromSoundEvent
+CSosOperatorStack::InitFromSoundEvent: Unable to resolve soundevent from hash %i.. this should not happen
+CSosOperatorStack::InitFromSoundEvent
+pRefStack
+CSosOperatorStack::InitFromSoundEvent: Unable to reference operator stack in stack %s, soundevent %s
+Soundevent param overwrites: %s:
+Stack List:
+DATA Operators:
+UPDATE Operators:
+STOP Operators:
+CSosOperatorStackList::InitStacks
+Adding operator stack matching existing name: %s
+Error: Unknown creating stack %s
+CSosOperatorStackCollection::RemoveStack
+Error: Unknown sound operator stack %s
+Sound Operators Collection:
+%*sCue Stacks:
+%*sStart Stacks:
+%*sUpdate Stacks:
+%*sStop Stacks:
+snd_sos_test_soundmessage
+CSosStackExecutionList::ClearDependencies
+Stack Execution List:
+%i = %i : %i list dependents : %i update depdendents
+CSosOperatorSystem::CSosOperatorSystem
+pDataType->m_nSOFDataType == i
+pTypeInterp->m_nSOFTypeInterp == i
+CSosOperatorSystem::IsValidFieldTypeInterp
+( uint( nType ) < Q_ARRAYSIZE( g_SosFieldTypeInterps ) )
+CSosOperatorSystem::StartSoundEvent Unable to find soundevent %s
+CSosOperatorSystem::StartSoundEvent Unable to start soundevent %s
+CSosOperatorSystem::StartSoundEventThisFrame
+pStartEventInfo->m_fieldData.IsEmpty()
+snd_sos_soundevent_filter
+CSosOperatorSystem::AddSoundEventToExecutionList
+CSosOperatorSystem::StartSoundEvent called with invalid soundevent hash
+pStackList::InitFields
+Attempting to stop non-existent soundevent: %s
+CSosOperatorSystem::SetSoundEventField
+nGuid != INVALID_SOUNDEVENT_GUID
+CSosOperatorSystem::SetSoundEventFields
+(*pMessage)->m_fieldData.IsEmpty()
+CSosOperatorSystem::SetLibraryStackFields
+CSosOperatorSystem::HandleStartSoundEventMessageQueue
+pEventInfo->m_msgType == SOSMSGQ_START
+CSosOperatorSystem::HandleSetSoundEventFieldsMessageQueue
+pMessage->m_msgType == SOSMSGQ_START || pMessage->m_msgType == SOSMSGQ_SOUND_FIELDS
+%s: Has a failed sound event message.
+CSosOperatorSystem::HandleSetLibStackFieldsMessageQueue
+pMessage->m_msgType == SOSMSGQ_LIBRARY_FIELDS
+%s: Has a failed library stack message.
+CSosOperatorSystem::SetOpField: Unable to find operator stack from guid %d
+CSosOperatorSystem::SetOpField: Unable to find operator stack %s
+CSosOperatorSystem::CompareOpFields
+pStack->GetMemPtr()
+Stack %s: Unable to connect input to specified field: %s
+_editor_
+Error: Operator %s, problems parsing operator field %s
+interp_type
+interp_min
+interp_max
+soundevent_data
+operator_arg_field
+reserve_array
+CSosOperatorSystem::OverwriteOpVarsParseKV
+pStack && pStack->GetMemPtr()
+Usage:  snd_sos_set_operator_field <stackname> <operator> <field> <index> <float>
+Currently sets a single float operator field
+snd_sos_set_operator_field
+snd_sos_set_operator_field_by_guid
+Usage:  snd_sos_get_operator_field <stackname> <operator> <field>
+Currently gets info for a single operator field
+snd_sos_get_operator_field_info
+CSosOperatorSystem::RemoveStopped
+Flush and re-parse the sound operator system
+snd_sos_flush_operators
+Usage:  snd_sos_resolve_execute_operator <stackname> <operator>
+Resolve the inputs and execute one specified operator from a specified stack
+snd_sos_resolve_execute_operator
+Prints a list of currently available stacks
+snd_sos_print_stack_list
+Available Operators:
+Prints a list of currently available operators
+snd_sos_print_operators
+Usage:  snd_sos_print_operator_stack <stackname>
+Prints a master list of currently exposed variables
+snd_sos_print_operator_stack
+Usage:  snd_sos_print_exec_list
+Prints the current stack execution list
+snd_sos_print_stack_exec_list
+Usage:  snd_sos_test_add_exec_list
+Starts a specified soundevent
+snd_sos_start_soundevent
+Usage:  snd_sos_stop_soundevent_guid <guid>
+Stops a specified soundevent
+snd_sos_stop_soundevent_guid
+Usage:  snd_sos_stop_soundevent_index <index>
+snd_sos_stop_soundevent_index
+Stops all soundevents currently on the execution list
+snd_sos_stop_all_soundevents
+CSosOperatorStack: %i
+SosOpFieldInfo_t: %i
+SosBaseDataTypeDef_t: %i
+SosFieldTypeInterpDef_t: %i
+Total Stacks: %i
+Total Stack Fields: %i
+Total Stack Ref Fields: %i
+Total Stack Fields mem: %i
+Total Stack Pool Mem: %i
+Total USED Stacks: %i
+Total USED Stack Fields: %i
+Total USED Stack Ref Fields: %i
+Total USED Stack Fields mem: %i
+Total USED Stack Pool Mem: %i
+Total Stack Mem Usage(ish): %i : %ik
+Total USED Stack Mem Usage(ish): %i : %ik
+Used stack: %s
+Prints the sizes of relevant sos classes.
+snd_sos_print_class_sizes
+CNameList::SetName
+nOffset + nNameLength <= (uint)m_Names.Count()
+CVSoundStackScriptTypeManager::Allocate stack with empty name
+CVSoundStackScriptTypeManager::Allocate can't parse stack %s
+SoundOpSystem001
+construction_stack
+The soundsystem requires the filesystem to run!
+CSoundOpSystem::Connect
+CSosMessageQueue<class SoundEventGuid_t>::StartAddFieldInfo
+msgType == SOSMSGQ_SOUND_FIELDS || msgType == SOSMSGQ_LIBRARY_FIELDS
+WARNING: Attempting to set fields on a stopped sound
+Unexpected queue content
+CSosMessageQueue<unsigned int>::StartAddFieldInfo
+CDefaultIntrospectedTypeManager<7738156623707665270,struct VSoundStackScript_t>::Init
+CUtlRBTree<struct CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::Node_t,unsigned short,class CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short,class CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short,class CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short>,unsigned short> >::RemoveAll
+__UNKNOWN__
+CUtlRBTree<struct CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::Node_t,unsigned short,class CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short,class CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short>,unsigned short> >::FreeNode
+CUtlRBTree<struct CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short,class CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short>,unsigned short> >::RemoveAt
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::Find
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::RemoveAll
+CUtlRBTree<struct CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::Node_t,unsigned short,class CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::Node_t,unsigned short,class CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+Unaccounted
+CUtlMemory<struct CSosOperatorStack::StackOpInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+CUtlRBTree<struct CUtlMap<unsigned int,struct SosOpFieldMapInfo_t *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short,class CUtlMap<unsigned int,struct SosOpFieldMapInfo_t *,unsigned short,class CDefLess<unsigned int> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,struct SosOpFieldMapInfo_t *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<unsigned int,struct SosOpFieldMapInfo_t *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short,class CUtlMap<unsigned int,struct SosOpFieldMapInfo_t *,unsigned short,class CDefLess<unsigned int> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,struct SosOpFieldMapInfo_t *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short>,unsigned short> >::RemoveAll
+Unaccounted
+CUtlMemory<class CSosStackExecutionList::CSosStackExecInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+CUtlRBTree<struct CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short,class CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short,class CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<struct CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short,class CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short,class CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short>,unsigned short> >::FreeNode
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::RemoveAt
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::SetLessFunc
+Unaccounted
+CUtlMemory<struct CSosMessageQueue<class SoundEventGuid_t>::Entry_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct CSosMessageQueue<unsigned int>::Entry_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct vcon_SoundViewerSoundEventsItem_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<unsigned __int64,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<class CUtlString,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CSosDependent *,int,unsigned short,bool (__cdecl*)(class CSosDependent * const &,class CSosDependent * const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,struct SosOpFieldMapInfo_t *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class SoundEventGuid_t,int,unsigned short,class CDefLess<class SoundEventGuid_t> >::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<unsigned int,class CSosOperatorStack *,unsigned short,class CDefLess<unsigned int> >::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::FreeNode
+CUtlRBTree<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperator *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::RemoveAll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CSosOperatorStack *,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct SosOpFieldInfoList_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct SosOpConnectionList_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<struct SosOpConnection_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<unsigned int,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Unaccounted
+CUtlMemory<char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\snd_op_sys\sos_track_system.cpp
+CSosTrackSystem::GetTrackIndex
+m_TrackTable.IsValidHandle( nNewHandle )
+CSosTrackSystem::PlayTrackEvent
+pCurTrackEvent
+CSosTrackSystem::StopTrack
+snd_sos_show_track_list
+Unaccounted
+CUtlMemory<struct vcon_SoundViewerTracksItem_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+soundsystem
+Vector2D
+CUtlString
+CUtlVector
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\schema.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemaclassinfo.h
+CSchemaClassInfo::CompleteInitialization
+m_pOuterTypeScope != NULL
+CSchemaClassInfo::CompleteInitializationInternal
+!m_bInitialized
+m_pTypeOf != NULL
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\baseschema.h
+SosEditItemType_t
+SosEditItemInfo_t
+SelectedEditItemInfo_t
+SOS_EDIT_ITEM_TYPE_SOUNDEVENTS
+SOS_EDIT_ITEM_TYPE_SOUNDEVENT
+SOS_EDIT_ITEM_TYPE_LIBRARYSTACKS
+SOS_EDIT_ITEM_TYPE_STACK
+SOS_EDIT_ITEM_TYPE_OPERATOR
+SOS_EDIT_ITEM_TYPE_FIELD
+From Enum Binding
+itemType
+itemName
+itemTypeName
+itemKVString
+itemPos
+From Class Binding
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\soundsystem\release\win64\isoundopsystemedit_h_schema.gen_cpp
+SosEditItemInfo_t::Schema_VerifyBindingIsRegistered
+( g_pSchemaSystem == NULL ) || (s_pSchemaBinding != NULL)
+WARNING: Trying to access schema binding '%s' before bindings were registered in this module!
+m_EditItems
+SelectedEditItemInfo_t::Schema_VerifyBindingIsRegistered
+CSchemaEnumBinding<enum SosEditItemType_t>::Get
+(s_pThisModuleBindingPointer != NULL)
+WARNING: Trying to access schema enum binding before bindings were registered in this module! - %s()
+CSchemaClassBindingBase::RegBase
+m_pSchemaType != NULL
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\schemabinding.h
+CResourceString
+CResourceArray
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcefile\resourcestream.h
+MDiskDataForResourceType
+VSoundEvent_t
+VSoundEventScript_t
+m_SoundName
+m_GameData
+m_OperatorsKV
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\soundsystem\release\win64\soundeventscriptschema_h_schema.gen_cpp
+VSoundEvent_t::Schema_VerifyBindingIsRegistered
+m_SoundEvents
+VSoundEventScript_t::Schema_VerifyBindingIsRegistered
+ERROR: CAtomicManipulator::Allocate() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<struct VSoundEvent_t> >::Allocate
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<struct VSoundEvent_t> >::AllocateAndCopy
+ERROR: CAtomicManipulator::Copy() Cannot copy CResourceArray(FIXME: maybe you can?)
+CAtomicManipulator<class CResourceArray<struct VSoundEvent_t> >::Copy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate CResourceArray
+CAtomicManipulator<class CResourceArray<struct VSoundEvent_t> >::Deallocate
+VSoundStack_t
+VSoundStackScript_t
+m_StackName
+m_StackKV
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\soundsystem\release\win64\soundstackscriptschema_h_schema.gen_cpp
+VSoundStack_t::Schema_VerifyBindingIsRegistered
+m_SoundStacks
+VSoundStackScript_t::Schema_VerifyBindingIsRegistered
+CAtomicManipulator<class CResourceArray<struct VSoundStack_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct VSoundStack_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct VSoundStack_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VSoundStack_t> >::Deallocate
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VNewAsyncFileSystem001
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+c:\buildslave\vrgdc2015_staging_win64\build\src\mathlib\mathlib_base.cpp
+_VectorNormalizeFast
+fabs( vec.LengthSqr() - 1.0f ) < 1e-3
+MathLib_Init
+SSE and SSE2 are required.
+@fff>fff>fff>fff>
+>invalid_hitbox
+invalid_bone
+default
+RESOLVE_CONTACTS
+NOTIFY_TOUCH_FOUND
+NOTIFY_TOUCH_PERSISTS
+NOTIFY_TOUCH_LOST
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\resourcefile.cpp
+pHeader->m_nHeaderVersion == RESOURCE_FILE_HEADER_VERSION
+Resource_GetBlock
+Resource_GetBlockEntry
+ERROR: Could not find schema data for helper class for resource type %lld '%s'. (Missing MDiskDataForResourceType metadata or schema data isn't loaded?)
+FindDiskDataClassForResourceType
+[Disk class %d/%d] Name = '%s'; Project = '%s'; Binary = '%s'
+ERROR: Multiple classes registered as disk data for resource type %lld '%s'. (Should only have one class MDiskDataForResourceType - %d listed above.)
+MResourceVersion
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\resourcesystemhelpers.h
+CResourceAllocatorUtils::AssumeControl
+pData == m_pData
+Resource %s
+TypeManager
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\introspectedtypemanager.cpp
+CBaseIntrospectedTypeManager::SetDiskDataBinding
+pDiskDataClassBinding != NULL
+Failed to call CBaseIntrospectedTypeManager::SetDiskDataBinding
+CBaseIntrospectedTypeManager::Init
+Failed to call CBaseIntrospectedTypeManager::Init
+CBaseIntrospectedTypeManager::AllocateResource
+Error loading resource "%s" (Invalid resource version: %d != %d)
+WARNING: Missing introspection manifest for file: %s
+WARNING: Missing data block for file: %s
+ERROR: Problem allocating permanent data for resource in file '%s'. See above for reason(s)
+WARNING: Problems encounted with external references in resource '%s'. See above for reason(s)
+FixupResourceName: Illegal full path passed in ("%s")!
+FixupResourceName: Illegal path, missing extension passed in ("%s")!
+MResourceTypeForInfoType
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\resourcehandle.h
+ResourceRelease
+g_pResourceSystem
+hResource->m_nDeferredCount <= hResource->m_nRefCount
+hResource->m_nDeferredCount > 0
+hResource->m_nRefCount > 0
+hResource->m_nDeferredCount < hResource->m_nRefCount
+hResource->m_nDeferredCount >= 0
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\weakhandle.h
+GetResourceTypeOfWeakHandle
+pAtomicType
+pParamClass && pParamClass->GetClass()
+Cannot determine resource type for handle '%s' - schema data not loaded for the referred-to type?
+%s : %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\externalreferences.cpp
+CExtrefTraversal::VisitRelevantField
+IsRelevantFieldType( pFieldType )
+IsResourceWeakHandle( pHandleType )
+!IsRelevantFieldType( pFieldType )
+UpdateResourceIdForUGC
+pReferencedResourceName == NULL
+pReferencedResourceName != NULL
+Deferred
+Schema Field
+CResourceReferenceFixupTraversal::HandleExtref
+nResourceType != RESOURCE_TYPE_NONE
+(size_t)hResource % 4 == 0
+Failed to fix resource reference '%s' (%s)- ID = %016llX, Expected in: '%s'
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlhash.h
+CUtlScalarHash<void const *,class CDefaultHash32>::Init
+m_dataCount==0
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemadatatraversal.h
+SchemaRecurseData
+Unhandled field type for field '%s': '%s' (Why did it pass SchemaRecurseType?)
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memalloc.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+CKeyValues3Cluster allocated with bad alignment! (%p) (If this is inside of a heap allocation, you may need to inherit from CAlignedNewDelete< KV3_CLUSTER_SIZEOF >.)
+CKeyValues3Cluster::CKeyValues3Cluster
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\keyvalues3.cpp
+ - %d / %d allocated
+ - Cluster[%d]@%8p = '%s' (type %d)
+CKeyValues3Cluster::Free
+(m_nAllocatedFlags & 0x8000000000000000) == 0
+KeyValues3::GetArrayElement
+KeyValues3::GetElement - Bad index %d (count = %d)
+KeyValues3::GetString
+Unknown KV3 type '%d'.
+CKeyValues3Table::MemberData
+nIndex >= 0 && nIndex < nMemberCount
+CKeyValues3Context::~CKeyValues3Context
+m_EmbeddedCluster.AllocationCount() == 2
+m_AdditionalClusters.Count() == 0
+m_nOutstandingKV3Allocations == 0
+KV3 leak detected - dumping clusters:
+- Embedded Cluster:
+- Additional Cluster %d:
+CKeyValues3Context::FreeKV_Internal
+pPrevClusterInFreeList != NULL
+CKeyValues3Context::FreeKV_Internal::<lambda_d25f671f61efd6b44fbe72846721981c>::operator ()
+m_AdditionalClusters.FindAndFastRemove( pCluster )
+CUtlSymbolLarge::AddString
+Unaccounted
+CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+schemalib
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\keyvalues3.h
+KeyValues3::GetAsNumeric
+GetAsNumeric() - unsupported type '%d'!
+CUtlSymbolLarge::Find
+Unaccounted
+CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+schemalib
+Unaccounted
+CUtlMemory<unsigned char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<class CUtlStringToken,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<class KeyValues3 *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<class CKeyValues3Cluster *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+CUtlRBTree<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64,class CTreeEntryLess<class CNonThreadsafeTree<0>,0>,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64> >::NewNode
+CUtlRBTree<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64,class CTreeEntryLess<class CNonThreadsafeTree<0>,0>,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64> >::RemoveAll
+Unaccounted
+CUtlMemory<struct CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\keyvalues3_textreader.cpp
+Expected CUtlBuffer::TEXT_BUFFER for LoadKV3Text
+{}[]=, 	
+Line %d at "%s": %s
+Line %d: %s
+Unserialization Error: %s
+Invalid header
+Bad header format (expected '<!--'
+Bad header format (expected 'kv3'
+encoding
+Bad header format (expected 'encoding'
+Bad header format (expected ':'
+Bad header format (expected encoding name)
+version
+Bad header format (expected 'version'
+Bad header format (expected encoding uuid)
+Bad header format (expected 'format'
+Bad header format (expected format name)
+Bad header format (expected format uuid)
+Bad header format
+Bad header format (malformed UUID)
+Bad header (unrecognized format specifier)
+Bad header (unrecognized encoding specifier)
+Expected '{'
+CLoadKV3FromText::ReadTable
+pObject != NULL
+Expected <member name> after type
+Expected "="after member '%s'
+Invalid data for member '%s'
+Unrecognized flag name '%s'
+Expected '['
+Expected value or ']'
+Expected ',' or '%s'
+Expected '#'
+Expected token
+Expected hex byte (eg. 00-FF)
+Failed to assign bool literal value
+Line %d: Invalid value "%s"
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemadatatraversal.cpp
+CSchemaVisitorInfoMapBase::LookupClass
+pResult->State() == VISIT_INFO_STATE_COMPLETE
+CUtlScalarHash<void const *,class CDefaultHash32>::Insert
+uiKey != (uint)InvalidHandle()
+Unaccounted
+CUtlMemory<struct CClassVisitInfo::FieldInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+resource
+deferred_resource
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemaiterator.cpp
+CSchemaInheritanceIterator::PopulateTraversal_R
+nTraversalOffset == 0
+CSchemaFieldIterator::Reset
+!IsSingleFieldRestricted()
+CSchemaFieldIterator::Advance
+CSchemaFieldIterator::GetFieldMemoryOffset
+CSchemaFieldIterator::GetRawFieldHandle
+Unaccounted
+CUtlMemory<struct CSchemaInheritanceIterator::ClassToTraverse_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+@SoundSystemLowLevel
+CAudioMix::Process
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\lowlevel\mix.cpp
+Unaccounted
+CAudioMix::Process
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\lowlevel\mix.cpp
+soundsystem_lowlevel
+Unknown mix command %d
+CAudioMixCommandList::AccumulateMultichannel
+nInputChannels == 6
+nInputChannels == 2
+ConvertFloat32Int16_Clamp_Interleave6
+nOutputChannelCount == 6 && nInputChannelCount == 6 && IsAligned16Bytes( pflChannel0 )
+ConvertFloat32Int16_Clamp_Interleave8
+nOutputChannelCount == 8 && nInputChannelCount == 8 && IsAligned16Bytes( pflChannel0 )
+ConvertFloat32Int16_Clamp_InterleaveStride
+nOutputChannelCount >= nInputChannelCount
+Resample16to32
+nSampleFrac < ( 1ul << FIX_BITS )
+GetContiguousSamples_8Mono
+nSamplesNeeded < nTempSampleCount
+nSamplesAvailable > 0
+nSamplesNeeded >= 0
+GetContiguousSamples_8Stereo
+GetContiguousSamples_16Mono
+error: %d packets, %d samples needed, %d available with NULL, %d packet index
+Found sample %d
+GetContiguousSamples_16Stereo
+ConvertSourceToFloat
+Unaccounted
+ConvertSourceToFloat
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\lowlevel\mix.cpp
+soundsystem_lowlevel
+Resample_Ratio
+Unaccounted
+ConvertSourceToFloat
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\lowlevel\mix.cpp
+soundsystem_lowlevel
+Sound Disabled
+Sound Disabled.
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\lowlevel\device_null.cpp
+CAudioDeviceList::CreateDevice
+Failed to initialize XAudio2 device!
+Failed to initialize DirectSound device!
+Failed to initialize SDL Audio device!
+CAudioDeviceList::GetDeviceToCreate
+m_nDefaultDevice >= 0 && m_nDefaultDevice < m_list.Count()
+SpeakerConfigValueToChannelCount
+Bad speaker config requested
+XAudio2 Device
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\lowlevel\device_xaudio2.cpp
+CAudioXAudio2::OnBufferEnd
+m_nActiveBuffers > 0
+Xaudio2 Voice Error %x
+Xaudio2 Error %x
+XAudio2_7.dll
+Audio_EnumerateXAudio2Devices
+hr == S_OK
+XAudio2 failed to initialize
+Unable to detect XAudio2 devices
+CAudioXAudio2::Init
+m_nChannels <= SOUND_DEVICE_MAX_CHANNELS
+XAudio2 Sound Device: %s
+Channels:	%d
+Bits/Sample:	%d
+Rate:		%d
+Windows DirectSound
+dsound.dll
+DirectSoundEnumerateA
+Failed to initialize direct sound!
+Couldn't load dsound.dll
+DirectSoundCreate
+Couldn't get DS proc addr
+DirectSound hardware in use, can't initialize!
+DirectSound Create failed.
+Couldn't get DS caps
+No DirectSound driver installed
+Set coop level failed
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\lowlevel\device_dsound.cpp
+CAudioDirectSound2::Init
+nPrimaryChannels == 1
+Direct Sound Device
+S_ClearBuffer: DS::Lock Sound Buffer Failed
+S_ClearBuffer: DS: couldn't restore buffer
+Failed %d
+DS_INTERLEAVED
+DS::Lock Sound Buffer Failed %s
+DS:: couldn't restore buffer %s
+DS::Lock Sound Buffer Failed
+Default Device
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\lowlevel\device_sdl.cpp
+CAudioSDL::Init
+m_deviceSpec.channels == 2
+m_deviceSpec.freq == int(MIX_DEFAULT_SAMPLING_RATE)
+SDL Audio
+SDL Audio Device
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\lowlevel\windows_audio.cpp
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strncmp
+Unaccounted
+_V_strncmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_strcmp
+V_strncasecmp
+Unaccounted
+V_strncasecmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+Unaccounted
+V_strcasecmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+_V_strnicmp
+V_atoi64
+V_atoui64
+V_stristr
+pSearch
+_V_strncpy
+maxLen >= sizeof( *pDest )
+_V_wcsncpy
+maxLenInBytes >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+V_vsnprintf
+V_vsnprintfRet
+_V_strncat
+destBufferSize >= 0
+%%.%if%s
+_V_DefaultExtension
+pathStringLength >= 1
+extension
+_V_strtowcs
+nOutSizeInBytes >= sizeof(pWString[0])
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+CUtlBuffer::CUtlBuffer
+nSize != 0
+CUtlBuffer::Get
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + size - 1 )
+CUtlBuffer::GetString
+nMaxChars > 0
+(GetChar()) == (0)
+CUtlBuffer::PeekGet
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + nMaxSize - 1 )
+CUtlBuffer::Put
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf
+CUtlBuffer::AddNullTermination
+m_Memory.IsIdxValid( Index )
+D"A/oyu
+	6RtcZO"
+z`%1Is}
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConVar_Register
+s_nDLLIdentifier < 0
+ConVar_Unregister
+s_nDLLIdentifier >= 0
+ConCommandBase::Create
+*** ConCommand "%s" (%p) was not unregistered! Shutdown crash imminent!
+ConCommand::Dispatch
+Encountered ConCommand '%s' without a callback!
+ConCommand::AutoCompleteSuggest
+m_pParent->m_fnCompletionCallback
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+ConVarRef %s doesn't point to an existing ConVar
+Unaccounted
+CUtlMemory<struct ConCommand::CallbackInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+G()$^.*+?[]|\-{},:=!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\mempool.cpp
+CUtlMemoryPoolBase::CUtlMemoryPoolBase
+IsPowerOfTwo( m_nAlignment )
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase::AddNewBlob
+!"CUtlMemoryPoolBase::AddNewBlob: mode == UTLMEMORYPOOL_GROW_NONE"
+Failed to allocate CUtlMemoryPoolBase blob of size %d ('%s' blob count = %d)
+m_pHeadOfFreeList
+CUtlMemoryPoolBase::Alloc
+!"CUtlMemoryPoolBase::Alloc: ran out of memory"
+UPDATE_STRING_TOKEN_DATABASE
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\configvalue.cpp
+CGlobalConfigValueRegistry::HookUpConfigValue
+RegisterConfigValue: Unknown error constructing config value "%s"!
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::Find
+Unaccounted
+CUtlSymbolTable::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::AddString
+Unaccounted
+CUtlSymbolTable::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbolTable::AddString
+pPool->m_SpaceUsed < 0xFFFF
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::Insert
+!"Allowing insert of dupe without explicit dupe insertion. Fix code callpoint to allow dupes."
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct CUtlSymbolTable::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+unknown
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\keyvalues.cpp
+CKeyValuesErrorStack::Pop
+m_errorIndex>=0
+CKeyValuesErrorStack::Reset
+stackLevel >= 0 && stackLevel < m_errorIndex
+KeyValues Error: %s in file %s
+(*%s*), 
+ ReadToken overflow
+CKeyValuesTokenReader::SeekBackOneToken
+CKeyValuesTokenReader::SeekBackOneToken: It is only possible to seek back one token at a time
+CkeyValuesTokenReader::SeekBackOneToken: No tokens read yet
+CKeyValues_Data::Internal_SetSubKey::<lambda_dfee2f515a6a5adff42b5f68583e88d3>::operator ()
+m_iDataType == TYPE_NONE
+CKeyValues_Data::Internal_ClearData
+!m_bStoredSubKey
+KeyValues::GetName
+Member function called on NULL KeyValues
+KeyValues::GetNameSymbol
+KeyValues::GetNameSymbolCaseSensitive
+KeyValues::LoadFromFile
+KeyValues::FindKey
+KeyValues::FindKey called on NULL pointer!
+!bCreate
+size >= 0
+size < 1024 * 1024
+KeyValues::AddSubkeyUsingKnownLastChild
+pSubkey != NULL
+pSubkey->m_pPeer == NULL
+Internal_GetSubKey() == NULL
+Internal_GetSubKey() != NULL
+pLastChild->m_pPeer == NULL
+KeyValues::AddSubKey
+KeyValues::GetFirstSubKey
+KeyValues::GetNextKey
+CKeyValues_Data::Internal_GetString
+CKeyValues_Data::Internal_CopyData
+KeyValues::AppendIncludedKeys
+KeyValues::ParseIncludedKeys
+resourceName
+filetoinclude
+pFileSystem
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KeyValues::MergeBaseKeys
+KeyValues::RecursiveMergeKeyValues
+KV Conditional Evaluation Error
+KeyValues::LoadFromBuffer
+#include
+#include is NULL 
+#base is NULL 
+pCurrentKey
+LoadFromBuffer: expected '{', found '%s'
+RecursiveLoadFromBuffer:  recursion overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  got conditional between key and value
+KeyValues::RecursiveLoadFromBuffer
+dat->m_pPeer == NULL
+pLastChild == NULL || pLastChild->m_pPeer == dat
+Internal_GetSubKey() == dat
+pLastChild->m_pPeer == dat
+Unaccounted
+CUtlMemory<class KeyValues *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\circularbuffer.cpp
+CCircularBuffer::SetSize
+CCircularBuffer::Read
+nRead == nPeeked
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utltokenizer.cpp
+Newline in string literal
+Unaccounted
+CUtlMemory<class CUtlTokenReference,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct TokenWarning_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\exprevaluator.cpp
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+PlusOne
+PlusTwo
+PlusThree
+PlusFour
+PushOneLeftDeltaZeroRightZero
+PushOneLeftDeltaZeroRightNonZero
+PushOneLeftDeltaOneRightZero
+PushOneLeftDeltaOneRightNonZero
+PushOneLeftDeltaNRightZero
+PushOneLeftDeltaNRightNonZero
+PushOneLeftDeltaNRightNonZeroPack6Bits
+PushOneLeftDeltaNRightNonZeroPack8Bits
+PushTwoLeftDeltaZero
+PushTwoPack5LeftDeltaZero
+PushThreeLeftDeltaZero
+PushThreePack5LeftDeltaZero
+PushTwoLeftDeltaOne
+PushTwoPack5LeftDeltaOne
+PushThreeLeftDeltaOne
+PushThreePack5LeftDeltaOne
+PushTwoLeftDeltaN
+PushTwoPack5LeftDeltaN
+PushThreeLeftDeltaN
+PushThreePack5LeftDeltaN
+PushNAndNonTopographical
+PopOnePlusOne
+PopOnePlusN
+PopAllButOnePlusOne
+PopAllButOnePlusN
+PopAllButOnePlusNPack3Bits
+PopAllButOnePlusNPack6Bits
+PopNPlusOne
+PopNPlusN
+PopNAndNonTopographical
+NonTopoComplex
+NonTopoPenultimatePluseOne
+NonTopoComplexPack4Bits
+FieldPathEncodeFinish
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\tslist.h
+VScript
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\schemabindings.cpp
+InstallSchemaBindings
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+?atan2f
+?8UUUUU
+?UUUUUU
+?E=$% B
+?49HoKC
+?UUUUUU
+sAAccess violation - no RTTI data!
+Bad dynamic_cast!
+[*ncd>TQ
+\>$hkDh$h>
+&	$@06p
+ B\kji2
+?N]TUUU
+?UUUUUU
+&	$@06p
+ B\kji2
+[*ncd>TQ
+\>$hkDh$h>
+f>sinhf
+AUUUUUU
+?UUUUUU
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+>+>ZQ"v
+[*ncd>TQ
+\>$hkDh$h>
+Unknown exception
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+bad exception
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+X 843"8
+5m8>8=t
+-9D	/9a
+?8bunz8
+?@En[vP
+?UUUUUU
+@^8U)zj
+UTF-16LE
+UNICODE
+?3ScR.>
+?gibQ^AX>
+WR_l%2>
+)2STud>
+J\;5yTb
+<8bunz8
+<@En[vP
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+_nextafter
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+wchar_t
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+c:\buildslave\vrgdc2015_staging_win64\build\src\soundsystem\Release\win64\soundsystem.pdb
+soundsystem.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+Plat_IsInDebugSession
+CMemAllocSystemInitialize
+AssertMsg_ConditionFailed
+g_pMemAlloc
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+g_pGlobalMiniProfilers
+Plat_ExitProcess
+LoggingSystem_RegisterLoggingChannel
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+Plat_GetProcAddresses
+LoggingSystem_IsChannelEnabled
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+g_Telemetry
+Warning
+LoggingSystem_Log
+?ConMsg@@YAXPEBDZZ
+Plat_FloatTime
+Plat_GetComputerName
+CommandLine
+LoggingSystem_AddTagToChannel
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+?DevMsg@@YAXPEBDZZ
+COM_TimestampedLog
+??0CThreadMutex@@QEAA@XZ
+??1CThreadMutex@@QEAA@XZ
+?Lock@CThreadMutex@@QEAAXXZ
+?Unlock@CThreadMutex@@QEAAXXZ
+?Lock@CThreadFastMutex@@AECAXII@Z
+?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
+?ExitScope@CVProfile@@QEAAXXZ
+?IsEnabled@CVProfile@@QEBA_NXZ
+g_VProfCurrentProfile
+Plat_ShouldCollectMiniDumpsForFatalErrors
+?DevWarning@@YAXPEBDZZ
+LOG_GENERAL
+Plat_WindowToOsSpecificHandle
+GetCPUInformation
+ThreadSleep
+??0IStack_Annotation@@QEAA@AEBVCCallStackMarkerBase@@@Z
+??1IStack_Annotation@@UEAA@XZ
+Plat_UUIDFromString
+Plat_UUIDToString
+Plat_LoadSDL
+Plat_RequireSDL
+tier0.dll
+g_pScheduledFunctions
+RandomInt
+RegisterStringToken
+RandomFloat
+??0CUniformRandomStream@@QEAA@XZ
+KeyValuesSystem
+GetOSType
+vstdlib.dll
+GetCurrentThreadId
+GetLocalTime
+GetModuleHandleA
+LoadLibraryA
+FreeLibrary
+GetProcAddress
+LeaveCriticalSection
+MultiByteToWideChar
+WideCharToMultiByte
+LCMapStringW
+CloseHandle
+GetCurrentProcessId
+EnterCriticalSection
+DeleteCriticalSection
+EncodePointer
+DecodePointer
+GetStringTypeW
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+IsDebuggerPresent
+IsProcessorFeaturePresent
+ReadFile
+GetCommandLineA
+GetLastError
+GetCPInfo
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+ExitProcess
+GetModuleHandleExW
+IsValidCodePage
+GetOEMCP
+GetConsoleMode
+ReadConsoleW
+SetFilePointerEx
+GetStdHandle
+GetFileType
+WriteFile
+GetConsoleCP
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetModuleFileNameW
+LoadLibraryExW
+SetStdHandle
+FlushFileBuffers
+WriteConsoleW
+OutputDebugStringW
+CreateFileW
+KERNEL32.dll
+CoCreateInstance
+CoTaskMemFree
+ole32.dll
+Plat_GetEnv
+??0CThreadSpinRWLock@@QEAA@XZ
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?LockForWrite@CThreadSpinRWLock@@QEAAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+Plat_IsHighDPI
+L?fff?33s?H
+ALLPASS
+LOWPASS
+DLINEAR
+FLINEAR
+LOWPASS_4TAP
+PLAIN_4TAP
+LOG_OUT
+LIN_OUT
+PARALLEL2
+PARALLEL4
+PARALLEL5
+FEEDBACK
+FEEDBACK3
+FEEDBACK4
+Afff?fff?fff?
+L?fff?fff?
+---empty---
+vsndevtsX
+vsndstckX
+0'>0c*>
+pb>pAf>
+-?[`/?291?
+RD?4KF?=GH?9FJ?8HL?
+a?y#c?sIe?
+0123456789ABCDEF
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AV?$CUtlMemory@HH@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVIAudioDevice2@@
+.?AV?$CUtlMemory@FH@@
+.?AV?$CUtlVectorBase@FV?$CUtlMemoryFixedGrowable@F$0EAA@H@@@@
+.?AVCAudioCaptureDevice@@
+.?AVIAudioStream@@
+.?AVIVAudio@@
+.?AVCMilesMP3@@
+.?AVCVAudio@@
+.?AV?$CUtlVectorBase@VCSplitScreenSlot@@V?$CUtlMemory@VCSplitScreenSlot@@H@@@@
+.?AV?$CUtlMemory@VCSplitScreenSlot@@H@@
+.PEAVCSfxTable@@
+.?AV?$CUtlDict@HH@@
+.?AV?$CClassMemoryPool@VCSfxTable@@V?$CUtlMemoryPool@VCSfxTable@@@@@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@IUSfxDictEntry@@@@H@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@IH@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@IG@@G@@
+.?AV?$CUtlVectorBase@USndInfo_t@@V?$CUtlMemory@USndInfo_t@@H@@@@
+.?AV?$CUtlMemory@Uvcon_SoundViewerItem_t@@H@@
+.?AV?$CUtlVectorBase@Uvcon_SoundViewerItem_t@@V?$CUtlMemory@Uvcon_SoundViewerItem_t@@H@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDHHP6A_NAEBQEBD0@Z@@H@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@PEAXH@@H@@
+.?AV?$CUtlRBTree@IGP6A_NAEBI0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@IG@@G@@@@
+.?AV?$CUtlMemory@USndInfo_t@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEBDHHP6A_NAEBQEBD0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDHHP6A_NAEBQEBD0@Z@@H@@H@@@@
+.?AV?$CUtlRBTree@PEAXHP6A_NAEBQEAX0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@PEAXH@@H@@@@
+.?AVCAudioProcessor@@
+.?AVCPresetDSP@@
+.?AV?$CUtlVectorBase@Uaudio_mix_command_t@@V?$CUtlMemoryFixedGrowable@Uaudio_mix_command_t@@$0BAA@H@@@@
+.?AV?$CUtlVectorBase@PEAVCAudioProcessor@@V?$CUtlMemoryFixedGrowable@PEAVCAudioProcessor@@$07H@@@@
+.?AV?$CUtlMemory@Uaudio_mix_command_t@@H@@
+.?AV?$CUtlMemory@PEAVCAudioProcessor@@H@@
+.?AV?$CUtlMemory@PEAMH@@
+.?AV?$CRefCountServiceBase@$00VCRefMT@@@@
+.?AV?$CRefCounted@V?$CRefCountServiceBase@$00VCRefMT@@@@@@
+.?AV?$CUtlVectorBase@PEAVCAudioProcessor@@V?$CUtlMemory@PEAVCAudioProcessor@@H@@@@
+.?AV?$CUtlVectorBase@Umixstateentry_t@@V?$CUtlMemoryFixedGrowable@Umixstateentry_t@@$0IA@H@@@@
+.?AV?$CUtlVectorBase@Uaudio_source_input_t@@V?$CUtlMemoryFixedGrowable@Uaudio_source_input_t@@$0IA@H@@@@
+.?AV?$CUtlVectorBase@Uaudio_source_indexstate_t@@V?$CUtlMemoryFixedGrowable@Uaudio_source_indexstate_t@@$0IA@H@@@@
+.?AV?$CUtlVectorBase@VCSubmix@@V?$CUtlMemory@VCSubmix@@H@@@@
+.?AV?$CUtlVectorBase@Ugraph_input_t@@V?$CUtlMemory@Ugraph_input_t@@H@@@@
+.?AV?$CUtlVectorBase@Ugraph_command_t@@V?$CUtlMemory@Ugraph_command_t@@H@@@@
+.?AV?$CUtlMemory@Umixstateentry_t@@H@@
+.?AV?$CUtlMemory@Uaudio_source_input_t@@H@@
+.?AV?$CUtlMemory@Uaudio_source_indexstate_t@@H@@
+.?AV?$CUtlMemory@Uvoice_send_submix_t@@H@@
+.?AV?$CUtlVectorBase@Uvoice_send_submix_t@@V?$CUtlMemory@Uvoice_send_submix_t@@H@@@@
+.?AV?$CUtlMemory@MH@@
+.?AV?$CUtlVectorBase@Usend_operator_register_t@@V?$CUtlMemory@Usend_operator_register_t@@H@@@@
+.?AV?$CUtlMemory@Usend_operator_register_t@@H@@
+.?AV?$CUtlMemory@VCSubmix@@H@@
+.?AV?$CUtlMemory@Ugraph_input_t@@H@@
+.?AV?$CUtlMemory@Ugraph_command_t@@H@@
+.?AV?$CUtlVectorBase@Umix_debug_t@@V?$CUtlMemory@Umix_debug_t@@H@@@@
+.?AV?$CUtlMemory@Umix_debug_t@@H@@
+.?AV?$CUtlVectorBase@Umouthoutput_t@@V?$CUtlMemory@Umouthoutput_t@@H@@@@
+.?AV?$CUtlMemory@Umouthoutput_t@@H@@
+.?AV?$CUtlVectorBase@Umouthenvelope_t@@V?$CUtlMemory@Umouthenvelope_t@@H@@@@
+.?AV?$CUtlMemory@Umouthenvelope_t@@H@@
+.?AV?$CUtlVectorBase@MV?$CUtlMemory@MH@@@@
+.?AV?$CUtlVectorBase@PEAMV?$CUtlMemoryFixedGrowable@PEAM$0BA@H@@@@
+.?AVCMouthInfo@@
+.?AVIAppSystem@@
+.?AV?$CUtlVectorBase@Ugrouplevels_t@@V?$CUtlMemory@Ugrouplevels_t@@H@@@@
+.?AV?$CUtlVectorBase@VCLayerTrigger@@V?$CUtlMemory@VCLayerTrigger@@H@@@@
+.?AV?$CUtlMemory@VCLayerTrigger@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@VSoundEventGuid_t@@VCSndMixGroupTrigger_t@@GV?$CDefLess@VSoundEventGuid_t@@@@@@G@@G@@
+.?AV?$CUtlMemory@Ugrouplevels_t@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@VSoundEventGuid_t@@VCSndMixGroupTrigger_t@@GV?$CDefLess@VSoundEventGuid_t@@@@@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@VSoundEventGuid_t@@VCSndMixGroupTrigger_t@@GV?$CDefLess@VSoundEventGuid_t@@@@@@G@@G@@@@
+.?AVISoundMixGroupSystem@@
+.?AVCSoundMixGroupSystem@@
+.?AV?$CTier2AppSystem@VISoundMixGroupSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VISoundMixGroupSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VISoundMixGroupSystem@@@@
+.?AV?$CBaseAppSystem@VISoundMixGroupSystem@@@@
+.?AVCAudioSource@@
+.?AVCAudioSourceMP3@@
+.?AVCAudioSourceCached@@
+.?AV?$CUtlVectorBase@HV?$CUtlMemory@HH@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UCacheEntry_t@CAsyncWavDataCache@@H@@H@@
+.?AV?$CUtlVectorBase@Ucache_table_t@?$CSimpleDataCache@VCAsyncWaveData@@Uasyncwaveparams_t@@@@V?$CUtlMemory@Ucache_table_t@?$CSimpleDataCache@VCAsyncWaveData@@Uasyncwaveparams_t@@@@H@@@@
+.?AV?$CUtlMemory@Ucache_table_t@?$CSimpleDataCache@VCAsyncWaveData@@Uasyncwaveparams_t@@@@H@@
+.?AV?$CUtlRBTree@UCacheEntry_t@CAsyncWavDataCache@@HP6A_NAEBU12@0@ZV?$CUtlMemory@U?$UtlRBTreeNode_t@UCacheEntry_t@CAsyncWavDataCache@@H@@H@@@@
+.?AVIAsyncWavDataCache@@
+.?AVCAsyncWavDataCache@@
+.?AVCAudioMixer@@
+.?AV?$CUtlMemory@Uaudio_buffer_input_t@@H@@
+.?AV?$CUtlVectorBase@Uaudio_buffer_input_t@@V?$CUtlMemoryFixedGrowable@Uaudio_buffer_input_t@@$03H@@@@
+.?AVCAudioMixerWave@@
+.?AVCAudioMixerWaveADPCM@@
+.?AVIAudioStreamEvent@@
+.?AVCAudioMixerWaveMP3@@
+.?AV?$CUtlVectorBase@FV?$CUtlMemory@FH@@@@
+.?AVCAudioSourceWave@@
+.?AVCAudioSourceMemWave@@
+.?AV?$CUtlVectorBase@VCSoundEventStackParamInfo@@V?$CUtlMemory@VCSoundEventStackParamInfo@@H@@@@
+.?AV?$CUtlVectorBase@VCUtlSymbol@@V?$CUtlMemory@VCUtlSymbol@@H@@@@
+.?AV?$CUtlMemory@V?$CUtlKeyValuePair@IUsoundevent_field_info_t@@@@H@@
+.?AV?$CUtlMemory@VCSoundEventStackParamInfo@@H@@
+.?AV?$CUtlMemory@VCUtlSymbol@@H@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@IPEAVCSoundEvent@@@@H@@
+.?AV?$CUtlVectorBase@V?$CUtlKeyValuePair@IUsoundevent_field_info_t@@@@V?$CUtlMemoryFixedGrowable@V?$CUtlKeyValuePair@IUsoundevent_field_info_t@@@@$01H@@@@
+.?AV?$CUtlVectorBase@PEBDV?$CUtlMemory@PEBDH@@@@
+.?AV?$CUtlMemory@PEBDH@@
+.?AV?$CUtlMemory@Uaudio_device_description_t@@H@@
+.?AVIAudioMix@@
+.?AVIResourceTypeManager@@
+.?AV?$CUtlVectorBase@Uaudio_mix_command_t@@V?$CUtlMemory@Uaudio_mix_command_t@@H@@@@
+.?AV?$CUtlMemory@Umix_debug_outputs_t@@H@@
+.?AV?$CUtlMemory@U?$UtlLinkedListElem_t@UAsyncSoundQueue_t@CSoundSystem@@G@@G@@
+.?AV?$CUtlVectorBase@Uaudio_device_description_t@@V?$CUtlMemory@Uaudio_device_description_t@@H@@@@
+.?AV?$CUtlVectorBase@UEventStartSound_t@@V?$CUtlMemory@UEventStartSound_t@@H@@@@
+.?AV?$CUtlMemory@UEventStartSound_t@@H@@
+.?AV?$CUtlVectorBase@UEventStopSound_t@@V?$CUtlMemory@UEventStopSound_t@@H@@@@
+.?AV?$CUtlMemory@UEventStopSound_t@@H@@
+.?AV?$CUtlVectorBase@PEAVCSfxTable@@V?$CUtlMemory@PEAVCSfxTable@@H@@@@
+.?AV?$CUtlMemory@PEAVCSfxTable@@H@@
+.?AV?$CUtlLinkedList@UAsyncSoundQueue_t@CSoundSystem@@G$0A@GV?$CUtlMemory@U?$UtlLinkedListElem_t@UAsyncSoundQueue_t@CSoundSystem@@G@@G@@@@
+.?AV?$CUtlVectorBase@Umix_debug_outputs_t@@V?$CUtlMemory@Umix_debug_outputs_t@@H@@@@
+.?AVISoundSystem@@
+.?AVISoundSystem2@@
+.?AVIVConCommDataReceived@@
+.?AVCVSoundTypeManager@@
+.?AVCSoundSystem@@
+.?AV?$CTier2AppSystem@VISoundSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VISoundSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VISoundSystem@@@@
+.?AV?$CBaseAppSystem@VISoundSystem@@@@
+.?AVCAudioMix@@
+.?AVCSimpleFilter@@
+.?AV?$CUtlVectorBase@PEAVCAudioSource_PlayerVoiceStream@@V?$CUtlMemory@PEAVCAudioSource_PlayerVoiceStream@@H@@@@
+.?AV?$CUtlMemory@PEAVCAudioSource_PlayerVoiceStream@@H@@
+.?AVCAudioSource_PlayerVoiceStream@@
+.?AV?$CUtlVectorBase@PEADV?$CUtlMemory@PEADH@@@@
+.?AV?$CUtlMemory@PEADH@@
+.?AV?$CUtlMemory@W4PropEdIndirectionType_t@@H@@
+.?AV?$CUtlVectorBase@W4PropEdIndirectionType_t@@V?$CUtlMemory@W4PropEdIndirectionType_t@@H@@@@
+.?AV?$CUtlDict@PEAVCSosOperator@@H@@
+.?AV?$CUtlMemory@PEAUSosOpFieldInfo_t@@H@@
+.?AV?$CUtlVectorBase@PEAUSosOpFieldInfo_t@@V?$CUtlMemoryFixedGrowable@PEAUSosOpFieldInfo_t@@$0BA@H@@@@
+.?AV?$CUtlVectorBase@VCSosEditItem@@V?$CUtlMemoryFixedGrowable@VCSosEditItem@@$0IA@H@@@@
+.?AV?$CUtlMemory@VCSosEditItem@@H@@
+.?AV?$CUtlVectorBase@USosEditItemInfo_t@@V?$CUtlMemoryFixedGrowable@USosEditItemInfo_t@@$0CAA@H@@@@
+.?AV?$CUtlMemory@USosEditItemInfo_t@@H@@
+.?AVISoundOpSystemEdit@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AVCSosEdit@@
+.?AV?$CTier2AppSystem@VISoundOpSystemEdit@@$0A@@@
+.?AV?$CTier1AppSystem@VISoundOpSystemEdit@@$0A@@@
+.?AV?$CTier0AppSystem@VISoundOpSystemEdit@@@@
+.?AV?$CBaseAppSystem@VISoundOpSystemEdit@@@@
+.?AV?$CUtlMemory@Uvcon_SoundViewerBlockItem_t@@H@@
+.?AV?$CUtlVectorBase@Uvcon_SoundViewerBlockItem_t@@V?$CUtlMemory@Uvcon_SoundViewerBlockItem_t@@H@@@@
+.?AV?$CUtlVectorBase@USosOpFieldInfo_t@@V?$CUtlMemory@USosOpFieldInfo_t@@H@@@@
+.?AV?$CUtlMemory@USosOpFieldInfo_t@@H@@
+.?AVCSosOperator@@
+.?AVCSosDependent@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEBDPEAVCSosOperator@@HP6A_NAEBQEBD0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDPEAVCSosOperator@@HP6A_NAEBQEBD0@Z@@H@@H@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDPEAVCSosOperator@@HP6A_NAEBQEBD0@Z@@H@@H@@
+.?AVCSosOperatorBlockEvents@@
+.?AVCSosOperatorBlockTest@@
+.?AVCSosOperatorConvar@@
+.?AVCSosOperatorSetConvar@@
+.?AVCSosOperatorDelta@@
+.?AVCSosOperatorDistantDSP@@
+.?AVCSosOperatorEntityInfo@@
+.?AVCSosOperatorPointContents@@
+.?AVCSosOperatorDotaGroundUnderWater@@
+.?AVCSosOperatorFalloff@@
+.?AVCSosOperatorFalloffVR@@
+.?AVCSosOperatorFloatFilter@@
+.?AVCSosOperatorIterateAndMergeSpeakers@@
+.?AVCSosOperatorFunc1@@
+.?AVCSosOperatorFloat@@
+.?AVCSosOperatorVec3@@
+.?AVCSosOperatorString64@@
+.?AVCSosOperatorSpeakers@@
+.?AVCSosOperatorFloatAccumulate12@@
+.?AVCSosOperatorDistance@@
+.?AVCSosOperatorPointOnLine@@
+.?AVCSosOperatorRemapValue@@
+.?AVCSosOperatorCurve4@@
+.?AVCSosOperatorFacing@@
+.?AVCSosOperatorRandom@@
+.?AVCSosOperatorRandomizeFloat@@
+.?AVCSosOperatorRandomFloat3@@
+.?AVCSosOperatorLogicSwitch@@
+.?AVCSosOperatorLogicSwitch3Float@@
+.?AVCSosOperatorLogicSwitchFloat3@@
+.?AVCSosOperatorLogicSwitch3Float3@@
+.?AVCSosOperatorVelocity@@
+.?AVCSosOperatorInRangeFloat@@
+.?AVCSosOperatorMathAverage8@@
+.?AVCSosOperatorMixGroup@@
+.?AVCSosOperatorMixTrigger@@
+.?AVCSosOperatorMixLayer@@
+.?AVCSosOperatorMixLayerAmount@@
+.?AVCSosOperatorOcclusion@@
+.?AVCSosOperatorGetOpVarInfo@@
+.?AVCSosOperatorSetOpVarFloat@@
+.?AVCSosOperatorGetOpVarFloat@@
+.?AVCSosOperatorIncrementOpVarFloat@@
+.?AVCSosOperatorSetOpVarFloat3@@
+.?AVCSosOperatorGetOpVarFloat3@@
+.?AVCSosOperatorSetOpVarString@@
+.?AVCSosOperatorGetOpVarString@@
+.?AVCSosOperatorGetOpVarVsnd@@
+.?AVCSosOperatorGetOpVarArrayIndex@@
+.?AVCSosOperatorPosVec8@@
+.?AVCSosOperatorPlayVSnd@@
+.?AVCSosOperatorSubmix@@
+.?AVCSosOperatorImportStack@@
+.?AVCSosOperatorReferenceStack@@
+.?AVCSosOperatorStackControl@@
+.?AVCSosOperatorGoTo@@
+.?AVCSosOperatorStackInfo@@
+.?AVCSosOperatorSetEventInfo@@
+.?AVCSosOperatorGlobals@@
+.?AVCSosOperatorSourceInfo@@
+.?AVCSosOperatorSpatializeSpeakers@@
+.?AVCSosOperatorSpatializeVR@@
+.?AVCSosEventInfo_t@@
+.?AVCSosEventInfoWithFieldData_t@@
+.?AVCSosStartSoundEventInfo_t@@
+.?AVCSosStartSoundEventQueueInfo_t@@
+.?AVCSosOperatorStartSoundEvent@@
+.?AVCSosOperatorStopSoundEvents@@
+.?AVCSosOperatorTimer@@
+.?AVCSosOperatorTimerRamp@@
+.?AVCSosOperatorIntervalTimer@@
+.?AVCSosOperatorQueueToTrack@@
+.?AVCSosOperatorStopTrack@@
+.?AVCSosOperatorNull@@
+.?AVCSosOperatorFloatToSpeakers@@
+.?AVCSosOperatorFloat3ToFloat@@
+.?AVCSosOperatorFloatToFloat3@@
+.?AVCSosOperatorPrintFloat@@
+.?AVCSosOperatorPrintFloat3@@
+.?AVCSosOperatorPrintString@@
+.?AVCSosOperatorPrintVsnd@@
+.?AVCBaseIntrospectedTypeManager@@
+.?AVCSosSetSoundEventFieldsInfo_t@@
+.?AVCSosSetLibraryStackFieldsInfo_t@@
+.?AVISoundEventManager@@
+.?AVCVSoundEventScriptTypeManager@@
+.?AV?$CDefaultIntrospectedTypeManager@$0HDHEHGGFGEGOHDHG@UVSoundEventScript_t@@@@
+.?AV?$CUtlDict@PEAVCSosOperatorStack@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEAVCSosDependent@@HGP6A_NAEBQEAV1@0@Z@@G@@G@@
+.?AV?$CUtlMemory@USosOpFieldInfoList_t@@H@@
+.?AV?$CUtlMemory@USosOpConnectionList_t@@H@@
+.?AV?$CUtlMemory@USosOpConnection_t@@H@@
+.?AV?$CUtlVectorBase@UStackOpInfo_t@CSosOperatorStack@@V?$CUtlMemory@UStackOpInfo_t@CSosOperatorStack@@H@@@@
+.?AV?$CUtlMemory@UStackOpInfo_t@CSosOperatorStack@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IPEAUSosOpFieldMapInfo_t@@GV?$CDefLess@I@@@@G@@G@@
+.?AV?$CUtlVectorBase@VCSosStackExecInfo_t@CSosStackExecutionList@@V?$CUtlMemory@VCSosStackExecInfo_t@CSosStackExecutionList@@H@@@@
+.?AV?$CUtlMemory@VCSosStackExecInfo_t@CSosStackExecutionList@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@VSoundEventGuid_t@@HGV?$CDefLess@VSoundEventGuid_t@@@@@@G@@G@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IPEAVCSosOperatorStack@@GV?$CDefLess@I@@@@G@@G@@
+.?AV?$CUtlVectorBase@UEntry_t@?$CSosMessageQueue@VSoundEventGuid_t@@@@V?$CUtlMemory@UEntry_t@?$CSosMessageQueue@VSoundEventGuid_t@@@@H@@@@
+.?AV?$CUtlMemory@UEntry_t@?$CSosMessageQueue@VSoundEventGuid_t@@@@H@@
+.?AV?$CUtlVectorBase@UEntry_t@?$CSosMessageQueue@I@@V?$CUtlMemory@UEntry_t@?$CSosMessageQueue@I@@H@@@@
+.?AV?$CUtlMemory@UEntry_t@?$CSosMessageQueue@I@@H@@
+.?AV?$CUtlMemory@IH@@
+.?AV?$CUtlMemory@DH@@
+.?AV?$CUtlMemory@Uvcon_SoundViewerSoundEventsItem_t@@H@@
+.?AV?$CUtlVectorBase@Uvcon_SoundViewerSoundEventsItem_t@@V?$CUtlMemory@Uvcon_SoundViewerSoundEventsItem_t@@H@@@@
+.?AV?$CUtlVectorBase@_KV?$CUtlMemory@_KH@@@@
+.?AV?$CUtlMemory@_KH@@
+.?AV?$CUtlVectorBase@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@
+.?AV?$CUtlMemory@VCUtlString@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEAVCSosDependent@@HGP6A_NAEBQEAV1@0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEAVCSosDependent@@HGP6A_NAEBQEAV1@0@Z@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@IPEAUSosOpFieldMapInfo_t@@GV?$CDefLess@I@@@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IPEAUSosOpFieldMapInfo_t@@GV?$CDefLess@I@@@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@VSoundEventGuid_t@@HGV?$CDefLess@VSoundEventGuid_t@@@@@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@VSoundEventGuid_t@@HGV?$CDefLess@VSoundEventGuid_t@@@@@@G@@G@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@IPEAVCSosOperatorStack@@GV?$CDefLess@I@@@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@IPEAVCSosOperatorStack@@GV?$CDefLess@I@@@@G@@G@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDPEAVCSosOperatorStack@@HP6A_NAEBQEBD0@Z@@H@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEBDPEAVCSosOperatorStack@@HP6A_NAEBQEBD0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDPEAVCSosOperatorStack@@HP6A_NAEBQEBD0@Z@@H@@H@@@@
+.?AV?$CUtlVectorBase@USosOpFieldInfoList_t@@V?$CUtlMemory@USosOpFieldInfoList_t@@H@@@@
+.?AV?$CUtlVectorBase@USosOpConnectionList_t@@V?$CUtlMemory@USosOpConnectionList_t@@H@@@@
+.?AV?$CUtlVectorBase@PEAUSosOpFieldInfo_t@@V?$CUtlMemory@PEAUSosOpFieldInfo_t@@H@@@@
+.?AV?$CUtlVectorBase@USosOpConnection_t@@V?$CUtlMemory@USosOpConnection_t@@H@@@@
+.?AV?$CUtlVectorBase@IV?$CUtlMemory@IH@@@@
+.?AV?$CUtlVectorBase@DV?$CUtlMemory@DH@@@@
+.?AVISoundOpSystem@@
+.?AVCSosOperatorStackCollection@@
+.?AVCVSoundStackScriptTypeManager@@
+.?AV?$CDefaultIntrospectedTypeManager@$0GLGDHEHDGEGOHDHG@UVSoundStackScript_t@@@@
+.?AVCSoundOpSystem@@
+.?AV?$CTier2AppSystem@VISoundOpSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VISoundOpSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VISoundOpSystem@@@@
+.?AV?$CBaseAppSystem@VISoundOpSystem@@@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@IUsos_track_data_t@CSosTrackSystem@@@@H@@
+.?AV?$CUtlMemory@Uvcon_SoundViewerTracksItem_t@@H@@
+.?AV?$CUtlVectorBase@Uvcon_SoundViewerTracksItem_t@@V?$CUtlMemory@Uvcon_SoundViewerTracksItem_t@@H@@@@
+.?AVIAtomicManipulator@@
+.?AVISchemaManipulator@@
+.?AVCSchemaClassBindingBase@@
+.?AVISchemaBinding@@
+.?AVCSchemaEnumBindingBase@@
+.?AU?$CAtomicManipulator@VVector2D@@@@
+.?AU?$CAtomicManipulator@VCUtlString@@@@
+.?AV?$CSchemaManipulator@VVector2D@@@@
+.?AV?$CSchemaManipulator@VCUtlString@@@@
+.?AV?$CUtlVectorBase@USosEditItemInfo_t@@V?$CUtlMemory@USosEditItemInfo_t@@H@@@@
+.?AVISchemaCollectionManipulator@@
+.?AV?$CSchemaEnumBinding@W4SosEditItemType_t@@@@
+.?AV?$CSchemaClassBinding@USosEditItemInfo_t@@@@
+.?AV?$CSchemaClassBinding@USelectedEditItemInfo_t@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@USosEditItemInfo_t@@V?$CUtlMemory@USosEditItemInfo_t@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@USosEditItemInfo_t@@V?$CUtlMemory@USosEditItemInfo_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@USosEditItemInfo_t@@V?$CUtlMemory@USosEditItemInfo_t@@H@@@@USosEditItemInfo_t@@@@
+.?AU?$CAtomicManipulator@VCResourceString@@@@
+.?AV?$CSchemaManipulator@VCResourceString@@@@
+.?AV?$CSchemaClassBinding@UVSoundEvent_t@@@@
+.?AV?$CSchemaClassBinding@UVSoundEventScript_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVSoundEvent_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVSoundEvent_t@@@@@@
+.?AV?$CSchemaClassBinding@UVSoundStack_t@@@@
+.?AV?$CSchemaClassBinding@UVSoundStackScript_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVSoundStack_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVSoundStack_t@@@@@@
+.?AVCSchemaRegistration@@
+.?AVCSchemaRegistration_soundsystem@@
+.?AVCPostConnectCallback@@
+.?AV?$ISchemaSearchTester@PEBVCSchemaClassInfo@@@@
+.?AUCValueSearchTester_ClassIntrospectionHandle_t@MDiskDataForResourceType@@
+.?AVIResourceAllocatorUtils@@
+.?AVCResourceAllocatorUtils@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@VResourceId_t@@PEBD@@H@@
+.?AVCSchemaVisitorBase@@
+.?AVCSchemaFieldVisitor@@
+.?AVCExtrefTraversal@@
+.?AVCResourceReferenceFixupTraversal@@
+.?AVCReferenceCleanupTraversal@@
+.?AVIStack_Annotation@@
+.?AV?$CSchemaFieldVisitorInfoMap@VCExtrefTraversal@@@@
+.?AVCSchemaVisitorInfoMapBase@@
+.?AV?$CStackAnnotation@PEBVCSchemaClassField@@_NXXXXXXX@@
+.?AV?$CUtlMemory@EH@@
+.?AV?$CUtlVectorBase@VCUtlStringToken@@V?$CUtlMemoryFixedGrowable@VCUtlStringToken@@$07H@@@@
+.?AV?$CUtlMemory@VCUtlStringToken@@H@@
+.?AV?$CUtlVectorBase@PEBDV?$CUtlMemoryFixedGrowable@PEBD$07H@@@@
+.?AV?$CUtlVectorBase@PEAVKeyValues3@@V?$CUtlMemoryFixedGrowable@PEAVKeyValues3@@$07H@@@@
+.?AV?$CUtlMemory@PEAVKeyValues3@@H@@
+.?AV?$CUtlVectorBase@EV?$CUtlMemoryFixedGrowable@E$07H@@@@
+.?AV?$CUtlVectorBase@PEAVCKeyValues3Cluster@@V?$CUtlMemoryFixedGrowable@PEAVCKeyValues3Cluster@@$07H@@@@
+.?AV?$CUtlMemory@PEAVCKeyValues3Cluster@@H@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@V?$CUtlMemory@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_J@@_J@@
+.?AV?$CUtlRBTree@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_JV?$CTreeEntryLess@V?$CNonThreadsafeTree@$0A@@@$0A@@@V?$CUtlMemory@U?$UtlRBTreeNode_t@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_J@@_J@@@@
+.?AV?$CUtlVectorBase@EV?$CUtlMemoryFixedGrowable@E$0EAA@H@@@@
+.?AV?$CUtlMemory@VCUtlTokenReference@@H@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@PEBVCSchemaClassInfo@@PEAVCClassVisitInfo@@@@H@@
+.?AV?$CUtlVectorBase@UFieldInfo_t@CClassVisitInfo@@V?$CUtlMemory@UFieldInfo_t@CClassVisitInfo@@H@@@@
+.?AV?$CUtlMemory@UFieldInfo_t@CClassVisitInfo@@H@@
+.?AV?$CUtlMemory@UClassToTraverse_t@CSchemaInheritanceIterator@@H@@
+.?AV?$CUtlVectorBase@UClassToTraverse_t@CSchemaInheritanceIterator@@V?$CUtlMemoryFixedGrowable@UClassToTraverse_t@CSchemaInheritanceIterator@@$07H@@@@
+.?AVCAudioDeviceNull2@@
+.?AUIXAudio2EngineCallback@@
+.?AUIXAudio2VoiceCallback@@
+.?AVCAudioXAudio2@@
+.?AVCXAudioCallbacks@@
+.?AVCAudioDirectSound2@@
+.?AVCAudioSDL@@
+.?AUIUnknown@@
+.?AUIMMNotificationClient@@
+.?AVCMMNotificationClient@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@UCallbackInfo_t@ConCommand@@V?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@@@
+.?AV?$CUtlMemory@UCallbackInfo_t@ConCommand@@H@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVConCommand@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AVexception@std@@
+.?AVbad_cast@std@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@CUtlSymbolTable@@V?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@
+.?AV?$CUtlRBTree@VCStringPoolIndex@CUtlSymbolTable@@GVCLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@@@
+.?AV?$CUtlVectorBase@PEAVKeyValues@@V?$CUtlMemory@PEAVKeyValues@@H@@@@
+.?AV?$CUtlMemory@PEAVKeyValues@@H@@
+.?AV?$CUtlVectorBase@VCUtlTokenReference@@V?$CUtlMemoryFixedGrowable@VCUtlTokenReference@@$07H@@@@
+.?AV?$CUtlVectorBase@UTokenWarning_t@@V?$CUtlMemory@UTokenWarning_t@@H@@@@
+.?AV?$CUtlMemory@UTokenWarning_t@@H@@
+.?AVCSchemaInstallCallback@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AV__non_rtti_object@std@@
+.?AVbad_typeid@std@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+?UUUUUU
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z

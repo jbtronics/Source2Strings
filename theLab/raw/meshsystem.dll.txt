@@ -1,0 +1,3524 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@_RDATA
+@.reloc
+|$ ATAVAWH
+ A_A^A\
+h0B9|5P~.H
+@UATAUAVAWH
+epA_A^A]A\]
+VWATAVAWH
+0A_A^A\_^
+p0B9|6P~/H
+@UATAUAVAWH
+e`A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+@UWATAUAWH
+p0B9|6P~/H
+ A_A]A\_]
+L$ SWATAUAWH
+0A_A]A\_[
+L$ SWATAUAWH
+0A_A]A\_[
+t$0uEL9s8u?
+l$ VWAVH
+uML9s8uG
+G(H9C(u
+USVWAVH
+|$8-VUUUL
+t$ WAVAWH
+UVWAVAWH
+0A_A^_^]
+|$ AUAVAWH
+ A_A^A]
+|$ AUAVAWH
+ A_A^A]
+8YhuuLcAxH
+|$ Mc~xE;
+SUVWAVH
+|$@+|$X
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+UVWATAWH
+A_A\_^]
+\$ UVWATAUAVAWH
+ A_A^A]A\_^]
+|$ AUAVAWH
+ A_A^A]
+d$(D;fHu
+$J	D)0E
+l$0L;l$H
+L$ SWATAUAVH
+0A^A]A\_[
+USVWATAVAWH
+l$HLcu(E;
+L$`A;U4
+D$X;T$p
+A_A^A\_^[]
+VWATAUAVH
+ A^A]A\_^
+;D$@tFf
+@UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAUAVAWH
+e@A_A^A]A\]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+VWAUAWH
+Lcl$@LcL$,LcD$0
+Lc\$(Ic
+T$HLc\$(
+T$HLc\$(A
+D$$LcD$0H
+VWAUAWH
+Lcl$@LcL$,LcD$0
+Lc\$(Ic
+T$HLc\$(
+T$HLc\$(A
+D$$LcD$0H
+USVWATAUAVAW
+A_A^A]A\_^[]
+l$ VWAVH
+UWATAUAVH
+@A^A]A\_]
+@SVWATAUH
+D$HLcx(M
+A]A\_^[
+@SUVWAUAWH
+A_A]_^][
+L$xHcA(H
+\$ WAVAWH
+p0B9|>P~/I
+fE94(t/E
+SUAVAWH
+t*fD	x(H
+UWAVAWH
+UVAVAWH
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+l$ VAUAWH
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+SWATAUH
+(A]A\_[
+@VATAUH
+\$ VATAVH
+d$ UAVAWH
+LcfPMcwPI
+A HcZ8Lc
+WATAUAVAWH
+taIcN8I
+ A_A^A]A\_
+t$ UWATAVAWH
+A_A^A\_]
+ Hcy E3
+VATAUAWH
+XA_A]A\^
+@UATAUAVAWH
+e@A_A^A]A\]
+L$ SWATAUAWH
+0A_A]A\_[
+SUWATAUAWH
+XA_A]A\_][
+UWAUAVH
+x3D;@`}-HcH\H
+@SUWAWH
+}1HcH H
+WATAUAVAWH
+ A_A^A]A\_
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+@UATAUAVH
+(A^A]A\]
+@UATAUAVH
+(A^A]A\]
+@UWATAUH
+(A]A\_]
+@USVWAVH
+G\HcGXH
+@SATAWH
+|$ ATAVAWH
+ A_A^A\
+H UATAUAVAWH
+\$@HcEgH;
+A_A^A]A\]
+T$8+G$A
+H9D$@uFI;
+|$X+|$hM
+OhHcT$T
+{ ATAVAWH
+@UATAUAVAWH
+A_A^A]A\]
+x UATAUAVAWH
+A_A^A]A\]
+L$hHcT$xHc\$pH
+@USATAVAWH
+A_A^A\[]
+UVAUAVH
+@SVWAWH
+USVWATAVH
+A^A\_^[]
+VWATAVAWH
+ A_A^A\_^
+WATAUAVAWH
+@A_A^A]A\_
+H9w0u%H
+vpcft	H
+@USVWATAWH
+A_A\_^[]
+L$ SWAVH
+UUUUUUUUH
+33333333H
+UVWATAUAVAWH
+D$h;sXu
+A_A^A]A\_^]
+t$ WATAUAVAWH
+UUUUUUUUI
+33333333I
+0A_A^A]A\_
+@UATAUAVAWH
+e0A_A^A]A\]
+HcwH;wX
+|$XHc:H
+UUUUUUUUH
+33333333H+
+@UVWAWH
+T$8+G$Hc
+HcG$LcO
+T$8+G$A
+HcG$LcO
+T$8+G$A
+@USVWATH
+9HcD$HH
+x.;C })Hc
+WATAUAVAWH
+@A_A^A]A\_
+VWATAVAWH
+ A_A^A\_^
+WATAUAVAWH
+@A_A^A]A\_
+S @8n(t L
+L$p;k8|
+Hc~8;~H
+9\$(~>A
+</t?<\t;H
+L$ SVWH
+A0t#H9I8u
+@UAVAWH
+e A_A^]
+@SAVAWH
+l$@HckxH
+D$<9T$0wR9T$4wL9T$8wF;
+)t$PH9[8t
+)|$PH9[8t
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+`A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+t(HcC$HcK
+fffffff
+ATAVAWH
+ A_A^A\
+fffffff
+.ffffff
+fffffff
+0ffffff
+fffffff
+VWATAVAWH
+A_A^A\_^
+p WATAUAVAWH
+A_A^A]A\_
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+USVWAVH
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+@ffffff
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+SVWATAUAVAWUH
+]A_A^A]A\_^[
+!\$0!\$(!\$ L
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+t$ WATAUAVAWH
+0A_A^A]A\_
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+t$ WAVAWH
+UVWATAUAVAWH
+$tPH9\$@t>
+A_A^A]A\_^]
+UWATAVAWH
+uMM9'tHH
+uQM91tLH
+A_A^A\_]
+<1~-<3~ <4t5<5t
+UATAUAVAWH
+A_A^A]A\]
+D8t$HuD
+(D$@L9t$ t0H
+D$(D8t$(u\H
+x UAVAWH
+|$ UATAUAVAWH
+A_A^A]A\]
+,0<	w!A
+SATAUAWUH
+]A_A]A\[
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+AUAVAWH
+0A_A^A]
+@SUVWATAVAWH
+PA_A^A\_^][
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+@SVWATAWH
+T$ L;l$`~=L
+A_A\_^[
+D$0H;L$X}
+@UAVAWH
+H(H9J(u
+Release
+meshsystem
+meshsystem.dll
+memoverride MallocUnattributed
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memoverride.cpp
+memoverride ReallocUnattributed
+purecall
+invalid_parameter
+CTSListBase: Misaligned list
+CTSListBase::CTSListBase
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\tslist.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\stronghandle.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\meshsystem\meshinstance.h
+CMeshInstance::DestroyOwnedVBAndIB
+m_pFixedMeshDataOverride
+c:\buildslave\vrgdc2015_staging_win64\build\src\meshsystem\meshinstance_imp.cpp
+CMeshInstance_Imp::operator new
+nSize == sizeof( CMeshInstance_Imp )
+Trying to override the same draw call with two different materials!
+Only the last override will be set!
+CMeshInstance_Imp::AppendDrawCallMeshHelper
+bOwnVBAndIB == m_bOwnVBAndIB && m_pFixedMeshDataOverride
+Assertion Failed in function %s():
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+g_pResourceHandleUtils
+Encountered too many releases for resource "%s"
+CStrongHandle<struct InfoForResourceTypeCRenderMesh>::Shutdown
+CStrongHandle<struct InfoForResourceTypeCModel>::Shutdown
+MemAllocClassName
+CUtlMemory::Grow
+Unaccounted
+CUtlMemory<int,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+RESOURCE_TYPE_MODEL
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\iresourcesystem.h
+IResourceTypeManager::GetNonStreamingDataLoadSize
+IResourceTypeManager::LoadStreamingData
+WARNING: Trying to create a CRenderContextPtr without a valid context.
+texcoord
+Physics interface checksum is 0x%08X, expected 0x%08X. One of the binaries is out of date, please rebuild %s.
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\vphysics2\handles.h
+VPhysicsVersionCheck
+!"Physics interface checksum fail, some binaries are out of date, please rebuild"
+MeshSystem001
+MeshSystem
+VModelError
+c:\buildslave\vrgdc2015_staging_win64\build\src\meshsystem\meshsystem.cpp
+models/dev/error.vmdl
+CModelTypeManager::GetErrorResource(141): GetErrorModel() called before error model exists!
+%s AppendModelMeshesAndAnimations took %8.3f msec
+ResourceSystem009
+resourcesystem
+VMaterialSystem2_001
+materialsystem2
+VPhysics2_Interface_001
+vphysics2
+VPhysics2_Handle_Interface_001
+AnimationSystem_001
+animationsystem
+MeshUtils001
+CMeshSystem::CreateSceneObjectForSceneSystem
+sceneObjects.Count() == 1
+No scene objects loaded for render mesh!
+AnimatableSceneObjectDesc
+ERROR: CreateProjectedDecal cannot find scene world %p!
+CMeshSystem::CreateProjectedDecal
+CMeshSystem::DestroyProjectedDecal
+projectedDecal
+CMeshSystem::CreateSceneObjectForDecal(697): 
+CMeshSystem::RemoveDecalDrawDataRefCounted
+nIndex != m_decalDrawData.InvalidHandle()
+CMeshSystem::DestroyProjectedDecals
+m_decalDrawData.Count() == 0
+ProjectedDecal
+CMeshSystem::GetDecalIB(909): 
+CBaseIntrospectedTypeManager:  Missing TYPEMETA MDiskDataForResourceType
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcefile\introspectedtypemanager.h
+CBaseIntrospectedTypeManager:  Bindings don't match.
+CDefaultIntrospectedTypeManager<1818520950,struct PermModelData_t>::Init
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlhash.h
+CUtlHash<class CModel_Imp *,bool (__cdecl*)(class CModel_Imp * const &,class CModel_Imp * const &),unsigned int (__cdecl*)(class CModel_Imp * const &)>::Remove
+IsValidHandle( handle )
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlrbtree.h
+CUtlRBTree<struct CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::Node_t,unsigned short,class CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::Node_t,unsigned short>,unsigned short> >::Find
+!!m_LessFunc
+CUtlRBTree<struct CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::Node_t,unsigned short,class CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+m_Root == InvalidIndex()
+m_FirstFree == InvalidIndex()
+m_NumElements == 0
+CUtlHash<class CDecalDrawDataRefCounted *,bool (__cdecl*)(class CDecalDrawDataRefCounted * const &,class CDecalDrawDataRefCounted * const &),unsigned int (__cdecl*)(class CDecalDrawDataRefCounted * const &)>::Remove
+CStrongHandle<struct InfoForResourceTypeIMaterial2>::Shutdown
+CUtlHash<class CModel_Imp *,bool (__cdecl*)(class CModel_Imp * const &,class CModel_Imp * const &),unsigned int (__cdecl*)(class CModel_Imp * const &)>::BuildHandle
+( ndxBucket >= 0 ) && ( ndxBucket < 65536 )
+( ndxKeyData >= 0 ) && ( ndxKeyData < 65536 )
+CUtlRBTree<struct CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::Node_t,unsigned short,class CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+CUtlHash<class CDecalDrawDataRefCounted *,bool (__cdecl*)(class CDecalDrawDataRefCounted * const &,class CDecalDrawDataRefCounted * const &),unsigned int (__cdecl*)(class CDecalDrawDataRefCounted * const &)>::BuildHandle
+Unaccounted
+CUtlMemory<class CModel_Imp *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class CWeakHandle<struct InfoForResourceTypeCModel>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+CUtlRBTree<struct CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::Node_t,unsigned short,class CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+m_Elements.IsValidIterator( m_LastAlloc ) || m_NumElements == 0
+m_Elements.IsValidIterator( it )
+m_Elements.IsValidIterator( m_LastAlloc )
+Unaccounted
+CUtlMemory<struct VertexBufferHandle_t__ *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class ISceneWorld *,class CPerSceneWorldDecalInfo *,unsigned short,bool (__cdecl*)(class ISceneWorld * const &,class ISceneWorld * const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class CDecalDrawDataRefCounted *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class CProjectedDecal *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class CUtlVector<class CModel_Imp *,class CUtlMemory<class CModel_Imp *,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class CUtlVector<class CDecalDrawDataRefCounted *,class CUtlMemory<class CDecalDrawDataRefCounted *,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\rendersystem\vertexdata.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\scenesystem\sceneobject.h
+ISceneObjectDesc::DrawArrayExt
+GameStartup
+c:\buildslave\vrgdc2015_staging_win64\build\src\meshsystem\meshutils.cpp
+materials/tools/show_skeleton.vmat
+g_hSkeletonMeshLayout
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\scenesystem\memoryvertex.h
+DrawIndexedTriangles
+( indices.IndexCount() % 3 ) == 0
+DrawIndexedTriangles(159): 
+CVertexDataBase<struct SkeletonMeshVertex_t>::AdvanceVertex
+CVertexDataBase - No storage!
+CVertexDataBase - Tried to advance past the last vertex (%d)
+Unaccounted
+CUtlMemory<struct SkeletonMeshVertex_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class CUtlVector<int,class CUtlMemory<int,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<float,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class matrix3x4a_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<struct VertexColor_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<enum ModelSkeletonData_t::BoneFlags_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\meshsystem\morphset.h
+CMorphSet::GetFlexController
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\modellib\modelbuilder.h
+Model %s: Attempted to attach attachment %s to an unknown bone %s!
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlstringmap.h
+CUtlStringMap<int,class CUtlSymbolTable>::operator []
+n <= m_Vector.Count()
+CUtlHash<struct DefaultMaterialGroupIndex_t,bool (__cdecl*)(struct DefaultMaterialGroupIndex_t const &,struct DefaultMaterialGroupIndex_t const &),unsigned int (__cdecl*)(struct DefaultMaterialGroupIndex_t const &)>::BuildHandle
+Unaccounted
+CUtlMemory<struct CModel::BodyPart_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<struct AttachmentPairing_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<struct FlexController_t const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<struct DefaultMaterialGroupIndex_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class CUtlStringToken,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<unsigned short,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<struct FlexControllerMapping_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<struct FlexDescMapping_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class CMorphSet *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+CUtlHash<struct CUtlHashDict<struct MorphData_t const *,0,0>::Entry_t,class CUtlHashDict<struct MorphData_t const *,0,0>::CCompare<0>,class CUtlHashDict<struct MorphData_t const *,0,0>::CHash<0> >::BuildHandle
+Unaccounted
+CUtlMemory<struct FlexRule_t const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<struct CUtlHashDict<struct MorphData_t const *,0,0>::Entry_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class CUtlVector<struct CUtlHashDict<struct MorphData_t const *,0,0>::Entry_t,class CUtlMemory<struct CUtlHashDict<struct MorphData_t const *,0,0>::Entry_t,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\resourcehandle.h
+ResourceRelease
+g_pResourceSystem
+hResource->m_nDeferredCount <= hResource->m_nRefCount
+hResource->m_nDeferredCount > 0
+hResource->m_nRefCount > 0
+hResource->m_nDeferredCount < hResource->m_nRefCount
+hResource->m_nDeferredCount >= 0
+HMorphSet
+RESOURCE_TYPE_MORPHSET_PREDEFINED
+c:\buildslave\vrgdc2015_staging_win64\build\src\meshsystem\morphsetmgr.cpp
+CDefaultIntrospectedTypeManager<440006569334,struct MorphSetData_t>::Init
+MeshSystem::InitPosedProp: Bone mismatch between transforms out (%d) and transforms in skeleton (%d)
+HRenderMesh
+RESOURCE_TYPE_RENDERMESH
+m_pMemory
+tangent
+IsValid()
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\kv3transfer_saveloadresource.h
+CKV3Transfer_ResourceLoadInterface::FindExistingResource
+hResource != RESOURCE_HANDLE_INVALID
+Failed to find default-value resource '%s' - must already be resident!
+CKV3Transfer_ResourceLoadInterface::HandleResourceReference
+Tried to load resource reference '%s' from a value without a resource reference flag.
+Tried to load deferred reference '%s' from a value without a deferred reference flag.
+VMeshError
+c:\buildslave\vrgdc2015_staging_win64\build\src\meshsystem\rendermeshmgr.cpp
+models/dev/error.vmesh
+CMeshRayTrace::GetMeshTraceData
+pTraceData
+pTraceData->IsValidIndex( nId )
+CRenderMeshManager::CRenderMeshManager
+!g_pRenderMeshManager
+CRenderMeshManager::CreateBufferResources
+CRenderMeshManager::CreateBufferResources(251): 
+pBufferData->m_nElementSizeInBytes == 3 * sizeof( float )
+Only position VBs are supported on the CPU.
+pBufferData->m_nElementSizeInBytes == 2
+Only uint16 index buffers are supported
+MeshSystemDrawRenderable
+nVertexBuffers
+CRenderMeshManager::UpdateTranslucencyFlags
+pInstance->m_pSceneObject
+AllocateResource: Cannot find DATA block in resource %s!
+Bad KV3 data for resource '%s': %s
+KV3 load transfer failed for resource '%s': %s
+AllocateResource: Cannot find VBIB block in resource %s!
+AllocateResource: Cannot find VBIB data in resource %s!
+WARNING: Invalid mesh version '%d' for file: %s
+CDefaultTypesafeIntrospectedTypeManager<448612625782,struct PermRenderMeshData_t>::Init
+CUtlRBTree<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short,class CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short>,unsigned short> >::Find
+CUtlRBTree<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short,class CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAt
+position
+blendindices
+blendweight
+AddDrawToTraceList
+Unhandled normal format.
+CStrongHandle<struct ResourceBindingVoid_t>::Shutdown
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlblockmemory.h
+CUtlBlockMemory<struct CacheOptimizedTriangle_t,int>::operator []
+IsIdxValid(i)
+CUtlRBTree<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short,class CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short>,unsigned short> >::FreeNode
+IsValidIndex(i) && (i != InvalidIndex())
+CUtlRBTree<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short,class CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short>,unsigned short> >::FindInsertionPosition
+Unaccounted
+CUtlMemory<struct TraceDataForDraw_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+CUtlBlockMemory<struct CacheOptimizedTriangle_t,int>::Init
+m_nIndexMask + 1 == ( 1 << m_nIndexShift )
+CUtlRBTree<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short,class CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short>,unsigned short> >::NewNode
+CUtlRBTree<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short,class CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short>,unsigned short> >::RemoveAll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<class CWeakHandle<struct InfoForResourceTypeCRenderMesh>,class CMeshRayTrace *,unsigned short,bool (__cdecl*)(class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &,class CWeakHandle<struct InfoForResourceTypeCRenderMesh> const &)>::Node_t,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+CUtlBlockMemory<struct CacheOptimizedTriangle_t,int>::ChangeSize
+CUtlBlockMemory overflow!
+m_pMemory[ i ]
+?PartiallyTranslucentObjectDesc
+c:\buildslave\vrgdc2015_staging_win64\build\src\meshsystem\sceneobjecthelpers.cpp
+CMeshSystem::FindAllMeshInstancesWithMesh
+pObject
+g_pSceneSystem->GetSceneObjectDesc( "PartiallyTranslucentObjectDesc" ) returned NULL!
+CreateSceneObject
+Unaccounted
+CUtlMemory<class CSceneObject *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<class CMeshInstance *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+CUtlString
+CUtlVector
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\schema.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemaclassinfo.h
+CSchemaClassInfo::CompleteInitialization
+m_pOuterTypeScope != NULL
+CSchemaClassInfo::CompleteInitializationInternal
+!m_bInitialized
+m_pTypeOf != NULL
+Double-save to Member '%s'
+ConstraintTarget_t
+ConstraintSlave_t
+CBaseConstraint
+m_nConstraintType
+m_vUpVector
+m_slaves
+m_targets
+From Class Binding
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\meshsystem\release\win64\boneconstraints_h_schema.gen_cpp
+CBaseConstraint::Schema_VerifyBindingIsRegistered
+( g_pSchemaSystem == NULL ) || (s_pSchemaBinding != NULL)
+WARNING: Trying to access schema binding '%s' before bindings were registered in this module!
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\baseschema.h
+CSchemaClassBindingBase::RegBase
+m_pSchemaType != NULL
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemasystem\schemabinding.h
+Unaccounted
+CUtlMemory<struct ConstraintSlave_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<struct ConstraintTarget_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+fieldtype_t
+FIELD_VOID
+FIELD_FLOAT
+FIELD_STRING
+FIELD_VECTOR
+FIELD_QUATERNION
+FIELD_INTEGER
+FIELD_BOOLEAN
+FIELD_SHORT
+FIELD_CHARACTER
+FIELD_COLOR32
+FIELD_EMBEDDED
+FIELD_CUSTOM
+FIELD_CLASSPTR
+FIELD_EHANDLE
+FIELD_POSITION_VECTOR
+FIELD_TIME
+FIELD_TICK
+FIELD_SOUNDNAME
+FIELD_INPUT
+FIELD_FUNCTION
+FIELD_VMATRIX
+FIELD_VMATRIX_WORLDSPACE
+FIELD_MATRIX3X4_WORLDSPACE
+FIELD_INTERVAL
+FIELD_UNUSED
+FIELD_VECTOR2D
+FIELD_INTEGER64
+FIELD_VECTOR4D
+FIELD_RESOURCE
+FIELD_TYPEUNKNOWN
+FIELD_CSTRING
+FIELD_HSCRIPT
+FIELD_VARIANT
+FIELD_UINT64
+FIELD_FLOAT64
+FIELD_POSITIVEINTEGER_OR_NULL
+FIELD_HSCRIPT_NEW_INSTANCE
+FIELD_UINT
+FIELD_UTLSTRINGTOKEN
+FIELD_QANGLE
+FIELD_NETWORK_ORIGIN_CELL_QUANTIZED_VECTOR
+FIELD_HMATERIAL
+FIELD_HMODEL
+FIELD_NETWORK_QUANTIZED_VECTOR
+FIELD_NETWORK_QUANTIZED_FLOAT
+FIELD_DIRECTION_VECTOR_WORLDSPACE
+FIELD_QANGLE_WORLDSPACE
+FIELD_QUATERNION_WORLDSPACE
+FIELD_HSCRIPT_LIGHTBINDING
+FIELD_V8_VALUE
+FIELD_V8_OBJECT
+FIELD_V8_ARRAY
+FIELD_V8_CALLBACK_INFO
+FIELD_TYPECOUNT
+From Enum Binding
+CSchemaEnumBinding<enum fieldtype_t>::Get
+(s_pThisModuleBindingPointer != NULL)
+WARNING: Trying to access schema enum binding before bindings were registered in this module! - %s()
+Quaternion
+CResourceString
+CTransform
+CResourceArray
+MNoScatter
+MDiskDataForResourceType
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcefile\resourcestream.h
+InfoForResourceTypeCAnimationGroupResource
+InfoForResourceTypeCSequenceGroupResource
+InfoForResourceTypeIMaterial2
+InfoForResourceTypeCRenderMesh
+InfoForResourceTypeCModel
+InfoForResourceTypeCPhysAggregateData
+MaterialGroup_t
+ModelSkeletonData_t
+ModelSkeletonData_t::BoneFlags_t
+PermModelInfo_t
+PermModelInfo_t::FlagEnum
+PermModelExtPart_t
+ModelBoneFlexComponent_t
+ModelBoneFlexDriverControl_t
+ModelBoneFlexDriver_t
+PermModelData_t
+ModelSkeletonData_t::FLAG_NO_BONE_FLAGS
+ModelSkeletonData_t::FLAG_BONEFLEXDRIVER
+ModelSkeletonData_t::FLAG_CLOTH
+ModelSkeletonData_t::FLAG_PHYSICS
+ModelSkeletonData_t::FLAG_ATTACHMENT
+ModelSkeletonData_t::FLAG_ANIMATION
+ModelSkeletonData_t::FLAG_MESH
+ModelSkeletonData_t::FLAG_HITBOX
+ModelSkeletonData_t::FLAG_RETARGET_SRC
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD0
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD1
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD2
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD3
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD4
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD5
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD6
+ModelSkeletonData_t::FLAG_BONE_USED_BY_VERTEX_LOD7
+ModelSkeletonData_t::FLAG_BONE_MERGE_READ
+ModelSkeletonData_t::FLAG_BONE_MERGE_WRITE
+ModelSkeletonData_t::FLAG_ALL_BONE_FLAGS
+ModelSkeletonData_t::BLEND_PREALIGNED
+ModelSkeletonData_t::FLAG_RIGIDLENGTH
+ModelSkeletonData_t::FLAG_PROCEDURAL
+PermModelInfo_t::FLAG_TRANSLUCENT
+PermModelInfo_t::FLAG_TRANSLUCENT_TWO_PASS
+PermModelInfo_t::FLAG_MODEL_IS_RUNTIME_COMBINED
+PermModelInfo_t::FLAG_SOURCE1_IMPORT
+PermModelInfo_t::FLAG_MODEL_PART_CHILD
+PermModelInfo_t::FLAG_NAV_GEN_NONE
+PermModelInfo_t::FLAG_NAV_GEN_HULL
+PermModelInfo_t::FLAG_NO_FORCED_FADE
+PermModelInfo_t::FLAG_HAS_SKINNED_MESHES
+PermModelInfo_t::FLAG_DO_NOT_CAST_SHADOWS
+PermModelInfo_t::FLAG_FORCE_PHONEME_CROSSFADE
+PermModelInfo_t::FLAG_NO_ANIM_EVENTS
+PermModelInfo_t::FLAG_ANIMATION_DRIVEN_FLEXES
+PermModelInfo_t::FLAG_IMPLICIT_BIND_POSE_SEQUENCE
+PermModelInfo_t::FLAG_USE_ORIGIN_AS_UNKNOWN_ATTACHMENT_POINT
+MODEL_BONE_FLEX_INVALID
+MODEL_BONE_FLEX_TX
+MODEL_BONE_FLEX_TY
+MODEL_BONE_FLEX_TZ
+m_materials
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\meshsystem\release\win64\model_h_schema.gen_cpp
+MaterialGroup_t::Schema_VerifyBindingIsRegistered
+m_boneName
+m_nParent
+m_boneSphere
+m_nFlag
+m_bonePosParent
+m_boneRotParent
+ModelSkeletonData_t::Schema_VerifyBindingIsRegistered
+m_nFlags
+m_vHullMin
+m_vHullMax
+m_vViewMin
+m_vViewMax
+m_flMass
+m_vEyePosition
+m_flMaxEyeDeflection
+m_sSurfaceProperty
+m_keyValueText
+PermModelInfo_t::Schema_VerifyBindingIsRegistered
+m_Transform
+m_refModel
+PermModelExtPart_t::Schema_VerifyBindingIsRegistered
+m_nBoneComponent
+m_flexController
+m_flexControllerToken
+m_flMin
+m_flMax
+ModelBoneFlexDriverControl_t::Schema_VerifyBindingIsRegistered
+m_boneNameToken
+m_controls
+ModelBoneFlexDriver_t::Schema_VerifyBindingIsRegistered
+m_modelInfo
+m_ExtParts
+m_refMeshes
+m_refMeshGroupMasks
+m_refPhysGroupMasks
+m_refLODGroupMasks
+m_lodGroupSwitchDistances
+m_refPhysicsData
+m_refPhysicsHitboxData
+m_refAnimGroups
+m_refSequenceGroups
+m_meshGroups
+m_materialGroups
+m_nDefaultMeshGroupMask
+m_modelSkeleton
+m_remappingTable
+m_remappingTableStarts
+m_boneFlexDrivers
+PermModelData_t::Schema_VerifyBindingIsRegistered
+CSchemaEnumBinding<enum ModelSkeletonData_t::BoneFlags_t>::Get
+CSchemaEnumBinding<enum PermModelInfo_t::FlagEnum>::Get
+CSchemaEnumBinding<enum ModelBoneFlexComponent_t>::Get
+CResourceExtReference
+ERROR: CAtomicManipulator::Allocate() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeIMaterial2> > > >::Allocate
+ERROR: CAtomicManipulator::AllocateAndCopy() Cannot allocate CResourceArray
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeIMaterial2> > > >::AllocateAndCopy
+ERROR: CAtomicManipulator::Copy() Cannot copy CResourceArray(FIXME: maybe you can?)
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeIMaterial2> > > >::Copy
+ERROR: CAtomicManipulator::Deallocate() Cannot deallocate CResourceArray
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeIMaterial2> > > >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceString> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceString> >::Deallocate
+CAtomicManipulator<class CResourceArray<short> >::Allocate
+CAtomicManipulator<class CResourceArray<short> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<short> >::Copy
+CAtomicManipulator<class CResourceArray<short> >::Deallocate
+CAtomicManipulator<class CResourceArray<float> >::Allocate
+CAtomicManipulator<class CResourceArray<float> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<float> >::Copy
+CAtomicManipulator<class CResourceArray<float> >::Deallocate
+CAtomicManipulator<class CResourceArray<unsigned int> >::Allocate
+CAtomicManipulator<class CResourceArray<unsigned int> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<unsigned int> >::Copy
+CAtomicManipulator<class CResourceArray<unsigned int> >::Deallocate
+CAtomicManipulator<class CResourceArray<class Vector> >::Allocate
+CAtomicManipulator<class CResourceArray<class Vector> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class Vector> >::Copy
+CAtomicManipulator<class CResourceArray<class Vector> >::Deallocate
+CAtomicManipulator<class CResourceArray<class Quaternion> >::Allocate
+CAtomicManipulator<class CResourceArray<class Quaternion> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class Quaternion> >::Copy
+CAtomicManipulator<class CResourceArray<class Quaternion> >::Deallocate
+CWeakHandle
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriverControl_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriverControl_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriverControl_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriverControl_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct PermModelExtPart_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct PermModelExtPart_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct PermModelExtPart_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct PermModelExtPart_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCRenderMesh> > > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCRenderMesh> > > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCRenderMesh> > > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCRenderMesh> > > >::Deallocate
+CAtomicManipulator<class CResourceArray<unsigned __int64> >::Allocate
+CAtomicManipulator<class CResourceArray<unsigned __int64> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<unsigned __int64> >::Copy
+CAtomicManipulator<class CResourceArray<unsigned __int64> >::Deallocate
+CAtomicManipulator<class CResourceArray<unsigned char> >::Allocate
+CAtomicManipulator<class CResourceArray<unsigned char> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<unsigned char> >::Copy
+CAtomicManipulator<class CResourceArray<unsigned char> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCPhysAggregateData> > > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCPhysAggregateData> > > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCPhysAggregateData> > > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCPhysAggregateData> > > >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCAnimationGroupResource> > > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCAnimationGroupResource> > > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCAnimationGroupResource> > > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCAnimationGroupResource> > > >::Deallocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCSequenceGroupResource> > > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCSequenceGroupResource> > > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCSequenceGroupResource> > > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceExtReference<class CWeakHandle<struct InfoForResourceTypeCSequenceGroupResource> > > >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MaterialGroup_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MaterialGroup_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MaterialGroup_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MaterialGroup_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<unsigned short> >::Allocate
+CAtomicManipulator<class CResourceArray<unsigned short> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<unsigned short> >::Copy
+CAtomicManipulator<class CResourceArray<unsigned short> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriver_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriver_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriver_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ModelBoneFlexDriver_t> >::Deallocate
+CBuilderModelInfo
+BuilderModelBoneFlexDriverControl_t
+BuilderModelBoneFlexDriver_t
+BuilderModelBoneFlexDriverList_t
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\meshsystem\release\win64\modelbuilder_h_schema.gen_cpp
+CBuilderModelInfo::Schema_VerifyBindingIsRegistered
+BuilderModelBoneFlexDriverControl_t::Schema_VerifyBindingIsRegistered
+BuilderModelBoneFlexDriver_t::Schema_VerifyBindingIsRegistered
+m_drivers
+BuilderModelBoneFlexDriverList_t::Schema_VerifyBindingIsRegistered
+Unaccounted
+CUtlMemory<struct BuilderModelBoneFlexDriverControl_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+Unaccounted
+CUtlMemory<struct BuilderModelBoneFlexDriver_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+InfoForResourceTypeCMorphSet
+InfoForResourceTypeCTextureBase
+FlexOp_t
+FlexRule_t
+FlexDesc_t
+FlexController_t
+RenderMeshFlexControllerRemapType_t
+BundleType_t
+BundleData_t
+MorphRectData_t
+MorphData_t
+MorphSetData_t
+MorphSetData_t::LookupType_t
+MorphSetData_t::EncodingType_t
+FLEXCONTROLLER_REMAP_PASSTHRU
+FLEXCONTROLLER_REMAP_2WAY
+FLEXCONTROLLER_REMAP_NWAY
+FLEXCONTROLLER_REMAP_EYELID
+BUNDLE_TYPE_NONE
+BUNDLE_TYPE_POSITION_SPEED
+BUNDLE_TYPE_NORMAL_WRINKLE
+BUNDLE_TYPE_COUNT
+MorphSetData_t::LOOKUP_TYPE_TEXCOORD
+MorphSetData_t::LOOKUP_TYPE_VERTEX_ID
+MorphSetData_t::LOOKUP_TYPE_COUNT
+MorphSetData_t::ENCODING_TYPE_OBJECT_SPACE
+MorphSetData_t::ENCODING_TYPE_TANGENT_SPACE
+MorphSetData_t::ENCODING_TYPE_COUNT
+m_OpCode
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\meshsystem\release\win64\morphsetdata_h_schema.gen_cpp
+FlexOp_t::Schema_VerifyBindingIsRegistered
+m_nFlex
+m_FlexOps
+FlexRule_t::Schema_VerifyBindingIsRegistered
+m_szFacs
+FlexDesc_t::Schema_VerifyBindingIsRegistered
+m_szName
+m_szType
+localToGlobal
+FlexController_t::Schema_VerifyBindingIsRegistered
+m_flULeftSrc
+m_flVTopSrc
+m_offsets
+m_ranges
+BundleData_t::Schema_VerifyBindingIsRegistered
+m_nXLeftDst
+m_nYTopDst
+m_flUWidthSrc
+m_flVHeightSrc
+m_bundleDatas
+MorphRectData_t::Schema_VerifyBindingIsRegistered
+m_morphRectDatas
+MorphData_t::Schema_VerifyBindingIsRegistered
+m_nWidth
+m_nHeight
+m_nLookupType
+m_nEncodingType
+m_bundleTypes
+m_morphDatas
+m_pTextureAtlas
+m_pMorphSetBase
+m_FlexDesc
+m_FlexControllers
+m_FlexRules
+MorphSetData_t::Schema_VerifyBindingIsRegistered
+CSchemaEnumBinding<enum RenderMeshFlexControllerRemapType_t>::Get
+CSchemaEnumBinding<enum BundleType_t>::Get
+CSchemaEnumBinding<enum MorphSetData_t::LookupType_t>::Get
+CSchemaEnumBinding<enum MorphSetData_t::EncodingType_t>::Get
+CAtomicManipulator<class CResourceArray<struct FlexOp_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FlexOp_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FlexOp_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FlexOp_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct BundleData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct BundleData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct BundleData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct BundleData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MorphRectData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MorphRectData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MorphRectData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MorphRectData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<enum BundleType_t> >::Allocate
+CAtomicManipulator<class CResourceArray<enum BundleType_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<enum BundleType_t> >::Copy
+CAtomicManipulator<class CResourceArray<enum BundleType_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MorphData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MorphData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MorphData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MorphData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FlexDesc_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FlexDesc_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FlexDesc_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FlexDesc_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FlexController_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FlexController_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FlexController_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FlexController_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct FlexRule_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct FlexRule_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct FlexRule_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct FlexRule_t> >::Deallocate
+RenderSlotType_t
+RenderPrimitiveType_t
+InputLayoutVariation_t
+RenderInputLayoutField_t
+RenderMultisampleType_t
+VsInputSignatureElement_t
+VsInputSignature_t
+RENDER_SLOT_INVALID
+RENDER_SLOT_PER_VERTEX
+RENDER_SLOT_PER_INSTANCE
+RENDER_PRIM_POINTS
+RENDER_PRIM_LINES
+RENDER_PRIM_LINES_WITH_ADJACENCY
+RENDER_PRIM_LINE_STRIP
+RENDER_PRIM_LINE_STRIP_WITH_ADJACENCY
+RENDER_PRIM_TRIANGLES
+RENDER_PRIM_TRIANGLES_WITH_ADJACENCY
+RENDER_PRIM_TRIANGLE_STRIP
+RENDER_PRIM_TRIANGLE_STRIP_WITH_ADJACENCY
+RENDER_PRIM_INSTANCED_QUADS
+RENDER_PRIM_HETEROGENOUS
+RENDER_PRIM_1_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_2_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_3_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_4_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_5_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_6_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_7_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_8_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_9_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_10_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_11_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_12_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_13_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_14_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_15_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_16_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_17_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_18_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_19_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_20_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_21_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_22_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_23_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_24_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_25_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_26_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_27_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_28_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_29_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_30_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_31_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_32_CONTROL_POINT_PATCHLIST
+RENDER_PRIM_TYPE_COUNT
+INPUT_LAYOUT_VARIATION_DEFAULT
+INPUT_LAYOUT_VARIATION_STREAM1_MAT3X4
+INPUT_LAYOUT_VARIATION_STREAM1_INSTANCEID
+INPUT_LAYOUT_VARIATION_STREAM1_INSTANCEID_IRRADIANCEINFO
+INPUT_LAYOUT_VARIATION_STREAM1_INSTANCEID_MORPH_VERT_ID
+INPUT_LAYOUT_VARIATION_MAX
+RENDER_MULTISAMPLE_INVALID
+RENDER_MULTISAMPLE_NONE
+RENDER_MULTISAMPLE_2X
+RENDER_MULTISAMPLE_4X
+RENDER_MULTISAMPLE_6X
+RENDER_MULTISAMPLE_8X
+RENDER_MULTISAMPLE_16X
+RENDER_MULTISAMPLE_TYPE_COUNT
+m_pSemanticName
+m_nSemanticIndex
+m_Format
+m_nOffset
+m_nSlot
+m_nSlotType
+m_nInstanceStepRate
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\meshsystem\release\win64\rendersystemtypes_h_schema.gen_cpp
+RenderInputLayoutField_t::Schema_VerifyBindingIsRegistered
+m_pName
+m_pSemantic
+m_pD3DSemanticName
+m_nD3DSemanticIndex
+VsInputSignatureElement_t::Schema_VerifyBindingIsRegistered
+m_elems
+VsInputSignature_t::Schema_VerifyBindingIsRegistered
+CSchemaEnumBinding<enum RenderSlotType_t>::Get
+CSchemaEnumBinding<enum RenderPrimitiveType_t>::Get
+CSchemaEnumBinding<enum InputLayoutVariation_t>::Get
+CSchemaEnumBinding<enum RenderMultisampleType_t>::Get
+CCopyableUtlVector
+Unaccounted
+CUtlMemory<struct VsInputSignatureElement_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+meshsystem
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VFileSystem017
+VNewAsyncFileSystem001
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundMixGroupSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VDataCache003
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+ModelProcessingSystem001
+MATCHFRAMEWORK_001
+PanoramaUIEngine001
+PanoramaUIClient001
+ToolFramework2_001
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers001
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+ServerUploadGameStats001
+ScaleformUI001
+WorkshopSetup001
+NavSystem001
+c:\buildslave\vrgdc2015_staging_win64\build\src\interfaces\interfaces.cpp
+RegisterInterface
+s_nRegistrationCount < ARRAYSIZE(s_pConnectionRegistration)
+ReconnectInterface
+CallPostConnect
+pCallback == NULL
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+DisconnectInterfaces
+s_nConnectionCount > 0
+c:\buildslave\vrgdc2015_staging_win64\build\src\mathlib\mathlib_base.cpp
+_VectorNormalizeFast
+fabs( vec.LengthSqr() - 1.0f ) < 1e-3
+VectorTransform
+in1 != out
+p.IsValid()
+q.IsValid()
+QuaternionMult
+QuaternionMatrix
+pos.IsValid()
+QuaternionMatrixOrientationOnly
+MathLib_Init
+SSE and SSE2 are required.
+@fff>fff>fff>fff>
+?c:\buildslave\vrgdc2015_staging_win64\build\src\mathlib\color_conversion.cpp
+GammaToLinear
+index >= 0 && index < 256
+`?33s?333333
+c:\buildslave\vrgdc2015_staging_win64\build\src\modellib\rendermesh.cpp
+InputLayoutBuilder
+m_vertexBuffers
+CMaterialDrawDescriptor::TransferPostLoadFn
+No VBs found for this draw descriptor
+Empty VB array found for this draw descriptor
+CRenderMesh::InitFromPermData
+Unhandled constraint type %d encountered in CRenderMesh::InitFromPermData
+m_attachments
+m_hitboxsets
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utldict.h
+LoadUtlDict
+No value found when unserializing key/value pairs for utldict
+CStrongHandle<struct InfoForResourceTypeCMorphSet>::Shutdown
+CUtlRBTree<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::Find
+CUtlRBTree<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::Find
+Unaccounted
+CUtlMemory<struct RenderSkeletonBone_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+Unaccounted
+CUtlMemory<class CMaterialDrawDescriptor,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+Unaccounted
+CUtlMemory<class CHitBox,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+Unaccounted
+CUtlMemory<class CHitBoxSet,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+Unaccounted
+CUtlMemory<class CSceneObjectData,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+CUtlRBTree<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::FindInsertionPosition
+CUtlRBTree<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::SetLessFunc
+CUtlRBTree<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::FindInsertionPosition
+Unaccounted
+CUtlMemory<class CBaseConstraint *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+CUtlRBTree<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
+CUtlRBTree<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::RemoveAll
+CUtlRBTree<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::NewNode
+CUtlRBTree<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int,class CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::CKeyLess,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int> >::RemoveAll
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CAttachment,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlMap<char const *,class CHitBoxSet,int,bool (__cdecl*)(char const * const &,char const * const &)>::Node_t,int>,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+c:\buildslave\vrgdc2015_staging_win64\build\src\modellib\model.cpp
+ModelSkeletonData_t::GetBindPoseWorldTransforms
+nParent < b
+CModelSkeleton::CModelSkeleton
+bDidInsert
+Other VScript
+c:\buildslave\vrgdc2015_staging_win64\build\src\modellib\model.cpp
+modellib
+AnimContainer::GetAnimdesc
+CUtlHash<struct BoneHashPairing_t,bool (__cdecl*)(struct BoneHashPairing_t const &,struct BoneHashPairing_t const &),unsigned int (__cdecl*)(struct BoneHashPairing_t const &)>::BuildHandle
+Unaccounted
+CUtlMemory<struct BoneHashPairing_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+Unaccounted
+CUtlMemory<class CUtlVector<struct BoneHashPairing_t,class CUtlMemory<struct BoneHashPairing_t,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+Unaccounted
+CUtlMemory<class CUtlVector<struct DefaultMaterialGroupIndex_t,class CUtlMemory<struct DefaultMaterialGroupIndex_t,int> >,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+Vector4D
+matrix3x4a_t
+CResourcePointer
+MAlignment
+MeshTranslucencyType_t
+MeshDrawPrimitiveFlags_t
+SkeletonBoneBbox_t
+RenderSkeletonData_t
+RenderSkeletonData_t::FlagEnum_t
+RenderBufferBinding_t
+MaterialDrawDescriptor_t
+OnDiskBufferData_t
+SceneObjectData_t
+AttachmentInfluenceFlags_t
+AttachmentData_t
+HitBox_t
+HitBoxSet_t
+ConstraintType_t
+BaseConstraint_t
+PermRenderMeshData_t
+MESH_TRANSLUCENCY_FULLY_OPAQUE
+MESH_TRANSLUCENCY_PARTIALLY_ALPHA_BLENDED
+MESH_TRANSLUCENCY_FULLY_ALPHA_BLENDED
+MESH_DRAW_FLAGS_NONE
+MESH_DRAW_FLAGS_USE_SHADOW_FAST_PATH
+MESH_DRAW_FLAGS_USE_COMPRESSED_NORMAL_TANGENT
+MESH_DRAW_FLAGS_IS_OCCLUDER
+MESH_DRAW_INPUT_LAYOUT_IS_NOT_MATCHED_TO_MATERIAL
+MESH_DRAW_FLAGS_USE_COMPRESSED_PER_VERTEX_LIGHTING
+MESH_DRAW_FLAGS_USE_UNCOMPRESSED_PER_VERTEX_LIGHTING
+RenderSkeletonData_t::FLAG_BLEND_WEIGHT_COUNT_SHIFT
+RenderSkeletonData_t::FLAG_BLEND_WEIGHT_COUNT_MASK
+ATTACHMENT_INFLUENCE_FLAGS_NONE
+ATTACHMENT_INFLUENCE_FLAGS_ROOT_TRANSFORM
+CONSTRAINT_TYPE_INVALID
+CONSTRAINT_TYPE_HELPER_BONE
+CONSTRAINT_TYPE_TWIST
+CONSTRAINT_TYPE_AIM
+CONSTRAINT_TYPE_POINT
+CONSTRAINT_TYPE_ROTATION
+CONSTRAINT_TYPE_ORIENT
+CONSTRAINT_TYPE_2_BONE_IK
+CONSTRAINT_TYPE_JIGGLE_BONE
+CONSTRAINT_TYPE_MAX
+m_vecCenter
+m_vecSize
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\modellib\release\win64\permrendermeshdata_h_schema.gen_cpp
+SkeletonBoneBbox_t::Schema_VerifyBindingIsRegistered
+m_nBoneCount
+m_nBoneWeightCount
+m_bonesHash
+m_indexNames
+m_indexHash
+m_invBindPose
+m_bboxes
+m_spheres
+m_boneNames
+m_boneParents
+RenderSkeletonData_t::Schema_VerifyBindingIsRegistered
+m_hBuffer
+m_nBindOffsetBytes
+RenderBufferBinding_t::Schema_VerifyBindingIsRegistered
+m_nBaseVertex
+m_nVertexCount
+m_nStartIndex
+m_nIndexCount
+m_nStartInstance
+m_nInstanceCount
+m_flUvDensity
+m_nPrimitiveType
+m_bAlphaBlendedMaterial
+m_padding
+m_hInputLayoutHandle
+m_indexBuffer
+m_pMaterial
+MaterialDrawDescriptor_t::Schema_VerifyBindingIsRegistered
+m_nElementCount
+m_nElementSizeInBytes
+m_inputLayoutFields
+m_pData
+OnDiskBufferData_t::Schema_VerifyBindingIsRegistered
+m_vMinBounds
+m_vMaxBounds
+m_translucencyType
+m_drawCalls
+m_vTintColor
+SceneObjectData_t::Schema_VerifyBindingIsRegistered
+m_influenceNames
+m_vInfluenceOffsets
+m_vInfluenceRotations
+m_influenceWeights
+m_nInfluences
+AttachmentData_t::Schema_VerifyBindingIsRegistered
+m_nGroupId
+m_sBoneName
+m_nBoneNameHash
+m_cRenderColor
+m_nHitBoxIndex
+m_bVisible
+HitBox_t::Schema_VerifyBindingIsRegistered
+m_SourceFilename
+m_hitboxes
+HitBoxSet_t::Schema_VerifyBindingIsRegistered
+m_nBoneHash
+m_flWeight
+m_vOffset
+m_qOffset
+m_bIsAttachment
+ConstraintTarget_t::Schema_VerifyBindingIsRegistered
+m_vBasePosition
+m_qBaseOrientation
+ConstraintSlave_t::Schema_VerifyBindingIsRegistered
+m_qAimOffset
+m_nTargetUpBoneHash
+m_nUpType
+m_bInverse
+m_qParentBindRotation
+m_qChildBindRotation
+BaseConstraint_t::Schema_VerifyBindingIsRegistered
+m_sceneObjects
+m_pMorphSet
+m_skeleton
+m_boneConstraints
+m_indexBuffers
+PermRenderMeshData_t::Schema_VerifyBindingIsRegistered
+modellib
+CSchemaEnumBinding<enum MeshTranslucencyType_t>::Get
+CSchemaEnumBinding<enum MeshDrawPrimitiveFlags_t>::Get
+CSchemaEnumBinding<enum RenderSkeletonData_t::FlagEnum_t>::Get
+CSchemaEnumBinding<enum AttachmentInfluenceFlags_t>::Get
+CSchemaEnumBinding<enum ConstraintType_t>::Get
+CAtomicManipulator<class CResourceArray<class matrix3x4a_t> >::Allocate
+CAtomicManipulator<class CResourceArray<class matrix3x4a_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class matrix3x4a_t> >::Copy
+CAtomicManipulator<class CResourceArray<class matrix3x4a_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct SkeletonBoneBbox_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct SkeletonBoneBbox_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct SkeletonBoneBbox_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct SkeletonBoneBbox_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RenderBufferBinding_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RenderBufferBinding_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RenderBufferBinding_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RenderBufferBinding_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RenderInputLayoutField_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RenderInputLayoutField_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RenderInputLayoutField_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RenderInputLayoutField_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct MaterialDrawDescriptor_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct MaterialDrawDescriptor_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct MaterialDrawDescriptor_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct MaterialDrawDescriptor_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct HitBox_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct HitBox_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct HitBox_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct HitBox_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ConstraintSlave_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ConstraintSlave_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ConstraintSlave_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ConstraintSlave_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct ConstraintTarget_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct ConstraintTarget_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct ConstraintTarget_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct ConstraintTarget_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct SceneObjectData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct SceneObjectData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct SceneObjectData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct SceneObjectData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct AttachmentData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct AttachmentData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct AttachmentData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct AttachmentData_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct HitBoxSet_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct HitBoxSet_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct HitBoxSet_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct HitBoxSet_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct BaseConstraint_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct BaseConstraint_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct BaseConstraint_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct BaseConstraint_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct OnDiskBufferData_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct OnDiskBufferData_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct OnDiskBufferData_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct OnDiskBufferData_t> >::Deallocate
+matrix3x4_t
+MDefaultString
+CRenderMesh
+MEmitKV3TransferPostLoadFn
+MEmitKV3TransferPreSaveFn
+MEmitKV3TransferPostSaveFn
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\kv3transfer_resource.h
+RenderSkeletonBone_t
+CRenderSkeleton
+CMaterialDrawDescriptor
+CSceneObjectData
+CAttachment
+CHitBox
+CHitBoxSet
+CHitBoxSetList
+m_parentName
+m_flSphereRadius
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\modellib\release\win64\rendermesh_h_schema.gen_cpp
+RenderSkeletonBone_t::Schema_VerifyBindingIsRegistered
+TransferPostLoadFn
+m_bones
+CRenderSkeleton::Schema_VerifyBindingIsRegistered
+TransferPostSaveFn
+m_material
+CMaterialDrawDescriptor::Schema_VerifyBindingIsRegistered
+CSceneObjectData::Schema_VerifyBindingIsRegistered
+m_influenceFlags
+CAttachment::Schema_VerifyBindingIsRegistered
+m_forcedRotation
+m_bForcedRotation
+m_bSelected
+CHitBox::Schema_VerifyBindingIsRegistered
+m_nNameHash
+m_HitBoxes
+CHitBoxSet::Schema_VerifyBindingIsRegistered
+m_HitBoxSets
+CHitBoxSetList::Schema_VerifyBindingIsRegistered
+TransferPreSaveFn
+m_morphSet
+m_constraints
+CRenderMesh::Schema_VerifyBindingIsRegistered
+CStrongHandle
+CUtlVectorFixedGrowable
+CKV3TransferValHelper<class CStrongHandle<struct InfoForResourceTypeIMaterial2> >::LoadValue
+pResourceLoadInterface != NULL
+Array didn't have enough elements (provided %d, needed %d)
+CKV3TransferValHelper<class CStrongHandle<struct InfoForResourceTypeCMorphSet> >::LoadValue
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\kv3transfer.h
+CKV3TransferLoadContext::LoadOwningPointer
+pLoadFromValue != NULL
+CKV3TransferLoadContext: Tried to load a pointer with no '%s' key
+Tried to load a pointer with no '%s' key
+Failed to allocate an instance of class '%s'
+Unaccounted
+CUtlMemory<unsigned char,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+Unaccounted
+CUtlMemory<class Vector,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+modellib
+phys_res
+Physics
+RnSphereDesc_t
+RnCapsuleDesc_t
+RnHullDesc_t
+RnMeshDesc_t
+RnSoftbodyParticle_t
+RnSoftbodySpring_t
+RnSoftbodyCapsule_t
+VpropBreakablePartData_t
+PhysFeModelDesc_t
+VPhysics2ShapeDef_t
+VPhysXBodyPart_t
+VPhysXBodyPart_t::VPhysXFlagEnum_t
+VPhysXCollisionAttributes_t
+VPhysXRange_t
+VPhysXConstraintParams_t
+VPhysXConstraintParams_t::EnumFlags0_t
+VPhysXConstraint2_t
+VPhysXJoint_t
+PhysSoftbodyDesc_t
+VPhysXAggregateData_t
+VPhysXAggregateData_t::VPhysXFlagEnum_t
+VPhysXBodyPart_t::FLAG_STATIC
+VPhysXBodyPart_t::FLAG_KINEMATIC
+VPhysXBodyPart_t::FLAG_JOINT
+VPhysXBodyPart_t::FLAG_MASS
+VPhysXConstraintParams_t::FLAG0_SHIFT_INTERPENETRATE
+VPhysXConstraintParams_t::FLAG0_SHIFT_CONSTRAIN
+VPhysXConstraintParams_t::FLAG0_SHIFT_BREAKABLE_FORCE
+VPhysXConstraintParams_t::FLAG0_SHIFT_BREAKABLE_TORQUE
+VPhysXAggregateData_t::FLAG_IS_POLYSOUP_GEOMETRY
+VPhysXAggregateData_t::FLAG_LEVEL_COLLISION
+VPhysXAggregateData_t::FLAG_IGNORE_SCALE
+m_capsules
+m_hulls
+m_meshes
+m_CollisionAttributeIndices
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\modellib\release\win64\vphysx_collisionmesh_resource_h_schema.gen_cpp
+VPhysics2ShapeDef_t::Schema_VerifyBindingIsRegistered
+m_rnShape
+m_pBreakablePartData
+m_nSurfacepropertyIndices
+m_nCollisionAttributeIndex
+m_nReserved
+m_flInertiaScale
+m_flLinearDamping
+m_flAngularDamping
+VPhysXBodyPart_t::Schema_VerifyBindingIsRegistered
+m_CollisionGroup
+m_InteractAs
+m_InteractWith
+m_CollisionGroupString
+m_InteractAsStrings
+m_InteractWithStrings
+VPhysXCollisionAttributes_t::Schema_VerifyBindingIsRegistered
+VPhysXRange_t::Schema_VerifyBindingIsRegistered
+m_nType
+m_nTranslateMotion
+m_nRotateMotion
+m_anchor
+m_maxForce
+m_maxTorque
+m_linearLimitValue
+m_linearLimitRestitution
+m_linearLimitSpring
+m_linearLimitDamping
+m_twistLowLimitValue
+m_twistLowLimitRestitution
+m_twistLowLimitSpring
+m_twistLowLimitDamping
+m_twistHighLimitValue
+m_twistHighLimitRestitution
+m_twistHighLimitSpring
+m_twistHighLimitDamping
+m_swing1LimitValue
+m_swing1LimitRestitution
+m_swing1LimitSpring
+m_swing1LimitDamping
+m_swing2LimitValue
+m_swing2LimitRestitution
+m_swing2LimitSpring
+m_swing2LimitDamping
+m_goalPosition
+m_goalOrientation
+m_goalAngularVelocity
+m_driveSpringX
+m_driveSpringY
+m_driveSpringZ
+m_driveDampingX
+m_driveDampingY
+m_driveDampingZ
+m_driveSpringTwist
+m_driveSpringSwing
+m_driveSpringSlerp
+m_driveDampingTwist
+m_driveDampingSwing
+m_driveDampingSlerp
+m_solverIterationCount
+m_projectionLinearTolerance
+m_projectionAngularTolerance
+VPhysXConstraintParams_t::Schema_VerifyBindingIsRegistered
+m_nChild
+m_params
+VPhysXConstraint2_t::Schema_VerifyBindingIsRegistered
+m_nBody1
+m_nBody2
+m_Frame1
+m_Frame2
+m_bEnableLinearLimit
+m_LinearLimit
+m_bEnableLinearMotor
+m_vLinearTargetVelocity
+m_flMaxForce
+m_bEnableSwingLimit
+m_SwingLimit
+m_bEnableTwistLimit
+m_TwistLimit
+m_bEnableAngularMotor
+m_vAngularTargetVelocity
+m_flMaxTorque
+m_flLinearFrequency
+m_flLinearDampingRatio
+m_flAngularFrequency
+m_flAngularDampingRatio
+VPhysXJoint_t::Schema_VerifyBindingIsRegistered
+m_ParticleBoneHash
+m_Particles
+m_Springs
+m_Capsules
+m_InitPose
+m_ParticleBoneName
+PhysSoftbodyDesc_t::Schema_VerifyBindingIsRegistered
+m_nRefCounter
+m_bindPose
+m_parts
+m_constraints2
+m_joints
+m_pFeModel
+m_surfacePropertyHashes
+m_collisionAttributes
+m_debugPartNames
+m_embeddedKeyvalues
+VPhysXAggregateData_t::Schema_VerifyBindingIsRegistered
+CSchemaEnumBinding<enum VPhysXBodyPart_t::VPhysXFlagEnum_t>::Get
+CSchemaEnumBinding<enum VPhysXConstraintParams_t::EnumFlags0_t>::Get
+CSchemaEnumBinding<enum VPhysXAggregateData_t::VPhysXFlagEnum_t>::Get
+CAtomicManipulator<class CResourceArray<struct RnSphereDesc_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnSphereDesc_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnSphereDesc_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnSphereDesc_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnCapsuleDesc_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnCapsuleDesc_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnCapsuleDesc_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnCapsuleDesc_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnHullDesc_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnHullDesc_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnHullDesc_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnHullDesc_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnMeshDesc_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnMeshDesc_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnMeshDesc_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnMeshDesc_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyParticle_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyParticle_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyParticle_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyParticle_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodySpring_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodySpring_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodySpring_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodySpring_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyCapsule_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyCapsule_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyCapsule_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnSoftbodyCapsule_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<class CTransform> >::Allocate
+CAtomicManipulator<class CResourceArray<class CTransform> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CTransform> >::Copy
+CAtomicManipulator<class CResourceArray<class CTransform> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct VPhysXBodyPart_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct VPhysXBodyPart_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct VPhysXBodyPart_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VPhysXBodyPart_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct VPhysXConstraint2_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct VPhysXConstraint2_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct VPhysXConstraint2_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VPhysXConstraint2_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct VPhysXJoint_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct VPhysXJoint_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct VPhysXJoint_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VPhysXJoint_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct VPhysXCollisionAttributes_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct VPhysXCollisionAttributes_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct VPhysXCollisionAttributes_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct VPhysXCollisionAttributes_t> >::Deallocate
+MPropertyFriendlyName
+multiplayerBreak_t
+MULTIPLAYER_BREAK_SERVER
+MULTIPLAYER_BREAK_CLIENT
+Motion Disabled
+Do Not Cast Shadows
+Fade Time
+Fade Min Distance
+Fade Max Distance
+Burst Scale
+Burst Randomize
+Surface Prop Hash
+Collision Group Hash
+m_bMotionDisabled
+m_bNoShadows
+m_nHealth
+m_nFadeTime
+m_nFadeMin
+m_nFadeMax
+m_flBurstScale
+m_flBurstRandomize
+m_nSurfaceProp
+m_nCollisionGroupHash
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\modellib\release\win64\vpropbreakabledata_h_schema.gen_cpp
+VpropBreakablePartData_t::Schema_VerifyBindingIsRegistered
+CSchemaEnumBinding<enum multiplayerBreak_t>::Get
+MDmElementType
+MAttributeName
+CVPhysXSurfacePropertiesList
+CVPhysXSurfacePhysicsParams
+CVPhysXSurfaceAudioParams
+CVPhysXSurfaceAudioSounds
+CVPhysXSurfaceGameProperties
+CPhysSurfaceProperties
+friction
+elasticity
+density
+thickness
+dampening
+DmeSurfacePhysicsParams
+m_friction
+m_elasticity
+m_density
+m_thickness
+m_dampening
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\modellib\release\win64\vphysx_surfaceproperties_resource_h_schema.gen_cpp
+CVPhysXSurfacePhysicsParams::Schema_VerifyBindingIsRegistered
+audioreflectivity
+audiohardnessfactor
+audioroughnessfactor
+scrapeRoughThreshold
+impactHardThreshold
+audioHardMinVelocity
+DmeSurfaceAudioParams
+m_reflectivity
+m_hardnessFactor
+m_roughnessFactor
+m_roughThreshold
+m_hardThreshold
+m_hardVelocityThreshold
+CVPhysXSurfaceAudioParams::Schema_VerifyBindingIsRegistered
+walkleft
+walkright
+runleft
+runright
+impactsoft
+impacthard
+scrapesmooth
+scraperough
+bulletimpact
+rolling
+DmeSurfaceAudioSounds
+m_walkStepLeft
+m_walkStepRight
+m_runStepLeft
+m_runStepRight
+m_impactSoft
+m_impactHard
+m_scrapeSmooth
+m_scrapeRough
+m_bulletImpact
+m_rolling
+m_break
+m_strain
+CVPhysXSurfaceAudioSounds::Schema_VerifyBindingIsRegistered
+maxspeedfactor
+jumpfactor
+gamematerial
+climbable
+m_flMaxSpeedFactor
+m_flJumpFactor
+m_nMaterial
+m_bClimbable
+CVPhysXSurfaceGameProperties::Schema_VerifyBindingIsRegistered
+surfacePropertyName
+description
+physics
+audiosounds
+audioparams
+gameproperties
+DmeSurfaceProperties
+m_nameHash
+m_description
+m_physics
+m_audioSounds
+m_audioParams
+m_gameProperties
+CPhysSurfaceProperties::Schema_VerifyBindingIsRegistered
+SurfacePropertiesList
+DmeSurfacePropertyList
+m_surfacePropertiesList
+CVPhysXSurfacePropertiesList::Schema_VerifyBindingIsRegistered
+CAtomicManipulator<class CResourceArray<class CPhysSurfaceProperties> >::Allocate
+CAtomicManipulator<class CResourceArray<class CPhysSurfaceProperties> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CPhysSurfaceProperties> >::Copy
+CAtomicManipulator<class CResourceArray<class CPhysSurfaceProperties> >::Deallocate
+CVPhysXLevelData
+CVPhysXMesh
+DmeVPhysXMesh
+m_shape
+m_pCollisionResourceName
+m_pRenderResourceName
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\modellib\release\win64\vphysx_level_resource_h_schema.gen_cpp
+CVPhysXMesh::Schema_VerifyBindingIsRegistered
+DmeVPhysXLevel
+CVPhysXLevelData::Schema_VerifyBindingIsRegistered
+CAtomicManipulator<class CResourceArray<class CVPhysXMesh> >::Allocate
+CAtomicManipulator<class CResourceArray<class CVPhysXMesh> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CVPhysXMesh> >::Copy
+CAtomicManipulator<class CResourceArray<class CVPhysXMesh> >::Deallocate
+VPhysXDiskShapeHeader_t
+VPhysXDiskShapeHeader_t::VersinEnum_t
+VPhysXDiskMesh2_t
+VPhysXShapeCompoundHeader2_t
+VPhysXDiskCapsule_t
+VPhysXDiskShapeHeader_t::VERSION
+m_nCollisionAttribute
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\modellib\release\win64\vphysx_shape_resource_h_schema.gen_cpp
+VPhysXDiskShapeHeader_t::Schema_VerifyBindingIsRegistered
+m_flSkinWidth
+m_flMaxVelocity
+m_nReserved2
+VPhysXDiskMesh2_t::Schema_VerifyBindingIsRegistered
+m_components
+m_types
+VPhysXShapeCompoundHeader2_t::Schema_VerifyBindingIsRegistered
+m_vEnds
+m_flRadius
+VPhysXDiskCapsule_t::Schema_VerifyBindingIsRegistered
+CSchemaEnumBinding<enum VPhysXDiskShapeHeader_t::VersinEnum_t>::Get
+CAtomicManipulator<class CResourceArray<class CResourceArray<unsigned char> > >::Allocate
+CAtomicManipulator<class CResourceArray<class CResourceArray<unsigned char> > >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<class CResourceArray<unsigned char> > >::Copy
+CAtomicManipulator<class CResourceArray<class CResourceArray<unsigned char> > >::Deallocate
+RnDummy_t
+m_nDummy
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\modellib\release\win64\constants_h_schema.gen_cpp
+RnDummy_t::Schema_VerifyBindingIsRegistered
+RnSphere_t
+RnCapsule_t
+RnPlane_t
+RnHalfEdge_t
+RnFace_t
+RnHull_t
+RnTriangle_t
+RnNode_t
+RnMesh_t
+RnShapeDesc_t
+RnBlendVertex_t
+m_vCenter
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\modellib\release\win64\serialize_h_schema.gen_cpp
+RnSphere_t::Schema_VerifyBindingIsRegistered
+RnCapsule_t::Schema_VerifyBindingIsRegistered
+m_vNormal
+m_flOffset
+RnPlane_t::Schema_VerifyBindingIsRegistered
+m_nNext
+m_nTwin
+m_nOrigin
+m_nFace
+RnHalfEdge_t::Schema_VerifyBindingIsRegistered
+m_nEdge
+RnFace_t::Schema_VerifyBindingIsRegistered
+m_vCentroid
+m_flMaxAngularRadius
+m_Vertices
+m_Planes
+m_Edges
+m_Faces
+m_vOrthographicAreas
+m_MassProperties
+m_flVolume
+m_flMaxMotionRadius
+m_flMinMotionThickness
+m_Bounds
+RnHull_t::Schema_VerifyBindingIsRegistered
+m_nIndex
+RnTriangle_t::Schema_VerifyBindingIsRegistered
+m_nChildren
+m_nTriangleOffset
+RnNode_t::Schema_VerifyBindingIsRegistered
+m_Nodes
+m_Triangles
+m_Materials
+RnMesh_t::Schema_VerifyBindingIsRegistered
+m_nSurfacePropertyIndex
+RnShapeDesc_t::Schema_VerifyBindingIsRegistered
+m_Sphere
+RnSphereDesc_t::Schema_VerifyBindingIsRegistered
+m_Capsule
+RnCapsuleDesc_t::Schema_VerifyBindingIsRegistered
+RnHullDesc_t::Schema_VerifyBindingIsRegistered
+RnMeshDesc_t::Schema_VerifyBindingIsRegistered
+m_flMassInv
+RnSoftbodyParticle_t::Schema_VerifyBindingIsRegistered
+m_nParticle
+m_flLength
+RnSoftbodySpring_t::Schema_VerifyBindingIsRegistered
+RnSoftbodyCapsule_t::Schema_VerifyBindingIsRegistered
+m_nWeight0
+m_nIndex0
+m_nWeight1
+m_nIndex1
+m_nWeight2
+m_nIndex2
+m_nTargetIndex
+RnBlendVertex_t::Schema_VerifyBindingIsRegistered
+CAtomicManipulator<class CResourceArray<struct RnPlane_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnPlane_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnPlane_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnPlane_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnHalfEdge_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnHalfEdge_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnHalfEdge_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnHalfEdge_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnFace_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnFace_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnFace_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnFace_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnNode_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnNode_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnNode_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnNode_t> >::Deallocate
+CAtomicManipulator<class CResourceArray<struct RnTriangle_t> >::Allocate
+CAtomicManipulator<class CResourceArray<struct RnTriangle_t> >::AllocateAndCopy
+CAtomicManipulator<class CResourceArray<struct RnTriangle_t> >::Copy
+CAtomicManipulator<class CResourceArray<struct RnTriangle_t> >::Deallocate
+VertexPositionNormal_t
+VertexPositionColor_t
+m_vPosition
+c:\buildslave\vrgdc2015_staging_win64\build\src\_generated_code\modellib\release\win64\physicsresourcehelpers_h_schema.gen_cpp
+VertexPositionNormal_t::Schema_VerifyBindingIsRegistered
+VertexPositionColor_t::Schema_VerifyBindingIsRegistered
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\functors.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\vstdlib\jobthread.h
+m_status < JOB_OK
+Unknown job state
+CJob::Abort %s %d
+CJob::DoAbort
+CJob::Abort
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmultijobprocessor.h
+CUtlMultiJobProcessor::StartSubmittingInitialJobs
+m_nUnfinishedJobsCount == 0
+CUtlMultiJobProcessor::MarkJobFinished
+m_nUnfinishedJobsCount == 1
+c:\buildslave\vrgdc2015_staging_win64\build\src\raytrace\raytrace.cpp
+RayTracingEnvironment::RefineNode
+nNumTrianglesOnNegSide == bestStats.m_nNumTrisStraddlingSplitPlane + bestStats.m_nNumTrisOnLeftOfSplitPlane
+nNumTrianglesOnPosSide == bestStats.m_nNumTrisStraddlingSplitPlane + bestStats.m_nNumTrisOnRightOfSplitPlane
+RayTracingEnvironment::RefineNodeJob
+ComputeBoundingVolume
+aabb.m_vMinBounds.IsValid()
+aabb.m_vMaxBounds.IsValid()
+SplitInstanceSubtree
+nodes.IsValidIndex( nNode )
+CTSQueue: Misaligned queue
+CTSQueue<class CFunctor *,0>::CTSQueue
+CTSQueue<class CFunctor *,0>::~CTSQueue
+m_Count == 0
+m_Head.value.pNode == m_Tail.value.pNode
+m_Head.value.pNode->pNext == End()
+CTSQueue<class CFunctor *,0>::Purge
+CParallelProcessor::Run %s %d %d
+(void *)m_pObject != NULL
+CMemberFuncProxyBase<class RayTracingEnvironment *,void (__cdecl RayTracingEnvironment::*)(int,int,struct SplitStats_t *,int const *,int,struct TriangleBounds_t const *,class Vector,class Vector)const ,class CFuncMemPolicyNone>::OnCall
+Unaccounted
+CUtlMemory<struct CacheOptimizedKDNode_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+raytrace
+Unaccounted
+CUtlMemory<struct InstancedRayTracingEnvironmentBVHNode_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+raytrace
+CMemberFuncProxyBase<class RayTracingEnvironment *,void (__cdecl RayTracingEnvironment::*)(int,int const *,int,struct TriangleBounds_t const *,class Vector,class Vector,int,class CUtlMultiJobProcessor *),class CFuncMemPolicyNone>::OnCall
+CMemberFuncProxyBase<class CParallelProcessorAbstract<class CParallelProcessor<int,class CMemberFuncJobItemProcessor<int,class CCallQueueT<class CTSQueue<class CFunctor *,0> >,class CCallQueueT<class CTSQueue<class CFunctor *,0> > >,1> > *,void (__cdecl CParallelProcessorAbstract<class CParallelProcessor<int,class CMemberFuncJobItemProcessor<int,class CCallQueueT<class CTSQueue<class CFunctor *,0> >,class CCallQueueT<class CTSQueue<class CFunctor *,0> > >,1> >::*)(int),class CFuncMemPolicyNone>::OnCall
+Unaccounted
+CUtlMemory<struct TriangleBounds_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+raytrace
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\resourcefile.cpp
+pHeader->m_nHeaderVersion == RESOURCE_FILE_HEADER_VERSION
+Resource_GetBlock
+Resource_GetBlockEntry
+ERROR: Could not find schema data for helper class for resource type %lld '%s'. (Missing MDiskDataForResourceType metadata or schema data isn't loaded?)
+FindDiskDataClassForResourceType
+[Disk class %d/%d] Name = '%s'; Project = '%s'; Binary = '%s'
+ERROR: Multiple classes registered as disk data for resource type %lld '%s'. (Should only have one class MDiskDataForResourceType - %d listed above.)
+FixupResourceName: Illegal full path passed in ("%s")!
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
+FixupResourceName: Illegal path, missing extension passed in ("%s")!
+MResourceVersion
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\resourcesystemhelpers.h
+CResourceAllocatorUtils::AssumeControl
+pData == m_pData
+Resource %s
+TypeManager
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\introspectedtypemanager.cpp
+CBaseIntrospectedTypeManager::SetDiskDataBinding
+pDiskDataClassBinding != NULL
+Failed to call CBaseIntrospectedTypeManager::SetDiskDataBinding
+CBaseIntrospectedTypeManager::Init
+Failed to call CBaseIntrospectedTypeManager::Init
+CBaseIntrospectedTypeManager::AllocateResource
+Error loading resource "%s" (Invalid resource version: %d != %d)
+WARNING: Missing introspection manifest for file: %s
+WARNING: Missing data block for file: %s
+ERROR: Problem allocating permanent data for resource in file '%s'. See above for reason(s)
+WARNING: Problems encounted with external references in resource '%s'. See above for reason(s)
+CResourceStream::EnsureAvailable
+nAddCapacity < 0x40000000
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\resourcestream.cpp
+Wrong alignment %d
+CResourceStream::Align
+MResourceTypeForInfoType
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\resourcesystem\weakhandle.h
+GetResourceTypeOfWeakHandle
+pAtomicType
+pParamClass && pParamClass->GetClass()
+Cannot determine resource type for handle '%s' - schema data not loaded for the referred-to type?
+%s : %s
+c:\buildslave\vrgdc2015_staging_win64\build\src\resourcefile\externalreferences.cpp
+CExtrefTraversal::VisitRelevantField
+IsRelevantFieldType( pFieldType )
+IsResourceWeakHandle( pHandleType )
+!IsRelevantFieldType( pFieldType )
+UpdateResourceIdForUGC
+pReferencedResourceName == NULL
+pReferencedResourceName != NULL
+Deferred
+Schema Field
+CResourceReferenceFixupTraversal::HandleExtref
+nResourceType != RESOURCE_TYPE_NONE
+(size_t)hResource % 4 == 0
+Failed to fix resource reference '%s' (%s)- ID = %016llX, Expected in: '%s'
+CUtlScalarHash<void const *,class CDefaultHash32>::Init
+m_dataCount==0
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\schemadatatraversal.h
+SchemaRecurseData
+Unhandled field type for field '%s': '%s' (Why did it pass SchemaRecurseType?)
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier0\memalloc.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+CKeyValues3Cluster allocated with bad alignment! (%p) (If this is inside of a heap allocation, you may need to inherit from CAlignedNewDelete< KV3_CLUSTER_SIZEOF >.)
+CKeyValues3Cluster::CKeyValues3Cluster
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\keyvalues3.cpp
+ - %d / %d allocated
+ - Cluster[%d]@%8p = '%s' (type %d)
+CKeyValues3Cluster::Free
+(m_nAllocatedFlags & 0x8000000000000000) == 0
+KeyValues3::GetArrayElement
+KeyValues3::GetElement - Bad index %d (count = %d)
+KeyValues3::GetString
+Unknown KV3 type '%d'.
+CKeyValues3Table::MemberData
+nIndex >= 0 && nIndex < nMemberCount
+CKeyValues3Context::~CKeyValues3Context
+m_EmbeddedCluster.AllocationCount() == 2
+m_AdditionalClusters.Count() == 0
+m_nOutstandingKV3Allocations == 0
+KV3 leak detected - dumping clusters:
+- Embedded Cluster:
+- Additional Cluster %d:
+CKeyValues3Context::FreeKV_Internal
+pPrevClusterInFreeList != NULL
+CKeyValues3Context::FreeKV_Internal::<lambda_d25f671f61efd6b44fbe72846721981c>::operator ()
+m_AdditionalClusters.FindAndFastRemove( pCluster )
+CUtlSymbolLarge::AddString
+Unaccounted
+CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+schemalib
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\schemalib\keyvalues3.h
+KeyValues3::GetAsNumeric
+GetAsNumeric() - unsupported type '%d'!
+CUtlSymbolLarge::Find
+Unaccounted
+CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlsymbollarge.h
+schemalib
+Unaccounted
+CUtlMemory<char const *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<class KeyValues3 *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<class CKeyValues3Cluster *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+CUtlRBTree<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64,class CTreeEntryLess<class CNonThreadsafeTree<0>,0>,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64> >::NewNode
+CUtlRBTree<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64,class CTreeEntryLess<class CNonThreadsafeTree<0>,0>,class CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64> >::RemoveAll
+Unaccounted
+CUtlMemory<struct CUtlSymbolTableLargeBase<class CNonThreadsafeTree<0>,0,2048>::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<struct CUtlSymbolTableLargeBaseTreeEntry_t *,__int64>,__int64>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+Unexpected end of file
+Unrecognized type '%d'
+Invalid data.
+Bad header: invalid binary marker
+Bad header: unrecognized encoding id
+Bad header: unrecognized format id
+Bad header: invalid compression header
+Decompression failure
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\kv3transfer.cpp
+CKV3TransferBlockAllocator::AllocBlockBytes
+(uintp)m_pNextAlloc <= (uintp)m_pBufferBase + m_nBufferSize
+CKV3TransferContextBase::FindInterfaceVoid
+nId != KV3TRANSFER_INTERFACE_ID_INVALID
+Failed to find transfer interface %d (%s)
+CKV3TransferContextBase::AddInterfaceVoid
+Failed to add transfer interface %d (%s) - too many registered interfaces!
+CKV3TransferSaveContext::BeginSavingObjectVoid
+CKV3TransferSaveContext detected a cycle or double-reference!
+Cycle or double-reference detected
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemadatatraversal.cpp
+CSchemaVisitorInfoMapBase::LookupClass
+pResult->State() == VISIT_INFO_STATE_COMPLETE
+CUtlScalarHash<void const *,class CDefaultHash32>::Insert
+uiKey != (uint)InvalidHandle()
+Unaccounted
+CUtlMemory<struct CClassVisitInfo::FieldInfo_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+generic
+c:\buildslave\vrgdc2015_staging_win64\build\src\schemalib\schemaiterator.cpp
+CSchemaInheritanceIterator::PopulateTraversal_R
+nTraversalOffset == 0
+CSchemaFieldIterator::Reset
+!IsSingleFieldRestricted()
+CSchemaFieldIterator::Advance
+CSchemaFieldIterator::GetFieldMemoryOffset
+CSchemaFieldIterator::GetRawFieldHandle
+Unaccounted
+CUtlMemory<struct CSchemaInheritanceIterator::ClassToTraverse_t,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+schemalib
+&trade;
+&ndash;
+&mdash;
+&iexcl;
+&pound;
+&curren;
+&brvbar;
+&laquo;
+&plusmn;
+&acute;
+&micro;
+&middot;
+&cedil;
+&raquo;
+&frac14;
+&frac12;
+&frac34;
+&iquest;
+&times;
+&divide;
+&Agrave;
+&Aacute;
+&Acirc;
+&Atilde;
+&Aring;
+&AElig;
+&Ccedil;
+&Egrave;
+&Eacute;
+&Ecirc;
+&Igrave;
+&Iacute;
+&Icirc;
+&Ntilde;
+&Ograve;
+&Oacute;
+&Ocirc;
+&Otilde;
+&Oslash;
+&Ugrave;
+&Uacute;
+&Ucirc;
+&Yacute;
+&THORN;
+&szlig;
+&agrave;
+&aacute;
+&acirc;
+&atilde;
+&aring;
+&aelig;
+&ccedil;
+&egrave;
+&eacute;
+&ecirc;
+&igrave;
+&iacute;
+&icirc;
+&ntilde;
+&ograve;
+&oacute;
+&ocirc;
+&otilde;
+&oslash;
+&ugrave;
+&uacute;
+&ucirc;
+&yacute;
+&thorn;
+[/code]
+[/list]
+<img src="
+"></img>
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_strcmp
+V_strncasecmp
+Unaccounted
+V_strncasecmp
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\strtools.cpp
+V_atoi64
+V_stristr
+pSearch
+_V_strncpy
+maxLen >= sizeof( *pDest )
+maxLen > 0
+V_snprintf
+V_vsnprintf
+_V_strncat
+destBufferSize >= 0
+@X@()$^.*+?[]|\-{},:=!
+unknown error
+iostream
+iostream stream error
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlstring.cpp
+CUtlString::SetDirect
+nChars == Q_strlen(m_pString)
+CUtlString::SetDirect does not support resizing strings in place.
+nChars <= MIN( V_strnlen(pValue, nChars) + 1, nChars )
+string too long
+invalid string position
+archive
+singleplayer
+notconnected
+replicated
+server_can_execute
+clientcmd_can_execute
+ss_added
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\convar.cpp
+ConCommandBase::Create
+*** ConVar "%s" was not unregistered! Shutdown crash imminent!
+%i %i %i %i
+ConVar::InternalSetValue
+m_pParent == this
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar::ChangeStringValue
+!( m_nFlags & FCVAR_NEVER_AS_STRING )
+ConVar::InternalSetFloatValue
+m_fnChangeCallbacks.Count() == 0
+ConVar::InternalSetIntValue
+ConVar::Create
+m_pszDefaultValue
+ConVar(%s) defined with infinite float value (%s)
+Unaccounted
+CUtlMemory<void (__cdecl*)(class IConVar *,char const *,float),int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\mempool.cpp
+CUtlMemoryPoolBase::CUtlMemoryPoolBase
+IsPowerOfTwo( m_nAlignment )
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase::AddNewBlob
+!"CUtlMemoryPoolBase::AddNewBlob: mode == UTLMEMORYPOOL_GROW_NONE"
+Failed to allocate CUtlMemoryPoolBase blob of size %d ('%s' blob count = %d)
+m_pHeadOfFreeList
+CUtlMemoryPoolBase::Alloc
+!"CUtlMemoryPoolBase::Alloc: ran out of memory"
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::Find
+Unaccounted
+CUtlSymbolTable::Find
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbol::AddString
+Unaccounted
+CUtlSymbolTable::AddString
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlsymbol.cpp
+CUtlSymbolTable::AddString
+pPool->m_SpaceUsed < 0xFFFF
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::Insert
+!"Allowing insert of dupe without explicit dupe insertion. Fix code callpoint to allow dupes."
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::RemoveAll
+CUtlRBTree<class CUtlSymbolTable::CStringPoolIndex,unsigned short,class CUtlSymbolTable::CLess,class CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short> >::NewNode
+Unaccounted
+CUtlMemory<struct CUtlSymbolTable::StringPool_t *,int>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+Unaccounted
+CUtlMemory<struct UtlRBTreeNode_t<class CUtlSymbolTable::CStringPoolIndex,unsigned short>,unsigned short>::Grow
+c:\buildslave\vrgdc2015_staging_win64\build\src\public\tier1\utlmemory.h
+UPDATE_STRING_TOKEN_DATABASE
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier1\utlbuffer.cpp
+CUtlCharConversion::CUtlCharConversion
+info.m_pReplacementString == 0
+CUtlBuffer::CUtlBuffer
+nSize != 0
+CUtlBuffer::Get
+m_Memory.IsIdxValid( Index ) && m_Memory.IsIdxValid( Index + size - 1 )
+CUtlBuffer::Put
+CUtlBuffer::AddNullTermination
+m_Memory.IsIdxValid( Index )
+D"A/oyu
+	6RtcZO"
+z`%1Is}
+)VScript
+c:\buildslave\vrgdc2015_staging_win64\build\src\tier2\schemabindings.cpp
+InstallSchemaBindings
+pSchemaSystem != NULL
+!g_pSchemaSystem || g_pSchemaSystem == pSchemaSystem
+?E=$% B
+?49HoKC
+?UUUUUU
+AUUUUUU
+?UUUUUU
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+Unknown exception
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+?8bunz8
+?@En[vP
+?UUUUUU
+@^8U)zj
+-9D	/9a
+?3ScR.>
+?gibQ^AX>
+WR_l%2>
+)2STud>
+J\;5yTb
+<8bunz8
+<@En[vP
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+_nextafter
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+template-parameter-
+generic-type-
+`anonymous namespace'
+`non-type-template-parameter
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+unsigned 
+volatile
+std::nullptr_t
+<ellipsis>
+,<ellipsis>
+ throw(
+__int16
+__int32
+__int64
+__int128
+<unknown>
+wchar_t
+UNKNOWN
+signed 
+ volatile
+`unknown ecsu'
+struct 
+coclass 
+cointerface 
+volatile 
+cli::array<
+cli::pin_ptr<
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+blendweights
+optionallycompressedtangentframe
+lowprecisionuv
+lowprecisionuv1
+tangentu_signv
+VertexPaintBlendParams
+VertexPaintBlendParams1
+VertexPaintTintColor
+=unknown
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+c:\buildslave\vrgdc2015_staging_win64\build\src\meshsystem\Release\win64\meshsystem.pdb
+meshsystem.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+AssertMsg_ConditionFailed
+Plat_IsInDebugSession
+Plat_ExitProcess
+LoggingSystem_RegisterLoggingChannel
+GetDefaultMiniDumpTypeFlags
+InvokeMiniDumpHandler
+g_pMemAlloc
+Plat_ShouldCollectMiniDumpsForFatalErrors
+CMemAllocSystemInitialize
+LoggingSystem_IsChannelEnabled
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+Warning
+PushMiniProfilerTS
+PopMiniProfilerTS
+AppendMiniProfilerToList
+RemoveMiniProfilerFromList
+LOG_GENERAL
+g_pGlobalMiniProfilers
+LoggingSystem_Log
+COM_TimestampedLog
+??0CThreadMutex@@QEAA@XZ
+??1CThreadMutex@@QEAA@XZ
+?Lock@CThreadMutex@@QEAAXXZ
+?Lock@CThreadFastMutex@@AECAXII@Z
+??0CThreadSpinRWLock@@QEAA@XZ
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?LockForWrite@CThreadSpinRWLock@@QEAAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+g_ClockSpeedMillisecondsMultiplier
+g_Telemetry
+GetCPUInformation
+CommandLine
+ThreadInterlockedExchange64
+??1CThreadSyncObject@@QEAA@XZ
+??0CThreadEvent@@QEAA@_N@Z
+?Set@CThreadEvent@@QEAA_NXZ
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@VColor@@PEBDZZ
+??0IStack_Annotation@@QEAA@AEBVCCallStackMarkerBase@@@Z
+??1IStack_Annotation@@UEAA@XZ
+tier0.dll
+RegisterStringToken
+g_pThreadPool
+vstdlib.dll
+GetCurrentThreadId
+LeaveCriticalSection
+MultiByteToWideChar
+WideCharToMultiByte
+LCMapStringW
+CloseHandle
+GetCurrentProcessId
+GetProcAddress
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+GetLastError
+RtlPcToFileHeader
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+ExitProcess
+GetModuleHandleExW
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetModuleFileNameA
+QueryPerformanceCounter
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+GetStringTypeW
+EnterCriticalSection
+WriteFile
+GetConsoleCP
+GetConsoleMode
+SetFilePointerEx
+GetModuleFileNameW
+LoadLibraryExW
+SetStdHandle
+WriteConsoleW
+OutputDebugStringW
+ReadFile
+ReadConsoleW
+FlushFileBuffers
+CreateFileW
+KERNEL32.dll
+Plat_GetEnv
+?Reset@CThreadEvent@@QEAA_NXZ
+KeyValuesSystem
+position
+texcoord
+position
+0'>0c*>
+pb>pAf>
+-?[`/?291?
+RD?4KF?=GH?9FJ?8HL?
+a?y#c?sIe?
+0123456789ABCDEF 
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+.?AV?$CUtlVectorBase@HV?$CUtlMemory@HH@@@@
+.?AV?$CUtlMemory@HH@@
+.?AVCMeshInstance@@
+.?AVCMeshInstance_Imp@@
+.PEAU?$HashFixedDataInternal_t@PEAVCProjectedDecal@@@?$CUtlTSHashBase@PEAVCProjectedDecal@@$0EAA@_JV?$CUtlTSHashGenericHashMethod@_J@@VCThreadSpinRWLock@@@@
+.?AV?$CUtlVectorBase@PEAVCModel_Imp@@V?$CUtlMemory@PEAVCModel_Imp@@H@@@@
+.?AV?$CUtlMemory@PEAVCModel_Imp@@H@@
+.?AV?$CUtlVectorBase@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@V?$CUtlMemory@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@H@@@@
+.?AV?$CUtlMemory@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEAVISceneWorld@@PEAVCPerSceneWorldDecalInfo@@GP6A_NAEBQEAV1@0@Z@@G@@G@@
+.?AV?$CUtlVectorBase@PEAUVertexBufferHandle_t__@@V?$CUtlMemory@PEAUVertexBufferHandle_t__@@H@@@@
+.?AV?$CUtlMemory@PEAUVertexBufferHandle_t__@@H@@
+.?AV?$CUtlMemory@PEAVCSceneObject@@H@@
+.?AV?$CUtlMemory@PEAVCProjectedDecal@@H@@
+.?AV?$CUtlMemory@V?$CUtlVector@PEAVCModel_Imp@@V?$CUtlMemory@PEAVCModel_Imp@@H@@@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEAVISceneWorld@@PEAVCPerSceneWorldDecalInfo@@GP6A_NAEBQEAV1@0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEAVISceneWorld@@PEAVCPerSceneWorldDecalInfo@@GP6A_NAEBQEAV1@0@Z@@G@@G@@@@
+.?AV?$CUtlVectorBase@PEAVCDecalDrawDataRefCounted@@V?$CUtlMemory@PEAVCDecalDrawDataRefCounted@@H@@@@
+.?AV?$CUtlMemory@V?$CUtlVector@PEAVCDecalDrawDataRefCounted@@V?$CUtlMemory@PEAVCDecalDrawDataRefCounted@@H@@@@H@@
+.?AV<lambda_26dbad8a0a2a0d04cb497f186174eaab>@@
+.?AV?$CUtlMemory@PEAVCDecalDrawDataRefCounted@@H@@
+.?AV?$CUtlVectorBase@PEAVCProjectedDecal@@V?$CUtlMemory@PEAVCProjectedDecal@@H@@@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@PEAVCModel_Imp@@V?$CUtlMemory@PEAVCModel_Imp@@H@@@@V?$CUtlMemory@V?$CUtlVector@PEAVCModel_Imp@@V?$CUtlMemory@PEAVCModel_Imp@@H@@@@H@@@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@PEAVCDecalDrawDataRefCounted@@V?$CUtlMemory@PEAVCDecalDrawDataRefCounted@@H@@@@V?$CUtlMemory@V?$CUtlVector@PEAVCDecalDrawDataRefCounted@@V?$CUtlMemory@PEAVCDecalDrawDataRefCounted@@H@@@@H@@@@
+.?AVIAppSystem@@
+.?AVIMeshSystem@@
+.?AVIToolsResourceListener@@
+.?AVCBaseIntrospectedTypeManager@@
+.?AVIResourceTypeManager@@
+.?AVCMeshSystem@@
+.?AV?$CTier3AppSystem@VIMeshSystem@@$0A@@@
+.?AV?$CTier2AppSystem@VIMeshSystem@@$0A@@@
+.?AV?$CTier1AppSystem@VIMeshSystem@@$0A@@@
+.?AV?$CTier0AppSystem@VIMeshSystem@@@@
+.?AV?$CBaseAppSystem@VIMeshSystem@@@@
+.?AVCModelTypeManager@@
+.?AV?$CDefaultIntrospectedTypeManager@$0GMGEGNHG@UPermModelData_t@@@@
+.?AV?$_Func_base@X$$$V@std@@
+.?AV?$_Func_impl@U?$_Callable_obj@V<lambda_26dbad8a0a2a0d04cb497f186174eaab>@@$0A@@std@@V?$allocator@V?$_Func_class@X$$$V@std@@@2@X$$$V@std@@
+.?AV?$CUtlMemory@V?$CUtlVector@HV?$CUtlMemory@HH@@@@H@@
+.?AV?$CUtlMemory@MH@@
+.?AV?$CUtlMemory@Vmatrix3x4a_t@@H@@
+.?AV?$CUtlMemory@UVertexColor_t@@H@@
+.?AV?$CUtlMemory@W4BoneFlags_t@ModelSkeletonData_t@@H@@
+.?AV?$CUtlVectorBase@USkeletonMeshVertex_t@@V?$CUtlMemory@USkeletonMeshVertex_t@@H@@@@
+.?AV?$CUtlMemory@USkeletonMeshVertex_t@@H@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@HV?$CUtlMemory@HH@@@@V?$CUtlMemory@V?$CUtlVector@HV?$CUtlMemory@HH@@@@H@@@@
+.?AV?$CUtlVectorBase@MV?$CUtlMemory@MH@@@@
+.?AV?$CUtlVectorBase@Vmatrix3x4a_t@@V?$CUtlMemory@Vmatrix3x4a_t@@H@@@@
+.?AV?$CUtlVectorBase@UVertexColor_t@@V?$CUtlMemory@UVertexColor_t@@H@@@@
+.?AV?$CUtlVectorBase@W4BoneFlags_t@ModelSkeletonData_t@@V?$CUtlMemory@W4BoneFlags_t@ModelSkeletonData_t@@H@@@@
+.?AVIMeshUtils@@
+.?AVIGenericInterface@@
+.?AVISceneObjectDesc@@
+.?AVCSceneObject@@
+.?AVCSceneSkeletonObject@@
+.?AVCMeshUtils@@
+.?AV?$CTier3AppSystem@VIMeshUtils@@$0A@@@
+.?AV?$CTier2AppSystem@VIMeshUtils@@$0A@@@
+.?AV?$CTier1AppSystem@VIMeshUtils@@$0A@@@
+.?AV?$CTier0AppSystem@VIMeshUtils@@@@
+.?AV?$CBaseAppSystem@VIMeshUtils@@@@
+.?AVCInputLayoutRegistration_g_hSkeletonMeshLayout@@
+.?AVCPostConnectCallback@@
+.?AVCSceneSkeletonObjectDesc@@
+.?AV?$ISceneObjectDescBase@VCSceneSkeletonObject@@@@
+.?AV?$CUtlVectorBase@UBodyPart_t@CModel@@V?$CUtlMemory@UBodyPart_t@CModel@@H@@@@
+.?AV?$CUtlVectorBase@UAttachmentPairing_t@@V?$CUtlMemory@UAttachmentPairing_t@@H@@@@
+.?AV?$CUtlVectorBase@PEBUFlexController_t@@V?$CUtlMemory@PEBUFlexController_t@@H@@@@
+.?AV?$CUtlMemory@UBodyPart_t@CModel@@H@@
+.?AV?$CUtlVectorBase@UDefaultMaterialGroupIndex_t@@V?$CUtlMemory@UDefaultMaterialGroupIndex_t@@H@@@@
+.?AV?$CUtlMemory@UAttachmentPairing_t@@H@@
+.?AV?$CUtlMemory@PEBUFlexController_t@@H@@
+.?AV?$CUtlVectorBase@VCUtlStringToken@@V?$CUtlMemory@VCUtlStringToken@@H@@@@
+.?AV?$CUtlMemory@UDefaultMaterialGroupIndex_t@@H@@
+.?AV?$CUtlVectorBase@GV?$CUtlMemory@GH@@@@
+.?AV?$CUtlMemory@VCUtlStringToken@@H@@
+.?AV?$CUtlMemory@GH@@
+.?AVCModel_Imp@@
+.?AVCModel@@
+.?AV?$CUtlHashDict@PEBUMorphData_t@@$0A@$0A@@@
+.?AV?$CUtlVectorBase@UFlexControllerMapping_t@@V?$CUtlMemory@UFlexControllerMapping_t@@H@@@@
+.?AV?$CUtlMemory@UFlexControllerMapping_t@@H@@
+.?AV?$CUtlVectorBase@UFlexDescMapping_t@@V?$CUtlMemory@UFlexDescMapping_t@@H@@@@
+.?AV?$CUtlMemory@UFlexDescMapping_t@@H@@
+.?AV?$CUtlVectorBase@PEAVCMorphSet@@V?$CUtlMemory@PEAVCMorphSet@@H@@@@
+.?AV?$CUtlMemory@PEAVCMorphSet@@H@@
+.?AV?$CUtlMemory@PEBUFlexRule_t@@H@@
+.?AV?$CUtlVectorBase@PEBUFlexRule_t@@V?$CUtlMemory@PEBUFlexRule_t@@H@@@@
+.?AV?$CUtlVectorBase@UEntry_t@?$CUtlHashDict@PEBUMorphData_t@@$0A@$0A@@@V?$CUtlMemory@UEntry_t@?$CUtlHashDict@PEBUMorphData_t@@$0A@$0A@@@H@@@@
+.?AV?$CUtlMemory@V?$CUtlVector@UEntry_t@?$CUtlHashDict@PEBUMorphData_t@@$0A@$0A@@@V?$CUtlMemory@UEntry_t@?$CUtlHashDict@PEBUMorphData_t@@$0A@$0A@@@H@@@@H@@
+.?AV?$CUtlMemory@UEntry_t@?$CUtlHashDict@PEBUMorphData_t@@$0A@$0A@@@H@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@UEntry_t@?$CUtlHashDict@PEBUMorphData_t@@$0A@$0A@@@V?$CUtlMemory@UEntry_t@?$CUtlHashDict@PEBUMorphData_t@@$0A@$0A@@@H@@@@V?$CUtlMemory@V?$CUtlVector@UEntry_t@?$CUtlHashDict@PEBUMorphData_t@@$0A@$0A@@@V?$CUtlMemory@UEntry_t@?$CUtlHashDict@PEBUMorphData_t@@$0A@$0A@@@H@@@@H@@@@
+.?AVCMorphSetManager@@
+.?AV?$CDefaultIntrospectedTypeManager@$0GGHCGPGNHG@UMorphSetData_t@@@@
+.?AV?$CUtlVectorBase@UTraceDataForDraw_t@@V?$CUtlMemory@UTraceDataForDraw_t@@H@@@@
+.?AV?$CUtlMemory@UTraceDataForDraw_t@@H@@
+.?AV?$CUtlMemory@UCacheOptimizedKDNode_t@@H@@
+.?AV?$CUtlMemory@VVector@@H@@
+.?AV?$CUtlMemory@UInstancedRayTracingEnvironmentBVHNode_t@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@PEAVCMeshRayTrace@@GP6A_NAEBV1@0@Z@@G@@G@@
+.?AV?$CUtlMemory@PEAVCMeshInstance@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@PEAVCMeshRayTrace@@GP6A_NAEBV1@0@Z@@GVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@PEAVCMeshRayTrace@@GP6A_NAEBV1@0@Z@@G@@G@@@@
+.?AV?$CUtlBlockMemory@UCacheOptimizedTriangle_t@@H@@
+.?AVIRefCounted@@
+.?AV?$CRefCountServiceBase@$00VCRefMT@@@@
+.?AVIKV3TransferInterface_ResourceLoad@@
+.?AVIMeshRayTrace@@
+.?AVCRenderMeshManager@@
+.?AV?$CDefaultTypesafeIntrospectedTypeManager@$0GIHDGFGNHG@UPermRenderMeshData_t@@@@
+.?AVCKV3Transfer_ResourceLoadInterface@@
+.?AVCMeshRayTrace@@
+.?AV?$CRefCounted1@VIMeshRayTrace@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@
+.?AV?$CUtlVectorBase@PEAVCSceneObject@@V?$CUtlMemory@PEAVCSceneObject@@H@@@@
+.?AV?$CUtlVectorBase@PEAVCMeshInstance@@V?$CUtlMemory@PEAVCMeshInstance@@H@@@@
+.?AV?$CUtlMemory@UConstraintSlave_t@@H@@
+.?AV?$CUtlMemory@UConstraintTarget_t@@H@@
+.?AV?$CUtlVectorBase@UConstraintSlave_t@@V?$CUtlMemory@UConstraintSlave_t@@H@@@@
+.?AV?$CUtlVectorBase@UConstraintTarget_t@@V?$CUtlMemory@UConstraintTarget_t@@H@@@@
+.?AVIAtomicManipulator@@
+.?AVISchemaManipulator@@
+.?AVCSchemaClassBindingBase@@
+.?AVISchemaBinding@@
+.?AU?$CAtomicManipulator@VVector@@@@
+.?AU?$CAtomicManipulator@VCUtlString@@@@
+.?AVISchemaCollectionManipulator@@
+.?AV?$CSchemaClassBinding@VCBaseConstraint@@@@
+.?AV?$CSchemaManipulator@VVector@@@@
+.?AV?$CSchemaManipulator@VCUtlString@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@UConstraintSlave_t@@V?$CUtlMemory@UConstraintSlave_t@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@UConstraintTarget_t@@V?$CUtlMemory@UConstraintTarget_t@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@UConstraintSlave_t@@V?$CUtlMemory@UConstraintSlave_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@UConstraintSlave_t@@V?$CUtlMemory@UConstraintSlave_t@@H@@@@UConstraintSlave_t@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@UConstraintTarget_t@@V?$CUtlMemory@UConstraintTarget_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@UConstraintTarget_t@@V?$CUtlMemory@UConstraintTarget_t@@H@@@@UConstraintTarget_t@@@@
+.?AVCSchemaEnumBindingBase@@
+.?AV?$CSchemaEnumBinding@W4fieldtype_t@@@@
+.?AVCSchemaRegistration@@
+.?AVCSchemaRegistration_meshsystem@@
+.?AU?$CAtomicManipulator@VQuaternion@@@@
+.?AU?$CAtomicManipulator@VCTransform@@@@
+.?AVISchemaInspectionManipulator@@
+.?AU?$CAtomicManipulator@VCResourceString@@@@
+.?AV?$CSchemaEnumBinding@W4BoneFlags_t@ModelSkeletonData_t@@@@
+.?AV?$CSchemaEnumBinding@W4FlagEnum@PermModelInfo_t@@@@
+.?AV?$CSchemaEnumBinding@W4ModelBoneFlexComponent_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialGroup_t@@@@
+.?AV?$CSchemaClassBinding@UModelSkeletonData_t@@@@
+.?AV?$CSchemaClassBinding@UPermModelInfo_t@@@@
+.?AV?$CSchemaClassBinding@UPermModelExtPart_t@@@@
+.?AV?$CSchemaClassBinding@UModelBoneFlexDriverControl_t@@@@
+.?AV?$CSchemaClassBinding@UModelBoneFlexDriver_t@@@@
+.?AV?$CSchemaClassBinding@UPermModelData_t@@@@
+.?AV?$CSchemaManipulator@VQuaternion@@@@
+.?AV?$CSchemaManipulator@VCTransform@@@@
+.?AV?$CSchemaManipulator@VCResourceString@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCResourceString@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@F@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@M@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@I@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VVector@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VQuaternion@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UModelBoneFlexDriverControl_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UPermModelExtPart_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@_K@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@E@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMaterialGroup_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@G@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UModelBoneFlexDriver_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCResourceString@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@F@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@M@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@I@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VVector@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VQuaternion@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UModelBoneFlexDriverControl_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UPermModelExtPart_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@_K@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@E@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMaterialGroup_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@G@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UModelBoneFlexDriver_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCModel@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCModel@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeIMaterial2@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeIMaterial2@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCRenderMesh@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCRenderMesh@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCPhysAggregateData@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCPhysAggregateData@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCAnimationGroupResource@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCAnimationGroupResource@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCSequenceGroupResource@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCSequenceGroupResource@@@@
+.?AV?$CUtlMemory@UBuilderModelBoneFlexDriverControl_t@@H@@
+.?AV?$CUtlMemory@UBuilderModelBoneFlexDriver_t@@H@@
+.?AV?$CUtlVectorBase@UBuilderModelBoneFlexDriverControl_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriverControl_t@@H@@@@
+.?AV?$CUtlVectorBase@UBuilderModelBoneFlexDriver_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriver_t@@H@@@@
+.?AV?$CSchemaClassBinding@VCBuilderModelInfo@@@@
+.?AV?$CSchemaClassBinding@UBuilderModelBoneFlexDriverControl_t@@@@
+.?AV?$CSchemaClassBinding@UBuilderModelBoneFlexDriver_t@@@@
+.?AV?$CSchemaClassBinding@UBuilderModelBoneFlexDriverList_t@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriverControl_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriverControl_t@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriver_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriver_t@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriverControl_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriverControl_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriverControl_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriverControl_t@@H@@@@UBuilderModelBoneFlexDriverControl_t@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriver_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriver_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@UBuilderModelBoneFlexDriver_t@@V?$CUtlMemory@UBuilderModelBoneFlexDriver_t@@H@@@@UBuilderModelBoneFlexDriver_t@@@@
+.?AV?$CSchemaEnumBinding@W4RenderMeshFlexControllerRemapType_t@@@@
+.?AV?$CSchemaEnumBinding@W4BundleType_t@@@@
+.?AV?$CSchemaEnumBinding@W4LookupType_t@MorphSetData_t@@@@
+.?AV?$CSchemaEnumBinding@W4EncodingType_t@MorphSetData_t@@@@
+.?AV?$CSchemaClassBinding@UFlexOp_t@@@@
+.?AV?$CSchemaClassBinding@UFlexRule_t@@@@
+.?AV?$CSchemaClassBinding@UFlexDesc_t@@@@
+.?AV?$CSchemaClassBinding@UFlexController_t@@@@
+.?AV?$CSchemaClassBinding@UBundleData_t@@@@
+.?AV?$CSchemaClassBinding@UMorphRectData_t@@@@
+.?AV?$CSchemaClassBinding@UMorphData_t@@@@
+.?AV?$CSchemaClassBinding@UMorphSetData_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFlexOp_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UBundleData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMorphRectData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@W4BundleType_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMorphData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCMorphSet@@@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFlexDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFlexController_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UFlexRule_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@@@
+.?AU?$CAtomicManipulator@V?$CWeakHandle@UInfoForResourceTypeCMorphSet@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFlexOp_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UBundleData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMorphRectData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@W4BundleType_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMorphData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceExtReference@V?$CWeakHandle@UInfoForResourceTypeCMorphSet@@@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFlexDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFlexController_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UFlexRule_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCTextureBase@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCTextureBase@@@@
+.?AV?$CSchemaManipulator@V?$CWeakHandle@UInfoForResourceTypeCMorphSet@@@@@@
+.?AV?$CSchemaWeakHandleInspectionManipulator@UInfoForResourceTypeCMorphSet@@@@
+.?AV?$CUtlMemory@UVsInputSignatureElement_t@@H@@
+.?AV?$CUtlVectorBase@UVsInputSignatureElement_t@@V?$CUtlMemory@UVsInputSignatureElement_t@@H@@@@
+.?AV?$CSchemaEnumBinding@W4RenderSlotType_t@@@@
+.?AV?$CSchemaEnumBinding@W4RenderPrimitiveType_t@@@@
+.?AV?$CSchemaEnumBinding@W4InputLayoutVariation_t@@@@
+.?AV?$CSchemaEnumBinding@W4RenderMultisampleType_t@@@@
+.?AV?$CSchemaClassBinding@URenderInputLayoutField_t@@@@
+.?AV?$CSchemaClassBinding@UVsInputSignatureElement_t@@@@
+.?AV?$CSchemaClassBinding@UVsInputSignature_t@@@@
+.?AU?$CAtomicManipulator@V?$CCopyableUtlVector@UVsInputSignatureElement_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CCopyableUtlVector@UVsInputSignatureElement_t@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CCopyableUtlVector@UVsInputSignatureElement_t@@@@UVsInputSignatureElement_t@@@@
+.?AV?$CUtlDict@VCAttachment@@H@@
+.?AV?$CUtlDict@VCHitBoxSet@@H@@
+.?AV?$CUtlVectorBase@URenderSkeletonBone_t@@V?$CUtlMemory@URenderSkeletonBone_t@@H@@@@
+.?AV?$CUtlMemory@URenderSkeletonBone_t@@H@@
+.?AV?$CUtlVectorBase@URenderBufferBinding_t@@V?$CUtlMemoryFixed@URenderBufferBinding_t@@$03@@@@
+.?AV?$CUtlVectorBase@VCMaterialDrawDescriptor@@V?$CUtlMemory@VCMaterialDrawDescriptor@@H@@@@
+.?AV?$CUtlMemory@VCMaterialDrawDescriptor@@H@@
+.?AV?$CUtlVectorBase@VCHitBox@@V?$CUtlMemory@VCHitBox@@H@@@@
+.?AV?$CUtlMemory@VCHitBox@@H@@
+.?AV?$CUtlVectorBase@VCHitBoxSet@@V?$CUtlMemory@VCHitBoxSet@@H@@@@
+.?AV?$CUtlMemory@VCHitBoxSet@@H@@
+.?AV?$CUtlVectorBase@VCSceneObjectData@@V?$CUtlMemoryFixedGrowable@VCSceneObjectData@@$00H@@@@
+.?AV?$CUtlMemory@VCSceneObjectData@@H@@
+.?AV?$CUtlMemory@PEAVCBaseConstraint@@H@@
+.?AV?$CUtlVectorBase@PEAVCBaseConstraint@@V?$CUtlMemory@PEAVCBaseConstraint@@H@@@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDVCAttachment@@HP6A_NAEBQEBD0@Z@@H@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDVCHitBoxSet@@HP6A_NAEBQEBD0@Z@@H@@H@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEBDVCAttachment@@HP6A_NAEBQEBD0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDVCAttachment@@HP6A_NAEBQEBD0@Z@@H@@H@@@@
+.?AV?$CUtlRBTree@UNode_t@?$CUtlMap@PEBDVCHitBoxSet@@HP6A_NAEBQEBD0@Z@@HVCKeyLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@UNode_t@?$CUtlMap@PEBDVCHitBoxSet@@HP6A_NAEBQEBD0@Z@@H@@H@@@@
+.?AV?$CUtlVectorBase@UBoneHashPairing_t@@V?$CUtlMemory@UBoneHashPairing_t@@H@@@@
+.?AV?$CUtlMemory@V?$CUtlVector@UBoneHashPairing_t@@V?$CUtlMemory@UBoneHashPairing_t@@H@@@@H@@
+.?AV?$CUtlMemory@V?$CUtlVector@UDefaultMaterialGroupIndex_t@@V?$CUtlMemory@UDefaultMaterialGroupIndex_t@@H@@@@H@@
+.?AV?$CUtlMemory@UBoneHashPairing_t@@H@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@UBoneHashPairing_t@@V?$CUtlMemory@UBoneHashPairing_t@@H@@@@V?$CUtlMemory@V?$CUtlVector@UBoneHashPairing_t@@V?$CUtlMemory@UBoneHashPairing_t@@H@@@@H@@@@
+.?AV?$CUtlVectorBase@V?$CUtlVector@UDefaultMaterialGroupIndex_t@@V?$CUtlMemory@UDefaultMaterialGroupIndex_t@@H@@@@V?$CUtlMemory@V?$CUtlVector@UDefaultMaterialGroupIndex_t@@V?$CUtlMemory@UDefaultMaterialGroupIndex_t@@H@@@@H@@@@
+.?AVISequence@@
+.?AVIBaseSequence@@
+.?AVIVSSequence@@
+.?AVCEmptySequence@@
+.?AU?$CAtomicManipulator@Vmatrix3x4a_t@@@@
+.?AU?$CAtomicManipulator@VVector4D@@@@
+.?AV?$CSchemaEnumBinding@W4MeshTranslucencyType_t@@@@
+.?AV?$CSchemaEnumBinding@W4MeshDrawPrimitiveFlags_t@@@@
+.?AV?$CSchemaEnumBinding@W4FlagEnum_t@RenderSkeletonData_t@@@@
+.?AV?$CSchemaEnumBinding@W4AttachmentInfluenceFlags_t@@@@
+.?AV?$CSchemaEnumBinding@W4ConstraintType_t@@@@
+.?AV?$CSchemaClassBinding@USkeletonBoneBbox_t@@@@
+.?AV?$CSchemaClassBinding@URenderSkeletonData_t@@@@
+.?AV?$CSchemaClassBinding@URenderBufferBinding_t@@@@
+.?AV?$CSchemaClassBinding@UMaterialDrawDescriptor_t@@@@
+.?AV?$CSchemaClassBinding@UOnDiskBufferData_t@@@@
+.?AV?$CSchemaClassBinding@USceneObjectData_t@@@@
+.?AV?$CSchemaClassBinding@UAttachmentData_t@@@@
+.?AV?$CSchemaClassBinding@UHitBox_t@@@@
+.?AV?$CSchemaClassBinding@UHitBoxSet_t@@@@
+.?AV?$CSchemaClassBinding@UConstraintTarget_t@@@@
+.?AV?$CSchemaClassBinding@UConstraintSlave_t@@@@
+.?AV?$CSchemaClassBinding@UBaseConstraint_t@@@@
+.?AV?$CSchemaClassBinding@UPermRenderMeshData_t@@@@
+.?AV?$CSchemaManipulator@Vmatrix3x4a_t@@@@
+.?AV?$CSchemaManipulator@VVector4D@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@Vmatrix3x4a_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@USkeletonBoneBbox_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URenderBufferBinding_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URenderInputLayoutField_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UMaterialDrawDescriptor_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UHitBox_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UConstraintSlave_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UConstraintTarget_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@USceneObjectData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourcePointer@URenderSkeletonData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UAttachmentData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UHitBoxSet_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UBaseConstraint_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UOnDiskBufferData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@Vmatrix3x4a_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@USkeletonBoneBbox_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URenderBufferBinding_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URenderInputLayoutField_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UMaterialDrawDescriptor_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UHitBox_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UConstraintSlave_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UConstraintTarget_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@USceneObjectData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourcePointer@URenderSkeletonData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UAttachmentData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UHitBoxSet_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UBaseConstraint_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UOnDiskBufferData_t@@@@@@
+.?AU?$CAtomicManipulator@Umatrix3x4_t@@@@
+.?AU?$CAtomicManipulator@VColor@@@@
+.?AV?$CSchemaClassBinding@URenderSkeletonBone_t@@@@
+.?AV?$CSchemaClassBinding@VCRenderSkeleton@@@@
+.?AV?$CSchemaClassBinding@VCMaterialDrawDescriptor@@@@
+.?AV?$CSchemaClassBinding@VCSceneObjectData@@@@
+.?AV?$CSchemaClassBinding@VCAttachment@@@@
+.?AV?$CSchemaClassBinding@VCHitBox@@@@
+.?AV?$CSchemaClassBinding@VCHitBoxSet@@@@
+.?AV?$CSchemaClassBinding@VCHitBoxSetList@@@@
+.?AV?$CSchemaClassBinding@VCRenderMesh@@@@
+.?AV?$CSchemaManipulator@Umatrix3x4_t@@@@
+.?AV?$CSchemaManipulator@VColor@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@URenderSkeletonBone_t@@V?$CUtlMemory@URenderSkeletonBone_t@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@HV?$CUtlMemory@HH@@@@@@
+.?AU?$CAtomicManipulator@V?$CStrongHandle@UInfoForResourceTypeIMaterial2@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCMaterialDrawDescriptor@@V?$CUtlMemory@VCMaterialDrawDescriptor@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCHitBox@@V?$CUtlMemory@VCHitBox@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@VCHitBoxSet@@V?$CUtlMemory@VCHitBoxSet@@H@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVectorFixedGrowable@VCSceneObjectData@@$00@@@@
+.?AU?$CAtomicManipulator@V?$CStrongHandle@UInfoForResourceTypeCMorphSet@@@@@@
+.?AU?$CAtomicManipulator@V?$CUtlVector@PEAVCBaseConstraint@@V?$CUtlMemory@PEAVCBaseConstraint@@H@@@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@URenderSkeletonBone_t@@V?$CUtlMemory@URenderSkeletonBone_t@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@URenderSkeletonBone_t@@V?$CUtlMemory@URenderSkeletonBone_t@@H@@@@URenderSkeletonBone_t@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@HV?$CUtlMemory@HH@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@HV?$CUtlMemory@HH@@@@H@@
+.?AV?$CSchemaManipulator@V?$CStrongHandle@UInfoForResourceTypeIMaterial2@@@@@@
+.?AV?$CSchemaStrongHandleInspectionManipulator@UInfoForResourceTypeIMaterial2@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCMaterialDrawDescriptor@@V?$CUtlMemory@VCMaterialDrawDescriptor@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCMaterialDrawDescriptor@@V?$CUtlMemory@VCMaterialDrawDescriptor@@H@@@@VCMaterialDrawDescriptor@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCHitBox@@V?$CUtlMemory@VCHitBox@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCHitBox@@V?$CUtlMemory@VCHitBox@@H@@@@VCHitBox@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@VCHitBoxSet@@V?$CUtlMemory@VCHitBoxSet@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@VCHitBoxSet@@V?$CUtlMemory@VCHitBoxSet@@H@@@@VCHitBoxSet@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVectorFixedGrowable@VCSceneObjectData@@$00@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVectorFixedGrowable@VCSceneObjectData@@$00@@VCSceneObjectData@@@@
+.?AV?$CSchemaManipulator@V?$CStrongHandle@UInfoForResourceTypeCMorphSet@@@@@@
+.?AV?$CSchemaStrongHandleInspectionManipulator@UInfoForResourceTypeCMorphSet@@@@
+.?AV?$CSchemaManipulator@V?$CUtlVector@PEAVCBaseConstraint@@V?$CUtlMemory@PEAVCBaseConstraint@@H@@@@@@
+.?AV?$CSchemaUtlVectorManipulator@V?$CUtlVector@PEAVCBaseConstraint@@V?$CUtlMemory@PEAVCBaseConstraint@@H@@@@PEAVCBaseConstraint@@@@
+.?AVCBaseConstraint@@
+.?AVCPointConstraint@@
+.?AVCOrientConstraint@@
+.?AVCAimConstraint@@
+.?AVCTwistConstraint@@
+.?AV?$CUtlMemory@EH@@
+.?AV?$CUtlVectorBase@VVector@@V?$CUtlMemory@VVector@@H@@@@
+.?AVCSchemaRegistration_modellib@@
+.?AV?$CSchemaEnumBinding@W4VPhysXFlagEnum_t@VPhysXBodyPart_t@@@@
+.?AV?$CSchemaEnumBinding@W4EnumFlags0_t@VPhysXConstraintParams_t@@@@
+.?AV?$CSchemaEnumBinding@W4VPhysXFlagEnum_t@VPhysXAggregateData_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysics2ShapeDef_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXBodyPart_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXCollisionAttributes_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXRange_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXConstraintParams_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXConstraint2_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXJoint_t@@@@
+.?AV?$CSchemaClassBinding@UPhysSoftbodyDesc_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXAggregateData_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnSphereDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnCapsuleDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnHullDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnMeshDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourcePointer@VVpropBreakablePartData_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnSoftbodyParticle_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnSoftbodySpring_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnSoftbodyCapsule_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCTransform@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVPhysXBodyPart_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVPhysXConstraint2_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVPhysXJoint_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourcePointer@UPhysFeModelDesc_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@UVPhysXCollisionAttributes_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnSphereDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnCapsuleDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnHullDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnMeshDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourcePointer@VVpropBreakablePartData_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnSoftbodyParticle_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnSoftbodySpring_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnSoftbodyCapsule_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCTransform@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVPhysXBodyPart_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVPhysXConstraint2_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVPhysXJoint_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourcePointer@UPhysFeModelDesc_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@UVPhysXCollisionAttributes_t@@@@@@
+.?AV?$CSchemaEnumBinding@W4multiplayerBreak_t@@@@
+.?AV?$CSchemaClassBinding@VVpropBreakablePartData_t@@@@
+.?AV?$CSchemaClassBinding@VCVPhysXSurfacePhysicsParams@@@@
+.?AV?$CSchemaClassBinding@VCVPhysXSurfaceAudioParams@@@@
+.?AV?$CSchemaClassBinding@VCVPhysXSurfaceAudioSounds@@@@
+.?AV?$CSchemaClassBinding@VCVPhysXSurfaceGameProperties@@@@
+.?AV?$CSchemaClassBinding@VCPhysSurfaceProperties@@@@
+.?AV?$CSchemaClassBinding@VCVPhysXSurfacePropertiesList@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCPhysSurfaceProperties@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCPhysSurfaceProperties@@@@@@
+.?AV?$CSchemaClassBinding@VCVPhysXMesh@@@@
+.?AV?$CSchemaClassBinding@VCVPhysXLevelData@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@VCVPhysXMesh@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@VCVPhysXMesh@@@@@@
+.?AV?$CSchemaEnumBinding@W4VersinEnum_t@VPhysXDiskShapeHeader_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXDiskShapeHeader_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXDiskMesh2_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXShapeCompoundHeader2_t@@@@
+.?AV?$CSchemaClassBinding@UVPhysXDiskCapsule_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@V?$CResourceArray@E@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@V?$CResourceArray@E@@@@@@
+.?AV?$CSchemaClassBinding@URnDummy_t@@@@
+.?AV?$CSchemaClassBinding@URnSphere_t@@@@
+.?AV?$CSchemaClassBinding@URnCapsule_t@@@@
+.?AV?$CSchemaClassBinding@URnPlane_t@@@@
+.?AV?$CSchemaClassBinding@URnHalfEdge_t@@@@
+.?AV?$CSchemaClassBinding@URnFace_t@@@@
+.?AV?$CSchemaClassBinding@URnHull_t@@@@
+.?AV?$CSchemaClassBinding@URnTriangle_t@@@@
+.?AV?$CSchemaClassBinding@URnNode_t@@@@
+.?AV?$CSchemaClassBinding@URnMesh_t@@@@
+.?AV?$CSchemaClassBinding@URnShapeDesc_t@@@@
+.?AV?$CSchemaClassBinding@URnSphereDesc_t@@@@
+.?AV?$CSchemaClassBinding@URnCapsuleDesc_t@@@@
+.?AV?$CSchemaClassBinding@URnHullDesc_t@@@@
+.?AV?$CSchemaClassBinding@URnMeshDesc_t@@@@
+.?AV?$CSchemaClassBinding@URnSoftbodyParticle_t@@@@
+.?AV?$CSchemaClassBinding@URnSoftbodySpring_t@@@@
+.?AV?$CSchemaClassBinding@URnSoftbodyCapsule_t@@@@
+.?AV?$CSchemaClassBinding@URnBlendVertex_t@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnPlane_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnHalfEdge_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnFace_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnNode_t@@@@@@
+.?AU?$CAtomicManipulator@V?$CResourceArray@URnTriangle_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnPlane_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnHalfEdge_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnFace_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnNode_t@@@@@@
+.?AV?$CSchemaManipulator@V?$CResourceArray@URnTriangle_t@@@@@@
+.?AV?$CSchemaClassBinding@UVertexPositionNormal_t@@@@
+.?AV?$CSchemaClassBinding@UVertexPositionColor_t@@@@
+.?AV?$CUtlVectorBase@UCacheOptimizedKDNode_t@@V?$CUtlMemory@UCacheOptimizedKDNode_t@@H@@@@
+.?AV?$CUtlVectorBase@UCacheOptimizedTriangle_t@@V?$CUtlBlockMemory@UCacheOptimizedTriangle_t@@H@@@@
+.?AV?$CUtlVectorBase@UInstancedRayTracingEnvironmentBVHNode_t@@V?$CUtlMemory@UInstancedRayTracingEnvironmentBVHNode_t@@H@@@@
+.?AV?$CUtlMemory@UTriangleBounds_t@@H@@
+.?AV?$CUtlVectorBase@UTriangleBounds_t@@V?$CUtlMemory@UTriangleBounds_t@@H@@@@
+.?AVCFunctor@@
+.?AV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@
+.?AVCUtlMultiJobProcessor@@
+.?AV?$CMemberFunctor8@PEAVRayTracingEnvironment@@P81@EBAXHHPEAUSplitStats_t@@PEBHHPEBUTriangleBounds_t@@VVector@@3@ZHHPEAU2@PEBHHPEBU3@V4@V4@V?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CMemberFunctor8@PEAVRayTracingEnvironment@@P81@EAAXHPEBHHPEBUTriangleBounds_t@@VVector@@2HPEAVCUtlMultiJobProcessor@@@ZHPEAHHPEBU2@V3@V3@HPEAV4@V?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CMemberFunctor8@PEAVRayTracingEnvironment@@P81@EAAXHPEBHHPEBUTriangleBounds_t@@VVector@@2HPEAVCUtlMultiJobProcessor@@@ZHPEAHHPEAU2@V3@V3@HPEAV4@V?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$CMemberFunctor1@PEAV?$CParallelProcessorAbstract@V?$CParallelProcessor@HV?$CMemberFuncJobItemProcessor@HV?$CCallQueueT@V?$CTSQueue@PEAVCFunctor@@$0A@@@@@V1@@@$00@@@@P81@EAAXH@ZHV?$CRefCounted1@VCFunctor@@V?$CRefCountServiceBase@$00VCRefMT@@@@@@VCFuncMemPolicyNone@@@@
+.?AV?$ISchemaSearchTester@PEBVCSchemaClassInfo@@@@
+.?AUCValueSearchTester_ClassIntrospectionHandle_t@MDiskDataForResourceType@@
+.?AVIResourceAllocatorUtils@@
+.?AVCResourceAllocatorUtils@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@VResourceId_t@@PEBD@@H@@
+.?AVCSchemaVisitorBase@@
+.?AVCSchemaFieldVisitor@@
+.?AVCExtrefTraversal@@
+.?AVCResourceReferenceFixupTraversal@@
+.?AVCReferenceCleanupTraversal@@
+.?AVIStack_Annotation@@
+.?AV?$CSchemaFieldVisitorInfoMap@VCExtrefTraversal@@@@
+.?AVCSchemaVisitorInfoMapBase@@
+.?AV?$CStackAnnotation@PEBVCSchemaClassField@@_NXXXXXXX@@
+.?AV?$CUtlVectorBase@VCUtlStringToken@@V?$CUtlMemoryFixedGrowable@VCUtlStringToken@@$07H@@@@
+.?AV?$CUtlVectorBase@PEBDV?$CUtlMemoryFixedGrowable@PEBD$07H@@@@
+.?AV?$CUtlMemory@PEBDH@@
+.?AV?$CUtlVectorBase@PEAVKeyValues3@@V?$CUtlMemoryFixedGrowable@PEAVKeyValues3@@$07H@@@@
+.?AV?$CUtlMemory@PEAVKeyValues3@@H@@
+.?AV?$CUtlVectorBase@EV?$CUtlMemoryFixedGrowable@E$07H@@@@
+.?AV?$CUtlVectorBase@PEAVCKeyValues3Cluster@@V?$CUtlMemoryFixedGrowable@PEAVCKeyValues3Cluster@@$07H@@@@
+.?AV?$CUtlMemory@PEAVCKeyValues3Cluster@@H@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@V?$CUtlMemory@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@?$CUtlSymbolTableLargeBase@V?$CNonThreadsafeTree@$0A@@@$0A@$0IAA@@@H@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_J@@_J@@
+.?AV?$CUtlRBTree@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_JV?$CTreeEntryLess@V?$CNonThreadsafeTree@$0A@@@$0A@@@V?$CUtlMemory@U?$UtlRBTreeNode_t@PEAUCUtlSymbolTableLargeBaseTreeEntry_t@@_J@@_J@@@@
+.?AV?$CUtlVectorBase@VCUtlStringToken@@V?$CUtlMemoryFixedGrowable@VCUtlStringToken@@$0BAA@H@@@@
+.?AV?$CUtlVectorBase@PEBDV?$CUtlMemoryFixedGrowable@PEBD$0BAA@H@@@@
+.?AV?$CUtlVectorBase@EV?$CUtlMemoryFixedGrowable@E$0EAA@H@@@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@USaveClassReference_t@@Uempty_t@@@@H@@
+.?AV?$CUtlMemory@V?$CUtlHashtableEntry@PEBVCSchemaClassInfo@@PEAVCClassVisitInfo@@@@H@@
+.?AV?$CUtlVectorBase@UFieldInfo_t@CClassVisitInfo@@V?$CUtlMemory@UFieldInfo_t@CClassVisitInfo@@H@@@@
+.?AV?$CUtlMemory@UFieldInfo_t@CClassVisitInfo@@H@@
+.?AV?$CUtlMemory@UClassToTraverse_t@CSchemaInheritanceIterator@@H@@
+.?AV?$CUtlVectorBase@UClassToTraverse_t@CSchemaInheritanceIterator@@V?$CUtlMemoryFixedGrowable@UClassToTraverse_t@CSchemaInheritanceIterator@@$07H@@@@
+.?AVexception@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVConVar@@
+.?AV?$CUtlVectorBase@P6AXPEAVIConVar@@PEBDM@ZV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@@@
+.?AV?$CUtlMemory@P6AXPEAVIConVar@@PEBDM@ZH@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AV?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@
+.?AV?$CUtlVectorBase@PEAUStringPool_t@CUtlSymbolTable@@V?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@@@
+.?AV?$CUtlMemory@PEAUStringPool_t@CUtlSymbolTable@@H@@
+.?AV?$CUtlRBTree@VCStringPoolIndex@CUtlSymbolTable@@GVCLess@2@V?$CUtlMemory@U?$UtlRBTreeNode_t@VCStringPoolIndex@CUtlSymbolTable@@G@@G@@@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCUtlNoEscConversion@@
+.?AVCSchemaInstallCallback@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+?UUUUUU
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z

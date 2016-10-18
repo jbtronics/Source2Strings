@@ -1,0 +1,4437 @@
+`.rdata
+@_RDATA
+@.reloc
+UATAUAVAWH
+D9n`~uE
+A_A^A]A\]
+D9t$0~J
+9\$0~,I
+L$ SVWH
+L$ SWATAUAWH
+0A_A]A\_[
+Hc_8;_Hu
+~@HcS0E3
+Hc_ ;_0u
+x9HcGhH;
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SVWAWH
+VWATAUAWH
+A_A]A\_^
+USVWATAUAVAWH
+A_A^A]A\_^[]
+@UVWATAUAVAWH
+A_A^A]A\_^]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+WATAUAVAWH
+A_A^A]A\_
+|$ ATAVAWH
+ A_A^A\
+@UAUAWH
+|$ ATAVAWH
+ A_A^A\
+t$ WAVAWH
+y'Hc.;n
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+x.HcAhL;
+|$ ATAVAWH
+ A_A^A\
+x9HcGhH;
+@UAVAWH
+D8e(t>H
+@SVWAUAVH
+A^A]_^[
+@SWAUAVH
+(A^A]_[H
+L$ UATAUAVAWH
+A_A^A]A\]
+@WAVAWH
+L$ SWATAUAWH
+0A_A]A\_[
+@UAVAWH
+UWATAVAWH
+A_A^A\_]
+UWATAVAWH
+A_A^A\_]
+UVWATAUAVAWH
+UPA8}Xt
+`A_A^A]A\_^]
+VWAUAVAWH
+E8o ufI
+D8m(u-Lc3D;s
+ A_A^A]_^
+|$ ATAVAWH
+ A_A^A\
+USVWATAUAVAWH
+A_A^A]A\_^[]
+D$0H;A t
+I;A t%M
+SWATAWH
+hA_A\_[
+d$ UAVAWH
+@USVWAUAWH
+H;A thH
+A_A]_^[]
+HX9NXt0
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@SVATAVAWH
+ A_A^A\^[
+pHcy(Lc
+t$ H;l$`
+D$0H;A t
+tqHct$ ;t$0u
+D9d$ ~-I
+ePD9e`|KH
+d$ D9d$0|SH
+@UAVAWH
+D$0H;A t
+T$ +G$D
+HcC$LcC
+HcC$HcK
+UWAUAVAWH
+ A_A^A]_]
+u9Hc3;s
+\$ VWAVH
+t$ WAVAWH
+~FHc+;k
+t$ WATAVH
+~IHc+;k
+u=Hc3;s
+@SVWATAVH
+ A^A\_^[
+u9Hc3;s
+t$ WAVAWH
+SUVWAUH
+@A]_^][
+UVWATAUAVAWH
+~YHcD$pL
+ A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+VWATAVAWH
+ A_A^A\_^
+VWATAVAWH
+ A_A^A\_^
+SUVWAVAWH
+8A_A^_^][
+SUVWAVH
+@A^_^][
+VWATAVAWH
+ A_A^A\_^
+SUVWAUAVH
+(A^A]_^][
+SUVWAVH
+@A^_^][
+SUVWAVAWH
+8A_A^_^][
+l$ VWAUAVAWH
+ A_A^A]_^
+t$ WAVAWH
+VWATAVAWH
+ A_A^A\_^
+t$ WAVAWH
+VWATAVAWH
+ A_A^A\_^
+L$ SUVWATAVAWH
+ A_A^A\_^][
+@SVWAVAWH
+ A_A^_^[
+\$ VWAUAVAWH
+ A_A^A]_^
+\$ VWAUAVAWH
+ A_A^A]_^
+\$ VWAUAVAWH
+ A_A^A]_^
+L$ UVWATAUAVAWH
+l$`Mc?H
+ A_A^A]A\_^]
+L$ UVWATAUAVAWH
+ A_A^A]A\_^]
+t$ WATAUAVAWH
+ A_A^A]A\_
+L$ UVWATAUAVAWH
+ A_A^A]A\_^]
+L$ UVWATAUAVAWH
+ A_A^A]A\_^]
+L$ UVWATAUAVAWH
+l$`Mc?H
+ A_A^A]A\_^]
+t$ WATAUAVAWH
+ A_A^A]A\_
+VWATAVAWH
+ A_A^A\_^
+t$ WAVAWH
+9s@~Xfff
+t$ WAVAWH
+@SUVWAVAWH
+Hc{H;{Xu
+(A_A^_^][
+t$ WAVAWH
+|$09{P~FH
+@UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+ A_A^A]A\_
+T$8+G$A
+l$ WAVAWH
+HcC$HcK
+@UVATAUH
+(A]A\^]
+UWAVAWH
+8A_A^_]
+ 9D$pu/L
+UVAVAWH
+8A_A^^]
+ 9D$pu/L
+VWAVAWH
+8A_A^_^
+ 9D$pu/L
+t$ WAVAWH
+ 9D$pu/L
+UVAVAWH
+8A_A^^]
+ 9D$pu/L
+UVAVAWH
+8A_A^^]
+ 9D$pu/L
+UVAVAWH
+8A_A^^]
+ 9D$pu/L
+l$ VAVAWH
+ 9D$pu/L
+l$ VAVAWH
+ 9D$pu/L
+t$ WAVAWH
+ 9D$pu/L
+l$ WAVAWH
+ 9D$pu/L
+l$ VAVAWH
+ 9D$pu/L
+VWAUAVH
+HA^A]_^
+ 9D$pu/L
+UVAVAWH
+8A_A^^]
+ 9D$pu/L
+UWAVAWH
+8A_A^_]
+ 9D$pu/L
+k<9{@~6L
+k<9s@~;L
+k<9s@~<L
+k<9s@~EL
+k<9s@~:L
+k<9s@~;L
+k<9s@~KL
+k<9s@~CL
+k<9{@~DL
+k<9{@~?L
+k<9{@~EL
+k<9s@~KL
+s<9s@~XL
+k<9s@~:L
+k<9{@~6L
+@VWATAUAVH
+`A^A]A\_^
+t$0Hcs@;sPu
+t$0HcsX;shu
+t$0Hcq@H
+C HcK0H
+@ HcI0H
+@UATAUAVAWH
+A_A^A]A\]
+l$ WAVAWH
+t$ WAVAWH
+|$ UAVAWH
+l$ VWAWH
+UATAUAVAWH
+A_A^A]A\]
+l$ VWAUAVAWH
+D$0H9t$8t
+A_A^A]_^
+@UAVAWH
+ePA_A^]
+@UAVAWH
+e@A_A^]
+UVWATAVH
+A^A\_^]
+t$ UWATAVAWH
+A_A^A\_]
+t$ WATAUAVAWH
+A_A^A]A\_
+t$ WATAUAVAWH
+0A_A^A]A\_
+T$ +G$D
+T$8+G$A
+ATAUAVAWH
+A_A^A]A\
+D9IL}sL
+CLD;CP|
+.HcF$HcN
+/HcF$HcN
+.HcF$HcN
+UVWATAUAVAWH
+/HcC$HcK
+BHcC$HcK
+HcC$HcK
+e A_A^A]A\_^]
+|$ ATAVAWH
+@A_A^A\
+@SVWAVH
+|$@;|$P
+USVWAUAVAWH
+A_A^A]_^[]
+|$0Hc{0;{@u
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+|$ ATAVAWH
+ A_A^A\
+ LcY E3
+l$ WATAUAVAWH
+tDD9~Xt>H
+ A_A^A]A\_
+(|$ s0L
+I9^ u@D9oXu:Lc
+UVWATAWH
+PA_A\_^]
+UVAUAVH
+UVAUAWI
+I9^ u@D9oXu:Lc
+I9^ uED9oXu?Lc
+9GXu2Lc
+@USVWAVH
+Eo9GXu6Lc
+9GXu2Lc
+I9^ uID9oXuCLc
+I9^ uGD9oXuALc
+E 9GXu7Lc
+D$ Hc0H
+H9^ uJD9oXuDIc
+I9_ uI9wXuDMc
+@UATAWH
+d$pL9d$ht	H
+D$ L9d$(t
+H;T$p}9H
+L$@Lc9M
+I9^ u4D9oXu.Lc
+t$ UWAUAVAWH
+A_A^A]_]
+D$ Hc(H
+VWATAVAWH
+< tH<	tD<
+tX<]tp<}tPH
+ A_A^A\_^
+@SAVAWH
+D$09(tSH
+\$ UVAVH
+D$ Hc0H
+d$ UAVAWH
+9\$@~4H
+\$ VAVAWH
+USWATAUH
+pA]A\_[]
+UATAUAVAWH
+A_A^A]A\]
+@UWATAVH
+@WATAVAWH
+8A_A^A\_
+WATAUAVAWH
+A_A^A]A\_
+9GXuCHc
+;t$Xu H
+@UWAVAWH
+(A_A^_]
+@UATAUAVAWH
+A_A^A]A\]
+@SVWATAUAVAWH
+0A_A^A]A\_^[
+8H;{(t$H
+H;_0t$H
+Hc~`;~pu
+G Ico(L
+@SWAUAVH
+(A^A]_[
+L9} t	H
+L9}wt	H
+L9}wt$H
+u2D8x(u,H
+u!L9}wt	H
+L9}wt	H
+;t$0}nH
+l$0D9g`~MI
+t)Lc3D;s
+|$ 9w(~NE3
+t2Hc+;k
+9o@~YE3
+t2Hc3;s
+oA9~H~cH
+t)Lc;D;{
+x'D;A`}!H
+t;D9wXu5H
+ HcAxIc
+xJHcL$`H;
+}@f;T$nw9
+UWATAWH
+8A_A\_]
+xb;Q(}]H
+tTD9wXuNI
+@SVWATAUAVAW
+A_A^A]A\_^[
+Hc_X;_hu
+L$ UVWAUH
+9:~Nfff
+fE94(t/E
+L$ SVWH
+UWATAVAWH
+A_A^A\_]
+D$HA8F	t
+T$ +D$dH
+MLcD$PHcD$dI
+;fD9|$*w
+dLcD$PHcD$dI
+ Hcy E3
+@UWATAUAVH
+A^A]A\_]
+<2t	<3u	A
+E,E8u	t
+|$@;|$`
+A^A]A\_]
+HcC$HcK
+\$ UVWATAUAVAWH
+D$H8F	t
+A_A^A]A\_^]
+X UWAWH
+|$ ATAVAWH
+ A_A^A\
+SUVAUAVH
+D$(Lc0@8
+A^A]^][
+VATAUAVAWH
+A_A^A]A\^
+USVWATAUAVAWH
+A_A^A]A\_^[]
+SUWATAVAWH
+Ic4$A;t$
+hA_A^A\_][
+UVATAUAWH
+A_A]A\^]
+UWATAVAWH
+ A_A^A\_]
+@SVATAUAVAWH
+A_A^A]A\^[
+SUVWATAUAVAWH
+hA_A^A]A\_^][
+D9wXt/H
+SUVWATAUAVH
+H9_ u5E
+D9f`u*Ic
+ A^A]A\_^][
+P@Hc>;~
+t8H9^ t2H
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ WAVAWH
+HcC$HcK
+UVWATAUAVAWH
+e@A_A^A]A\_^]
+UWAUAVAWI
+A_A^A]_]
+t$ WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+uSHcEHH
+D$hHc8;x
+A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+@UVWATAUAVAWH
+e0A_A^A]A\_^]
+VWATAVAWH
+ A_A^A\_^
+u*Hc_ ;_0u
+UVWATAUAVAWH
+@A_A^A]A\_^]
+@SATAUH
+)u(Hc+;k
+KcD, E3
+WATAUAVAWH
+l$ D8d$ t?
+A_A^A]A\_
+@USVWATAUAVAWH
+e(A_A^A]A\_^[]
+SUAUAWH
+xA_A]][
+USVWATAUAVAWH
+A_A^A]A\_^[]
+P@Hc>;~
+t(Hc3;s
+@USWATH
+t)Lc3D;s
+t(Hc3;s
+t$8Lc3D;s
+t(Hc3;s
+@SUWAWH
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+eHA_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+.D$ zEuC
+.D$$z4u2
+.D$(z#u!H
+t$0Hc7;w
+t(Hc+;k
+t(Hc;;{
+t(Hc3;s
+t(Hc;;{
+t(Hc3;s
+t(Hc;;{
+@UAVAWH
+WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+(L$0A9]
+pA_A^A]A\_^]
+UVWATAUAVAWH
+(L$0A9]
+pA_A^A]A\_^]
+UVWATAUAVAWH
+(L$0A9]
+pA_A^A]A\_^]
+UVWATAUAVAWH
+:Lc.D;n
+(L$@A9]
+A_A^A]A\_^]
+UVWATAUAVAWH
+A9?~YA;F
+~VIc>A;~
+A_A^A]A\_^]
+UVWATAUAVAWH
+:Lc.D;n
+(L$0A9]
+pA_A^A]A\_^]
+UVWATAUAVAWH
+A9<$~aA;F
+~kIc>A;~
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+(T$0A9]
+A_A^A]A\_^]
+UVWATAUAVAWH
+A9?~`A;F
+A_A^A]A\_^]
+UVWATAUAVAWH
+(T$0A9]
+A_A^A]A\_^]
+UVWATAUAVAWH
+A9?~`A;F
+)l$Pfff
+A_A^A]A\_^]
+UVWATAUAVAWH
+(L$0A9]
+pA_A^A]A\_^]
+|$HMc/E;o
+L$(L;L$`
+D$ ;8}lH
+D$ ;8}{H
+L$ ;1}pH
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+VWATAVAWH
+0A_A^A\_^
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+@UATAUAVAWH
+e0A_A^A]A\]
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+@SUVWATAVAWH
+ A_A^A\_^][
+UWAUAVH
+hA^A]_]
+UWAUAVH
+hA^A]_]
+ATAUAWH
+UATAUAVH
+A^A]A\]
+USAUAVH
+hA^A][]
+USATAVH
+\$0L;d$X
+USATAVH
+UATAUAVH
+A^A]A\]
+UATAUAVH
+A^A]A\]
+UATAUAVH
+A^A]A\]
+UWAUAVH
+hA^A]_]
+UWAUAVH
+hA^A]_]
+;D$8u"H
+;D$8u H
+D$HD;t$Pu&H
+}0HcD$D
+;L$Du%H
+;D$8u$H
+D;|$8u"H
+USAVAWH
+|$xL;d$@}
+;D$8u%H
+;D$8u#H
+USAVAWH
+|$HL;d$@}
+;D$8u$H
+|$|H;T$X}
+D;l$8u!H
+MW+T$0+
+D$@HcT$<Lc
+D$0+MH;
+T$`D;}@
+t$@A9L$
+L$pD;e@
+D$pHcD$|Lc
+D$@HcT$pLc
+UVAVAWH
+T$ D;u_
+UVAUAWH
+UWATAWH
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVWATAVAWH
+@A_A^A\_^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+A_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+SUVATAVAWH
+XA_A^A\^][
+t~HcD$ 
+\$H;D$0u'H
+]HcD$ I
+L$(Hc;H
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWAVAWH
+ A_A^_^]
+UVWAVAWH
+ A_A^_^]
+HcL$PI;
+USVWATAUAVAWH
+ehA_A^A]A\_^[]
+USVWATAUAVAWH
+ehA_A^A]A\_^[]
+USVWATAUAVAWH
+EPHcE(H
+A_A^A]A\_^[]
+USVWATAUAVAWH
+ehA_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+USVWATAUAVAWH
+ehA_A^A]A\_^[]
+USVWATAUAVAWH
+ehA_A^A]A\_^[]
+@SVWAVH
+Hc{@;{Pu
+(A^_^[H
+UVWATAVAWH
+xA_A^A\_^]
+UVWATAVAWH
+A_A^A\_^]
+UVWAUAVAWH
+A_A^A]_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAVAWH
+A_A^A\_^]
+UVWATAVAWH
+A_A^A\_^]
+UVWATAVAWH
+A_A^A\_^]
+UVWATAVAWH
+A_A^A\_^]
+UVATAVAWH
+A_A^A\^]
+UVWATAVAWH
+A_A^A\_^]
+UVWATAVAWH
+xA_A^A\_^]
+SUATAWH
+8A_A\][
+SUATAWH
+8A_A\][
+VWAUAWH
+hA_A]_^
+SWATAVH
+HA^A\_[
+USVWAVAWH
+XA_A^_^[]
+SUVWAVH
+PA^_^][
+USVWAUH
+USVWAWH
+USATAWH
+USVWAUH
+USATAWH
+u*D8}wt$H
+USVWAVH
+SUATAWH
+HA_A\][
+SUATAWH
+8A_A\][
+SUVWAVH
+0A^_^][
+l$ VWAVH
+@UWATAVH
+@SUVWAVH
+0A^_^][
+@SUVWAVH
+0A^_^][
+UVWAVAWH
+A_A^_^]
+@UWAVAWH
+8A_A^_]
+@UWAVAWH
+8A_A^_]
+@USVAUAVAWH
+xA_A^A]^[]
+VWATAVAWH
+ A_A^A\_^
+ATAUAVH
+@A^A]A\
+A9<2t(A
+t(Hc>;~
+9D$ }(Hc/;o
+SUVWATAUAVAWH
+(A_A^A]A\_^][
+@SUWAUAWH
+ A_A]_][
+|$0Hc;;{
+\$ VAVAWH
+t(Hc;;{
+@UVAVAWH
+(A_A^^]
+u(Hc3;s
+t$HHc;H
+,/<-w~H
+WATAUAVAWH
+ A_A^A]A\_
+L$ SVWH
+<\t+</t'Ic
+t$ AWE3
+<\t1</t-<:E
+@UAVAWH
+|$@Hcyp;
+D$<9T$0wE9T$4w?9T$8w9;
+T$ +G$D
+T$ +G$Hc
+T$ +G$D
+HcC$HcK
+T$8+G$Hc
+T$8+G$A
+USVWATAUAVAWH
+A_A^A]A\_^[]
+SUATAWH
+XA_A\][
+@UATAUAVAWH
+@A_A^A]A\]
+t7HcC$HcK
+WATAUAVAWH
+ A_A^A]A\_H
+t*@8:t%H
+T$ +G$D
+HcG$LcO
+T$8+G$A
+HcC$HcK
+\$ UWAWH
+teHcA$LcA
+l$0Lck H
+t+HcC$LcC
+@SUAUAWH
+(A_A]][
+t+HcC$LcC
+VWATAUAVH
+ A^A]A\_^
+|$ ATAVAWH
+t+HcC$LcC
+uB<"t>< ~:B
+ A_A^A\
+l$ VATAUAVAWH
+t+HcC$LcC
+ A_A^A]A\^
+HcC$HcS
+t(HcC$HcK
++C$xiHc
+|$Ht&HcK
+HcC$HcS
+HcC$HcK
+<dtk<itg<uu
+<dt <it
+<ft_<lu
+																									
+T$8+G$Hc
+@SVATAWH
+XA_A\^[
+WATAUAVAWH
+ A_A^A]A\_
+@UAVAWH
+L9}8t	H
+@UATAUAVAWH
+A_A^A]A\]
+USVWATAUAVAWH
+A_A^A]A\_^[]
+UATAUAVAWH
+9D$@u,H
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+t$ WAVAWH
+|$ ATAVAWH
+ A_A^A\
+ATAVAWH
+ A_A^A\
+@UATAVH
+l$ VAVAWH
+fffffff
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+SUVWATAUAVAWH
+H9D$(u^L
+L$0D;t$ s
+HA_A^A]A\_^][
+WATAUAVAWH
+A_A^A]A\_
+VWATAVAWH
+A_A^A\_^
+L$ USWH
+H SVWAVH
+L$ UVWATAUAVAWH
+ A_A^A]A\_^]
+t$ WATAUAVAW
+A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+H ATAUAVH
+@A^A]A\
+UVWATAUAVAWH
+pA_A^A]A\_^]
+fffffff
+.ffffff
+fffffff
+0ffffff
+p WATAUAVAWH
+A_A^A]A\_
+VWATAVAWH
+ A_A^A\_^
+x ATAVAWH
+ A_A^A\
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+USVWAVH
+WATAUAVAWH
+@A_A^A]A\_
+WATAUAVAWH
+A_A^A]A\_
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+` AUAVAWH
+t$8Hc0I
+\$0D9=bn
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+UVWATAUAVAWH
+|$hD9L$H@
+D$<D9L$Ht
+d$4t	fD
+d$4D9L$t
+t$dD9L$Ht
+t$dD8L$@t
+t$XD8L$8t
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+AUAVAWH
+0A_A^A]
+VWAUAVAWH
+0A_A^A]_^
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+VWATAVAWH
+ A_A^A\_^
+VWATAVAWH
+ A_A^A\_^
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+@ffffff
+VWATAVAWH
+A_A^A\_^
+UVWATAUAVAWH
+A_A^A]A\_^]
+D8eoupH
+UVWATAUAVAWH
+pA_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+AUAVAWH
+0A_A^A]
+@SVWATAUAVAWH
+L!|$@L!
+A_A^A]A\_^[
+SVWATAUAVAWH
+0A_A^A]A\_^[
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+t$ WAVAWH
+@UATAUAVAWH
+A_A^A]A\]
+t$ WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+0A_A^A]A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+` AUAVAWH
+0A_A^A]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWATAVAWH
+tcH95ar	
+PA_A^A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+x AUAVAWH
+ A_A^A]
+L$ SVWH
+USVAVAWH
+D$@9D$<
+D$@;D$<
+A_A^^[]
+SAUAVAWH
+XA_A^A][
+|$@Hc9;y
+D$d;D$`
+USVWAUAVH
+A^A]_^[]
+UVWATAUAVAWH
+Ic<$A;|$
+A_A^A]A\_^]
+UWATAVAWH
+A_A^A\_]
+USVWAVH
+D$D9D$H
+UpLc|$x3
+UVWATAUAVAWH
+A_A^A]A\_^]
+L;A u5H
+I;P uxI
+H;H uGM
+USVATAUAVH
+A^A]A\^[]
+\$ UAVAWH
+|$ ATAVAWH
+ A_A^A\
+UATAUAVAWH
+t$pL;|$x
+A_A^A]A\]
+UVAUAVAWH
+pA_A^A]^]
+H9t$@t\H
+USAUAVH
+D$0;D$@
+G@A9GH|
+UVWAVAWH
+PA_A^_^]
+\$ UVWAVAWH
+A_A^_^]
+OHIcOHI
+G@A9GH|
+G8HcOHH
+@UATAUAVAWH
+F@A9FH|
+A_A^A]A\]
+Hc{ ;{0u
+USVWATAUAVAWH
+A_A^A]A\_^[]
+H UVWAUAVAWH
+A_A^A]_^]
+fffffff
+^ffffff
+fffffff
+SATAUAWUH
+]A_A]A\[
+H(H9J(u
+VDmElementFrameworkVersion001
+Operator cycle found during dependency graph traversal!
+CDmAttribute pool
+Leaking %i elements
+VFileSystem017
+DataModel needs the file system to function
+VDataModelVersion001
+CDataModel:  %i elements left in memory!!!
+CDataModel::DisplayMemoryStats with invalid handle %u
+Dm Memory usage: type				count	totalsize	wastage %%	outer		inner		datamodel	refs		tree		atts		data	(att count)
+%-40s	%6d	%9d		%5.2f
+Last two rows as percentage of total size %f %%:
+Symbol table:  %d entries %llu bytes
+Datamodel symbol table: %d entries %llu bytes
+Index      Address       References   String
+%05d,     0x%p,     %5d,      '%s'
+DatamodelSymbols
+%s\%s%i.txt
+Wrote symbol stats to file: %s
+Attempted to add two serializers with the same file encoding (%s)!
+Attempted to add two legacy updaters with the same file format (%s)!
+Attempted to add two format updaters with the same file format (%s)!
+Serialize: File encoding %s is undefined!
+CDataModel: Unable to generate full path for file %s
+CDataModel: Unable to overwrite readonly file %s
+CDataModel: Unable to open file "%s"
+CDataModel: Unable to open file %s
+Unserialize: File format newer than executable's!
+CDataModel: Unable to determine DMX encoding for file %s
+CDataModel: Invalid DMX encoding hint '%s' for file %s
+CDataModel: Unable to open file '%s'
+keyvalues2
+Serialize: File encoding '%s' is undefined!
+Serialize: Format %s expects to be written to a binary format, but the buffer is a text-format buffer
+<!-- dmx
+%s encoding %s %d format %s %d %s
+encoding %s %d format %s %d
+<!-- DMXVersion
+binary_v
+keyvalues2_v
+keyvalues2_flat_v
+keyvalues2_flat
+	NAN encountered in element '%s' guid %s attribute '%s'!
+Unserialize: DMX header was present but contained no encoding name!
+Unserialize: Cannot determine encoding from file, and no encoding provided!
+Unserialize: DMX file encoding %s is undefined!
+Unserialize: Cannot unserialize a binary encoding (%s) from a text buffer!
+Unserialize: Encoding expects DMX header but it doesn't exist!
+%d_%lld_%x_in.dmx
+%d_%lld_%x.dmx
+dmxconvert -allowdebug -i "%s" -ie %s -o "%s" -oe %s -of %s
+ -testmode
+Unserialize: Unable to start dmxconvert process
+Unserialize: Unable to open dmxconvert temp file "%s"
+---- dmxconvert cmdline ----
+---- dmxconvert output ----
+---------------------------
+Unserialize: Unexpected encoding name '%s' reading file '%s' - expected encoding '%s'
+Unserialize: Unexpected format '%s' reading file '%s' - expected format '%s'
+CONTENT
+Factory for element type '%s' already exists (Check your IMPLEMENT_ELEMENT_FACTORY macros for duplicate lookupNames)
+CUndoCreateElement
+Unable to create unknown element %s!
+CUndoDestroyElement
+ * Requested DmAttribute of value of type "%s" From DmAttribute "%s" which is type "%s"
+CDependencyGraph::Reset
+CDependencyGraph::Cleanup
+CDependencyGraph::FindAttrNode
+DmAttributeList_t CUtlMemoryPool
+DmElementChangedListenerInfo_t CUtlMemoryPool
+DmAttributeChangedListenerInfo_t CUtlMemoryPool
+DmAttributeAddedListenerInfo_t CUtlMemoryPool
+DmAttributeRemovedListenerInfo_t CUtlMemoryPool
+DmElementDeletedListenerInfo_t CUtlMemoryPool
+CDmElement CUtlMemoryPool
+DmElement
+DmeElement
+Unable to set type unless you're creating untyped elements!
+CUndoAttributeAddRemove
+CUtlLinkedList overflow! (exhausted memory allocator)
+CUtlLinkedList<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64,1,__int64,class CUtlFixedMemory<struct UtlLinkedListElem_t<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64> > >::AllocInternal
+c:\buildslave\destinations_staging_win64\build\src\public\tier1\utllinkedlist.h
+CUtlLinkedList overflow! (exhausted index range)
+CUtlFixedMemory overflow!
+CUtlFixedMemory<struct UtlLinkedListElem_t<struct CUtlHashFast<enum DmElementHandle_t,class CUtlHashFastNoHash>::HashFastData_t_<enum DmElementHandle_t>,__int64> >::Grow
+c:\buildslave\destinations_staging_win64\build\src\public\tier1\utlfixedmemory.h
+unknown
+vector2
+vector3
+vector4
+quaternion
+element
+int_array
+float_array
+bool_array
+color_array
+vector2_array
+vector3_array
+vector4_array
+qangle_array
+quaternion_array
+matrix_array
+string_array
+binary_array
+time_array
+uint64_array
+uint8_array
+element_array
+4-byte data pool
+8-byte data pool
+16-byte data pool
+CUndoAttributeRenameElement
+%s (%s -> %s)
+Tried to rename from '%s' to '%s', but '%s' already exists
+ERROR: Unable to create an attribute handle! Save, quit, restart and clean up your file to have fewer elements!
+CUndoAttributeSetValueElement
+%s(%s) = %s
+CUndoArrayAttributeSetMultipleValueElement
+CUndoArrayAttributeSetValueElement
+CUndoAttributeArrayInsertCopyBefore
+CUndoAttributeArrayInsertBefore
+CUndoAttributeArrayRemoveElement
+%s (%s) = remove( pos %i, count %i )
+CUndoAttributeArrayCopyAllElement
+ClipBoard
+-noassert
+[%d] Pushing undo '%s'
+[%d] Popping undo '%s'
+[%d] Aborting undo '%s'
+WipeUndo '%s'
+WipeRedo '%s'
+AddUndoElement '%s'
+CUndoManager::Undo
+CUndoManager::Redo
+Error in the undo system! Grab a programmer!
+CUndoManager::GetUndoDescInternal
+c:\buildslave\destinations_staging_win64\build\src\datamodel\undomanager.cpp
+KeyValues
+keyvalues
+subkeys
+KeyValues: Can't serialize attribute of type %s into KeyValues files!
+KeyValues: Element uses unknown element type %s
+%f %f %f %f
+%f %f %f
+Dm Unserialize: Attempted to read an attribute ("%s") of an inappropriate type!
+keyvalues file
+%s(%d) : %s
+(*%s*), 
+keyvalues2_noids
+KeyValues2
+KeyValues2 (flat)
+KeyValues2 (no ids)
+$prefix_element$
+$prefix_attribute$
+Prefix element cannot contain element or element_array attributes. ('%s')
+"%s" "%s" 
+"id" "elementid" 
+Unexpected EOF in quoted string
+Element uses unknown element type %s
+Attempted to read an attribute ("%s") of unknown type %s!
+_linked_type_
+Attempted to read an attribute ("%s") of an inappropriate type!
+Expecting '[', didn't find it!
+Expecting ']', didn't find it!
+Expecting ',', didn't find it!
+Expecting element type, didn't find it!
+Expecting element reference, didn't find it!
+Encountered invalid element ID data!
+Attempted to read an attribute ("%s") of an inappropriate type %s!
+Expecting array attribute value, didn't find it!
+Error reading in array attribute "%s" element %d
+Expecting quoted attribute value for attribute "%s", didn't find one!
+Encountered an element attribute '%s' while reading the prefix element
+Invalid format for element ID encountered for attribute "%s"
+Error reading attribute "%s"
+Expecting '{', didn't find it!
+Expecting '}', didn't find it!
+Expecting attribute name, didn't find it!
+Expecting attribute type for attribute %s, didn't find it!
+elementid
+Encountered an element array attribute '%s' while reading the prefix element
+Expecting element type name, didn't find it!
+Cannot unserialize a prefix element here (type "$prefix_element$")
+binary_seqids
+Binary (deterministic sequential ids)
+Serializing(%d root elements)
+CDmSerializerBinary: Unable to read attribute '%s' of element '%s' - unknown attribute type!
+CDmSerializerBinary: Removing deprecated objectid attribute '%s' of element '%s'
+CDmSerializerBinary: Attribute '%s' of element '%s' read as '%s' but expected '%s'
+CDmSerializerBinary: Unknown error reading '%s' attribute '%s' of element '%s'
+CDmSerializerBinary: Error unserializing attribute '%s' of element '%s'
+CDmSerializerBinary: Encountered element attribute while reading prefix element: '%s' attribute '%s' of element '%s'
+CDmSerializerBinary: Encountered element_array attribute while reading prefix element: '%s' attribute '%s' of element '%s'
+Binary: Element uses unknown element type %s
+CDmSerializerBinary::UnserializeElements: recoverable error reading file without a prefix element count. Continuing...
+@CUtlBlockMemory overflow!
+CUtlBlockMemory<struct UtlRBTreeNode_t<struct CDmElementSerializationDictionary::ElementInfo_t,int>,int>::ChangeSize
+c:\buildslave\destinations_staging_win64\build\src\public\tier1\utlblockmemory.h
+alpha_fade
+Alpha Fade and Decay
+alpha_fade_in_random
+Alpha Fade In Random
+alpha_fade_out_random
+Alpha Fade Out Random
+basic_movement
+Movement Basic
+color_fade
+Color Fade
+controlpoint_light
+Color Light From Control Point
+Dampen Movement Relative to Control Point
+Movement Dampen Relative to Control Point
+Distance Between Control Points Scale
+Remap Distance Between Two Control Points to Scalar
+Distance to Control Points Scale
+Remap Distance to Control Point to Scalar
+lifespan_decay
+Lifespan Decay
+lock to bone
+Movement Lock to Bone
+postion_lock_to_controlpoint
+Movement Lock to Control Point
+maintain position along path
+Movement Maintain Position Along Path
+Match Particle Velocities
+Movement Match Particle Velocities
+Max Velocity
+Movement Max Velocity
+Noise Scalar
+vector noise
+Noise Vector
+oscillate_scalar
+Oscillate Scalar
+oscillate_vector
+Oscillate Vector
+Orient Rotation to 2D Direction
+Rotation Orient to 2D Direction
+radius_scale
+Radius Scale
+Random Cull
+Cull Random
+remap_scalar
+Remap Scalar
+rotation_movement
+Rotation Basic
+rotation_spin
+Rotation Spin Roll
+rotation_spin yaw
+Rotation Spin Yaw
+alpha_random
+Alpha Random
+color_random
+Color Random
+create from parent particles
+Position From Parent Particles
+Create In Hierarchy
+Position In CP Hierarchy
+random position along path
+Position Along Path Random
+random position on model
+Position on Model Random
+sequential position along path
+Position Along Path Sequential
+position_offset_random
+Position Modify Offset Random
+position_warp_random
+Position Modify Warp Random
+position_within_box
+Position Within Box Random
+position_within_sphere
+Position Within Sphere Random
+Inherit Velocity
+Velocity Inherit from Control Point
+Initial Repulsion Velocity
+Velocity Repulse from World
+Initial Velocity Noise
+Velocity Noise
+Initial Scalar Noise
+Remap Noise to Scalar
+Lifespan from distance to world
+Lifetime from Time to Impact
+Pre-Age Noise
+Lifetime Pre-Age Noise
+lifetime_random
+Lifetime Random
+radius_random
+Radius Random
+random yaw
+Rotation Yaw Random
+Randomly Flip Yaw
+Rotation Yaw Flip Random
+rotation_random
+Rotation Random
+rotation_speed_random
+Rotation Speed Random
+sequence_random
+Sequence Random
+second_sequence_random
+Sequence Two Random
+trail_length_random
+Trail Length Random
+velocity_random
+Velocity Random
+positions
+position$0
+normals
+normal$0
+tangents
+tangent$0
+textureCoordinates
+texcoord$0
+color$0
+jointWeights
+blendweights$0
+jointIndices
+blendindices$0
+balance
+balance$0
+speed$0
+wrinkle
+wrinkle$0
+weightweight$0
+positionsIndices
+position$0Indices
+normalsIndices
+normal$0Indices
+tangentsIndices
+tangent$0Indices
+textureCoordinatesIndices
+texcoord$0Indices
+colorsIndices
+color$0Indices
+jointWeightsIndices
+blendweights$0Indices
+jointIndicesIndices
+blendindices$0Indices
+balanceIndices
+balance$0Indices
+speedIndices
+speed$0Indices
+wrinkleIndices
+wrinkle$0Indices
+weightweight$0Indices
+Unknown
+DmeChannelsClip
+channels
+DmeChannel
+fromElement
+toElement
+fromAttribute
+toAttribute
+%s channel
+color log
+DmeColorLog
+DmeColorLogLayer
+defaultValue
+controls
+channel
+float log
+DmeFloatLog
+DmeFloatLogLayer
+DmeLight
+DmeDirectionalLight
+DmePointLight
+DmeSpotLight
+DmeAmbientLight
+DmeProjectedLight
+saturation
+DmeControlGroup
+DmeAnimationSet
+color_pack
+DmePackColorOperator
+operators
+color_red
+color_green
+color_blue
+axisSystem
+DmeAxisSystem
+forwardParity
+coordSys
+exporttags
+exportTags
+DmeExportTags
+DmeModel
+DmeAnimationList
+skeleton
+animationList
+animations
+anim_frameRate
+anim_duration
+frameRate
+timeFrame
+duration
+bool log
+DmeBoolLog
+DmeBoolLogLayer
+startTime
+endTime
+emissionStopTime
+simulating
+emitting
+simulationTimeScale
+simulationTime
+DmeGameParticleSystem
+children
+DmeFilmClip
+DmeControlDisplaySet
+displaySet
+displaySets
+displaySetElements
+visible
+snappable
+DmeTransformControl
+elementList
+positionChannel
+orientationChannel
+animationSet
+rootControlGroup
+RigHelpers
+RigBody
+RigArms
+RigLegs
+RigRoot
+Fingers
+Fingers_R
+RightFingers
+Fingers_L
+LeftFingers
+Attachments
+RigConstraints
+hiddenGroups
+groupColor
+controlColor
+animSetList
+DmePreset
+presetGroups
+procedural
+Procedural
+controlValues
+valuePosition
+valueOrientation
+DmeRigAnimSetElements
+baseName
+position
+orientation
+sessionSettings
+manipulatorSettings
+renderSettings
+MovieSettings
+movieSettings
+shutterSpeed
+framerate
+nLayoffState
+renderOnlySelectedClips
+videoTarget
+audioTarget
+stereoscopic
+stereoSingleFile
+clearDecals
+filename
+PosterSettings
+posterSettings
+syncEngineFramerate
+showFocalPlane
+showCameraFrustum
+showViewTargets
+StereoFlip
+ambientOcclusionMode
+showAmbientOcclusion
+drawGameRenderablesMask
+drawToolRenderablesMask
+toneMapScale
+DmeVertexData
+vertexFormat
+DmeRigPointConstraintOperator
+DmeRigOrientConstraintOperator
+DmeRigAimConstraintOperator
+DmeRigRotationConstraintOperator
+DmeRigParentConstraintOperator
+DmeRigIKConstraintOperator
+parentConstraint
+embeddedTarget
+animationSets
+animationSetGroups
+bookmarks
+DmeBookmarkSet
+activeBookmarkSet
+bookmarkSets
+default set
+DmeAnimationSetGroup
+defaultLeftValue
+defaultRightValue
+rightValue
+leftValue
+rightvaluechannel
+leftvaluechannel
+isPosition
+isOrientation
+transform
+multilevelchannel
+multi_%s
+multilevel
+defaultMultilevel
+isGroup
+treeColor
+rootGroup
+selectionGroups
+jointTransforms
+jointList
+DmeJoint
+valueTransform
+valueDeltaRotation
+valuePivot
+pivotOffset
+refOrientation
+DmeHSLGrainFXClip
+direction
+DmeTransform
+DmePresetGroup
+presetRemap
+TongueWidth
+TongueV
+TongueH
+TongueD
+TongueCurl
+NostrilFlare
+FoldLipUp
+FoldLipLo
+BrowInV
+CloseLid
+DmeCombinationOperator
+DmeLogLayer
+DmeIntLogLayer
+DmeVector2LogLayer
+DmeVector3LogLayer
+DmeVector4LogLayer
+DmeQAngleLogLayer
+DmeQuaternionLogLayer
+DmeVMatrixLogLayer
+DmeStringLogLayer
+DmeTimeLogLayer
+controlValuesLagged
+rawControlNames
+defaultBalance
+balancechannel
+valuechannel
+result_left
+result_right
+DmeBalanceToStereoCalculatorOperator
+presets
+selectedControls
+selectedControls2
+%s - %s
+DmeBookmark
+DmeTimeFrame
+DmeTimeSelection
+DmeProceduralPresetSettings
+DmeCamera
+DmeIntCurveInfo
+DmeFloatCurveInfo
+DmeBoolCurveInfo
+DmeColorCurveInfo
+DmeVector2CurveInfo
+DmeVector3CurveInfo
+DmeVector4CurveInfo
+DmeQAngleCurveInfo
+DmeQuaternionCurveInfo
+DmeVMatrixCurveInfo
+DmeStringCurveInfo
+DmeTimeCurveInfo
+textureFrame
+animationTime
+fadeOut
+durationTime
+offsetTime
+falloff_left
+falloff_right
+hold_left
+hold_right
+resampleinterval
+staggerinterval
+rightEdgeTime
+DmeParticleOperator
+functionName
+Generic DMX
+movieobjects
+Generic MovieObjects
+Generic SFM
+sfm_settings
+SFM Settings
+sfm_session
+SFM Session
+sfm_trackgroup
+SFM TrackGroup
+Particle Configuration File
+Preset File
+facial_animation
+Facial Animation File
+DMX Model
+Vgui editor file
+Make sheet file
+mp_preprocess
+DMX Model Pipeline Preprocess File
+mp_root
+DMX Model Pipeline Root Script File
+mp_model
+DMX Model Pipeline Model Script File
+mp_anim
+DMX Model Pipeline Animation Script File
+mp_physics
+DMX Model Pipeline Physics Script File
+physics
+mp_hitbox
+DMX Model Pipeline Hitbox Script File
+mp_materialgroup
+DMX Model Pipeline Material Group Script File
+materialgroup
+mp_keyvalues
+DMX Model Pipeline KeyValues Script File
+mp_eyes
+DMX Model Pipeline Eyes Script File
+mp_bonemask
+DMX Model Pipeline Bone Mask Script File
+bonemask
+Compiled GUI file
+Schema description file
+Texture Configuration File
+World Files
+worldnode
+World Node Files
+virtualvolumetexture
+Virual volume texture file
+Valve Map File
+Animation Configuration File
+animflags
+Animation Bone Flags
+DmSerializers needs the file system to function
+VDmSerializers001
+MapNode
+MapClass
+dmemesh
+baseStates
+CVisibilityMgr
+hiddenFlags
+CMapSolid
+CHammerMesh
+CMapMesh
+flipVCoordinates
+CMapRootElement
+CMapSelectionSet
+RootSelectionSet
+rootSelectionSet
+m_pVertexData
+VertexPaintBlendParams
+semanticName
+CDmExtraVertexStream
+CDmePolygonMeshDataStream
+CImagePlaneNode
+CManifestInstance
+CMapCordon
+CMapEntity
+CMapGameDataNode
+CMapGroup
+CMapPrefab
+CMapTerrain
+CMapTerrainCell
+CMapWorld
+CTerrainSelection
+EditGameClassProps
+mapNodeName
+unnamed
+targetname
+entity_properties
+connections
+connectionsData
+variableOverrideNames
+variableOverrideValues
+variableOverrideKeys
+targetName
+classname
+light_omni
+light_sun
+light_directional
+bouncescale
+%d %d %d %d
+env_sky
+skyname
+light_spot
+%d %d %d
+brightness
+spawnFlags
+gridspacing
+CDmeDotaTileGrid
+cellsNodeID
+cellConfiguration
+CMapGroupProxy
+CMapTileProxy
+targetGroupNodeID
+targetGroup
+targetTileSetNodeID
+targetTileSet
+VertexPaintTintColor
+blendColor
+baseLayer
+defaultLayer
+blendTransition
+blendTransitionAndPath
+blendMaxPathOpacity
+env_cubemap_box
+boxproject_mins
+box_mins
+boxproject_maxs
+box_maxs
+env_global_light
+ent_dota_lightinfo
+64 283 0
+specularangles
+specular_direction_day
+specular_direction_night
+actbusy
+ActBusy Script File
+// "act busy name"		This is the name that a mapmaker must specify in the hint node.
+// 	"busy_anim"			"Activity Name".
+// 	"entry_anim"		"Activity Name"
+// 	"exit_anim"			"Activity Name"
+// 	"busy_sequence"		"Sequence Name". If specified, this is used over the activity name. Specify it in the hint node.
+// 	"entry_sequence"	"Sequence Name". If specified, this is used over the entry anim.
+// 	"exit_sequence"		"Sequence Name". If specified, this is used over the exit anim.
+// 	"min_time"			"Minimum time to spend in this busy anim"
+// 	"max_time"			"Maximum time to spend in this busy anim"	0 = only stop when interrupted by external event
+// 	"interrupts"		One of:
+// 						"BA_INT_NONE"		break out only when time runs out. No external influence will break me out.
+// 						"BA_INT_DANGER"		break out of this anim only if threatened
+// 						"BA_INT_PLAYER"		break out of this anim if I can see the player, or I'm threatened
+// 						"BA_INT_AMBUSH"		someone please define this - I have no idea what it does
+// 						"BA_INT_COMBAT"		break out of this anim if combat occurs in my line of sight (bullet hits, grenades, etc), -OR- the max time is reached
+"ActBusy.txt"
+busy_anim
+entry_anim
+exit_anim
+busy_sequence
+entry_sequence
+exit_sequence
+min_time
+max_time
+interrupts
+actBusy
+editorType
+BA_INT_NONE
+ActBusyList
+actBusyList
+Error importing actbusy element %s
+commentary
+Commentary File
+DmeCommentaryNodeEntity
+Valve Material File
+"%s" "%d"
+"%s" "%f"
+"%s" "%s"
+"%s" "[ %f %f ]"
+"%s" "[ %f %f %f ]"
+"%s" "[ %f %f %f %f ]"
+"%s" "{ %d %d %d }"
+"%s" "[ %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f ]"
+Attempted to serialize an unsupported shader parameter type %s (%s)
+fallbacks
+proxies
+"Proxies"
+proxyType
+Warning in .VMT file (%s): no ']' or '}' found in vector key "%s".
+Did you forget to surround the vector with "s?
+Error in .VMT file: error parsing vector element "%s" in "%s"
+ [ %f %f %f %f  %f %f %f %f  %f %f %f %f  %f %f %f %f ]
+ center %f %f scale %f %f rotate %f translate %f %f
+vmtProxy
+Unhandled proxy keyvalues type (proxy %s var %s)
+vmtFallback
+Error importing vmt shader parameter %s
+include
+replace
+Infinite recursion in patch file?
+Proxies
+DmeIntLog
+DmeVector2Log
+DmeVector3Log
+DmeVector4Log
+DmeQAngleLog
+DmeQuaternionLog
+DmeVMatrixLog
+*** Problem in file encountered!
+*** TimeFrame "%s" is missing attribute "%s"!
+*** Setting new attribute "%s" to 0
+*** TimeFrame "%s" has attribute "%s" with an unexpected type (expected float)!
+*** Converter error - element "%s" already has a non-int attribute "%s"!
+*** Log "%s" is missing attribute "%s"!
+*** Log "%s" has attribute "%s" with an unexpected type (expected int array)!
+usecurvetypes
+curvetypes
+ownerlog
+*** Problem in converter encountered!
+*** Unable to find or add attribute "%s" to element "%s"!
+*** Element "%s" has attribute "%s" with an unexpected type!
+curve info
+defaultCurveType
+defaultcurvetype
+defaultEdgeZeroValue
+defaultedgezerovalue
+useEdgeInfo
+useedgeinfo
+rightedgetime
+leftEdgeActive
+left_edge_active
+rightEdgeActive
+right_edge_active
+leftEdgeCurveType
+left_edge_curvetype
+rightEdgeCurveType
+right_edge_curvetype
+leftEdgeValue
+left_edge_value
+rightEdgeValue
+right_edge_value
+bloomScale
+midpoint
+sfm_v10
+decalScale
+decalDepth
+decalScaleVariation
+decalStartFadeTime
+decalFadeDuration
+decalSpecularExp
+animationScale
+animationLifeSpan
+decalModulate
+Valve Make Sheet File
+ga_frame
+frame %s{r=0},%s{g=a},%s{b=0},%s{a=a} %s
+*** line %d: invalid packmode specified, allowed values are 'rgba' or 'rgb+a'!
+sequence
+*** line %d: invalid sequence type '%s', allowed 'sequence-rgba' or 'sequence-rgb' or 'sequence-a'!
+Attempting to set %s when there is no current sequence!
+Attempting to set name when there is no current sequence!
+packmode
+sequences
+Warning changing packing mode when %d sequences already defined. This may not be serialized correctly.
+*** line error: incompatible packmode change when %d sequences already defined!
+*** line error: invalid sequence type '%s', packing 'flat' allows only 'sequence-rgba'!
+Invalid packing mode!
+mapsequences
+sequencenumber
+*** line error: 'rgb+a' packing cannot pack image '%s' belonging to sequences %d and %d!
+CDmeAmalgamatedTexture
+DmeAmalgamatedTexture
+DmeSheetSequence
+CDmeSheetSequence
+clampextendlastframe
+DmeSheetSequenceFrame
+CDmeSheetSequenceFrame
+sheetimages
+displaytime
+DmeSheetImage
+CDmeSheetImage
+srcCropXStart
+srcCropYStart
+srcCropXEnd
+srcCropYEnd
+alphacrop
+Image packing validation failed!
+%d,%d,%d,%d
+(%d,%d,%d,%d
+%d,%d,%d
+(%d,%d,%d
+Improper number of values for crop coordinates. Need 4 in the format of ( xstart, ystart, xend, yend )!
+clamp-extendlastframe
+clampextendtlastframe
+Unable to set packing mode.
+Sequence %d out of order (@position %d).
+ERROR: Sequence number %d is too big!
+ERROR: Sequence %d already specified!
+Invalid sequence type.
+Unable to create new sequence.
+noalphacrop
+Unabled to parse frame images.
+Unable to create new frame.
+Trying to add a frame when there is no current sequence.
+*** line %d: Bad command "%s"!
+ERROR: Sequence %d is missing, total of %d sequences!
+tex_source1
+Error reading texture compile settings file "%s"!
+textureCompileSettings
+Valve Texture Configuration File
+processors
+startframe
+startFrame
+endframe
+endFrame
+cubemap
+textureType
+volumetexture
+volumeTextureDepth
+nodebug
+noDebugOverride
+pointsample
+filterType
+trilinear
+anisotropic
+alphatest
+alphatest_threshhold
+alphatest_hifreq_threshhold
+hintDxt5Compression
+nocompress
+noCompression
+numchannels
+changeColorChannels
+DmeTP_ChangeColorChannels
+maxChannels
+pfmscale
+scaleColor
+DmeTP_ScaleColor
+rendertarget
+renderTarget
+unrecognized option in text file - %s
+parameter %s has no value
+DmePrecompiledTexture
+__unspecified_texture
+imageFileName
+Error importing txt file! %s
+computeMipmaps
+DmeTP_ComputeMipmaps
+noNiceFiltering
+alphaTestDownsampling
+alphaTestDownsampleThreshhold
+alphaTestDownsampleHiFreqThreshhold
+DMX_MODEL_SOURCE_UNKNOWN
+sketchup
+Hammer temp export
+houdini
+fbx2dmx
+vsutils_py
+dmfbxserializer
+makefile
+vsUtils.py
+vsDmxIO SketchUpScene
+vsDmxIO houdiniSceneIO
+%s: Element uses unknown element type %s
+"%s" "%.10f"
+dmx file
+VApplication001
+VEngineCvar007
+VStringTokenSystem001
+EventSystem001
+TestScriptMgr001
+VProcessUtils002
+Physics2 Interface Old v0.5
+VPhysX Interface ResourceMgr v0.1
+VBaseFileSystem011
+VNewAsyncFileSystem001
+ResourceSystem009
+ResourceSystemTools001
+ResourceManifestRegistry001
+ResourceHandleUtils001
+SchemaSystem_001
+ResourceCompilerSystem001
+VMaterialSystem2_001
+PostProcessingSystem_001
+InputSystemVersion001
+InputStackSystemVersion001
+RenderDeviceMgr001
+RenderUtils_001
+SoundSystem001
+SoundOpSystemEdit001
+SoundOpSystem001
+DebugTextureInfo001
+VBAllocTracker001
+COLORCORRECTION_VERSION_1
+VMDLLIB001
+QueuedLoaderVersion001
+VGUI_ivgui008
+VGUI_Input005
+VGUI_Panel010
+VGUI_Surface032
+VGUI_Scheme010
+VGUI_System010
+Localize_001
+VMediaFoundation001
+VAvi001
+VBik001
+IQuickTime001
+VDmeMakeFileUtils001
+MeshSystem001
+MeshUtils001
+RenderDevice002
+VRenderDeviceSetupV001
+RenderHardwareConfig002
+SceneSystem_002
+SceneUtils_001
+WorldRendererMgr001
+RenderSystemSurface001
+AssetSystem001
+AssetSystemTest001
+ParticleSystemMgr002
+VScriptManager010
+ToolScriptManager001
+PropertyEditorSystem_001
+MATCHFRAMEWORK_001
+ScaleformUI001
+PanoramaUIEngine001
+PanoramaUIClient001
+PanoramaTextServices001
+ToolFramework2_002
+WorldRendererBuilderMgr001
+LightingBuilderMgr001
+PhysicsBuilderMgr001
+VisBuilder_001
+EnvironmentMapBuilder_001
+BakedLODBuilderMgr001
+DotaCardGameClient_001
+HelpSystem_001
+ToolSceneNodeFactory_001
+EconItemToolModel_001
+ToolGameSimulationSystem_001
+ToolGameSimulationDispatcher_001
+SchemaTestExternal_Two_001
+SchemaTestExternal_One_001
+AnimationSystem_001
+AnimationSystemUtils_001
+HammerMapLoader001
+MaterialUtils_001
+FontManager_001
+TextLayout_001
+AssetPreviewSystem_001
+AssetBrowserSystem_001
+VConComm001
+ConfigurationSystem_001
+MODEL_PROCESSING_SERVICES_INTERFACE_001
+NetworkSystemVersion001
+NetworkSystemUtilsVersion001
+NetworkMessagesVersion001
+FlattenedSerializersVersion001
+Source2Client002
+Source2ClientUI001
+Source2ClientPrediction001
+Source2Server001
+Source2ServerSerializers002
+Source2Host001
+Source2GameClients001
+Source2GameEntities001
+EngineServiceMgr001
+HostStateMgr001
+NetworkService_001
+NetworkClientService_001
+NetworkP2PService_001
+NetworkServerService_001
+TextMessageMgr_001
+ToolService_001
+RenderService_001
+StatsService_001
+UserInfoChangeService_001
+VProfService_001
+InputService_001
+MapListService_001
+GameUIService_001
+SoundService_001
+BenchmarkService001
+VDebugService_001
+KeyValueCache001
+GameResourceServiceClientV001
+GameResourceServiceServerV001
+Source2EngineToClient001
+Source2EngineToServer001
+Source2EngineToServerStringTable001
+Source2EngineToClientStringTable001
+VPhysics2_Interface_001
+VPhysics2_Handle_Interface_001
+ServerUploadGameStats001
+ModelDocCommandSystem001
+NavSystem001
+APPSYSTEM: In ConnectInterfaces(), s_nRegistrationCount is %d!
+ConnectInterfaces
+c:\buildslave\destinations_staging_win64\build\src\interfaces\interfaces.cpp
+materialsrc
+materials
+NoColorAlpha
+Transparency
+Paintable
+ColorSpecPhong
+materialId
+materialType
+duplicate
+target_width
+target_height
+alphaType
+mapCommon
+out_filename
+polyCount
+vertexCount
+attachment%d
+SteamClient017
+SteamUser019
+SteamFriends015
+SteamUtils008
+SteamMatchMaking009
+SteamMatchMakingServers002
+STEAMUSERSTATS_INTERFACE_VERSION011
+STEAMAPPS_INTERFACE_VERSION008
+SteamNetworking005
+STEAMREMOTESTORAGE_INTERFACE_VERSION013
+STEAMSCREENSHOTS_INTERFACE_VERSION002
+STEAMHTTP_INTERFACE_VERSION002
+STEAMUNIFIEDMESSAGES_INTERFACE_VERSION001
+SteamController003
+STEAMUGC_INTERFACE_VERSION008
+STEAMAPPLIST_INTERFACE_VERSION001
+STEAMMUSIC_INTERFACE_VERSION001
+STEAMMUSICREMOTE_INTERFACE_VERSION001
+STEAMHTMLSURFACE_INTERFACE_VERSION_003
+STEAMINVENTORY_INTERFACE_V001
+STEAMVIDEO_INTERFACE_V001
+Wavefront OBJ
+ItemTest
+scripts/itemtest_manifest.txt
+ERROR: Failed to load manifest file: %s
+classes
+mdl_files
+material_types
+ERROR: Failed to find a 'material_types' section in manifest file: %s
+file_append
+default_material_type
+ERROR: Failed to find a 'default_material_type' string in manifest file: %s
+ERROR: Default material type '%s' wasn't found in the material type list in manifest file: %s
+texture_types
+ERROR: Failed to find a 'texture_types' section in manifest file: %s
+add_to_vtex_config
+vmt_templates
+ERROR: Failed to find a 'vmt_templates' section in manifest file: %s
+ERROR: Failed to find a 'classes' section in the 'vmt_templates' section in manifest file: %s
+ERROR: Found an invalid class '%s' in the optional_vmt_templates entries in manifest file: %s
+vmt_texture_settings
+item_directory
+qc_template
+terse_messages
+ERROR: Failed to find a '%s' section in manifest file.
+Invalid class specified: %s
+VPROJECT
+SOURCESDK
+_content\
+content/
+VCONTENT
+/content/
+Software\Valve\Source SDK
+EngineVer
+%s\bin\%s\bin
+/game/bin
+CTarget%s::Compile - GetOutputPath failed
+CTarget%s::Compile( %s ) - Not Valid: %s
+CTarget%s::Compile - CreateOutputDirectory failed
+CTarget%s::Compile - GetInputs failed
+WARNING: CTarget%s::Compile - Target %d NULL
+WARNING: CTarget%s::Compile - Target %d Compile Failed
+CTargetBase::GetOutputPaths(988): Error! CTarget%s - Not Valid: %s
+CTargetBase::GetOutputPaths(1073): Error! CTarget%s - Not Valid: %s
+CTargetBase::GetInputPaths(1150): Error! CTarget%s - Not Valid: %s
+CTarget%s::Compile NO FILE! - %s
+CTargetBase::GetDirName(1241): Error! CTarget%s - NULL Asset
+CTargetBase::GetDirName(1248): Error! CTarget%s - Not Valid: %s
+models/
+CTarget%s::CreateDirectory( %s ) - Failed
+No input file specified
+Invalid image width (
+Invalid image height (
+Invalid number of channels (
+) only 3 (RGB) and 4 (RGBA) channel images allowed
+Image dimensions are not a power of two
+ERROR: Empty filename specified for TGA file
+_normal
+_height
+_specmask_specexp
+_color_red
+_color_blue
+ERROR: Specified file is not a TGA (Targa) or PSD File: "%s"
+ERROR: Specified texture file (%s) Size %dx%d dimensions not powers of two, perhaps resize to %dx%d
+CTarget%s::Compile( %s ) - GetBinDirectory Failed
+CTarget%s::Compile( %s ) - GetOutputPath failed
+Compiling %s: %s
+CTarget%s::Compile( %s ) - GetInputPaths failed
+CTarget%s::Compile( %s ) - GetPaths returned %d paths, expected 2
+\vtex.exe
+"%s%s" -nop4 -nopause -dontusegamedir "%s"
+"%s%s" -nop4 -nopause "%s"
+CTarget%s::Compile( %s ) - RunCommandLine Failed - "%s"
+CTarget%s::Compile( %s ) - Failed to move "%s" to "%s"
+CTarget%s::Compile( %s ) - File Check Failed - "%s"
+ - Compilation successful.
+CTarget%s::Compile OK! - %s
+CTarget%s::Compile( %s ) - GetOutputPaths failed
+CTarget%s::Compile( %s ) - GetOutputPaths returned %d paths, expected %d
+Could not find a VMT template for class '%s'
+CTarget%s::Compile( %s ) - Can't GetOutputPath %d
+VMTTemplate
+Failed to load specified VMT template '%s' for class '%s'.
+InvalidMaterialType
+Invalid material type, must be one of Primary or Secondary
+Invalid common texture
+Missing texture of type '%s'
+CTargetVMT::GetInputs(2388): Error! CTarget%s - Not Valid: %s
+_INVALID
+Invalid texture type specified in SetTargetVTF: '%s'
+Invalid texture type specified in SetTargetVTFUnused: '%s'
+Invalid LOD (
+Input file: "
+" doesn't exist
+" is not a DMX, OBJ, FBX or SMD file
+" couldn't be read
+Invalid polygon count (
+Geometry file "%s" contains a bone heirarchy, but no polygon data.
+ -  Make sure you've included mesh geometry in your export from your 3D package, in addition to the bone heirarchy.
+Geometry file "%s" contains no polygon data.
+ - Make sure you've included mesh geometry in your export from your 3D package.
+CTarget%s::Compile( %s ) - SaveToFile failed - "%s"
+ERROR: Failed to find an attachment point bone named: %s
+ERROR: Couldn't determine input type of: %s
+    CTarget%s: Setting bone '%s' to default item position.
+CTargetDMX::SetInputFile(3161): Error! CTarget%s - Not Valid: %s
+Error in FBX Conversion: - "%s"
+CTargetDMX::ReplaceMaterials(3320): Error! CTarget%s - Not Valid: %s
+CTarget%s::ReplaceMaterials - Duplicate VMT (%s) with bad material type (%d)
+CTarget%s::ReplaceMaterials - Duplicate VMT (%s) Cannot Find Source Material Type (%d)
+bip_head
+Invalid Anim Index (
+" is not a DMX, FBX or SMD file
+CTargetDMXAnim::SetInputFile(3884): Error! CTarget%s - Not Valid: %s
+No DMX input files specified
+Invalid Particle DMX index.
+Failed to load specified QC template '%s'.
+<ITEMTEST_REPLACE_MDLABSPATH>
+<ITEMTEST_REPLACE_LOD0>
+<ITEMTEST_REPLACE_LOD%d_OPTIONALBLOCK>
+<ITEMTEST_REPLACE_LOD%d>
+$lod %d
+   replacemodel <ITEMTEST_REPLACE_LOD0> %s
+<ITEMTEST_REPLACE_PARTICLE_OPTIONALBLOCK>
+$vertexparticles
+   fxmodel "%s"
+   localspacebone "%s"
+<ITEMTEST_REPLACE_TEXTUREGROUP_OPTIONALBLOCK>
+Failed to build texture group block due to missing base VMT.
+Failed to build texture group block due to missing base VMT filename.
+$texturegroup "materialGroupList"
+   { "%s" }
+<ITEMTEST_REPLACE_ANIM%d>
+<ITEMTEST_REPLACE_ANIM_%s>
+<ITEMTEST_COMMENT_IF_NO_ANIM%d>
+<ITEMTEST_COMMENT_IF_NO_ANIM_%s>
+<ITEMTEST_COMMENT_IF_ANIM%d>
+<ITEMTEST_COMMENT_IF_ANIM_%s>
+<ITEMTEST_REPLACE_ATTACHMENT%d>
+CTarget%s::Compile( %s ) - fopen failed "%s"
+// TODO: parts/dmx ?
+// TODO: $surfaceprop is hardcoded
+// TODO: Is .mdl extension required?
+$upaxis %s
+$surfaceprop "%s"
+$modelname "%s"
+// TODO: Can fps 30 be removed?
+$body body "%s"
+$sequence idle "%s" fps 30
+$cdmaterials "%s"
+$texturegroup "%s"
+	{ "%s_red" }
+	{ "%s_blue" }
+$collisionmodel "%s" {
+	$automass
+// TODO: FIXME, switchvalue is just LOD * 6
+c:\buildslave\destinations_staging_win64\build\src\utils\itemtest_lib\itemtest.cpp
+// %d : %s
+$lod %d
+	replacemodel "%s" "%s"
+CTargetQC::GetInputs(4377): Error! CTarget%s - Not Valid: %s
+Invalid QC: 
+CTarget%s::Compile( %s ) - GetPaths returned %d paths, expected 1
+CTarget%s::Compile - Mkdir failed
+\studiomdl.exe
+"%s%s" -nopause -nop4 -game "%s" "%s"
+"%s%s" -nopause -nop4 "%s"
+CTarget%s::Compile( %s ) - CheckFile failed - "%s"
+CTarget%s::Compile Failed - %s
+CTargetMDL::GetInputs(4845): Error! CTarget%s - Not Valid: %s
+Invalid asset name
+Invalid steam id
+No target MDL
+Cannot figure out content directory
+itemtest - 
+CTarget%s::Compile - GetOutputPaths failed
+CTarget%s::Compile CreateZip Failed - Unable to create ZIP file %s.
+CTarget%s::Compile CreateZip Failed - %s
+manifest.txt
+ - added %s
+ + Zip Add: %s
+Failed to write .zip file: "%s"
+CTarget%s::Compile - File Check Failed - "%s"
+CAsset::GetInputs(5134): Error! CTarget%s - Not Valid: %s
+CAsset::GetRelativeDir(5187): Error! CTarget%s - Not Valid: %s
+<Launching: %s
+Directory: %s
+ZIP_EndOfCentralDirRecord
+ZIP_FileHeader
+ZIP_LocalFileHeader
+ZIP_PreloadHeader
+ZIP_PreloadDirectoryEntry
+signature
+numberOfThisDisk
+numberOfTheDiskWithStartOfCentralDirectory
+nCentralDirectoryEntries_ThisDisk
+nCentralDirectoryEntries_Total
+centralDirectorySize
+startOfCentralDirOffset
+commentLength
+versionMadeBy
+versionNeededToExtract
+compressionMethod
+lastModifiedTime
+lastModifiedDate
+compressedSize
+uncompressedSize
+fileNameLength
+extraFieldLength
+fileCommentLength
+diskNumberStart
+internalFileAttribs
+externalFileAttribs
+relativeOffsetOfLocalHeader
+Version
+DirectoryEntries
+PreloadDirectoryEntries
+Alignment
+DataOffset
+_%s.tmp
+%d_%d_%d_%d_%d.tmp
+XZP%c %d
+CUtlLinkedList<class CZip *,unsigned short,0,unsigned short,class CUtlMemory<struct UtlLinkedListElem_t<class CZip *,unsigned short>,unsigned short> >::AllocInternal
+SSE and SSE2 are required.
+MathLib_Init
+c:\buildslave\destinations_staging_win64\build\src\mathlib\mathlib_base.cpp
+CDmeFaceSet CUtlMemoryPool
+DmeFaceSet
+material
+CDmeMaterial CUtlMemoryPool
+DmeMaterial
+mtlName
+texcoord$1
+weight$0
+cloth_enable$0
+CDmeVertexDataBase CUtlMemoryPool
+DmeVertexDataBase
+jointCount
+cloth_enable
+%sIndices
+CDmeVertexData CUtlMemoryPool
+CDmeVertexDeltaData CUtlMemoryPool
+DmeVertexDeltaData
+corrected
+renderVerts
+CDmeMesh CUtlMemoryPool
+DmeMesh
+bindState
+currentState
+deltaStates
+faceSets
+deltaStateWeights
+deltaStateWeightsLagged
+targets
+?position
+orientation
+CDmeTransform CUtlMemoryPool
+overrideParent
+CDmeDag CUtlMemoryPool
+disableOverride
+CDmeDag::GetParentWorldMatrix called on a dag that has different rotation and translation override parents - result will be incorrect!
+overridePos
+overrideRot
+CDmeModel CUtlMemoryPool
+DmeModel::CaptureJointsToBaseState( %s ): DmeModel %s[%s].jointList[ %d ] is NULL
+DmeModel::CaptureJointsToBaseState( %s ) - DmeModel %s[%s].jointList[ %d ].transform ( %s[%s].transform ) is NULL
+$DiffuseColor
+$TransparentColor
+Unable to find material %s
+Cannot add vertex data block with different number of normal indices (%d) and vertex indices (%d)
+Cannot add vertex data block with different number of texcoord indices (%d) and vertex indices (%d)
+combinationOperator
+obj2dmx
+cmdLine
+v %f %f %f
+vn %f %f %f
+vt %f %f
+Unable to read mtl file: %s
+usemtl %4096s
+g %4096s
+newmtl 
+newmtl %s
+map_Kd %s
+map_d %s
+CDmeJoint CUtlMemoryPool
+CDmeShape CUtlMemoryPool
+DmeShape
+CDmeCombinationInputControl CUtlMemoryPool
+DmeCombinationInputControl
+wrinkleScales
+CDmeCombinationDominationRule CUtlMemoryPool
+DmeCombinationDominationRule
+dominators
+suppressed
+CDmeCombinationOperator CUtlMemoryPool
+usesLaggedValues
+Attempted to add the same remapped control "%s" twice!
+CDmeMayaCombinationOperator CUtlMemoryPool
+DmeMayaCombinationOperator
+CDmeComponent CUtlMemoryPool
+DmeComponent
+componentType
+complete
+CDmeSingleIndexedComponent CUtlMemoryPool
+DmeSingleIndexedComponent
+completeCount
+components
+weights
+DmeOperator
+CDmeChannel CUtlMemoryPool
+fromIndex
+toIndex
+graphCurve
+editLog
+keysTime_0
+keysInTime_0
+keysOutTime_0
+keysTime_1
+keysInTime_1
+keysOutTime_1
+keysTime_2
+keysInTime_2
+keysOutTime_2
+keysTime_3
+keysInTime_3
+keysOutTime_3
+position
+orientation
+Derived must implement
+CDmeRigBaseConstraintOperator::GetConstraintType
+c:\buildslave\destinations_staging_win64\build\src\public\movieobjects\dmerigconstraintoperators.h
+CDmeRigBaseConstraintOperator::GetInputAttributeType
+CDmeRigBaseConstraintOperator::GetOutputAttributeType
+CDmeRigBaseConstraintOperator::Operate
+CDmeConstraintTarget CUtlMemoryPool
+DmeConstraintTarget
+targetWeight
+vecOffset
+oOffset
+CDmeConstraintSlave CUtlMemoryPool
+DmeConstraintSlave
+CDmeRigBaseConstraintOperator CUtlMemoryPool
+DmeRigBaseConstraintOperator
+CDmeRigPointConstraintOperator CUtlMemoryPool
+CDmeRigPointConstraintOperator::Operate
+CDmeRigOrientConstraintOperator CUtlMemoryPool
+CDmeRigOrientConstraintOperator::Operate
+CDmeRigAimConstraintOperator CUtlMemoryPool
+aimOffset
+upVector
+upSpaceTarget
+CDmeRigAimConstraintOperator::Operate
+CDmeRigRotationConstraintOperator CUtlMemoryPool
+rotations
+CDmeRigRotationConstraintOperator::Operate
+CDmeRigParentConstraintOperator CUtlMemoryPool
+CDmeRigParentConstraintOperator::Operate
+CDmeRigIKConstraintOperator CUtlMemoryPool
+startOffset
+midOffset
+poleVector
+pvTarget
+startJoint
+midJoint
+endJoint
+CDmeRigIKConstraintOperator::Operate
+CDmeRigTwistSlave CUtlMemoryPool
+DmeRigTwistSlave
+CDmeRigTwistConstraintOperator CUtlMemoryPool
+DmeRigTwistConstraintOperator
+inverse
+twistJoints
+parentBindRotation
+childBindRotation
+CDmeRigTwistConstraintOperator::Operate
+CDmeRigSplineConstraintOperator CUtlMemoryPool
+DmeRigSplineConstraintOperator
+slaveOffsets
+startUp
+CDmeRigSplineConstraintOperator::Operate
+defaultPosition
+CDmeTransformControl CUtlMemoryPool
+CDmeAxisSystem CUtlMemoryPool
+CDmeTransformList CUtlMemoryPool
+DmeTransformList
+transforms
+CDmeIntLogLayer CUtlMemoryPool
+CDmeFloatLogLayer CUtlMemoryPool
+CDmeBoolLogLayer CUtlMemoryPool
+CDmeColorLogLayer CUtlMemoryPool
+CDmeVector2LogLayer CUtlMemoryPool
+CDmeVector3LogLayer CUtlMemoryPool
+CDmeVector4LogLayer CUtlMemoryPool
+CDmeQAngleLogLayer CUtlMemoryPool
+CDmeQuaternionLogLayer CUtlMemoryPool
+CDmeVMatrixLogLayer CUtlMemoryPool
+CDmeStringLogLayer CUtlMemoryPool
+CDmeTimeLogLayer CUtlMemoryPool
+CDmeUint64LogLayer CUtlMemoryPool
+DmeUint64LogLayer
+CDmeUint8LogLayer CUtlMemoryPool
+DmeUint8LogLayer
+DmeCurveInfo
+CDmeIntCurveInfo CUtlMemoryPool
+CDmeFloatCurveInfo CUtlMemoryPool
+CDmeBoolCurveInfo CUtlMemoryPool
+CDmeColorCurveInfo CUtlMemoryPool
+CDmeVector2CurveInfo CUtlMemoryPool
+CDmeVector3CurveInfo CUtlMemoryPool
+CDmeVector4CurveInfo CUtlMemoryPool
+CDmeQAngleCurveInfo CUtlMemoryPool
+CDmeQuaternionCurveInfo CUtlMemoryPool
+CDmeVMatrixCurveInfo CUtlMemoryPool
+CDmeStringCurveInfo CUtlMemoryPool
+CDmeTimeCurveInfo CUtlMemoryPool
+CDmeUint64CurveInfo CUtlMemoryPool
+DmeUint64CurveInfo
+CDmeUint8CurveInfo CUtlMemoryPool
+DmeUint8CurveInfo
+CDmeIntLog CUtlMemoryPool
+CDmeFloatLog CUtlMemoryPool
+CDmeBoolLog CUtlMemoryPool
+CDmeColorLog CUtlMemoryPool
+CDmeVector2Log CUtlMemoryPool
+CDmeVector3Log CUtlMemoryPool
+CDmeVector4Log CUtlMemoryPool
+CDmeQAngleLog CUtlMemoryPool
+CDmeQuaternionLog CUtlMemoryPool
+CDmeVMatrixLog CUtlMemoryPool
+CDmeStringLog CUtlMemoryPool
+DmeStringLog
+CDmeTimeLog CUtlMemoryPool
+DmeTimeLog
+CDmeUint64Log CUtlMemoryPool
+DmeUint64Log
+CDmeUint8Log CUtlMemoryPool
+DmeUint8Log
+flatten log %p lc[%d]
+minvalue
+maxvalue
+curveinfo
+bookmarksX
+bookmarksY
+bookmarksZ
+bookmarksW
+%f,%f,%f,%f
+[%f %f %f]
+[%f %f %f %f]
+int log
+vector2 log
+vector3 log
+vector4 log
+qangle log
+quaternion log
+vmatrix log
+string log
+time log
+uint64 log
+uint8 log
+usedefaultvalue
+defaultvalue
+AddNewLayer
+FlattenLayers
+%sEdgeActive
+%sEdgeValue
+%sEdgeCurveType
+compressed
+CDmeTypedLogLayer::Compress
+CDmeTypedLogLayer::Decompress
+compression error would be too large %f [%f %f]
+addlayer: log %p lc[%d], layer %p
+addlayer: log %p lc[%d], layer NULL
+Event %u layer %i at time %i type %s
+adding layer %d to stack
+removing layer %d from stack
+Layer %d:  adding key at time %d [%d -> %d], value 
+CDmeLog: interpolable type %s doesn't have an interpolation function!
+Adding %s helper key at %d value 
+ [curvetype %s]
+GenericType
+?UUUUUU
+makefilegamedir:
+CDmeSource CUtlMemoryPool
+DmeSource
+CDmeMakefile CUtlMemoryPool
+DmeMakefile
+sources
+Attempted to add the same source twice %s!
+Invalid source type name %s!
+CDmeExportTags CUtlMemoryPool
+machine
+appVersion
+%04d/%02d/%02d
+%02d:%02d:%02d %2s
+DmeMayaModelMakefile
+DmeMayaAnimationMakefile
+Maya Model File
+makefiledir:../maya
+*.ma;*.mb
+Maya File (*.ma,*.mb)
+Maya Animation File
+Maya Model Component
+contentdir:models
+DMX File (*.dmx)
+Maya Animation Component
+DmeXSIMakefile
+XSI File
+makefiledir:../xsi
+XSI File (*.xsi)
+XSI Model Component
+DmeSourceMayaModelFile
+DmeSourceMayaAnimationFile
+DmeSourceXSIFile
+makefiledir:..\dmx
+CDmeSourceDCCFile CUtlMemoryPool
+DmeSourceDCCFile
+rootDCCObjects
+exportType
+frameStart
+frameEnd
+frameIncrement
+CDmeSourceMayaFile CUtlMemoryPool
+DmeSourceMayaFile
+CDmeSourceMayaModelFile CUtlMemoryPool
+CDmeSourceMayaAnimationFile CUtlMemoryPool
+CDmeSourceXSIFile CUtlMemoryPool
+CDmeDCCMakefile CUtlMemoryPool
+DmeDCCMakefile
+%s\%s.dmx
+CDmeMayaMakefile CUtlMemoryPool
+DmeMayaMakefile
+CDmeMayaModelMakefile CUtlMemoryPool
+CDmeMayaAnimationMakefile CUtlMemoryPool
+CDmeXSIMakefile CUtlMemoryPool
+CDmeAttributeReference CUtlMemoryPool
+DmeAttributeReference
+attribute
+CDmeClip CUtlMemoryPool
+DmeClip
+trackGroups
+displayScale
+subClipTrackGroup
+CDmeSoundClip CUtlMemoryPool
+DmeSoundClip
+showwave
+CDmeChannelsClip CUtlMemoryPool
+CDmeFXClip CUtlMemoryPool
+DmeFXClip
+CDmeFilmClip CUtlMemoryPool
+mapname
+backgroundColor
+backgroundFXClip
+concommands
+convars
+CDmePreset CUtlMemoryPool
+CDmeProceduralPresetSettings CUtlMemoryPool
+jitterscale
+smoothscale
+jitterscale_vector
+smoothscale_vector
+jitteriterations
+smoothiterations
+CDmePresetGroup CUtlMemoryPool
+readonly
+CDmeAnimationSet CUtlMemoryPool
+phonememap
+CDmePresetGroupInfo CUtlMemoryPool
+DmePresetGroupInfo
+filenameBase
+CDmeTimeSelection CUtlMemoryPool
+enabled
+relative
+interpolator_left
+interpolator_right
+threshold
+recordingstate
+CDmeTimeFrame CUtlMemoryPool
+CDmeBookmark CUtlMemoryPool
+CDmeBookmarkSet CUtlMemoryPool
+CDmeTrack CUtlMemoryPool
+DmeTrack
+collapsed
+synched
+clipType
+CDmeTrackGroup CUtlMemoryPool
+DmeTrackGroup
+minimized
+forcemultitrack
+CDmeSound CUtlMemoryPool
+DmeSound
+soundname
+gameSoundName
+CDmeSound::Resolve
+CDmeGameSound CUtlMemoryPool
+DmeGameSound
+CDmeCamera CUtlMemoryPool
+fieldOfView
+focalDistance
+aperture
+SSAOBias
+SSAOStrength
+SSAORadius
+depthOfFieldSamples
+motionBlurSamples
+CDmeConnectionOperator CUtlMemoryPool
+DmeConnectionOperator
+outputs
+CDmeControlGroup CUtlMemoryPool
+selectable
+CDmePhonemeMapping CUtlMemoryPool
+DmePhonemeMapping
+CDmeExpressionOperator CUtlMemoryPool
+DmeExpressionOperator
+spewresult
+%s = '%f'
+%i %i %i %i
+Warning:  %s = '%s' is infinite, clamping value.
+ConVar(%s) defined with infinite float value (%s)
+generic
+unknown error
+iostream
+iostream stream error
+CUtlString::FormatV
+%s unable to grow buffer to fit string
+c:\buildslave\destinations_staging_win64\build\src\tier1\utlstring.cpp
+string too long
+invalid string position
+KeyValues Error: %s in file %s
+ ReadToken overflow
+KeyValues::SaveToFile: couldn't open file "%s" in path "%s".
+0x%016llX
+KeyValues::RecursiveSaveToFile: TODO, missing code for TYPE_COLOR.
+KeyValues::ParseIncludedKeys: Couldn't load included keyvalue file %s
+KV Conditional Evaluation Error
+#include
+#include is NULL 
+#base is NULL 
+LoadFromBuffer: expected '{', found '%s'
+RecursiveLoadFromBuffer:  recursion overflow
+RecursiveLoadFromBuffer:  got EOF instead of keyname
+RecursiveLoadFromBuffer:  got empty keyname
+RecursiveLoadFromBuffer:  got NULL key
+RecursiveLoadFromBuffer:  got } in key
+RecursiveLoadFromBuffer:  got conditional between key and value
+RegisterConfigValue: Unknown error constructing config value "%s"!
+CGlobalConfigValueRegistry::HookUpConfigValue
+c:\buildslave\destinations_staging_win64\build\src\tier1\configvalue.cpp
+c:\buildslave\destinations_staging_win64\build\src\tier1\mempool.cpp
+CUtlMemoryPoolBase: Cannot specify 0 elements to grow each time!
+CUtlMemoryPoolBase::CUtlMemoryPoolBase
+%f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f
+CUtlBuffer::VaPrintf: String overflowed buffer [%llu]
+CUtlBuffer::VaPrintf
+c:\buildslave\destinations_staging_win64\build\src\tier1\utlbuffer.cpp
+UPDATE_STRING_TOKEN_DATABASE
+WINDOWS
+GAMECONSOLE
+LOWVIOLENCE
+HIGHDPI
+Conditional Error: %s
+Bad expression operator: '%c%c', expected C style boolean expression operator.
+Bad expression token: %c
+Bad expression syntax: '%s', expected a single matching pair of enclosing braces.
+VScript
+VScriptDbg
+CUtlStreamBuffer does not support TEXT_BUFFER's use CUtlBuffer
+File has not been opened!
+_addons
+CONTENTROOT
+VPK directory for '%s' corrupt
+CPackedStore::BuildHashTables
+c:\buildslave\destinations_staging_win64\build\src\vpklib\packedstore.cpp
+%s_dir.vpk
+Unknown version %d for vpk %s
+CPackedStore::CPackedStore
+%s_%03d.vpk
+Packed store %s with refcount > 0.
+Cannot open vpk file for writing: "%s"
+Failure while writing to vpk file: "%s"
+Filename '%s' is invalid to be contained in a VPK
+CPackedStore::AddFileToDirectory
+Preload size for '%s' is too big
+Cannot open %s for writing
+CPackedStore::AddFile
+%s_flt.vpk
+CUtlBlockMemory<unsigned char,int>::ChangeSize
+bad allocation
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789abcdefABCDEF
+Access violation - no RTTI data!
+Bad dynamic_cast!
+?atan2f
+?8UUUUU
+?E=$% B
+?49HoKC
+?UUUUUU
+AUUUUUU
+?UUUUUU
+Unknown exception
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+CorExitProcess
+X 843"8
+5m8>8=t
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+UTF-16LE
+UNICODE
+@^8U)zj
+?8bunz8
+?@En[vP
+-9D	/9a
+?UUUUUU
+bad exception
+_nextafter
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+CreateFile2
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+Unable to read file %s
+Warning! Couldn't create DmFileId_t for "%s"
+Original|ApplicationNativeFile
+__rootElement
+ * Skeleton
+conversionErrors
+Reading FBX: %s
+FBX file version %d.%d.%d - SDK
+IOSRoot
+Warning! Couldn't import specified file as FBX "%s": %s
+Warning! FBX file version mismatch SDK %d.%d.%d vs File %d.%d.%d
+FBX file version %d.%d.%d - %s
+Animation Stack Information
+    Number of Animation Stacks: %d
+    Current Animation Stack: "%s"
+    Animation Stack %d
+         Name: "%s"
+         Description: "%s"
+         Import Name: "%s"
+         Import State: %s
+Import|AdvOptGrp|FileFormat|Fbx|Material
+Import|AdvOptGrp|FileFormat|Fbx|Texture
+Import|AdvOptGrp|FileFormat|Fbx|Link
+Import|AdvOptGrp|FileFormat|Fbx|Shape
+Import|AdvOptGrp|FileFormat|Fbx|Gobo
+Import|AdvOptGrp|FileFormat|Fbx|Animation
+Import|AdvOptGrp|FileFormat|Fbx|Global_Settings
+Warning! Password protected FBX files unsupported
+Warning! Couldn't create FbxScene
+Transform
+Skeleton
+Warning! Ignoring Unsupported FBX Node Attribute Type: %s.%s(%s)
+%s + %-8s %s
+__rootNode
+texcoord$%d
+export_
+foliageanimation
+color$%d
+Couldn't convert color field: %s
+Warning! Fbx 3DS Max index mismatch for channel "%s", got %d expected %d
+Warning! Unsupported FBX UV Mapping/Reference Mode %d/%d
+Warning! Unsupported FBX Normal Mapping/Reference Mode %d/%d
+Warning! Unsupported FBX VertexColor Mapping/Reference Mode %d/%d
+Warning! Couldn't create DmeMesh for FbxMesh "%s"
+export_foliageanimation_
+Warning! Fbx 3DSMax UV encoded VertexPaint channel "%s", specified multiple times on mesh "%s"
+Warning! Fbx 3DSMax UV encoded VertexPaint channel "%s", unexpected, expecting ending of [ r, g or b ], on mesh "%s"
+Warning! Fbx 3DSMax UV encoded VertexPaint "%s" invalid, expected %llu maps, found %d, on mesh "%s"
+Warning! Couldn't convert FbxMesh "%s"
+GetFbxMaterialPath Failed! FbxMesh: %s FbxMaterial[%d]: %s, using: %s
+ + Searched:
+   + %s
+GetFbxMaterialPath Failed! FbxMesh: %s FbxMaterial: %s, using: %s
+GetFbxMaterialPath Failed! FbxMesh: %s, Unsupported material mapping mode, using: %s
+GetFbxMaterialPath Failed! FbxMesh: %s, No FbxMaterial assigned, using: %s
+CDmFbxSerializer: only importing first texture from '%s'
+CDmFbxSerializer: texture not found on '%s'
+CDmFbxSerializer: found non-file texture on '%s'
+setting %s::%s = '%s'
+%-7s %s
+_color.
+GetFbxMaterialPath Failed: No Fbx material
+vmatPath
+FBX_vmatPath
+FBXSurfaceMaterial( %s ).FBX_vmatPath found but empty
+FBXSurfaceMaterial( %s ).FBX_vmatPath found but not a string attribute
+Normalize
+Additive
+Warning! No DmeVertexData on DmeMesh (%s)
+Warning! Invalid position count (%d) on DmeMesh (%s)
+ * Skinning Mesh: %s
+Warning! FBX mesh (%s) skinned to unmapped node (%s)
+Warning! FBX mesh (%s) skinned to non-joint (%s)
+Warning! FBX mesh (%s) skinned to joint (%s) which isn't in DmeModel
+Warning! FBX mesh (%s) skinned to joint (%s) but mode %s isn't supported, only %s & %s
+   + DmeJoint[%3d] %5d Vertices - %s
+Zero skin weights on one or more vertices
+Negative total skin weights on one or more vertices
+ * Skinning Mesh Joints %3d: %s
+Warning! Couldn't create DmeComboOp for FbxMesh %s
+__copy__
+ * BlendShape Mesh: Shapes %3d - BlendShape %3d/%3d - %s
+ * BlendShape Mesh: Shapes %3d - %s
+Warning! FbxMesh %s Has Unhandled FbxBlendShapeChannel %s
+Warning! BlendShape normal data mismatch on FbxMesh %s
+   + Shape %3d Deltas: %5d - %s
+%s_flex_channel
+flexWeight
+channelType
+vstFlexSlider
+     - vstFlexSlider FlexControl Channel: %s
+     - vstFlexSlider Already defined FlexControl Channel: %s, ignoring FbxBlendShapeChannel with same name
+     - FbxBlendShapeChannel: %s
+ * Animation Stack %s Layer %s - %s
+   + Fbx Time Start:  %6.2f End: %6.2f Duration: %6.2f @ %6.2f fps
+   + Fbx Frame Start: %6lld End: %6lld Duration: %6lld @ %6.2f fps
+ * Fbx Time: %6.2f Fbx Frame: %6lld Dmx Time: %6.2f Dmx Frame: %d
+   + Dme Time Start:  %6.2f End: %6.2f Duration: %6.2f @ %6.2f fps
+   + Dme Frame Start: %6d End: %6d Duration: %6d @ %6.2f fps
+Warning! FBX system not initialized
+FbxSystem
+Error! Cannot create FbxIOSettings
+CFbxSystem::GetFbxManager
+c:\buildslave\destinations_staging_win64\build\src\public\fbxsystem\fbxsystem.cpp
+Error! Cannot create FbxManager
+0123456789ABCDEF
+123456789
+0123456789ABCDEF
+DDDDUUUU
+00003333
+""""UUUU
+ceiling
+inrange
+rescale
+crescale
+CDmeAnimationList CUtlMemoryPool
+GenerateResourceNameFromFileName: Invalid extension specified in file name "%s"!
+ERROR: Specified full path %s does not lie under the mod search path!)
+ERROR: Specified path %s could not be made content-relative
+FixupResourceName: Illegal full path passed in ("%s")!
+ERROR: Resource name "%s" has the incorrect extension "%s" for the specified resource type (expected "%s")!
+"e?<<<<<<l?
+Il?333333c?
+d?000000`?
+L?UUUUUUU?
+&?PPPPPPP?
+qS>g?h3
+c?FA@s}
+GrJoq>@
+?UUUUUU
+Q5rHg,>
+.>PJ;I:qE>
+/2GG>!B
+zY;>u:m	
+0><[cZUg^>
+[*ncd>0
+S>$hkDh$h>[2
+UA>N0Wl
+9>default
+Default
+catmullrom_normalize_x
+Catmull-Rom (Norm X)
+Ease In
+easeout
+Ease Out
+easeinout
+Ease In/Out
+bspline
+B-Spline
+linear_interp
+Linear Interp.
+kochanek
+Kochanek-Bartels
+kochanek_early
+Kochanek-Bartels Early
+kochanek_late
+Kochanek-Bartels Late
+simple_cubic
+Simple Cubic
+catmullrom
+Catmull-Rom
+catmullrom_normalize
+Catmull-Rom (Norm)
+catmullrom_tangent
+Catmull-Rom (Tangent)
+exponential_decay
+Exponential Decay
+curve_%s_to_curve_%s
+%s <-> %s
+Unknown interpolation type %d
+steamId
+model%d
+texture_group%d
+Failed to read %d bytes
+CBaseFile::MustRead
+c:\buildslave\destinations_staging_win64\build\src\public\tier2\fileutils.h
+error opening required file %s
+CRequiredInputFile::Open
+WorkshopImport001
+WorkshopSetup001
+Aborting - cannot delete file: %s
+Aborting - cannot write to VPK: %s
+readonly_tools_asset_info.bin
+tools_asset_info.bin
+tools_thumbnail_cache.bin
+Ignoring %s: unsupported file type.
+Error adding %s
+CWorkshopSetup::AddFileToPack
+c:\buildslave\destinations_staging_win64\build\src\workshop\workshop.cpp
+FmtStrVSNPrintf truncated to %d without QUIET_TRUNCATION specified! String: "%s"
+Invalid Class
+purecall
+invalid_parameter
+Release
+workshop
+BinaryProperties_GetValue
+Intentionally vague touch behavior for %p
+workshop.dll
+RSDS-j)
+c:\buildslave\destinations_staging_win64\build\src\workshop\Retail\win64\workshop.pdb
+workshop.dll
+BinaryProperties_GetValue
+CreateInterface
+GetResourceManifestCount
+GetResourceManifests
+InstallSchemaBindings
+__crt_debugger_hook
+SteamAPI_Init
+SteamAPI_Shutdown
+SteamAPI_IsSteamRunning
+SteamAPI_GetHSteamPipe
+SteamAPI_SetTryCatchCallbacks
+SteamAPI_GetHSteamUser
+SteamInternal_CreateInterface
+steam_api64.dll
+Warning
+LoggingSystem_IsChannelEnabled
+Plat_ShouldCollectMiniDumpsForFatalErrors
+?LoggingSystem_Log@@YA?AW4LoggingResponse_t@@HW4LoggingSeverity_t@@AEBULeafCodeInfo_t@@PEBDZZ
+CMemAllocSystemInitialize
+GetDefaultMiniDumpTypeFlags
+Plat_ExitProcess
+LOG_GENERAL
+g_pMemAlloc
+InvokeMiniDumpHandler
+Plat_GetModuleFilename
+Plat_GetModuleProcAddress
+Plat_LoadModuleRaw
+EarlyInit_Tier0
+Plat_IsInDebugSession
+Plat_IsInTestMode
+?ConColorMsg@@YAXAEBVColor@@PEBDZZ
+?ConMsg@@YAXPEBDZZ
+ThreadInterlockedExchange64
+?EnterScope@CVProfile@@QEAAXPEBDH0_NH@Z
+?ExitScope@CVProfile@@QEAAXXZ
+g_VProfCurrentProfile
+Plat_DebugString
+Plat_MessageBox
+CommandLine
+LoggingSystem_RegisterLoggingListener
+LoggingSystem_SetLoggingResponsePolicy
+LoggingSystem_PushLoggingState
+LoggingSystem_RegisterLoggingChannel
+LoggingSystem_AddTagToChannel
+LoggingSystem_Log
+GetCPUInformation
+Plat_getwd
+Plat_FloatTime
+Plat_GetLocalTime
+tier0.dll
+RpcStringFreeA
+UuidCreate
+UuidToStringA
+UuidFromStringA
+RPCRT4.dll
+GetDmElementTypeSymbolMap
+vstdlib.dll
+GetCurrentThreadId
+GlobalAlloc
+GlobalSize
+GlobalLock
+GlobalUnlock
+GetEnvironmentVariableA
+CreateFileA
+DeleteFileA
+GetFileAttributesA
+CloseHandle
+MoveFileExA
+ReadFile
+SetHandleInformation
+CreatePipe
+WaitForSingleObject
+GetExitCodeProcess
+CreateProcessA
+FlushFileBuffers
+SetFilePointer
+WriteFile
+GetLastError
+GetLocalTime
+GetComputerNameA
+MultiByteToWideChar
+WideCharToMultiByte
+GetCurrentProcessId
+GetProcAddress
+GetTickCount
+GetLongPathNameA
+GetShortPathNameA
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+EncodePointer
+DecodePointer
+GetStringTypeW
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+GetSystemTimeAsFileTime
+RtlPcToFileHeader
+GetFullPathNameA
+GetTempPathA
+AreFileApisANSI
+GetDriveTypeW
+RaiseException
+RtlLookupFunctionEntry
+RtlUnwindEx
+GetCPInfo
+RtlCaptureContext
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+SetLastError
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+LCMapStringW
+ExitProcess
+GetModuleHandleExW
+GetStdHandle
+GetFileType
+GetModuleFileNameA
+QueryPerformanceCounter
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+IsValidCodePage
+GetOEMCP
+DeleteFileW
+GetFileAttributesExW
+GetConsoleMode
+ReadConsoleW
+SetFilePointerEx
+GetConsoleCP
+GetCurrentDirectoryW
+GetModuleFileNameW
+LoadLibraryExW
+SetStdHandle
+WriteConsoleW
+CreateFileW
+OutputDebugStringW
+SetEndOfFile
+HeapAlloc
+HeapFree
+GetProcessHeap
+KERNEL32.dll
+OpenClipboard
+CloseClipboard
+SetClipboardData
+GetClipboardData
+EmptyClipboard
+GetDesktopWindow
+USER32.dll
+RegCloseKey
+RegOpenKeyA
+RegQueryValueExA
+GetUserNameA
+ADVAPI32.dll
+KeyValuesSystem
+?DevMsg@@YAXPEBDZZ
+?LockForRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockRead@CThreadSpinRWLock@@QEAAXXZ
+?UnlockWrite@CThreadSpinRWLock@@QEAAXXZ
+?SpinLockForWrite@CThreadSpinRWLock@@AEAAXI@Z
+g_Tier1_CRC32Table
+g_Tier1_CRC64Table
+Plat_GetEnv
+Plat_GetOSType
+Plat_IsHighDPI
+CreateDirectoryW
+?FbxMalloc@fbxsdk@@YAPEAX_K@Z
+?FbxFree@fbxsdk@@YAXPEAX@Z
+??0FbxString@fbxsdk@@QEAA@XZ
+??0FbxString@fbxsdk@@QEAA@AEBV01@@Z
+??0FbxString@fbxsdk@@QEAA@PEBD@Z
+??1FbxString@fbxsdk@@QEAA@XZ
+?GetLen@FbxString@fbxsdk@@QEBA_KXZ
+?IsEmpty@FbxString@fbxsdk@@QEBA_NXZ
+?Buffer@FbxString@fbxsdk@@QEAAPEADXZ
+?Buffer@FbxString@fbxsdk@@QEBAPEBDXZ
+??4FbxString@fbxsdk@@QEAAAEBV01@AEBV01@@Z
+??YFbxString@fbxsdk@@QEAAAEBV01@PEBD@Z
+??MFbxString@fbxsdk@@QEBA_NAEBV01@@Z
+??BFbxString@fbxsdk@@QEBAPEBDXZ
+?FindAndReplace@FbxString@fbxsdk@@QEAA_NPEBD0_K@Z
+?GetErrorString@FbxStatus@fbxsdk@@QEBAPEBDXZ
+?GetFrameRate@FbxTime@fbxsdk@@SANW4EMode@12@@Z
+?GetSecondDouble@FbxTime@fbxsdk@@QEBANXZ
+&?SetFrame@FbxTime@fbxsdk@@QEAAX_JW4EMode@12@@Z
+?GetFrameCount@FbxTime@fbxsdk@@QEBA_JW4EMode@12@@Z
+?GetDuration@FbxTimeSpan@fbxsdk@@QEBA?AVFbxTime@2@XZ
+??0FbxVector2@fbxsdk@@QEAA@XZ
+??0FbxVector4@fbxsdk@@QEAA@XZ
+??4FbxVector4@fbxsdk@@QEAAAEAV01@AEBV01@@Z
+!?Normalize@FbxVector4@fbxsdk@@QEAAXXZ
+??0FbxMatrix@fbxsdk@@QEAA@XZ
+??0FbxMatrix@fbxsdk@@QEAA@AEBV01@@Z
+??0FbxMatrix@fbxsdk@@QEAA@AEBVFbxAMatrix@1@@Z
+??1FbxMatrix@fbxsdk@@QEAA@XZ
+?GetElements@FbxMatrix@fbxsdk@@QEBAXAEAVFbxVector4@2@AEAVFbxQuaternion@2@00AEAN@Z
+??4FbxMatrix@fbxsdk@@QEAAAEAV01@AEBV01@@Z
+??DFbxMatrix@fbxsdk@@QEBA?AV01@AEBV01@@Z
+??8FbxMatrix@fbxsdk@@QEBA_NAEBV01@@Z
+?Inverse@FbxMatrix@fbxsdk@@QEBA?AV12@XZ
+(?Transpose@FbxMatrix@fbxsdk@@QEBA?AV12@XZ
+,&?SetIdentity@FbxMatrix@fbxsdk@@QEAAXXZ
+!?MultNormalize@FbxMatrix@fbxsdk@@QEBA?AVFbxVector4@2@AEBV32@@Z
+?GetT@FbxAMatrix@fbxsdk@@QEBA?AVFbxVector4@2@XZ
+?GetQ@FbxAMatrix@fbxsdk@@QEBA?AVFbxQuaternion@2@XZ
+??0FbxQuaternion@fbxsdk@@QEAA@XZ
+??1FbxQuaternion@fbxsdk@@QEAA@XZ
+	??AFbxQuaternion@fbxsdk@@QEBAAEBNH@Z
+?Is@FbxClassId@fbxsdk@@QEBA_NAEBV12@@Z
+??0FbxSystemUnit@fbxsdk@@QEAA@NN@Z
+??1FbxSystemUnit@fbxsdk@@QEAA@XZ
+?ConvertScene@FbxSystemUnit@fbxsdk@@QEBAXPEAVFbxScene@2@AEBUConversionOptions@12@@Z
+??0FbxColor@fbxsdk@@QEAA@XZ
+??1FbxColor@fbxsdk@@QEAA@XZ
+	??AFbxColor@fbxsdk@@QEBAAEBNH@Z
+??1FbxPropertyHandle@fbxsdk@@QEAA@XZ
+?GetFirstDescendent@FbxPropertyHandle@fbxsdk@@QEBA?AV12@XZ
+?GetNextDescendent@FbxPropertyHandle@fbxsdk@@QEBA?AV12@AEBV12@@Z
+?Find@FbxPropertyHandle@fbxsdk@@QEBA?AV12@PEBD_N@Z
+??1FbxDataType@fbxsdk@@QEAA@XZ
+?GetType@FbxDataType@fbxsdk@@QEBA?AW4EFbxType@2@XZ
+!?ObjectType@FbxCriteria@fbxsdk@@SA?AV12@AEBVFbxClassId@2@@Z
+??1FbxCriteria@fbxsdk@@QEAA@XZ
+??0FbxProperty@fbxsdk@@QEAA@XZ
+??0FbxProperty@fbxsdk@@QEAA@AEBVFbxPropertyHandle@1@@Z
+??1FbxProperty@fbxsdk@@QEAA@XZ
+?GetPropertyDataType@FbxProperty@fbxsdk@@QEBA?AVFbxDataType@2@XZ
+?GetName@FbxProperty@fbxsdk@@QEBA?AVFbxString@2@XZ
+?GetNameAsCStr@FbxProperty@fbxsdk@@QEBAPEBDXZ
+?GetFlag@FbxProperty@fbxsdk@@QEBA_NW4EFlags@FbxPropertyFlags@2@@Z
+??4FbxProperty@fbxsdk@@QEAAAEAV01@AEBV01@@Z
+X ?IsValid@FbxProperty@fbxsdk@@QEBA_NXZ
+?HasMinLimit@FbxProperty@fbxsdk@@QEBA_NXZ
+?GetMinLimit@FbxProperty@fbxsdk@@QEBANXZ
+?HasMaxLimit@FbxProperty@fbxsdk@@QEBA_NXZ
+?GetMaxLimit@FbxProperty@fbxsdk@@QEBANXZ
+?Find@FbxProperty@fbxsdk@@QEBA?AV12@PEBD_N@Z
+?FindHierarchical@FbxProperty@fbxsdk@@QEBA?AV12@PEBDAEBVFbxDataType@2@_N@Z
+?GetSrcObjectCount@FbxProperty@fbxsdk@@QEBAHAEBVFbxCriteria@2@@Z
+?GetSrcObjectCount@FbxProperty@fbxsdk@@QEBAHAEBVFbxClassId@2@@Z
+?GetSrcObject@FbxProperty@fbxsdk@@QEBAPEAVFbxObject@2@AEBVFbxCriteria@2@H@Z
+?GetSrcObject@FbxProperty@fbxsdk@@QEBAPEAVFbxObject@2@AEBVFbxClassId@2@H@Z
+?GetDstObjectCount@FbxProperty@fbxsdk@@QEBAHAEBVFbxCriteria@2@@Z
+?Get@FbxProperty@fbxsdk@@IEBA_NPEAXAEBW4EFbxType@2@@Z
+?GetScene@FbxObject@fbxsdk@@QEBAPEAVFbxScene@2@XZ
+?Destroy@FbxObject@fbxsdk@@QEAAX_N@Z
+?GetName@FbxObject@fbxsdk@@QEBAPEBDXZ
+?GetNameOnly@FbxObject@fbxsdk@@QEBA?AVFbxString@2@XZ
+?GetVersion@FbxManager@fbxsdk@@SAPEBD_N@Z
+?GetFileFormatVersion@FbxManager@fbxsdk@@SAXAEAH00@Z
+?Create@FbxIOSettings@fbxsdk@@SAPEAV12@PEAVFbxManager@2@PEBD@Z
+2%?SetBoolProp@FbxIOSettings@fbxsdk@@QEAAXPEBD_N@Z
+??0FbxAxisSystem@fbxsdk@@QEAA@XZ
+??0FbxAxisSystem@fbxsdk@@QEAA@W4EUpVector@01@W4EFrontVector@01@W4ECoordSystem@01@@Z
+??1FbxAxisSystem@fbxsdk@@UEAA@XZ
+??4FbxAxisSystem@fbxsdk@@QEAAAEAV01@AEBV01@@Z
+?ConvertScene@FbxAxisSystem@fbxsdk@@QEBAXPEAVFbxScene@2@@Z
+?Create@FbxImporter@fbxsdk@@SAPEAV12@PEAVFbxManager@2@PEBD@Z
+?GetFileVersion@FbxImporter@fbxsdk@@QEAAXAEAH00@Z
+?Import@FbxImporter@fbxsdk@@QEAA_NPEAVFbxDocument@2@_N@Z
+?GetAnimStackCount@FbxImporter@fbxsdk@@QEAAHXZ
+?GetTakeInfo@FbxImporter@fbxsdk@@QEAAPEAVFbxTakeInfo@2@H@Z
+?GetActiveAnimStackName@FbxImporter@fbxsdk@@QEAA?AVFbxString@2@XZ
+ ?IsFBX@FbxImporter@fbxsdk@@QEAA_NXZ
+"?ParseForGlobalSettings@FbxImporter@fbxsdk@@QEAAX_N@Z
+?GetFrameRate@FbxImporter@fbxsdk@@QEAA_NAEAW4EMode@FbxTime@2@@Z
+?GetDocumentInfo@FbxDocument@fbxsdk@@QEBAPEAVFbxDocumentInfo@2@XZ
+?FillAnimStackNameArray@FbxDocument@fbxsdk@@QEAAXAEAV?$FbxArray@PEAVFbxString@fbxsdk@@@2@@Z
+?GetTakeInfo@FbxDocument@fbxsdk@@QEBAPEAVFbxTakeInfo@2@AEBVFbxString@2@@Z
+?GetChildCount@FbxNode@fbxsdk@@QEBAH_N@Z
+?GetChild@FbxNode@fbxsdk@@QEAAPEAV12@H@Z
+?GetNodeAttribute@FbxNode@fbxsdk@@QEAAPEAVFbxNodeAttribute@2@XZ
+?EvaluateGlobalTransform@FbxNode@fbxsdk@@QEAAAEAVFbxAMatrix@2@VFbxTime@2@W4EPivotSet@12@_N2@Z
+?GetMaterialCount@FbxNode@fbxsdk@@QEBAHXZ
+?GetMaterial@FbxNode@fbxsdk@@QEBAPEAVFbxSurfaceMaterial@2@H@Z
+#?Release@FbxLayerElementArray@fbxsdk@@QEAAXPEAPEAX@Z
+?GetCount@FbxLayerElementArray@fbxsdk@@QEBAHXZ
+?GetAt@FbxLayerElementArray@fbxsdk@@QEBA_NHPEAPEAXW4EFbxType@2@@Z
+?GetDirectArrayVoid@FbxLayerElementUserData@fbxsdk@@QEAAPEAV?$FbxLayerElementArrayTemplate@PEAX@2@HPEA_N@Z
+?GetDataType@FbxLayerElementUserData@fbxsdk@@QEBA?AVFbxDataType@2@H@Z
+?GetDataName@FbxLayerElementUserData@fbxsdk@@QEBAPEBDH@Z
+?GetNode@FbxNodeAttribute@fbxsdk@@QEBAPEAVFbxNode@2@H@Z
+?GetAxisSystem@FbxGlobalSettings@fbxsdk@@QEAA?AVFbxAxisSystem@2@XZ
+?Create@FbxScene@fbxsdk@@SAPEAV12@PEAVFbxManager@2@PEBD@Z
+?GetRootNode@FbxScene@fbxsdk@@QEBAPEAVFbxNode@2@XZ
+?GetGlobalSettings@FbxScene@fbxsdk@@QEAAAEAVFbxGlobalSettings@2@XZ
+w%?SetCurrentAnimationStack@FbxScene@fbxsdk@@QEAAXPEAVFbxAnimStack@2@@Z
+?GetBlendShapeChannelCount@FbxBlendShape@fbxsdk@@QEBAHXZ
+?GetBlendShapeChannel@FbxBlendShape@fbxsdk@@QEAAPEAVFbxBlendShapeChannel@2@H@Z
+?GetTargetShapeCount@FbxBlendShapeChannel@fbxsdk@@QEBAHXZ
+?GetTargetShape@FbxBlendShapeChannel@fbxsdk@@QEAAPEAVFbxShape@2@H@Z
+?GetLinkMode@FbxCluster@fbxsdk@@QEBA?AW4ELinkMode@12@XZ
+?GetLink@FbxCluster@fbxsdk@@QEAAPEAVFbxNode@2@XZ
+?GetControlPointIndicesCount@FbxCluster@fbxsdk@@QEBAHXZ
+?GetControlPointIndices@FbxCluster@fbxsdk@@QEBAPEAHXZ
+?GetControlPointWeights@FbxCluster@fbxsdk@@QEBAPEANXZ
+?GetElementNormal@FbxGeometryBase@fbxsdk@@QEAAPEAVFbxLayerElementNormal@2@H@Z
+?GetElementNormalCount@FbxGeometryBase@fbxsdk@@QEBAHXZ
+?GetElementMaterial@FbxGeometryBase@fbxsdk@@QEAAPEAVFbxLayerElementMaterial@2@H@Z
+?GetElementMaterialCount@FbxGeometryBase@fbxsdk@@QEBAHXZ
+?GetElementVertexColor@FbxGeometryBase@fbxsdk@@QEAAPEAVFbxLayerElementVertexColor@2@H@Z
+?GetElementVertexColorCount@FbxGeometryBase@fbxsdk@@QEBAHXZ
+?GetElementUserData@FbxGeometryBase@fbxsdk@@QEAAPEAVFbxLayerElementUserData@2@H@Z
+?GetElementUserDataCount@FbxGeometryBase@fbxsdk@@QEBAHXZ
+?GetElementUV@FbxGeometryBase@fbxsdk@@QEAAPEAVFbxLayerElementUV@2@HW4EType@FbxLayerElement@2@@Z
+?GetElementUVCount@FbxGeometryBase@fbxsdk@@QEBAHW4EType@FbxLayerElement@2@@Z
+?GetControlPointIndicesCount@FbxShape@fbxsdk@@QEBAHXZ
+?GetControlPointIndices@FbxShape@fbxsdk@@QEBAPEAHXZ
+?GetDeformerCount@FbxGeometry@fbxsdk@@QEBAHW4EDeformerType@FbxDeformer@2@@Z
+?GetDeformer@FbxGeometry@fbxsdk@@QEBAPEAVFbxDeformer@2@HW4EDeformerType@32@PEAVFbxStatus@2@@Z
+?GetShapeChannel@FbxGeometry@fbxsdk@@QEAAPEAVFbxAnimCurve@2@HHPEAVFbxAnimLayer@2@_NPEAVFbxStatus@2@@Z
+?Create@FbxMesh@fbxsdk@@SAPEAV12@PEAVFbxObject@2@PEBD@Z
+?GetPolygonCount@FbxMesh@fbxsdk@@QEBAHXZ
+?GetPolygonSize@FbxMesh@fbxsdk@@QEBAHH@Z
+?GetPolygonVertex@FbxMesh@fbxsdk@@QEBAHHH@Z
+?GenerateNormals@FbxMesh@fbxsdk@@QEAA_N_N00@Z
+?GetClusterCount@FbxSkin@fbxsdk@@QEBAHXZ
+?GetCluster@FbxSkin@fbxsdk@@QEAAPEAVFbxCluster@2@H@Z
+?GetFileName@FbxFileTexture@fbxsdk@@QEBAPEBDXZ
+??$EvaluateValue@M@FbxProperty@fbxsdk@@QEAAMAEBVFbxTime@1@_N@Z
+?Inch@FbxSystemUnit@fbxsdk@@2V12@B
+?FbxStringDT@fbxsdk@@3VFbxDataType@1@A
+?ClassId@FbxAnimStack@fbxsdk@@2VFbxClassId@2@A
+)?sEmissive@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+)?sAmbient@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+)?sDiffuse@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+*?sSpecular@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+)?sShininess@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+)?sBump@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+)?sNormalMap@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+*?sTransparentColor@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+)?sReflection@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+)?sDisplacementColor@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+*?sVectorDisplacementColor@FbxSurfaceMaterial@fbxsdk@@2PEBDEB
+?ClassId@FbxTexture@fbxsdk@@2VFbxClassId@2@A
+?ClassId@FbxAnimLayer@fbxsdk@@2VFbxClassId@2@A
+?ClassId@FbxBlendShape@fbxsdk@@2VFbxClassId@2@A
+?ClassId@FbxCluster@fbxsdk@@2VFbxClassId@2@A
+?ClassId@FbxSkin@fbxsdk@@2VFbxClassId@2@A
+?ClassId@FbxFileTexture@fbxsdk@@2VFbxClassId@2@A
+?ClassId@FbxLayeredTexture@fbxsdk@@2VFbxClassId@2@A
+?Create@FbxManager@fbxsdk@@SAPEAV12@XZ
+libfbxsdk.dll
+Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.?AVIDmElementFramework@@
+.?AV?$CBaseAppSystem@VIAppSystem@@@@
+.?AVCDmElementFramework@@
+.?AV?$CBaseAppSystem@VIDmElementFramework@@@@
+.?AVIDmElementFactory@@
+.?AVIUndoElement@@
+.?AVIDataModel@@
+.?AVCUndoElement@@
+.?AVCDmElementFactoryDefault@@
+.?AVCDataModel@@
+.?AV?$CBaseAppSystem@VIDataModel@@@@
+.?AVCUndoCreateElement@@
+.?AVCUndoDestroyElement@@
+.?AVIDmeOperator@@
+.?AVCDmElement@@
+.?AVCDmElementFactoryInternal@@
+.?AV?$CDmElementFactory@VCDmElement@@@@
+.?AVCUndoAttributeAddRemove@@
+.?AVIDmAttributeOp@@
+.?AV?$CDmAttributeOp@UDmUnknownAttribute_t@@@@
+.?AV?$CDmAttributeOp@H@@
+.?AV?$CDmAttributeOp@M@@
+.?AV?$CDmAttributeOp@_N@@
+.?AV?$CDmAttributeOp@VDmeTime_t@@@@
+.?AV?$CDmAttributeOp@VQAngle@@@@
+.?AV?$CDmAttributeOp@VQuaternion@@@@
+.?AV?$CDmAttributeOp@VCUtlSymbolLarge@@@@
+.?AVCUndoAttributeRenameElement@@
+.?AV?$CDmArrayAttributeOp@W4DmElementHandle_t@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@W4DmElementHandle_t@@V?$CUtlMemory@W4DmElementHandle_t@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@VCUtlSymbolLarge@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@VCUtlSymbolLarge@@V?$CUtlMemory@VCUtlSymbolLarge@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@H@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@HV?$CUtlMemory@HH@@@@@@
+.?AV?$CDmArrayAttributeOp@M@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@MV?$CUtlMemory@MH@@@@@@
+.?AV?$CDmArrayAttributeOp@_N@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@_NV?$CUtlMemory@_NH@@@@@@
+.?AV?$CDmArrayAttributeOp@VColor@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@VColor@@V?$CUtlMemory@VColor@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@VVector2D@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@VVector2D@@V?$CUtlMemory@VVector2D@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@VVector@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@VVector@@V?$CUtlMemory@VVector@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@VVector4D@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@VVector4D@@V?$CUtlMemory@VVector4D@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@VQAngle@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@VQAngle@@V?$CUtlMemory@VQAngle@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@VQuaternion@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@VQuaternion@@V?$CUtlMemory@VQuaternion@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@VVMatrix@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@VVMatrix@@V?$CUtlMemory@VVMatrix@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@VCUtlBinaryBlock@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@VCUtlBinaryBlock@@V?$CUtlMemory@VCUtlBinaryBlock@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@VDmeTime_t@@@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@VDmeTime_t@@V?$CUtlMemory@VDmeTime_t@@H@@@@@@
+.?AV?$CDmArrayAttributeOp@_K@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@_KV?$CUtlMemory@_KH@@@@@@
+.?AV?$CDmArrayAttributeOp@E@@
+.?AV?$CDmAttributeOp@V?$CUtlVector@EV?$CUtlMemory@EH@@@@@@
+.?AV?$CDmAttributeOp@VColor@@@@
+.?AV?$CDmAttributeOp@VVector2D@@@@
+.?AV?$CDmAttributeOp@VVector@@@@
+.?AV?$CDmAttributeOp@VVector4D@@@@
+.?AV?$CDmAttributeOp@VVMatrix@@@@
+.?AV?$CDmAttributeOp@VCUtlBinaryBlock@@@@
+.?AV?$CDmAttributeOp@W4DmElementHandle_t@@@@
+.?AV?$CDmAttributeOp@_K@@
+.?AV?$CDmAttributeOp@E@@
+.?AV?$CUndoAttributeSetValueElement@VCUtlSymbolLarge@@@@
+.?AV?$CUndoAttributeSetValueElement@VCUtlBinaryBlock@@@@
+.?AV?$CUndoAttributeSetValueElement@VColor@@@@
+.?AV?$CUndoAttributeSetValueElement@H@@
+.?AV?$CUndoAttributeSetValueElement@M@@
+.?AV?$CUndoAttributeSetValueElement@_N@@
+.?AV?$CUndoAttributeSetValueElement@VDmeTime_t@@@@
+.?AV?$CUndoAttributeSetValueElement@VQAngle@@@@
+.?AV?$CUndoAttributeSetValueElement@VQuaternion@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@W4DmElementHandle_t@@@@
+.?AV?$CUndoAttributeArrayBase@W4DmElementHandle_t@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@W4DmElementHandle_t@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@W4DmElementHandle_t@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@W4DmElementHandle_t@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@W4DmElementHandle_t@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@W4DmElementHandle_t@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@VCUtlSymbolLarge@@@@
+.?AV?$CUndoAttributeArrayBase@VCUtlSymbolLarge@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@VCUtlSymbolLarge@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@VCUtlSymbolLarge@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@VCUtlSymbolLarge@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@VCUtlSymbolLarge@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@VCUtlSymbolLarge@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@H@@
+.?AV?$CUndoAttributeArrayBase@H@@
+.?AV?$CUndoArrayAttributeSetValueElement@H@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@H@@
+.?AV?$CUndoAttributeArrayInsertBefore@H@@
+.?AV?$CUndoAttributeArrayRemoveElement@H@@
+.?AV?$CUndoAttributeArrayCopyAllElement@H@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@M@@
+.?AV?$CUndoAttributeArrayBase@M@@
+.?AV?$CUndoArrayAttributeSetValueElement@M@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@M@@
+.?AV?$CUndoAttributeArrayInsertBefore@M@@
+.?AV?$CUndoAttributeArrayRemoveElement@M@@
+.?AV?$CUndoAttributeArrayCopyAllElement@M@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@_N@@
+.?AV?$CUndoAttributeArrayBase@_N@@
+.?AV?$CUndoArrayAttributeSetValueElement@_N@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@_N@@
+.?AV?$CUndoAttributeArrayInsertBefore@_N@@
+.?AV?$CUndoAttributeArrayRemoveElement@_N@@
+.?AV?$CUndoAttributeArrayCopyAllElement@_N@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@VColor@@@@
+.?AV?$CUndoAttributeArrayBase@VColor@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@VColor@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@VColor@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@VColor@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@VColor@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@VColor@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@VVector2D@@@@
+.?AV?$CUndoAttributeArrayBase@VVector2D@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@VVector2D@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@VVector2D@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@VVector2D@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@VVector2D@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@VVector2D@@@@
+.?AV?$CUndoAttributeSetValueElement@VVector2D@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@VVector@@@@
+.?AV?$CUndoAttributeArrayBase@VVector@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@VVector@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@VVector@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@VVector@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@VVector@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@VVector@@@@
+.?AV?$CUndoAttributeSetValueElement@VVector@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@VVector4D@@@@
+.?AV?$CUndoAttributeArrayBase@VVector4D@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@VVector4D@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@VVector4D@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@VVector4D@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@VVector4D@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@VVector4D@@@@
+.?AV?$CUndoAttributeSetValueElement@VVector4D@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@VQAngle@@@@
+.?AV?$CUndoAttributeArrayBase@VQAngle@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@VQAngle@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@VQAngle@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@VQAngle@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@VQAngle@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@VQAngle@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@VQuaternion@@@@
+.?AV?$CUndoAttributeArrayBase@VQuaternion@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@VQuaternion@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@VQuaternion@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@VQuaternion@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@VQuaternion@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@VQuaternion@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@VVMatrix@@@@
+.?AV?$CUndoAttributeArrayBase@VVMatrix@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@VVMatrix@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@VVMatrix@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@VVMatrix@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@VVMatrix@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@VVMatrix@@@@
+.?AV?$CUndoAttributeSetValueElement@VVMatrix@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@VCUtlBinaryBlock@@@@
+.?AV?$CUndoAttributeArrayBase@VCUtlBinaryBlock@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@VCUtlBinaryBlock@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@VCUtlBinaryBlock@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@VCUtlBinaryBlock@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@VCUtlBinaryBlock@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@VCUtlBinaryBlock@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@VDmeTime_t@@@@
+.?AV?$CUndoAttributeArrayBase@VDmeTime_t@@@@
+.?AV?$CUndoArrayAttributeSetValueElement@VDmeTime_t@@@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@VDmeTime_t@@@@
+.?AV?$CUndoAttributeArrayInsertBefore@VDmeTime_t@@@@
+.?AV?$CUndoAttributeArrayRemoveElement@VDmeTime_t@@@@
+.?AV?$CUndoAttributeArrayCopyAllElement@VDmeTime_t@@@@
+.?AV?$CUndoAttributeSetValueElement@W4DmElementHandle_t@@@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@_K@@
+.?AV?$CUndoAttributeArrayBase@_K@@
+.?AV?$CUndoArrayAttributeSetValueElement@_K@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@_K@@
+.?AV?$CUndoAttributeArrayInsertBefore@_K@@
+.?AV?$CUndoAttributeArrayRemoveElement@_K@@
+.?AV?$CUndoAttributeArrayCopyAllElement@_K@@
+.?AV?$CUndoAttributeSetValueElement@_K@@
+.?AV?$CUndoArrayAttributeSetMultipleValueElement@E@@
+.?AV?$CUndoAttributeArrayBase@E@@
+.?AV?$CUndoArrayAttributeSetValueElement@E@@
+.?AV?$CUndoAttributeArrayInsertCopyBefore@E@@
+.?AV?$CUndoAttributeArrayInsertBefore@E@@
+.?AV?$CUndoAttributeArrayRemoveElement@E@@
+.?AV?$CUndoAttributeArrayCopyAllElement@E@@
+.?AV?$CUndoAttributeSetValueElement@E@@
+.?AVILoggingListener@@
+.?AVILoggingResponsePolicy@@
+.?AVCSimpleWindowsLoggingListener@@
+.?AVCNonFatalLoggingResponsePolicy@@
+.?AVIDmSerializer@@
+.?AVCDmSerializerKeyValues@@
+.?AVCDmSerializerKeyValues2@@
+.?AVCDmSerializerBinary@@
+.?AVIDmFormatUpdater@@
+.?AVIDmSerializers@@
+.?AVCDmFormatUpdater_dmx@@
+.?AVCDmFormatUpdater_movieobjects@@
+.?AVCDmFormatUpdater_sfm@@
+.?AVCDmFormatUpdater_sfm_settings@@
+.?AVCDmFormatUpdater_sfm_session@@
+.?AVCDmFormatUpdater_sfm_trackgroup@@
+.?AVCDmFormatUpdater_pcf@@
+.?AVCDmFormatUpdater_preset@@
+.?AVCDmFormatUpdater_facial_animation@@
+.?AVCDmFormatUpdater_model@@
+.?AVCDmFormatUpdater_ved@@
+.?AVCDmFormatUpdater_vmks@@
+.?AVCDmFormatUpdater_mp_preprocess@@
+.?AVCDmFormatUpdater_mp_root@@
+.?AVCDmFormatUpdater_mp_model@@
+.?AVCDmFormatUpdater_mp_anim@@
+.?AVCDmFormatUpdater_mp_physics@@
+.?AVCDmFormatUpdater_mp_hitbox@@
+.?AVCDmFormatUpdater_mp_materialgroup@@
+.?AVCDmFormatUpdater_mp_keyvalues@@
+.?AVCDmFormatUpdater_mp_eyes@@
+.?AVCDmFormatUpdater_mp_bonemask@@
+.?AVCDmFormatUpdater_gui@@
+.?AVCDmFormatUpdater_schema@@
+.?AVCDmFormatUpdater_vtex@@
+.?AVCDmFormatUpdater_world@@
+.?AVCDmFormatUpdater_worldnode@@
+.?AVCDmFormatUpdater_virtualvolumetexture@@
+.?AVCDmFormatUpdater_vmap@@
+.?AVCDmFormatUpdater_vanim@@
+.?AVCDmFormatUpdater_animflags@@
+.?AVCDmSerializers@@
+.?AV?$CBaseAppSystem@VIDmSerializers@@@@
+.?AVIElementVisitor@@
+.?AVCElementVisitor_DmeMeshFinder@@
+.?AVCElementVisitor_DotaLightFinder@@
+.?AVCImportKeyValueBase@@
+.?AVCImportActBusy@@
+.?AVIElementForKeyValueCallback@@
+.?AVCImportCommentary@@
+.?AVCElementForKeyValueCallback@@
+.?AVCImportVMT@@
+.?AVCImportSFMV1@@
+.?AVCSFMBaseImporter@@
+.?AVCDmeBaseImporter@@
+.?AVIDmLegacyUpdater@@
+.?AVCImportSFMV2@@
+.?AVCImportSFMV3@@
+.?AVCImportSFMV4@@
+.?AVCImportSFMV5@@
+.?AVCImportSFMV6@@
+.?AVCImportSFMV7@@
+.?AVCImportSFMV8@@
+.?AVCImportSFMV9@@
+.?AVCImportMKS@@
+.?AVCImportTex@@
+.?AVCPostConnectCallback@@
+.?AVCTargetVMT@@
+.?AVCTargetQC@@
+.?AVCTargetMDL@@
+.?AVCTargetTGA@@
+.?AVCTargetVTF@@
+.?AVCTargetDMX@@
+.?AVCTargetDMXAnim@@
+.?AVCDmObjSerializer@@
+.?AV?$CFmtStrN@$0BAAAA@$0A@@@
+.?AVIZip@@
+.?AVIWriteStream@@
+.?AVCBufferStream@@
+.?AVCFileStream@@
+.?AVCZip@@
+.?AVCDmeFaceSet@@
+.?AV?$CDmElementFactory@VCDmeFaceSet@@@@
+.?AVCDmeMaterial@@
+.?AV?$CDmElementFactory@VCDmeMaterial@@@@
+.?AVCDmeVertexDataBase@@
+.?AVCDmeVertexData@@
+.?AVCDmeVertexDeltaData@@
+.?AV?$CDmElementFactory@VCDmeVertexDataBase@@@@
+.?AV?$CDmElementFactory@VCDmeVertexData@@@@
+.?AV?$CDmElementFactory@VCDmeVertexDeltaData@@@@
+.?AVCDmeShape@@
+.?AVCDmeMesh@@
+.?AV?$CDmElementFactory@VCDmeMesh@@@@
+.?AVCDmeTransform@@
+.?AV?$CDmElementFactory@VCDmeTransform@@@@
+.?AVCDmeDag@@
+.?AV?$CDmElementFactory@VCDmeDag@@@@
+.?AVCDmeModel@@
+.?AV?$CDmElementFactory@VCDmeModel@@@@
+.?AVCDmeJoint@@
+.?AV?$CDmElementFactory@VCDmeJoint@@@@
+.?AV?$CDmElementFactory@VCDmeShape@@@@
+.?AVCDmeOperator@@
+.?AVCDmeCombinationInputControl@@
+.?AVCDmeCombinationDominationRule@@
+.?AVCDmeCombinationOperator@@
+.?AVCDmeMayaCombinationOperator@@
+.?AV?$CDmElementFactory@VCDmeCombinationInputControl@@@@
+.?AV?$CDmElementFactory@VCDmeCombinationDominationRule@@@@
+.?AV?$CDmElementFactory@VCDmeCombinationOperator@@@@
+.?AV?$CDmElementFactory@VCDmeMayaCombinationOperator@@@@
+.?AVCDmeComponent@@
+.?AVCDmeSingleIndexedComponent@@
+.?AV?$CDmElementFactory@VCDmeComponent@@@@
+.?AV?$CDmElementFactory@VCDmeSingleIndexedComponent@@@@
+.?AV?$CDmAbstractElementFactory@VCDmeOperator@@@@
+.?AVCDmeChannel@@
+.?AV?$CDmElementFactory@VCDmeChannel@@@@
+.?AVCDmeRigBaseConstraintOperator@@
+.?AVCDmeConstraintTarget@@
+.?AVCDmeConstraintSlave@@
+.?AVCDmeRigPointConstraintOperator@@
+.?AVCDmeRigOrientConstraintOperator@@
+.?AVCDmeRigAimConstraintOperator@@
+.?AVCDmeRigRotationConstraintOperator@@
+.?AVCDmeRigParentConstraintOperator@@
+.?AVCDmeRigIKConstraintOperator@@
+.?AVCDmeRigSplineConstraintOperator@@
+.?AVCDmeRigTwistSlave@@
+.?AVCDmeRigTwistConstraintOperator@@
+.?AV?$CDmElementFactory@VCDmeConstraintTarget@@@@
+.?AV?$CDmElementFactory@VCDmeConstraintSlave@@@@
+.?AV?$CDmElementFactory@VCDmeRigBaseConstraintOperator@@@@
+.?AV?$CDmElementFactory@VCDmeRigPointConstraintOperator@@@@
+.?AV?$CDmElementFactory@VCDmeRigOrientConstraintOperator@@@@
+.?AV?$CDmElementFactory@VCDmeRigAimConstraintOperator@@@@
+.?AV?$CDmElementFactory@VCDmeRigRotationConstraintOperator@@@@
+.?AV?$CDmElementFactory@VCDmeRigParentConstraintOperator@@@@
+.?AV?$CDmElementFactory@VCDmeRigIKConstraintOperator@@@@
+.?AV?$CDmElementFactory@VCDmeRigTwistSlave@@@@
+.?AV?$CDmElementFactory@VCDmeRigTwistConstraintOperator@@@@
+.?AV?$CDmElementFactory@VCDmeRigSplineConstraintOperator@@@@
+.?AVCDmeTransformControl@@
+.?AV?$CDmElementFactory@VCDmeTransformControl@@@@
+.?AVCDmeAxisSystem@@
+.?AV?$CDmElementFactory@VCDmeAxisSystem@@@@
+.?AVCDmeTransformList@@
+.?AV?$CDmElementFactory@VCDmeTransformList@@@@
+.?AVCDmeLog@@
+.?AVCDmeLogLayer@@
+.?AVCLogLayerSampleData@@
+.?AVCDmeCurveInfo@@
+.?AVCUndoFlattenLayers@@
+.?AV?$CDmeTypedLog@M@@
+.?AV?$CDmeTypedLogLayer@M@@
+.?AV?$CDmeTypedCurveInfo@M@@
+.?AV?$CDmeTypedCurveInfo@VVector@@@@
+.?AV?$CDmeTypedCurveInfo@VQuaternion@@@@
+.?AV?$CDmeTypedLogLayer@VVector@@@@
+.?AV?$CDmeTypedLog@VVector@@@@
+.?AV?$CDmeTypedLogLayer@VQuaternion@@@@
+.?AV?$CDmeTypedLog@VQuaternion@@@@
+.?AV?$CDmeTypedLogLayer@_N@@
+.?AV?$CDmeTypedCurveInfo@_N@@
+.?AV?$CDmeTypedLog@_N@@
+.?AV?$CDmeTypedLogLayer@H@@
+.?AV?$CDmeTypedCurveInfo@H@@
+.?AV?$CDmeTypedLog@H@@
+.?AV?$CDmeTypedLogLayer@VColor@@@@
+.?AV?$CDmeTypedCurveInfo@VColor@@@@
+.?AV?$CDmeTypedLog@VColor@@@@
+.?AV?$CDmeTypedLogLayer@VVMatrix@@@@
+.?AV?$CDmeTypedCurveInfo@VVMatrix@@@@
+.?AV?$CDmeTypedLog@VVMatrix@@@@
+.?AV?$CDmeTypedLogLayer@_K@@
+.?AV?$CDmeTypedCurveInfo@_K@@
+.?AV?$CDmeTypedLog@_K@@
+.?AV?$CDmeTypedLogLayer@E@@
+.?AV?$CDmeTypedCurveInfo@E@@
+.?AV?$CDmeTypedLog@E@@
+.?AV?$CDmeTypedLog@VVector2D@@@@
+.?AV?$CDmeTypedLogLayer@VVector2D@@@@
+.?AV?$CDmeTypedCurveInfo@VVector2D@@@@
+.?AV?$CDmeTypedLog@VVector4D@@@@
+.?AV?$CDmeTypedLogLayer@VVector4D@@@@
+.?AV?$CDmeTypedCurveInfo@VVector4D@@@@
+.?AV?$CDmeTypedLog@VQAngle@@@@
+.?AV?$CDmeTypedLog@VCUtlSymbolLarge@@@@
+.?AV?$CDmeTypedLog@VDmeTime_t@@@@
+.?AV?$CDmeTypedLogLayer@VQAngle@@@@
+.?AV?$CDmeTypedLogLayer@VCUtlSymbolLarge@@@@
+.?AV?$CDmeTypedLogLayer@VDmeTime_t@@@@
+.?AV?$CDmeTypedCurveInfo@VQAngle@@@@
+.?AV?$CDmeTypedCurveInfo@VCUtlSymbolLarge@@@@
+.?AV?$CDmeTypedCurveInfo@VDmeTime_t@@@@
+.?AV?$CDmAbstractElementFactory@VCDmeLogLayer@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@H@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@M@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@_N@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@VColor@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@VVector2D@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@VVector@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@VVector4D@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@VQAngle@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@VQuaternion@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@VVMatrix@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@VCUtlSymbolLarge@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@VDmeTime_t@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@_K@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLogLayer@E@@@@
+.?AV?$CDmAbstractElementFactory@VCDmeCurveInfo@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@H@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@M@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@_N@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@VColor@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@VVector2D@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@VVector@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@VVector4D@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@VQAngle@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@VQuaternion@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@VVMatrix@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@VCUtlSymbolLarge@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@VDmeTime_t@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@_K@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedCurveInfo@E@@@@
+.?AV?$CDmAbstractElementFactory@VCDmeLog@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@H@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@M@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@_N@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@VColor@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@VVector2D@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@VVector@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@VVector4D@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@VQAngle@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@VQuaternion@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@VVMatrix@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@VCUtlSymbolLarge@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@VDmeTime_t@@@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@_K@@@@
+.?AV?$CDmElementFactory@V?$CDmeTypedLog@E@@@@
+.?AV?$CUndoLayerAdded@M@@
+.?AV?$CTypedLogLayerSampleData@M@@
+.?AV?$CTypedLogLayerSampleData@VVector@@@@
+.?AV?$CTypedLogLayerSampleData@VQuaternion@@@@
+.?AV?$CTypedLogLayerSampleData@_N@@
+.?AV?$CTypedLogLayerSampleData@H@@
+.?AV?$CTypedLogLayerSampleData@VColor@@@@
+.?AV?$CTypedLogLayerSampleData@VVMatrix@@@@
+.?AV?$CTypedLogLayerSampleData@_K@@
+.?AV?$CTypedLogLayerSampleData@E@@
+.?AV?$CUndoLayerAdded@VVector@@@@
+.?AV?$CUndoLayerAdded@VVector2D@@@@
+.?AV?$CUndoLayerAdded@VVector4D@@@@
+.?AV?$CUndoLayerAdded@VQuaternion@@@@
+.?AV?$CTypedLogLayerSampleData@VVector2D@@@@
+.?AV?$CTypedLogLayerSampleData@VVector4D@@@@
+.?AV?$CTypedLogLayerSampleData@VQAngle@@@@
+.?AV?$CTypedLogLayerSampleData@VCUtlSymbolLarge@@@@
+.?AV?$CTypedLogLayerSampleData@VDmeTime_t@@@@
+.?AV?$CUndoLayerAdded@H@@
+.?AV?$CUndoLayerAdded@_N@@
+.?AV?$CUndoLayerAdded@VColor@@@@
+.?AV?$CUndoLayerAdded@VQAngle@@@@
+.?AV?$CUndoLayerAdded@VVMatrix@@@@
+.?AV?$CUndoLayerAdded@VCUtlSymbolLarge@@@@
+.?AV?$CUndoLayerAdded@VDmeTime_t@@@@
+.?AV?$CUndoLayerAdded@_K@@
+.?AV?$CUndoLayerAdded@E@@
+.?AVCDmeMakefile@@
+.?AVCDmeSource@@
+.?AV?$CDmElementFactory@VCDmeSource@@@@
+.?AV?$CDmElementFactory@VCDmeMakefile@@@@
+.?AVCDmeExportTags@@
+.?AV?$CDmElementFactory@VCDmeExportTags@@@@
+.?AVCDmeSourceDCCFile@@
+.?AVCDmeSourceMayaFile@@
+.?AVCDmeSourceMayaModelFile@@
+.?AVCDmeSourceMayaAnimationFile@@
+.?AVCDmeSourceXSIFile@@
+.?AVCDmeDCCMakefile@@
+.?AVCDmeMayaMakefile@@
+.?AVCDmeXSIMakefile@@
+.?AVCDmeMayaModelMakefile@@
+.?AVCDmeMayaAnimationMakefile@@
+.?AV?$CDmElementFactory@VCDmeSourceDCCFile@@@@
+.?AV?$CDmElementFactory@VCDmeSourceMayaFile@@@@
+.?AV?$CDmElementFactory@VCDmeSourceMayaModelFile@@@@
+.?AV?$CDmElementFactory@VCDmeSourceMayaAnimationFile@@@@
+.?AV?$CDmElementFactory@VCDmeSourceXSIFile@@@@
+.?AV?$CDmElementFactory@VCDmeDCCMakefile@@@@
+.?AV?$CDmElementFactory@VCDmeMayaMakefile@@@@
+.?AV?$CDmElementFactory@VCDmeMayaModelMakefile@@@@
+.?AV?$CDmElementFactory@VCDmeMayaAnimationMakefile@@@@
+.?AV?$CDmElementFactory@VCDmeXSIMakefile@@@@
+.?AVCDmeAttributeReference@@
+.?AV?$CDmElementFactory@VCDmeAttributeReference@@@@
+.?AVCDmeClip@@
+.?AVCDmeChannelsClip@@
+.?AVCDmeSoundClip@@
+.?AVCDmeFXClip@@
+.?AVCDmeFilmClip@@
+.?AV?$CDmElementFactory@VCDmeClip@@@@
+.?AV?$CDmElementFactory@VCDmeSoundClip@@@@
+.?AV?$CDmElementFactory@VCDmeChannelsClip@@@@
+.?AV?$CDmElementFactory@VCDmeFXClip@@@@
+.?AV?$CDmElementFactory@VCDmeFilmClip@@@@
+.?AVCDmeAnimationSet@@
+.?AVCDmePreset@@
+.?AVCDmeProceduralPresetSettings@@
+.?AVCDmePresetGroup@@
+.?AVCDmePresetGroupInfo@@
+.?AV?$CDmElementFactory@VCDmePreset@@@@
+.?AV?$CDmElementFactory@VCDmeProceduralPresetSettings@@@@
+.?AV?$CDmElementFactory@VCDmePresetGroup@@@@
+.?AV?$CDmElementFactory@VCDmeAnimationSet@@@@
+.?AV?$CDmElementFactory@VCDmePresetGroupInfo@@@@
+.?AVCDmeTimeSelection@@
+.?AV?$CDmElementFactory@VCDmeTimeSelection@@@@
+.?AVCDmeTimeFrame@@
+.?AV?$CDmElementFactory@VCDmeTimeFrame@@@@
+.?AVCDmeBookmark@@
+.?AVCDmeBookmarkSet@@
+.?AV?$CDmElementFactory@VCDmeBookmark@@@@
+.?AV?$CDmElementFactory@VCDmeBookmarkSet@@@@
+.?AVCDmeTrack@@
+.?AV?$CDmElementFactory@VCDmeTrack@@@@
+.?AVCDmeTrackGroup@@
+.?AV?$CDmElementFactory@VCDmeTrackGroup@@@@
+.?AVCDmeSound@@
+.?AVCDmeGameSound@@
+.?AV?$CDmElementFactory@VCDmeSound@@@@
+.?AV?$CDmElementFactory@VCDmeGameSound@@@@
+.?AVCDmeCamera@@
+.?AV?$CDmElementFactory@VCDmeCamera@@@@
+.?AVCDmeConnectionOperator@@
+.?AV?$CDmElementFactory@VCDmeConnectionOperator@@@@
+.?AVCDmeControlGroup@@
+.?AV?$CDmElementFactory@VCDmeControlGroup@@@@
+.?AVCDmePhonemeMapping@@
+.?AV?$CDmElementFactory@VCDmePhonemeMapping@@@@
+.?AVCDmeExpressionOperator@@
+.?AV?$CDmElementFactory@VCDmeExpressionOperator@@@@
+.?AVIConVar@@
+.?AVConCommandBase@@
+.?AVConVar@@
+.?AVIConCommandBaseAccessor@@
+.?AVCDefaultAccessor@@
+.?AVCEmptyConVar@@
+.?AVexception@std@@
+.?AVbad_cast@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVIKeyValuesErrorSpew@@
+.?AVCDefaultKeyValuesErrorSpew@@
+.?AVCUtlCharConversion@@
+.?AVCUtlCStringConversion@@
+.?AVCSchemaInstallCallback@@
+.?AVCP4File@@
+.?AVbad_alloc@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AV__non_rtti_object@std@@
+.?AVbad_typeid@std@@
+.?AVbad_exception@std@@
+.?AVCDmFbxSerializer@@
+.?AV?$CFmtStrN@$0CAAA@$0A@@@
+.?AVCDmeFbxAxisSystem@@
+.?AVFbxAxisSystem@fbxsdk@@
+.?AVIFbxSystem@@
+.?AVCFbxSystem@@
+.?AV?$CBaseAppSystem@VIFbxSystem@@@@
+.?AVCDmeAnimationList@@
+.?AV?$CDmElementFactory@VCDmeAnimationList@@@@
+.?AV?$CFmtStrN@$0BAA@$0A@@@
+.?AV?$CAssetGame@VCItemUploadTF@@@@
+.?AVIAppSystem@@
+.?AVCWorkshopSetup@@
+.?AV?$CTier0AppSystem@VIWorkshopSetup@@@@
+.?AV?$CTier2AppSystem@VIWorkshopSetup@@$0A@@@
+.?AVIWorkshopSetup@@
+.?AV?$CTier1AppSystem@VIWorkshopSetup@@$0A@@@
+.?AVIBaseInterface@@
+.?AV?$CBaseAppSystem@VIWorkshopSetup@@@@
+.?AVCTargetBase@@
+.?AVCWorkshopAsset@@
+.?AVCAsset@@
+.?AVIWorkshopAsset@@
+?bXM`8q
+?v]37:1
+?*!=7FX
+?+uigR5
+?0E/M()
+?f_Fa,N
+?/1u73;
+?d*{3,Z
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+061110000000Z
+311110000000Z0e1
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+Western Cape1
+Durbanville1
+Thawte1
+Thawte Certification1
+Thawte Timestamping CA0
+121221000000Z
+201230235959Z0^1
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+http://ocsp.thawte.com0
+.http://crl.thawte.com/ThawteTimestampingCA.crl0
+TimeStamp-2048-10
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G20
+121018000000Z
+201229235959Z0b1
+Symantec Corporation1402
++Symantec Time Stamping Services Signer - G40
+http://ts-ocsp.ws.symantec.com07
++http://ts-aia.ws.symantec.com/tss-ca-g2.cer0<
++http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(
+TimeStamp-2048-20
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+150925000000Z
+181003120000Z0M1
+Bellevue1
+/http://crl3.digicert.com/sha2-assured-cs-g1.crl05
+/http://crl4.digicert.com/sha2-assured-cs-g1.crl0K
+https://www.digicert.com/CPS0
+http://ocsp.digicert.com0N
+Bhttp://cacerts.digicert.com/DigiCertSHA2AssuredIDCodeSigningCA.crt0
+DigiCert Inc1
+www.digicert.com1$0"
+DigiCert Assured ID Root CA0
+131022120000Z
+281022120000Z0r1
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA0
+http://ocsp.digicert.com0C
+7http://cacerts.digicert.com/DigiCertAssuredIDRootCA.crt0
+4http://crl4.digicert.com/DigiCertAssuredIDRootCA.crl0:
+4http://crl3.digicert.com/DigiCertAssuredIDRootCA.crl0O
+https://www.digicert.com/CPS0
+DigiCert Inc1
+www.digicert.com110/
+(DigiCert SHA2 Assured ID Code Signing CA
+Symantec Corporation100.
+'Symantec Time Stamping Services CA - G2
+160919232525Z0#

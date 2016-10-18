@@ -1,0 +1,1228 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+H)_8H)_0H
+@UVATAVAWH
+ A_A^A\^]
+WATAUAVAWH
+ A_A^A]A\_
+L$XvOff
+@SUVWATAUAVH
+SXD+CXH
+0A^A]A\_^][
+VWATAUAVH
+&@8l$xt
+ A^A]A\_^
+VxH9|$Pt.H
+VxH9|$Pu
+tHH90t&H
+VWATAUAVH
+A^A]A\_^
+L$ SUVWATAUAVH
+`A^A]A\_^][
+d$4tmfff
+c Lcc(Mc
+`A^A]A\_^][
+SUVWATAUAVAWH
+d$@D+c@L9
+WXD+GXH
+A_A^A]A\_^][
+L$ UVWATAUAVAWH
+PA_A^A]A\_^]
+@SVAUAVAWH
+@A_A^A]^[
+@SUVATAUH
+ A]A\^][
+VWATAUAVH
+ A^A]A\_^
+\$ UVATH
+@SVAUAVH
+(A^A]^[
+\$ VATAUH
+|$ ATAUAVH
+ A^A]A\
+|$ ATAUA
+t$(A]A\
+t$ WATAUH
+VATAUAVAWH
+ A_A^A]A\^
+t$ WATAUH
+VATAUAVAWH
+ A_A^A]A\^
+\$@L9\$Xu
+VWAUAVAWH
+PA_A^A]_^
+l$PH9+tYH
+@WATAUAVAWH
+ A_A^A]A\_
+WxH9\$8t
+<;t*fff
+@UVAUAVH
+(A^A]^]
+@SWATAWH
+(A_A\_[
+G H9C t#H
+@SWATAUAWH
+ A_A]A\_[
+@SVWATH
+@SUATAUAVAWH
+A_A^A]A\][
+l$ VWATAVAWH
+A_A^A\_^
+SUVWATAUAVAWH
+(A_A^A]A\_^][
+p UWAVH
+D$@HcD$0
+D$,;D$ 
+D$(9D$8
+D$(H9D$8
+T$|;D$p
+</t<<\t8
+@SVWAUAWH
+t$PD8?u
+ A_A]_^[
+VWATAUAWH
+pA_A]A\_^
+UWATAVAWH
+A_A^A\_]
+\.config
+\$ WATAWH
+|$ ATAVAWH
+ A_A^A\
+@VATAWH
+l$ VWAVH
+\$ UVWATAUAVAWH
+`A_A^A]A\_^]
+VATAUAVAWH
+ A_A^A]A\^
+@VAVAWH
+l$ VATAWH
+@SUVWAVH
+`A^_^][
+UVWATAUAVAWH
+ A_A^A]A\_^]
+SVATAUAVH
+0A^A]A\^[
+&<0r+<9v
+<Ar#<Zv
+SUVWAVAWH
+8A_A^_^][
+\$ UVAWH
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+t$ WATAUAVAWH
+A_A^A]A\_
+\$ UVWH
+@UWATAUH
+(A]A\_]
+ATAVAWH
+0A_A^A\
+SATAUAVH
+8A^A]A\[
+@VATAWH
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAW
+A_A^A]A\_^]
+|$ ATAVAWH
+@A_A^A\
+SUVWAUAVAWH
+`A_A^A]_^][
+l$ VATAWH
+WATAUAVAWH
+@A_A^A]A\_
+UWATAUAVH
+A^A]A\_]
+m@A94$~kL
+A^A]A\_]
+@SVWATAUAWH
+A_A]A\_^[
+USVWAVH
+VATAUAVAWH
+0A_A^A]A\^
+UVWATAUAVAW
+A_A^A]A\_^]
+|$ ATAVAWH
+ A_A^A\
+l$ VATAWH
+UATAUAVAWH
+0A_A^A]A\]
+D9mPt-H
+@VWATAUAWH
+ A_A]A\_^
+@UVATAUH
+(A]A\^]
+t$`9>~bM
+(A]A\^]
+|$ ATAVAWH
+ A_A^A\
+|$ ATAVAWH
+ A_A^A\
+L$ UAVH
+><0ra<9v
+<ArY<Zv
+<arQ,{<
+@VAVAWHcA
+|$8A_A^^
+|$ ATAUAVAW3
+|$@A_A^A]A\
+L$ UVWAVH
+@SWATAVAW
+A_A^A\_[
+WATAUAVAWH
+ A_A^A]A\_
+@UVWATAUAVAWH
+0A_A^A]A\_^]
+ATAUAVAWH
+8A_A^A]A\
+l$ VATAWH
+ATAUAVAWH
+8A_A^A]A\
+@UVAVAWH
+fcttubA
+H9y t(H
+x ATAVAWH
+0A_A^A\
+H SVWAVH
+WATAUAVAWH
+ A_A^A]A\_
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+` AUAVAWH
+0A_A^A]
+fffffff
+@UATAVH
+l$ VAVAWH
+AUAVAWH
+0A_A^A]
+VWATAVAWH
+A_A^A\_^
+ATAVAWH
+ A_A^A\
+L$ USVWH
+L$ UVWATAUAVAWH
+ A_A^A]A\_^]
+L$ USWH
+WATAUAVAWH
+@A_A^A]A\_
+@USVWATAUAVAWH
+xA_A^A]A\_^[]
+t$ WAVAWH
+WATAUAVAWH
+A_A^A]A\_
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+UVWATAUAVAWH
+D$DD9T$X
+|$h+t$D+
+A_A^A]A\_^]
+` AUAVAWH
+t$8Hc0I
+\$0D9=N-
+t$ WATAUAVAWH
+0A_A^A]A\_
+@SUVWATAVAWH
+PA_A^A\_^][
+UVWATAUAVAWH
+G D9d$lu
+A_A^A]A\_^]
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+VWAUAVAWH
+0A_A^A]_^
+WATAUAVAWH
+ A_A^A]A\_
+USVWATAUAVAWH
+XA_A^A]A\_^[]
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+D)\$4A;
+d$4t	fD
+t$\9D$`t
+t$PD8|$8t
+A_A^A]A\_^]
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+p WAVAWH
+SVWATAUAVAWH
+PA_A^A]A\_^[
+ATAVAWH
+ A_A^A\
+WATAUAVAWH
+0A_A^A]A\_
+D9t$htrH
+@USVWATAUAVAWH
+eHA_A^A]A\_^[]
+VWATAVAWH
+ A_A^A\_^
+UVWATAUAVAWH
+9D$LupE
+A_A^A]A\_^]
+t$ WATAUAVAWH
+G 9\$tu
+A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+t#HcL$@H
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+l$ VWAVH
+9\$ ~>L
+@SUVWAVH
+@A^_^][
+x AUAVAWH
+ A_A^A]
+UVWATAUAVAWH
+A_A^A]A\_^]
+t"HcM@H
+0123456789abcdefSignature: 8a477f597d28d172789f06886806bc55
+# This file is a cache directory tag created by fontconfig.
+# For information about cache directory tags, see:
+#       http://www.brynosaurus.com/cachedir/
+FONTCONFIG_USE_MMAP
+-le64.cache-4
+FcCacheTimeValid dir "%s" cache checksum %d dir checksum %d
+FcDirCacheWriteDir dir "%s" file "%s"
+write cache
+Fontconfig error: %s: out of memory
+unwritable
+non-existent
+%s: not cleaning %s cache directory
+%s: cleaning cache directory
+Fontconfig error: %s: allocation failure
+%s: invalid cache file: %s
+%s: %s: missing directory: %s 
+CACHEDIR.TAG
+Created CACHEDIR.TAG at %s
+Unable to create CACHEDIR.TAG at %s
+Fontconfig warning: Directory/file mtime in the future. New fonts may not be detected.
+adding fonts from%s
+Add Subst 
+Fontconfig warning: <name> tag has target="font" in a <match target="pattern">.
+Fontconfig warning: FcPattern object %s does not accept value
+Not adding
+position not on list
+Prepend
+%s list before 
+%s list after 
+FcConfigSubstitute 
+FcConfigSubstitute test 
+No match
+Substitute 
+FcConfigSubstitute edit
+FcConfigSubstitute done
+\etc\fonts
+FONTCONFIG_PATH
+USERPROFILE
+XDG_CACHE_HOME
+\.cache
+XDG_CONFIG_HOME
+XDG_DATA_HOME
+\.local\share
+FONTCONFIG_FILE
+fonts.conf
+ !"#$%&'()*+,-./01234
+789:;<=>?@ABCDEFGHIJKLMNOPQRST
+!#$%&()*+./0123456789;<>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^abcdefghijklmnopqrstuvwxyz{|}~
+charsets %d -> %d leaves %d -> %d
+0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+<unknown>
+[%g %g; %g %g]
+ [marker] 
+ [marker]
+langset (alloc error)
+Null pattern
+Pattern has %d elts (size %d)
+Integer
+CharSet
+LangSet
+AssignReplace
+PrependFirst
+AppendLast
+DeleteAll
+(ignore blanks)
+NotEqual
+LessEqual
+MoreEqual
+Contains
+NotContains
+Listing
+Invalid
+charset
+langset:
+(pattern) 
+(font) 
+ quest 
+ colon 
+pattern 
+not_first 
+Edit %s 
+FontSet %d of %d
+Font %d 
+FC_DEBUG
+FC_DEBUG=%s
+FC_LANG
+LC_CTYPE
+R@	Scanning file %s...
+Final font pattern:
+	Scanning dir %s
+cache scan dir %s
+Fontconfig: Pattern format error: 
+format ended while expecting '%c'
+expected '%c' at %d
+expected identifier at %d
+expected character data at %d
+unparse
+"%{file|basename|cescape}" %{index} "%{-file{%{=unparse|cescape}}}"
+fcmatch
+%{file:-<unknown filename>|basename}: "%{family[0]:-<unknown family>}" "%{style[0]:-<unknown style>}"
+%{?file{%{file}: }}%{-file{%{=unparse}}}
+%{[]family{font(%{family|downcase|delete( )})
+}}%{[]lang{font(:lang=%{lang|downcase|translate(_,-)})
+unknown builtin "%s"
+expected non-negative number at %d
+downcase
+basename
+dirname
+cescape
+shescape
+xmlescape
+translate
+unknown converter "%s"
+()/<>[]{}	
+UTF-16BE
+MACINTOSH
+UTF-16BE
+SJIS-WIN
+Wansung
+UTF-16BE
+ISO-8859-1
+SJIS-WIN
+alltype
+bitstream
+dynalab
+fujitsu
+impress
+larabiefonts
+interleaf
+letraset
+linotype
+macromedia
+monotype
+microsoft
+monotype
+paratype
+Bigelow
+Bitstream
+bitstream
+HanYang System
+hanyang
+International Typeface Corporation
+Linotype
+linotype
+LINOTYPE-HELL
+Microsoft
+microsoft
+Monotype
+monotype
+Tiro Typeworks
+XFree86
+xfree86
+extralight
+ultralight
+regular
+demibold
+semibold
+extrabold
+superbold
+ultrabold
+ultrablack
+superblack
+extrablack
+ultracondensed
+extracondensed
+semicondensed
+condensed
+semiexpanded
+extraexpanded
+ultraexpanded
+expanded
+extended
+oblique
+antiqua
+romansc
+embosed
+dunhill
+MACINTOSH
+UCS-2BE
+UTF-16BE
+ISO-8859-1
+PIXEL_SIZE
+outline
+scalable
+found family (n %2d p %d e %d l 0x%04x) %s
+familylang
+found full   (n %2d p %d e %d l 0x%04x) %s
+fullname
+fullnamelang
+found style  (n %2d p %d e %d l 0x%04x) %s
+stylelang
+using FreeType family "%s"
+using FreeType style "%s"
+using filename for family %s
+postscriptname
+fontversion
+	os2 weight class %d maps to weight %d
+	os2 width class %d maps to width %d
+capability
+	Type1 weight %s maps to %d
+FOUNDRY
+RELATIVE_SETWIDTH
+SETWIDTH_NAME
+	setwidth %s maps to %d
+	Style %s maps to weight %d
+	Style %s maps to width %d
+	Style %s maps to slant %d
+	Style %s maps to decorative %d
+unknown
+foundry
+decorative
+SPACING
+charset
+spacing
+pixelsize
+antialias
+fontformat
+otlayout:
+ttable:Silf 
+complex_ features in this font: %s
+0123456789abcdef
+sha256:
+c:/windows/fonts
+c:/temp
+Fontconfig warning: no <cachedir> elements found. Check configuration.
+Fontconfig warning: adding <cachedir>%s</cachedir>
+\fontconfig
+Fontconfig warning: adding <cachedir prefix="xdg">fontconfig</cachedir>
+Fontconfig error: out of memory
+B 	%B 	%
+B"	dB"	d
+%&'()*+
+-./123456789:;<=
+ !"#%'()*+.01234569;<=8>?@ABCDEFGHIJLMPQSVTUXYZ[\]_`bdefghiklnpqrtuwx{|}~
+$&-/7:KNORW^acjmosyz
+font charset
+%s charset
+%s(%u) 
+Fontconfig warning: ignoring %s: not a valid language tag
+Fontconfig warning: ignoring %s: not a valid region tag
+Checking the existence of %s.orth
+normalized: %s -> %s
+Unable to normalize %s
+FcLangSet 
+ contains 
+	Missing bitmap %s
+	Missing string %s
+ %s: %g 
+Best score
+Font %s:%s matches language %d
+First font 
+hintstyle
+hinting
+verticallayout
+autohint
+globaladvance
+rasterizer
+minspace
+charwidth
+charheight
+embolden
+embeddedbitmap
+lcdfilter
+namelang
+fontfeatures
+prgname
+proportional
+charcell
+hintnone
+hintslight
+hintmedium
+hintfull
+lcdnone
+lcddefault
+lcdlight
+lcdlegacy
+%lg %lg %lg %lg
+%g %g %g %g
+8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
+8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888file
+foundry
+fullname
+pixelsize
+decorative
+fullnamelang
+globaladvance
+hinting
+minspace
+hintstyle
+fontformat
+fontversion
+fontfeatures
+outline
+autohint
+postscriptname
+scalable
+embolden
+antialias
+namelang
+embeddedbitmap
+familylang
+verticallayout
+rasterizer
+charset
+charwidth
+charheight
+lcdfilter
+spacing
+stylelang
+capability
+prgname
+Raw pattern:
+Serialized pattern:
+fffiflffifflstst
+GetFullPathName
+less_eq
+more_eq
+contains
+not_contains
+assign_replace
+prepend
+prepend_first
+append_last
+delete_all
+fontconfig
+fontpattern
+cachedir
+include
+default
+selectfont
+acceptfont
+rejectfont
+pattern
+charset
+langset
+less_eq
+more_eq
+contains
+not_contains
+warning
+Fontconfig %s: "%s", line %d: 
+Fontconfig %s: line %d: 
+Fontconfig %s: 
+FT_Face
+langset
+saw %s, expected %s
+invalid constant used : %s
+out of memory
+mismatching element
+invalid attribute '%s'
+unknown element "%s"
+invalid element in blank
+non-integer rescan
+"%s": not a valid integer
+"%s": not a valid double
+pattern
+default
+invalid name target "%s"
+wrong number of matrix elements
+too many elements in range
+invalid element in range
+invalid range
+"%s" is not known boolean
+invalid character: 0x%04x
+invalid element in charset
+invalid langset: %s
+invalid element in langset
+invalid binding "%s"
+non-family
+binding
+Having multiple <family> in <alias> isn't supported and may not work as expected
+bad alias
+missing family in alias
+CUSTOMFONTDIR
+GetModuleFileName failed
+APPSHAREFONTDIR
+\..\share\fonts
+WINDOWSFONTDIR
+GetSystemWindowsDirectory failed
+empty font directory name ignored
+out of memory; cannot add directory %s
+empty font pattern name ignored
+out of memory; cannot add pattern %s
+WINDOWSTEMPDIR_FONTCONFIG_CACHE
+GetTempPath failed
+fontconfig\cache
+LOCAL_APPDATA_FONTCONFIG_CACHE
+SHGetFolderPathA failed
+\fontconfig\cache
+empty cache directory name ignored
+out of memory; cannot add cache directory %s
+ignore_missing
+deprecated
+invalid test target "%s"
+not_first
+invalid test qual "%s"
+missing test name
+compare
+invalid test compare "%s"
+ignore-blanks
+invalid test ignore-blanks "%s"
+missing test expression
+Having multiple values in <test> isn't supported and may not work as expected
+missing edit name
+invalid edit mode "%s"
+Expression doesn't take any effects for delete and delete_all
+invalid match target "%s"
+<match target="scan"> cannot edit user-defined object "%s"
+invalid match element
+No <test> nor <edit> elements in <match>
+bad font selector
+unknown pattern element %d
+missing pattern element name
+unknown pattern element
+fontconfig
+invalid doctype "%s"
+Cannot open config dir "%s"
+	Scanning config dir %s
+kernel32.dll
+GetSystemWindowsDirectoryA
+shfolder.dll
+SHGetFolderPathA
+	Loading config file %s
+cannot get parse buffer
+failed reading config file
+Cannot load config file "%s"
+Cannot load default config file
+XML_CONTEXT_BYTES
+XML_DTD
+sizeof(XML_LChar)
+sizeof(XML_Char)
+prefix must not be bound to one of the reserved namespace names
+reserved prefix (xmlns) must not be declared or undeclared
+reserved prefix (xml) must not be undeclared or bound to another namespace name
+cannot suspend in external parameter entity
+parsing finished
+parsing aborted
+parser not suspended
+parser suspended
+illegal character(s) in public id
+text declaration not well-formed
+XML declaration not well-formed
+incomplete markup in parameter entity
+must not undeclare prefix
+unbound prefix
+cannot change setting once parsing has begun
+requested feature requires XML_DTD support in Expat
+entity declared in parameter entity
+unexpected parser state - please send a bug report
+document is not standalone
+error in processing external entity reference
+unclosed CDATA section
+encoding specified in XML declaration is incorrect
+unknown encoding
+XML or text declaration not at start of entity
+reference to external entity in attribute
+reference to binary entity
+reference to invalid character number
+asynchronous entity
+recursive entity reference
+undefined entity
+illegal parameter entity reference
+junk after document element
+duplicate attribute
+mismatched tag
+partial character
+unclosed token
+not well-formed (invalid token)
+no element found
+syntax error
+xml=http://www.w3.org/XML/1998/namespace
+http://www.w3.org/XML/1998/namespace
+http://www.w3.org/2000/xmlns/
+ENTITIES
+NMTOKEN
+NMTOKENS
+NOTATION(
+version
+encoding
+standalone
+ISO-8859-1
+US-ASCII
+UTF-16BE
+UTF-16LE
+ATTLIST
+DOCTYPE
+ELEMENT
+ENTITIES
+IMPLIED
+INCLUDE
+NMTOKEN
+NMTOKENS
+NOTATION
+REQUIRED
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+No error
+Operation not permitted
+No such file or directory
+No such process
+Interrupted function call
+Input/output error
+No such device or address
+Arg list too long
+Exec format error
+Bad file descriptor
+No child processes
+Resource temporarily unavailable
+Not enough space
+Permission denied
+Bad address
+Unknown error
+Resource device
+File exists
+Improper link
+No such device
+Not a directory
+Is a directory
+Invalid argument
+Too many open files in system
+Too many open files
+Inappropriate I/O control operation
+File too large
+No space left on device
+Invalid seek
+Read-only file system
+Too many links
+Broken pipe
+Domain error
+Result too large
+Resource deadlock avoided
+Filename too long
+No locks available
+Function not implemented
+Directory not empty
+Illegal byte sequence
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+UTF-16LE
+UNICODE
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+CreateFile2
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+c:\buildslave\pango_win32\build\fontconfig-2.11.1\x64\Release\libfontconfig-1.pdb
+libfontconfig-1.dll
+FcAtomicCreate
+FcAtomicDeleteNew
+FcAtomicDestroy
+FcAtomicLock
+FcAtomicNewFile
+FcAtomicOrigFile
+FcAtomicReplaceOrig
+FcAtomicUnlock
+FcBlanksAdd
+FcBlanksCreate
+FcBlanksDestroy
+FcBlanksIsMember
+FcCacheCopySet
+FcCacheCreateTagFile
+FcCacheDir
+FcCacheNumFont
+FcCacheNumSubdir
+FcCacheSubdir
+FcCharSetAddChar
+FcCharSetCopy
+FcCharSetCount
+FcCharSetCoverage
+FcCharSetCreate
+FcCharSetDestroy
+FcCharSetEqual
+FcCharSetFirstPage
+FcCharSetHasChar
+FcCharSetIntersect
+FcCharSetIntersectCount
+FcCharSetIsSubset
+FcCharSetMerge
+FcCharSetNew
+FcCharSetNextPage
+FcCharSetSubtract
+FcCharSetSubtractCount
+FcCharSetUnion
+FcConfigAppFontAddDir
+FcConfigAppFontAddFile
+FcConfigAppFontClear
+FcConfigBuildFonts
+FcConfigCreate
+FcConfigDestroy
+FcConfigEnableHome
+FcConfigFilename
+FcConfigGetBlanks
+FcConfigGetCache
+FcConfigGetCacheDirs
+FcConfigGetConfigDirs
+FcConfigGetConfigFiles
+FcConfigGetCurrent
+FcConfigGetFontDirs
+FcConfigGetFonts
+FcConfigGetRescanInterval
+FcConfigGetRescanInverval
+FcConfigHome
+FcConfigParseAndLoad
+FcConfigReference
+FcConfigSetCurrent
+FcConfigSetRescanInterval
+FcConfigSetRescanInverval
+FcConfigSubstitute
+FcConfigSubstituteWithPat
+FcConfigUptoDate
+FcDefaultSubstitute
+FcDirCacheClean
+FcDirCacheLoad
+FcDirCacheLoadFile
+FcDirCacheRead
+FcDirCacheUnlink
+FcDirCacheUnload
+FcDirCacheValid
+FcDirSave
+FcDirScan
+FcFileIsDir
+FcFileScan
+FcFontList
+FcFontMatch
+FcFontRenderPrepare
+FcFontSetAdd
+FcFontSetCreate
+FcFontSetDestroy
+FcFontSetList
+FcFontSetMatch
+FcFontSetPrint
+FcFontSetSort
+FcFontSetSortDestroy
+FcFontSort
+FcFreeTypeCharIndex
+FcFreeTypeCharSet
+FcFreeTypeCharSetAndSpacing
+FcFreeTypeQuery
+FcFreeTypeQueryFace
+FcGetLangs
+FcGetVersion
+FcInitBringUptoDate
+FcInitLoadConfig
+FcInitLoadConfigAndFonts
+FcInitReinitialize
+FcLangGetCharSet
+FcLangSetAdd
+FcLangSetCompare
+FcLangSetContains
+FcLangSetCopy
+FcLangSetCreate
+FcLangSetDestroy
+FcLangSetEqual
+FcLangSetGetLangs
+FcLangSetHasLang
+FcLangSetHash
+FcMatrixCopy
+FcMatrixEqual
+FcMatrixMultiply
+FcMatrixRotate
+FcMatrixScale
+FcMatrixShear
+FcNameConstant
+FcNameGetConstant
+FcNameGetObjectType
+FcNameParse
+FcNameRegisterConstants
+FcNameRegisterObjectTypes
+FcNameUnparse
+FcNameUnregisterConstants
+FcNameUnregisterObjectTypes
+FcObjectSetAdd
+FcObjectSetBuild
+FcObjectSetCreate
+FcObjectSetDestroy
+FcObjectSetVaBuild
+FcPatternAdd
+FcPatternAddBool
+FcPatternAddCharSet
+FcPatternAddDouble
+FcPatternAddFTFace
+FcPatternAddInteger
+FcPatternAddLangSet
+FcPatternAddMatrix
+FcPatternAddString
+FcPatternAddWeak
+FcPatternBuild
+FcPatternCreate
+FcPatternDel
+FcPatternDestroy
+FcPatternDuplicate
+FcPatternEqual
+FcPatternEqualSubset
+FcPatternFilter
+FcPatternFormat
+FcPatternGet
+FcPatternGetBool
+FcPatternGetCharSet
+FcPatternGetDouble
+FcPatternGetFTFace
+FcPatternGetInteger
+FcPatternGetLangSet
+FcPatternGetMatrix
+FcPatternGetString
+FcPatternHash
+FcPatternPrint
+FcPatternReference
+FcPatternRemove
+FcPatternVaBuild
+FcStrBasename
+FcStrCmp
+FcStrCmpIgnoreCase
+FcStrCopy
+FcStrCopyFilename
+FcStrDirname
+FcStrDowncase
+FcStrFree
+FcStrListCreate
+FcStrListDone
+FcStrListFirst
+FcStrListNext
+FcStrPlus
+FcStrSetAdd
+FcStrSetAddFilename
+FcStrSetCreate
+FcStrSetDel
+FcStrSetDestroy
+FcStrSetEqual
+FcStrSetMember
+FcStrStr
+FcStrStrIgnoreCase
+FcUcs4ToUtf8
+FcUtf16Len
+FcUtf16ToUcs4
+FcUtf8Len
+FcUtf8ToUcs4
+FcValueDestroy
+FcValueEqual
+FcValuePrint
+FcValueSave
+fontconfig_ft2_new_face_substitute
+FT_New_Face
+FT_Init_FreeType
+FT_Done_FreeType
+FT_Done_Face
+FT_Select_Size
+FT_Load_Glyph
+FT_Get_Glyph_Name
+FT_Get_Postscript_Name
+FT_Select_Charmap
+FT_Get_Char_Index
+FT_Get_First_Char
+FT_Get_Next_Char
+FT_Get_Sfnt_Table
+FT_Load_Sfnt_Table
+FT_Get_Sfnt_Name_Count
+FT_Get_Sfnt_Name
+FT_Has_PS_Glyph_Names
+FT_Get_PS_Font_Info
+FT_Get_X11_Font_Format
+FT_Get_BDF_Property
+libfreetype-6.dll
+InitializeCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+DeleteCriticalSection
+CloseHandle
+MapViewOfFile
+UnmapViewOfFile
+CreateFileMappingA
+GetModuleFileNameA
+GetEnvironmentVariableA
+GetModuleHandleA
+GetLongPathNameA
+GetFullPathNameA
+GetFileAttributesExA
+GetProcAddress
+LoadLibraryA
+GetTempPathA
+GetWindowsDirectoryA
+KERNEL32.dll
+FindClose
+SystemTimeToTzSpecificLocalTime
+FileTimeToSystemTime
+GetLastError
+HeapFree
+HeapAlloc
+AreFileApisANSI
+MultiByteToWideChar
+GetSystemTimeAsFileTime
+HeapReAlloc
+GetStdHandle
+GetFileType
+GetModuleFileNameW
+GetModuleHandleExW
+WriteConsoleW
+SetStdHandle
+IsDebuggerPresent
+IsProcessorFeaturePresent
+GetCommandLineA
+GetCurrentThreadId
+EncodePointer
+DecodePointer
+SetLastError
+FindFirstFileExW
+FindNextFileW
+ExitProcess
+WideCharToMultiByte
+GetProcessHeap
+WriteFile
+CreateDirectoryW
+MoveFileExW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+RtlUnwindEx
+GetConsoleCP
+GetConsoleMode
+OutputDebugStringW
+LoadLibraryExW
+GetDriveTypeW
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+FlushFileBuffers
+ReadFile
+ReadConsoleW
+QueryPerformanceCounter
+GetCurrentProcessId
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+GetTimeZoneInformation
+SetEnvironmentVariableA
+SetFilePointerEx
+FileTimeToLocalFileTime
+GetFileInformationByHandle
+PeekNamedPipe
+GetFullPathNameW
+GetCurrentDirectoryW
+CreateFileW
+GetStringTypeW
+CompareStringW
+LCMapStringW
+HeapSize
+SetEndOfFile
+RemoveDirectoryW
+DeleteFileW
+GetFileAttributesExW
+SetFileAttributesW
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>

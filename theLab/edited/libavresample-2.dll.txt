@@ -1,0 +1,516 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.idata
+@.rodata
+@.reloc
+(t$ [^_
+@SUVATAVAWH
+t.9{ ~WL
+.9{ ~)L
+A_A^A\^][
+@SVWATH
+@SUVWAVH
+@SATAUH
+D;IXt	E
+D;I\t	E
+9S ~ME3
+u-HcC H
+l$ VWATAUAVAWL
+l$PA_A^A]A\_^
+|$ AVAWH
+|$0A_A^
+SUWATAVAWH
+xA_A^A\_][
+[ WATAUAVAWH
+PA_A^A]A\_
+[ WATAUAVAWH
+PA_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+HcD$ E3
+A_A^A]A\_^]
+WATAUAVAWH
+@A_A^A]A\_
+@USVWATAWH
+D$0L9pX
+D$0L9ph
+D$0L9pP
+D$0L9p`
+D$0L9pH
+A_A\_^[]
+t$ WATAUAVAWH
+ A_A^A]A\_
+@SVWAVAWH
+pA_A^_^[
+\$ VAVAW
+\$ UVAUAVAWH
+A_A^A]^]
+l$HD9i0u
+|$hD9kd
+HcK Hcs,
+t$ WAVAWH
+@Lcq$Lcy
+UVWATAUAVAWH
+`LcQ LcY,
+`A_A^A]A\_^]
+l$ VATAUAW
+A_A]A\^
+l$ VATAUAW
+A_A]A\^
+|$ ATAVAW
+HcL$HE+
+|A_A^A\
+|$ AVAW
+IcO,HcD$@L+
+l$ A_A^
+t$ AVAW
+WATAUAVAWD
+oA_A^A]A\_
+|$ ATAUAVAWD
+A_A^A]A\
+t$ WATAWH
+@SATAUH
+JtA9J t
+WATAUAVAWH
+A_A^A]A\_
+fffffff
+D$H9D$ s"
+WATAUAVAWH
+gfffffffH
+A_A^A]A\_
+x AUAVAWH
+@SUVWAVH
+USVWAVH
+WATAUAVAWH
+@A_A^A]A\_
+` AUAVAWH
+t$8Hc0I
+sYHcL$HH
+x ATAVAWH
+< tD<	t@
+ A_A^A\
+H3E H3E
+WATAUAVAWH
+A_A^A]A\_
+l$ VWATAVAWH
+T$&@8t$&t9@8r
+A81t@@8r
+A_A^A\_^
+UVWATAUAVAWH
+0A_A^A]A\_^]
+t$ WAVAWH
+ATAVAWH
+ A_A^A\
+@SUVWATAVAWH
+zu|D!t$ E3
+A_A^A\_^][
+t$ WATAUAVAWH
+0A_A^A]A\_
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+A_A^A]A\_
+@UATAUAVAWH
+!t$(H!t$ I
+A_A^A]A\]
+@UATAUAVAWH
+A_A^A]A\]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+;Cu1f9K
+f93t$M;
+L$ SUVWH
+|$ ATAVAWH
+0A_A^A\
+WATAUAVAWH
+0A_A^A]A\_
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+fD9|$bu
+H9L$Ht8H
+UVWATAUAVAWH
+pA_A^A]A\_^]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+|$ UATAUAVAWH
+0A_A^A]A\]
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWATAVAWH
+tcH95-$
+PA_A^A\_^][
+@UATAUAVAWH
+A_A^A]A\]
+AUAVAWH
+0A_A^A]
+|$ ATAVAWH
+ A_A^A\
+s WATAUAVAWH
+9t$P~.8\$vt(H
+9t$P~98\$vt3H
+A_A^A]A\_
+tVf91tQH
+x ATAVAWH
+ A_A^A\
+@SUVWATAVAWH
+A_A^A\_^][
+tSf91tNH
+D;|$0t9
+x ATAVAWH
+ A_A^A\
+@USVWATAVAWH
+tyfD9 tsH
+tHfD9 tB
+@A_A^A\_^[]
+VWATAVAWH
+ A_A^A\_^
+\$ UVWATAUAVAWH
+D9l$dtXH
+HcD$PH;
+A_A^A]A\_^]
+` AUAVAWH
+0A_A^A]
+VWATAVAWH
+ A_A^A\_^
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+!\$0!\$(!\$ L
+UVWATAUAVAWH
+A_A^A]A\_^]
+u"HcMHH
+audio_convert: found function: %-4s to %-4s (%s)
+libavresample/audio_convert.c
+cannot remap packed format during conversion
+AudioData
+invalid channel count: %d
+invalid sample format
+invalid NULL pointer for src[%d]
+{no name}
+libavresample/audio_data.c
+cannot remap packed format during copy
+sample format mismatch
+offset out-of-bounds: src=%d dst=%d
+dst is read-only
+error reallocating dst
+[%d to %d] 
+[%d to any] 
+[any to %d] 
+[any to any] 
+audio_mix: found function: [fmt=%s] [c=%s] %s(%s)
+audio_mix: NO FUNCTION FOUND: [fmt=%s] [c=%s] [%d to %d]
+libavresample/audio_mix.c
+Unsupported internal format for mixing: %s
+error setting mix matrix
+Invalid channel counts
+matrix is not set
+Invalid mix coeff type
+audio_mix: %s to %s
+matrix size: %d x %d
+  (ZERO)
+  (SKIP)
+  %0.3f 
+libavresample/dither.c
+dithering %s to %s is not supported
+sample rate must be 48000 or 44100 Hz for triangular_ns dither. using triangular_hp instead.
+dither s16 buffer
+dither flt buffer
+in_channel_layout
+Input Channel Layout
+in_sample_fmt
+Input Sample Format
+in_sample_rate
+Input Sample Rate
+out_channel_layout
+Output Channel Layout
+out_sample_fmt
+Output Sample Format
+out_sample_rate
+Output Sample Rate
+internal_sample_fmt
+Internal Sample Format
+8-bit unsigned integer
+16-bit signed integer
+32-bit signed integer
+32-bit float
+64-bit double
+8-bit unsigned integer planar
+16-bit signed integer planar
+32-bit signed integer planar
+32-bit float planar
+64-bit double planar
+mix_coeff_type
+Mixing Coefficient Type
+16-bit 8.8 Fixed-Point
+32-bit 17.15 Fixed-Point
+Floating-Point
+center_mix_level
+Center Mix Level
+surround_mix_level
+Surround Mix Level
+lfe_mix_level
+LFE Mix Level
+normalize_mix_level
+Normalize Mix Level
+force_resampling
+Force Resampling
+filter_size
+Resampling Filter Size
+phase_shift
+Resampling Phase Shift
+linear_interp
+Use Linear Interpolation
+Cutoff Frequency Ratio
+resample_cutoff
+matrix_encoding
+Matrixed Stereo Encoding
+Dolby Pro Logic II
+filter_type
+Filter Type
+blackman_nuttall
+Blackman Nuttall Windowed Sinc
+Kaiser Windowed Sinc
+kaiser_beta
+Kaiser Window Beta
+dither_method
+Dither Method
+No Dithering
+rectangular
+Rectangular Dither
+triangular
+Triangular Dither
+triangular_hp
+Triangular Dither With High Pass
+triangular_ns
+Triangular Dither With Noise Shaping
+AVAudioResampleContext
+libavresample/options.c
+libavresample/resample.c
+Unsupported internal format for resampling: %s
+resample buffer
+resample: %s from %d Hz to %d Hz
+Error reallocating resampling buffer
+error reallocating output
+error during resampling
+The resampling context is already open.
+Invalid input channel layout: %llu
+Invalid output channel layout: %llu
+Using %s as internal sample format
+in_buffer
+resample_out_buffer
+out_buffer
+Invalid channel layouts
+libavresample/utils.c
+Invalid input channel layout
+Invalid channel map
+libavresample license: LGPL version 2.1 or later
+--prefix=/c/buildslave/libav_win32/build/dev/build_x86_64 --toolchain=msvc --enable-shared --disable-static --enable-runtime-cpudetect --disable-all --enable-avcodec --enable-avutil --enable-avresample --enable-avformat --enable-swscale --arch=x86_64 --enable-parser=h264 --enable-decoder='aac,h264,vp8,vp9,gif,vorbis' --enable-demuxer='aac,matroska,gif,ogg,mov' --enable-hwaccels --enable-dxva2 --disable-decoder=mpeg1video --disable-decoder=mpeg2video --disable-decoder=vc1 --disable-decoder=h263 --enable-libvpx
+SSE2SLOW
+?UUUUUU
+@^8U)zj
+CorExitProcess
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+Tuesday
+Wednesday
+Thursday
+Saturday
+January
+February
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+_nextafter
+SystemFunction036
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+c:\buildslave\libav_win32\build\dev\libavresample\libavresample-2.pdb
+libavresample-2.dll
+avresample_alloc_context
+avresample_available
+avresample_build_matrix
+avresample_close
+avresample_config
+avresample_configuration
+avresample_convert
+avresample_convert_frame
+avresample_free
+avresample_get_class
+avresample_get_delay
+avresample_get_matrix
+avresample_get_out_samples
+avresample_is_open
+avresample_license
+avresample_open
+avresample_read
+avresample_set_channel_mapping
+avresample_set_compensation
+avresample_set_matrix
+avresample_version
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+avpriv_strtod
+avpriv_snprintf
+av_free
+av_mallocz_tracked
+av_freep
+av_get_sample_fmt_name
+av_get_packed_sample_fmt
+av_get_bytes_per_sample
+av_sample_fmt_is_planar
+av_samples_set_silence
+av_default_item_name
+av_malloc_tracked
+av_samples_get_buffer_size
+av_samples_fill_arrays
+av_samples_alloc
+av_audio_fifo_write
+av_audio_fifo_read
+av_get_channel_layout_string
+av_get_channel_layout_nb_channels
+av_lfg_init
+av_opt_set_defaults
+av_reduce
+av_audio_fifo_size
+av_get_planar_sample_fmt
+av_frame_get_buffer
+av_opt_free
+av_rescale_rnd
+av_audio_fifo_free
+av_audio_fifo_alloc
+av_audio_fifo_drain
+av_get_cpu_flags
+libavutil-54.dll
+GetCommandLineA
+GetCurrentThreadId
+IsDebuggerPresent
+IsProcessorFeaturePresent
+EncodePointer
+GetLastError
+SetLastError
+GetCurrentThread
+DecodePointer
+ExitProcess
+GetModuleHandleExW
+GetProcAddress
+AreFileApisANSI
+MultiByteToWideChar
+WideCharToMultiByte
+GetProcessHeap
+GetStdHandle
+GetFileType
+DeleteCriticalSection
+GetStartupInfoW
+GetModuleFileNameA
+HeapFree
+QueryPerformanceCounter
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+CreateEventW
+GetCurrentProcess
+TerminateProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetTickCount
+GetModuleHandleW
+CreateSemaphoreW
+RtlUnwindEx
+IsValidCodePage
+GetOEMCP
+GetCPInfo
+RaiseException
+EnterCriticalSection
+LeaveCriticalSection
+FatalAppExitA
+WriteFile
+GetModuleFileNameW
+SetConsoleCtrlHandler
+FreeLibrary
+LoadLibraryExW
+HeapAlloc
+HeapReAlloc
+GetStringTypeW
+OutputDebugStringW
+HeapSize
+GetDateFormatW
+GetTimeFormatW
+CompareStringW
+LCMapStringW
+GetLocaleInfoW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+SetStdHandle
+SetFilePointerEx
+WriteConsoleW
+CloseHandle
+CreateFileW
+KERNEL32.dll
